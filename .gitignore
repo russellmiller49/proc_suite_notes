@@ -1,0 +1,15 @@
+# Keep model artifacts and local outputs out of this repo by default
+**/artifacts/**
+**/runs/**
+**/__pycache__/**
+*.py[cod]
+*.onnx
+*.pt
+*.bin
+*.tar.gz
+*.zip
+
+# Optional: if you generate derived outputs alongside raw corpora
+reports/
+outputs/
+

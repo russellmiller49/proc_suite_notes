@@ -1,0 +1,41 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Referred Physician Name]
+
+INDICATION FOR OPERATION The patient is a 47-year-old male who presents with a pleural effusion and complicated effusion. The nature, purpose, risks, benefits, and alternatives to the instillation of agents for fibrinolysis (initial) were discussed with the patient in detail. The patient indicated a wish to proceed with the procedure and informed consent was signed.
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed.
+
+PREOPERATIVE DIAGNOSIS
+
+Pleural Effusion
+
+POSTOPERATIVE DIAGNOSIS
+
+Pleural Effusion
+
+PROCEDURE
+
+Instillation of fibrinolytic agent (tPA/DNase) via chest tube (CPT 32561).
+
+ATTENDING [Attending Name]
+
+SUPPORT STAFF RN: [Name]
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL The patient was assessed, and the existing right-sided chest tube (inserted on 12/15/25) was identified and checked for patency.
+
+Intrapleural Fibrinolysis Application A solution containing 10 mg of tPA and 5 mg of DNase was prepared. The area surrounding the chest tube was prepped. The lytic agents were instilled through the chest tube into the pleural space. This marked Dose #2 of the therapy regimen.
+
+Following instillation, the tube was clamped to allow the medication to dwell according to protocol. The patient was instructed to rotate positions to facilitate distribution of the agent.
+
+IMPRESSION / PLAN
+
+47-year-old male successfully underwent instillation of fibrinolytic agents (tPA/DNase) for complicated pleural effusion.
+
+The patient tolerated the procedure well.
+
+There were no immediate complications.
+
+Disposition: Home.

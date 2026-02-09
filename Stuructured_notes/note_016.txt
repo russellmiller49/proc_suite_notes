@@ -1,0 +1,115 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: Dr. Hudson INDICATION FOR OPERATION The patient is a 33-year-old female who presents with acute respiratory failure (J96.90). The nature, purpose, risks, benefits, and alternatives to Bronchoscopy and Tracheostomy were discussed with the patient's surrogate (mother, Yvette Sese) in detail. The patient was unable to participate in the discussion due to sedation and intubation.
+
+CONSENT Obtained before the procedure. Its indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient's surrogate indicated a wish to proceed, and informed consent was signed. The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+J96.90 Respiratory Failure
+
+POSTOPERATIVE DIAGNOSIS
+
+J96.90 Respiratory Failure
+
+PROCEDURE
+
+31645 Therapeutic aspiration, initial episode
+
+76536 Ultrasound of Neck
+
+ANESTHESIA Moderate Sedation (CPT 99152, 99153):
+
+Start Time: 1543
+
+Stop Time: 1822
+
+Total Time: 159 minutes
+
+Medications Administered:
+
+Versed: 4 mg
+
+Dilaudid: 6 mg
+
+Etomidate: 20 mg
+
+Rocuronium: 63 mg x 2
+
+Propofol: 60 mcg/kg/min
+
+Sedation was administered by the ICU RN. The patient was monitored continuously one-to-one throughout the entire procedure by the attending physician while anesthesia was administered.
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope; Ultrasound.
+
+ESTIMATED BLOOD LOSS Minimal
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location.
+
+Patient Position: Supine
+
+Neck Ultrasound A neck ultrasound was performed to evaluate for any abnormal vessels, masses, or structures at the site of the planned percutaneous tracheostomy.
+
+Findings: No significant vessels or masses were noted overlying the tracheostomy site on examination from the laryngeal prominence to the sternal notch. A high-riding innominate artery was noted just superior to the sternal notch.
+
+Bronchoscopy and Airway Inspection The bronchoscope was introduced through the endotracheal tube (ETT).
+
+ETT: Good position.
+
+Pharynx/Larynx/Vocal Cords: Not assessed due to introduction via ETT.
+
+Trachea: Distal 1/3 normal.
+
+Main Carina: Sharp.
+
+Right Lung: Proximal airways demonstrated normal anatomic branching to the segmental level. No evidence of mass, lesions, or bleeding.
+
+Left Lung: Proximal airways demonstrated normal anatomic branching to the segmental level. No evidence of mass, lesions, or bleeding.
+
+Mucosa: Normal.
+
+Secretions: Copious thick and thin, light yellow secretions/mucus noted throughout.
+
+Therapeutic Intervention Successful therapeutic aspiration was performed to clear mucus from the following segments:
+
+Trachea (Distal 1/3)
+
+Right Mainstem
+
+Bronchus Intermedius
+
+Left Mainstem
+
+Carina
+
+RUL Carina (RC1)
+
+RML Carina (RC2)
+
+LUL Lingula Carina (Lc1)
+
+Left Carina (LC2)
+
+Conclusion The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient's endotracheal tube was removed (following tracheostomy placement by surgery), and the patient was in stable condition.
+
+SPECIMENS
+
+None
+
+IMPRESSION / PLAN
+
+33-year-old female with respiratory failure, underwent bronchoscopy and tracheostomy placement.
+
+Note: See separate documentation from Dr. Hudson for the modified open tracheostomy.
+
+Patient tolerated the procedure well; no complications.
+
+Obtain post-procedure Chest X-Ray.
+
+Anticipate suture removal in ~7 days.
+
+Anticipate trach exchange in ~10 days.

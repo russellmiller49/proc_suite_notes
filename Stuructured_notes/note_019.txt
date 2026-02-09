@@ -1,0 +1,67 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT 
+
+DATE OF PROCEDURE: 9/24/25
+
+
+INDICATION FOR OPERATION: The patient is a 87-year-old male who presents with a complicated effusion. 
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient wished to proceed and informed consent was obtained. 
+
+PREOPERATIVE DIAGNOSIS
+
+Complicated Effusion 
+
+POSTOPERATIVE DIAGNOSIS
+
+Complicated Effusion 
+
+PROCEDURE
+
+Ultrasound, chest (includes mediastinum), real time with image documentation (CPT 76604)
+
+Instillation(s), via chest tube/catheter, agent for fibrinolysis; initial day (CPT 32561)
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure. 
+
+PROCEDURE IN DETAIL After induction of anesthesia (local), a timeout was performed confirming patient identity, planned procedures, and laterality. 
+
+Focused Thoracic Ultrasound Focused thoracic ultrasound was performed and relevant procedural images were saved to the medical record. 
+
+Left Hemithorax:
+
+Pleural Effusion: Minimal volume, anechoic echogenicity, no loculations.
+
+Diaphragm: Normal motion.
+
+Lung/Pleura: Lung sliding present pre- and post-procedure. No consolidation/atelectasis. Pleura appears normal.
+
+Right Hemithorax:
+
+Pleural Effusion: Large volume, anechoic echogenicity, thick loculations.
+
+Diaphragm: Diminished motion.
+
+Lung/Pleura: Pleura appears thick.
+
+Intrapleural Fibrinolysis (Right) The existing right-sided chest tube (inserted 9/24/25) was identified.
+
+Agent Instilled: 10 mg tPA / 5 mg DNase (Dose #1).
+
+Dwell Time: The agents were allowed to dwell for 1 hour.
+
+Drainage: Following the dwell time, drainage was performed using a vacutainer.
+
+Output: 400 cc of bloody fluid was drained.
+
+COMPLICATIONS No immediate complications occurred. 
+
+IMPRESSION / PLAN
+
+Successful chest ultrasound and instillation of fibrinolytic agents for complicated effusion. 
+
+Patient tolerated the procedure well. 
+
+Disposition: Discharge home.
+
+
+Follow-up: Return to pleural clinic in 10-14 days for repeat lytics.

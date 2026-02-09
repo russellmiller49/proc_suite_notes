@@ -1,0 +1,287 @@
+**Prompt 1 (Ultra-telegraphic)**
+```
+71F abnl CT chest. neutropenic fever. bronch w/ ther asp + bilat BAL. mod sed versed 2 fent 75. start 1540 stop 1604. disposable scope. supine. lido 6ml cords. airways normal bilat to subseg. RML fishmouthed but normal mucosa. ther asp mucus plugs LB1/2 LB3 RB1 RB2. BAL RB2 80cc in 15 out. BAL LB1/2 60cc in 15 out. sent cell ct micro cytol. pleural fluid on CT too but didn't tap - 32555 mod 73. bilat mod 50 on the BAL 31624. no comp no EBL. tol well. f/u cultures
+```
+
+**Prompt 2 (Bullet-style jot)**
+```
+- 71 yo F, abnormal CT chest, neutropenic fever
+- consent obtained, discussed risks/benefits/alternatives
+- preop/postop dx: R91.8 nonspecific abnl lung finding
+- procedures: ther aspiration 31645, BAL 31624, planned thoracentesis 32555 but not started (mod 73)
+- bilateral BAL (mod 50) - RUL and LUL for neutropenic fever workup
+- mod sedation 99152, versed 2mg fentanyl 75mcg
+- face to face 1540-1604, 24 min total
+- disposable bronch, supine, 6ml lido to cords
+- airways exam bilat to subseg, RML fishmouthed, mucosa normal
+- ther asp: cleared mucus plugs from LB1/2, LB3, RB1, RB2
+- BAL RB2: 80cc NS in, 15cc back. BAL LB1/2: 60cc in, 15cc back
+- specimens: BAL RUL, BAL LUL - cell count, cultures/viral/fungal, cytology
+- no complications, no blood loss
+- plan: f/u cultures
+```
+
+**Prompt 3 (Conversational/dictation style)**
+```
+Did a bronch on a 71 year old woman with abnormal CT and neutropenic fever. We did therapeutic aspiration and bilateral BAL. Also had pleural fluid on CT so we consented for thoracentesis but ended up not doing it. Moderate sedation with 2 of versed and 75 of fentanyl, started at 3:40pm ended 4:04pm. Used a disposable scope. Patient supine. Put 6 of lido on the cords. Airways looked normal bilaterally down to subsegments. RML was fishmouthed but mucosa was fine. Suctioned out mucus plugs from LB1/2, LB3, RB1 and RB2. BAL'd the RB2 with 80cc got back 15, then BAL'd LB1/2 with 60cc got back 15. Sent everything for cell count, cultures, viral, fungal, and cytology. No complications. Follow up on cultures.
+```
+
+**Prompt 4 (Minimal keywords)**
+```
+71F. abnl CT. neutropenic. bronch. ther asp 31645. BAL 31624 bilat mod50. 32555 not started mod73. R91.8. mod sed. versed 2 fent 75. 1540-1604. disposable. supine. lido 6. normal airways. RML fishmouthed. plugs LB1/2 LB3 RB1 RB2. BAL RB2 80/15. BAL LB1/2 60/15. cell ct micro cytol. no comp. f/u cx
+```
+
+**Prompt 5 (Structured shorthand)**
+```
+pt: 71F abnormal CT chest + neutropenic fever
+dx: R91.8 nonspecific abnl lung field
+procs: therapeutic aspiration (31645), dx BAL (31624), thoracentesis planned but not done (32555-73)
+mods: 50 bilateral on BAL, 73 on thoracentesis
+reason bilat: neutropenic fever, BAL both RUL and LUL to eval for infection vs two processes
+anes: mod sed 99152, versed 2mg, fentanyl 75mcg, 1540-1604, 24min
+scope: disposable
+position: supine
+lido: 6ml to cords
+findings: normal airways to subseg bilat, RML fishmouthed, normal mucosa
+asp: mucus plugs cleared LB1/2 LB3 RB1 RB2
+bal1: RB2 80cc in 15cc out
+bal2: LB1/2 60cc in 15cc out
+labs: cell count, micro (bact/viral/fungal), cytol
+specimens: BAL RUL, BAL LUL
+ebl: none
+comp: none
+plan: f/u cultures
+```
+
+**Prompt 6 (Run-on quick note)**
+```
+71F abnl CT neutropenic fever did bronch with ther asp and bilat BAL also consented for thoracentesis for pleural effusion but didn't end up doing it mod sed versed 2 fent 75 started 1540 stopped 1604 24min disposable scope supine 6ml lido cords normal airways bilat subseg RML fishmouthed mucosa ok suctioned plugs LB1/2 LB3 RB1 RB2 BAL RB2 80in 15out BAL LB1/2 60in 15out sent cell count cx viral fungal cytol no complications no blood loss f/u cx R91.8
+```
+
+**Prompt 7 (With explicit coding focus)**
+```
+71yo female bronch for abnormal CT and neutropenic fever workup
+Codes: 31645 ther asp, 31624 BAL, 32555 thoracentesis
+Modifiers: 50 on 31624 (bilateral BAL RUL + LUL), 73 on 32555 (not started, pt had pleural fluid but we didn't tap)
+Billing justification for bilateral: BAL done in RUL and LUL separately due to neutropenic fever and need to evaluate for infectious etiology or two synchronous processes
+Sedation: 99152 mod sed, versed 2mg fentanyl 75mcg, face to face 15:40-16:04 = 24min
+Disposable bronchoscope, supine, 6ml lidocaine to vocal cords
+Exam normal bilat to subsegmental. RML fishmouthed. Normal mucosa.
+Ther asp cleared plugs from LB1/2 LB3 RB1 RB2
+BAL RB2: instilled 80cc NS returned 15cc
+BAL LB1/2: instilled 60cc NS returned 15cc
+Sent: cell count, micro (cx/viral/fungal), cytology
+Specimens: BAL RUL and BAL LUL
+EBL none, complications none, tolerated well
+Preop/postop dx: R91.8
+Plan: follow up cultures
+```
+
+**Prompt 8 (Voice-memo style)**
+```
+OK so this is a 71 year old lady with an abnormal CT chest and she's neutropenic with fevers. We took her for a bronch. Did therapeutic aspiration and bilateral BAL. We had also planned a thoracentesis because she had some pleural fluid on CT but we ended up not doing that one. Moderate sedation, gave her 2 of versed and 75 of fentanyl. Started sedation at 3:40 stopped at 4:04 so 24 minutes total. Used the disposable scope. She was supine. Squirted 6 mLs of lido on her cords. Everything looked normal down to subsegments on both sides. The RML was fishmouthed but otherwise the mucosa was normal looking. There were mucus plugs in LB1/2, LB3, RB1 and RB2 that we aspirated out. Then we did BAL at RB2, put in 80 cc of saline got back 15. Did another BAL at LB1/2, put in 60 got back 15. Sent it all for cell count, micro including cultures viral and fungal, and cytology. No complications, no bleeding. She did great. Just need to follow up the cultures. Diagnosis is R91.8 both pre and post op.
+```
+
+**Prompt 9 (Tabular shorthand)**
+```
+AGE/SEX: 71F
+INDICATION: abnl CT chest, neutropenic fever
+DX: R91.8 pre and post
+CONSENT: yes
+PROCEDURES/CODES: 31645 ther asp | 31624 BAL | 32555 thoracentesis (not done)
+MODIFIERS: 50 bilat on 31624 | 73 on 32555
+BILAT JUSTIFICATION: BAL RUL + LUL, neutropenic fever, r/o infection or 2 separate processes
+SEDATION: mod sed 99152 | versed 2mg | fent 75mcg | 1540-1604 | 24min
+INSTRUMENT: disposable bronch
+POSITION: supine
+LIDOCAINE: 6ml vocal cords
+AIRWAY EXAM: normal bilat to subseg | RML fishmouthed | mucosa normal
+THER ASP: mucus plugs LB1/2 LB3 RB1 RB2
+BAL #1: RB2 | 80cc in | 15cc out
+BAL #2: LB1/2 | 60cc in | 15cc out
+LABS SENT: cell count, micro (cx viral fungal), cytol
+SPECIMENS: BAL RUL, BAL LUL
+EBL: none
+COMPLICATIONS: none
+PLAN: f/u cultures
+```
+
+**Prompt 10 (Sparse with abbreviations)**
+```
+71F abn CT R91.8 neutropenic FUO
+bronch ther asp BAL bilat
+32555 planned not done mod73
+versed 2 fent 75 mod sed 1540-1604 24m
+disp scope supine lido 6 cords
+nl airways subseg bilat RML fishmouth nl mucosa
+asp plugs LB1/2 LB3 RB1 RB2
+BAL RB2 80/15 LB1/2 60/15
+cc micro cx/vir/fung cytol
+no comp no ebl
+bilat mod50 on BAL - RUL+LUL neutropenic fever 2 processes
+f/u cx
+```
+
+**Prompt 11 (Paragraph narrative)**
+```
+Performed bronchoscopy on a 71-year-old female presenting with abnormal chest CT and neutropenic fevers. Diagnosis R91.8 pre and post. Consent was obtained. Procedures included therapeutic aspiration and diagnostic BAL bilaterally. We had consented for thoracentesis as well given pleural fluid on imaging but this was not started. Moderate sedation with 2mg versed and 75mcg fentanyl, face-to-face time 1540 to 1604 totaling 24 minutes. Disposable bronchoscope used with patient supine. Applied 6mL lidocaine to the vocal cords. Airway inspection normal bilaterally to subsegmental level. RML appeared fishmouthed with otherwise normal mucosa. Therapeutic aspiration performed clearing mucus plugs from LB1/2, LB3, RB1 and RB2. BAL at RB2 with 80cc instilled and 15cc returned. BAL at LB1/2 with 60cc instilled and 15cc returned. Specimens sent for cell count, microbiology including cultures viral and fungal, and cytology. No blood loss or complications. Bilateral modifier on the BAL since we washed both RUL and LUL due to neutropenic fever and concern for infection. Plan to follow up culture results.
+```
+
+**Prompt 12 (Emoji/informal quick note)**
+```
+71F 🫁 abnl CT + neutropenic fever
+bronch → ther asp + BAL x2 (bilateral RUL & LUL)
+also consented thoracentesis but didn't do it (pleural fluid on CT)
+sed: versed 2 / fent 75 / 1540-1604 / 24min
+disposable scope / supine / lido 6ml cords
+airways clean bilat subseg / RML fishmouthed / mucosa ok
+cleared plugs: LB1/2 LB3 RB1 RB2
+BAL RB2: 80→15cc / BAL LB1/2: 60→15cc
+sent: cc, cx/viral/fungal, cytol
+no issues ✅
+codes: 31645 31624-50 32555-73
+dx R91.8
+plan: f/u cx
+```
+
+**Prompt 13 (Problem-oriented)**
+```
+Problem: 71F with abnormal CT chest and neutropenic fevers, need cultures
+What we did: bronch with therapeutic aspiration of mucus plugs (LB1/2 LB3 RB1 RB2) and bilateral BAL (RB2 and LB1/2). Also had planned thoracentesis for pleural effusion seen on CT but did not proceed with it.
+Sedation: moderate, versed 2mg fentanyl 75mcg, 1540-1604, 24 min
+Setup: disposable scope, supine, 6ml lidocaine to cords
+Findings: normal airways bilaterally to subsegmental level, RML fishmouthed, mucosa normal
+BAL details: RB2 80cc in 15cc out, LB1/2 60cc in 15cc out
+Labs: cell count, cultures bacterial viral fungal, cytology
+Specimens: BAL RUL and BAL LUL
+Complications: none, EBL none
+Codes: 31645 31624 with mod 50 bilateral 32555 with mod 73 discontinued
+Dx: R91.8
+Plan: follow up cultures
+```
+
+**Prompt 14 (Copy-paste from text message to colleague style)**
+```
+Just finished the 71F bronch. She had the abnormal CT and neutropenic fever. Did ther asp - she had a bunch of plugs in LB1/2 LB3 RB1 RB2. BAL'd both sides - RB2 got 80 in 15 back, LB1/2 got 60 in 15 back. Bilateral BAL because neutropenic and wanted to cover both lungs for possible infection or two different things going on. Sent everything for cell count cx viral fungal cytol. Didn't end up doing the thoracentesis even though we consented for it. Mod sed versed 2 fent 75, took about 24 min 1540 to 1604. Disposable scope. RML was fishmouthed but otherwise airways normal. No complications. R91.8. Need to follow cultures.
+```
+
+**Prompt 15 (Checklist style)**
+```
+[x] Consent obtained
+[x] Timeout performed
+Patient: 71F, abnormal CT chest, neutropenic fever
+Dx: R91.8 (pre and post)
+Done:
+  [x] 31645 therapeutic aspiration - mucus plugs LB1/2 LB3 RB1 RB2
+  [x] 31624 BAL bilateral (mod 50) - RUL (RB2) 80cc/15cc + LUL (LB1/2) 60cc/15cc
+  [ ] 32555 thoracentesis - not started (mod 73), had pleural fluid on CT
+Bilateral justification: neutropenic fever, BAL both RUL and LUL to r/o infectious etiology or synchronous processes
+Sedation: mod sed 99152, versed 2mg, fentanyl 75mcg, 1540-1604, 24min
+Scope: disposable
+Position: supine
+Lido: 6ml cords
+Exam: normal bilat subseg, RML fishmouthed, mucosa normal
+Labs sent: cell count, micro (cx/viral/fungal), cytology
+EBL: 0
+Complications: 0
+Plan: f/u cx
+```
+
+**Prompt 16 (Fragment/telegram style)**
+```
+71F. Abn CT. Neutropenic. Fevers. Bronch today.
+Ther asp - plugs cleared LB1/2 LB3 RB1 RB2.
+BAL bilat. RB2 80in 15out. LB1/2 60in 15out.
+Thoracentesis consented not done - pleural fluid on CT but didn't tap.
+Mod sed. Versed 2. Fent 75. 1540 to 1604. 24 min.
+Disposable scope. Supine. Lido 6 cords.
+Airways normal subseg bilat. RML fishmouth. Mucosa ok.
+Cell ct. Cx. Viral. Fungal. Cytol. Sent from both BALs.
+No comp. No blood. Tol well.
+R91.8.
+Bilat mod on BAL - two separate lobes for fever workup.
+FU cultures.
+```
+
+**Prompt 17 (Highly organized with headers)**
+```
+PATIENT: 71F abnormal CT chest and neutropenic fever
+DX: R91.8
+
+PROCEDURES PERFORMED:
+- Therapeutic aspiration 31645
+- BAL 31624 - bilateral modifier 50 (RUL + LUL for neutropenic fever workup, concern for infection or two processes)
+- Thoracentesis 32555 - modifier 73 discontinued (pleural fluid on CT, procedure not started)
+
+ANESTHESIA:
+Moderate sedation 99152
+Versed 2mg, Fentanyl 75mcg
+Face to face: 15:40-16:04 = 24 minutes
+
+EQUIPMENT: Disposable bronchoscope
+POSITION: Supine
+TOPICAL: 6mL lidocaine vocal cords
+
+FINDINGS:
+- Airways normal bilateral to subsegmental
+- RML fishmouthed
+- Mucosa normal throughout
+- Mucus plugs LB1/2, LB3, RB1, RB2
+
+INTERVENTIONS:
+- Therapeutic aspiration of mucus plugs LB1/2 LB3 RB1 RB2
+- BAL RB2: 80cc NS instilled, 15cc returned
+- BAL LB1/2: 60cc NS instilled, 15cc returned
+
+SPECIMENS: BAL RUL, BAL LUL → cell count, micro (cx/viral/fungal), cytology
+EBL: None | COMPLICATIONS: None
+PLAN: Follow up cultures
+```
+
+**Prompt 18 (Mixed abbreviation casual)**
+```
+did bronch on 71yo woman w abnl CT & neutropenic fevers today. consent done. preop postop dx R91.8.
+
+ther asp'd some mucus plugs out of LB1/2 LB3 RB1 and RB2. then BAL'd the RB2 with 80 saline got 15 back, and BAL'd the LB1/2 with 60 got 15 back. sent for cc micro cytol. bilateral BAL bc needed to wash both upper lobes given neutropenic fever - could be infection in either or both.
+
+was gonna do a thoracentesis too (32555) bc she had pleural fluid on CT but ended up not doing it - use mod 73.
+
+mod sed w 2 versed 75 fent. face to face 1540-1604, 24 min. disposable bronch. supine. lido 6ml to cords.
+
+airways looked good bilat to subseg. RML fishmouthed but mucosa fine. no comp no ebl. she did well.
+
+plan f/u cx results
+```
+
+**Prompt 19 (Data-entry form style)**
+```
+age: 71 | sex: F | indication: abnormal CT chest, neutropenic fever
+preop_dx: R91.8 | postop_dx: R91.8
+consent: yes
+proc1: 31645 therapeutic aspiration
+proc2: 31624 BAL bilateral
+proc3: 32555 thoracentesis (not performed)
+mod: 50 on 31624, 73 on 32555
+bilat_reason: BAL RUL and LUL separately for neutropenic fever, infectious workup, possible two processes
+sedation_type: moderate 99152
+meds: versed 2mg, fentanyl 75mcg
+sed_start: 15:40 | sed_stop: 16:04 | sed_total: 24min
+instrument: disposable bronchoscope
+position: supine
+topical: lidocaine 6mL vocal cords
+exam: normal bilateral subsegmental, RML fishmouthed, normal mucosa
+asp_sites: LB1/2 LB3 RB1 RB2 (mucus plugs)
+bal1_site: RB2 | bal1_in: 80cc | bal1_out: 15cc
+bal2_site: LB1/2 | bal2_in: 60cc | bal2_out: 15cc
+labs: cell count, micro (cx/viral/fungal), cytology
+specimens: BAL RUL, BAL LUL
+ebl: none | complications: none
+plan: f/u cultures
+```
+
+**Prompt 20 (Hurried post-procedure quick capture)**
+```
+just finished - 71F abnl CT neutropenic. ther asp + bilat BAL. didn't do the thoracentesis (was on consent tho - pleural fluid). versed 2 fent 75. 1540-1604. disp scope. supine. 6 lido. airways ok bilat. RML fishmouthed mucosa fine. plugs in LB1/2 LB3 RB1 RB2 all cleared. BAL RB2 80/15 and LB1/2 60/15. cc micro cytol sent. bilat bc neutropenic fever workup both upper lobes. no prob. R91.8. fup cx. codes 31645 31624-50 32555-73 99152.
+```
+
+---

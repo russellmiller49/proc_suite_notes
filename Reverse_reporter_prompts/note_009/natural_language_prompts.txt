@@ -1,0 +1,272 @@
+**Prompt 1 – Telegraphic shorthand**
+```
+29M airway stenosis. gen anes. flex therapeutic scope. aspiration trachea prox/mid/distal, R mainstem, BI, L mainstem - mucus. BAL RB4/RB5 20cc NS in 10cc back, sent cell count and micro. stent migrated distally - removed BonaStent 14x60 w forceps. significant hair causing obstruction at graft level w mucus trapping - mechanically removed w forceps. gran tissue subglottic - APC 1.5mm pulse 20 effect 2 flow 0.3, 2-3 sec, ablated. airway 60% pre -> 90% post. no complications no EBL. extubated in OR to recovery stable. specimens: bonastent 14x60, BAL RML. plan: critical airway watch overnight, consider CPAP if resp failure, f/u AM w CXR. mod 22 on 31625 and 31640 for hair removal >40% increased work.
+```
+
+**Prompt 2 – Bullet-style quick notes**
+```
+- 29 yo male, airway stenosis
+- general anesthesia, flex therapeutic bronch
+- timeout done
+- airway stable but significant airway pressure, stent migrated distally
+- therapeutic aspiration: trachea (all thirds), R mainstem, BI, L mainstem for mucus
+- BAL: lateral and medial segments RML (RB4, RB5). 20cc NS instilled, 10cc returned. sent for cell count, cultures, viral, fungal
+- foreign body removal: BonaStent 14x60 in distal trachea, removed with forceps
+- hair found causing endobronchial obstruction at graft with mucus trapping. removed mechanically with forceps (excision)
+- granulation tissue subglottic area. APC 1.5mm probe, pulse 20 effect 2 flow 0.3, 2-3 sec bursts, ablated
+- pre-treatment 60% patent, post 90%
+- no complications, no blood loss
+- extubated in OR, stable to recovery
+- specimens: bonastent, BAL from RML
+- plan: critical airway watch, CPAP if needed, CXR in AM
+- modifier 22 applied to 31625 and 31640 for unusual difficulty with hair removal
+```
+
+**Prompt 3 – Narrative paragraph style**
+```
+29 year old guy with airway stenosis. Put him under general, used the therapeutic flex bronch. Airway had significant pressure and the stent had migrated distally. Suctioned out mucus from the whole trachea, both mainstems and the BI. Did a BAL in the RML segments RB4 and RB5, put in 20 of saline got back 10, sent for cell count and cultures. Found the BonaStent 14x60 sitting in the distal trachea as a foreign body, pulled it out with forceps. There was a ton of hair at the graft causing obstruction and trapping mucus, had to mechanically pull all that out with forceps too. Then dealt with granulation tissue in the subglottic area using APC at 1.5mm pulse 20 effect 2 flow 0.3 for a couple seconds each pass. Airway went from 60 to 90 percent patent. No bleeding no complications. Extubated in the OR and sent to recovery in good shape. Keep him on critical airway watch tonight, think about CPAP if he tanks, chest xray in the morning. This was a modifier 22 case - the hair removal made it way more work than usual, apply to the biopsy and excision codes.
+```
+
+**Prompt 4 – Voice-to-text dictation style**
+```
+okay so this is a 29 year old male airway stenosis general anesthesia flexible therapeutic bronchoscope timeout performed airway stable significant airway pressure stent migrated distally did therapeutic aspiration of the trachea all three thirds right mainstem bronchus intermedius and left mainstem all mucus then BAL at RB4 and RB5 in the right middle lobe 20 cc normal saline in got 10 back sent for cell count cultures viral fungal found the bonastent 14 by 60 in the distal trachea removed as foreign body with forceps then found a bunch of hair causing obstruction at the graft level with mucus trapping removed mechanically with forceps then granulation tissue subglottic treated with APC 1.5 millimeter probe pulse 20 effect 2 flow 0.3 for 2 to 3 seconds ablated it airway was 60 percent before now 90 percent no complications no blood loss extubated in OR stable to recovery specimens are the bonastent and BAL from RML plan critical airway watch overnight consider CPAP if respiratory failure follow up in morning with chest xray modifier 22 for the biopsy and excision codes because of the hair removal significantly increased work
+```
+
+**Prompt 5 – Abbreviated table-like format**
+```
+pt: 29M | dx: airway stenosis | anes: general | scope: flex therapeutic
+inspection: airway stable, sig airway pressure, stent migrated distal
+aspiration: trach prox/mid/distal, RMS, BI, LMS - mucus
+BAL: RB4+RB5 | 20cc in / 10cc out | cell count + micro
+FB removal: BonaStent 14x60 distal trachea - forceps
+excision: hair at graft causing obstruction/mucus trap - forceps mechanical removal
+ablation: gran tissue subglottic - APC 1.5mm pulse20 eff2 flow0.3 x2-3sec
+patency: 60% pre / 90% post
+EBL: none | complications: none
+extubated OR -> recovery stable
+spec: bonastent 14x60 + BAL RML
+plan: crit airway watch, CPAP prn, CXR AM
+mod22: 31625+31640 hair removal >40% extra work
+```
+
+**Prompt 6 – Concise clinical shorthand**
+```
+29M stenosis. GA, therapeutic flex bronch. Stent migrated distal. Aspiration prox/mid/distal trachea + RMS + BI + LMS for mucus. BAL RB4/5 20cc NS -> 10cc return, cell ct + cx. FB: BonaStent 14x60 removed forceps from distal trachea. Hair at graft -> endobronchial obstruction + mucus trapping, mech removed forceps. Gran tissue subglottic -> APC 1.5mm P20 E2 F0.3 x2-3s ablated. 60->90% patent. 0 EBL 0 comp. Extub OR stable. Spec: stent + BAL RML. Critical airway watch, CPAP if RF, CXR AM. Mod22 31625/31640.
+```
+
+**Prompt 7 – Conversational handoff style**
+```
+Hey so I just finished this 29 year old with airway stenosis. General anesthesia, flex therapeutic scope. His stent had migrated down into the distal trachea so I pulled that out - it was a BonaStent 14 by 60. Before that I aspirated mucus from the whole trachea and both mainstems plus the BI. Did a lavage in the right middle lobe RB4 and RB5, 20 in 10 back, sent the usual cell count and cultures. The big issue was a ton of hair at the graft site causing obstruction and trapping mucus - spent a lot of time pulling that out mechanically. Then APC'd some granulation tissue in the subglottic region, 1.5mm probe pulse 20 effect 2 flow 0.3 for a couple seconds. Airway opened up from 60 to 90 percent. No complications. He's extubated and in recovery. Put him on critical airway watch tonight, CPAP if he needs it, chest film in the morning. Definitely a modifier 22 case because of all the hair - apply to the biopsy and excision codes.
+```
+
+**Prompt 8 – Structured keywords only**
+```
+age/sex: 29M
+indication: airway stenosis
+anesthesia: general
+instrument: flex therapeutic bronchoscope
+findings: stent migrated distally, significant airway pressure, hair at graft causing obstruction, granulation tissue subglottic
+aspiration sites: trachea x3, RMS, BI, LMS
+BAL site: RB4 RB5
+BAL volume: 20cc in 10cc out
+BAL studies: cell count, cultures, viral, fungal
+foreign body: BonaStent 14x60 distal trachea
+FB removal tool: forceps
+obstruction cause: hair at graft with mucus trapping
+obstruction treatment: mechanical removal forceps
+ablation target: granulation tissue subglottic
+ablation tool: APC 1.5mm
+ablation settings: pulse 20 effect 2 flow 0.3
+ablation duration: 2-3 sec
+ablation result: ablated
+pre patency: 60%
+post patency: 90%
+EBL: none
+complications: none
+disposition: extubated OR to recovery stable
+specimens: BonaStent 14x60, BAL RML
+plan: critical airway watch, consider CPAP, CXR AM
+modifier: 22 on 31625 31640 for hair removal >40% increased work
+```
+
+**Prompt 9 – Run-on quick note**
+```
+29M airway stenosis gen anes flex therap scope stent migrated distal aspirated mucus from entire trachea and both mainstems and BI then BAL'd RML RB4 RB5 20 in 10 back sent cell ct and cultures pulled bonastent 14x60 from distal trachea w forceps tons of hair at graft causing obstruction and mucus trap pulled out mechanically then APC subglottic gran tissue 1.5mm pulse 20 eff 2 flow 0.3 couple secs ablated went from 60 to 90 percent patent no bleeds no comp extub OR stable crit airway watch cpap prn cxr am mod 22 biop and excision codes
+```
+
+**Prompt 10 – Section-labeled with minimal text**
+```
+PATIENT: 29M airway stenosis
+ANES: general
+SCOPE: flex therapeutic
+FINDINGS: stent migrated distally, sig airway pressure
+ASPIRATION: mucus from trachea (all), RMS, BI, LMS
+BAL: RB4+RB5, 20cc NS / 10cc return. Cell count + micro (cx/viral/fungal)
+FB REMOVAL: BonaStent 14x60, distal trachea, forceps
+EXCISION: hair at graft level causing obstruction + mucus trapping, mechanical removal forceps
+ABLATION: APC subglottic gran tissue. 1.5mm, pulse 20, effect 2, flow 0.3, 2-3 sec. Result: ablated
+PATENCY: 60% -> 90%
+EBL/COMP: none/none
+DISPO: extubated OR, stable to recovery
+SPECIMENS: BonaStent, BAL RML
+PLAN: crit airway watch, CPAP if resp failure, CXR AM
+MOD: 22 applied 31625 + 31640, hair removal, >40% increased work
+```
+
+**Prompt 11 – Messy real-time jotting**
+```
+29m stenosis - GA flex therap
+stent moved distal
+suction mucus - trach all 3rds, r main, bi, l main
+bal rb4 rb5 - 20 in 10 out - cell ct + cx
+pulled bonastent 14x60 out of distal trach w forceps
+hair everywhere at graft - blocking airway trapping mucus - pulled out w forceps took forever
+gran tissue subglottic - apc 1.5 pulse20 eff2 flow0.3 2-3s
+60% -> 90%
+no ebl no comp
+extub or -> recovery ok
+spec: stent + bal rml
+crit airway watch / cpap if bad / cxr am
+mod 22 - 31625 31640 - hair was a nightmare >40% more work
+```
+
+**Prompt 12 – Formal dictation style**
+```
+Patient is a 29-year-old male presenting with airway stenosis. Procedure performed under general anesthesia using a flexible therapeutic bronchoscope. On initial inspection the airway was stable with significant airway pressure and the stent was noted to have migrated distally. Therapeutic aspiration was performed in the proximal middle and distal trachea as well as the right mainstem bronchus intermedius and left mainstem to clear mucus. Bronchoalveolar lavage was performed at the lateral and medial segments of the right middle lobe RB4 and RB5 with 20 cc of normal saline instilled and 10 cc returned. Samples were sent for cell count and microbiology including cultures viral and fungal studies. A BonaStent measuring 14 by 60 was identified as a foreign body in the distal trachea and was removed with forceps. A significant amount of hair was found at the graft level causing endobronchial obstruction with mucus trapping and was mechanically removed with forceps. Granulation tissue was identified in the subglottic region and was treated with argon plasma coagulation using a 1.5 mm probe at pulse 20 effect 2 and flow 0.3 for 2 to 3 second applications. The affected airway improved from 60 percent to 90 percent patency. There was no blood loss and no complications. The patient was extubated in the operating room and transported to recovery in stable condition. Specimens include the BonaStent and BAL from the right middle lobe. Plan is for critical airway watch overnight with consideration of CPAP if respiratory failure develops and follow-up chest x-ray in the morning. Modifier 22 applies to the endobronchial biopsy and excision codes due to the hair removal requiring greater than 40 percent increased work.
+```
+
+**Prompt 13 – Emoji/symbol shorthand (mobile style)**
+```
+29M 🫁 stenosis. GA + flex therap scope.
+👁️ stent migrated distal, high airway pressure
+🧹 aspiration: trach x3 + RMS + BI + LMS (mucus)
+💧 BAL RB4/5: 20cc→10cc back. cell ct + cx
+🔧 FB: BonaStent 14x60 out of distal trach w/ forceps
+✂️ hair at graft = obstruction + mucus trap → mech removed forceps
+⚡ APC subglottic gran tissue: 1.5mm P20 E2 F0.3 x2-3s → ablated
+📊 60%→90% patent
+✅ 0 EBL, 0 comp, extub OR → recovery stable
+🧪 spec: stent + BAL RML
+📋 crit airway watch / CPAP prn / CXR AM
+⚠️ mod22: 31625+31640 hair >40% extra work
+```
+
+**Prompt 14 – Question-answer self-prompting style**
+```
+who: 29 yr old male
+what: airway stenosis bronch
+anesthesia: general
+scope: flex therapeutic
+what did you find: stent migrated to distal trachea, lots of hair at graft, gran tissue subglottic
+what did you do for mucus: aspirated trachea all thirds plus both mainstems and BI
+lavage: yes RB4 and RB5 in RML, 20cc saline in 10 back, sent cell count and cultures viral fungal
+stent: pulled the BonaStent 14x60 out with forceps as foreign body
+hair: mechanically removed with forceps, was causing obstruction at graft with mucus trapping
+gran tissue: APC 1.5mm pulse 20 effect 2 flow 0.3 for 2-3 sec, ablated
+how much better: 60 to 90 percent open
+any problems: no, no bleeding either
+after: extubated in OR sent to recovery stable
+specimens: the stent and BAL from RML
+plan: critical airway watch, CPAP if needed, CXR morning
+coding: modifier 22 on biopsy and excision for the hair removal, significantly increased work over 40%
+```
+
+**Prompt 15 – Terse military/SOAP-ish style**
+```
+S: 29M c/o airway stenosis
+O: GA. Flex therap bronch. Stent migrated distal. Sig airway pressure.
+A/P:
+1. Therapeutic aspiration - trach (P/M/D), RMS, BI, LMS - mucus cleared
+2. BAL RB4/RB5 - 20cc NS instilled, 10cc returned - cell ct, cx, viral, fungal
+3. FB removal - BonaStent 14x60 distal trachea - forceps
+4. Excision - hair at graft causing obstruction + mucus trap - mech removal forceps
+5. Ablation - gran tissue subglottic - APC 1.5mm P20 E2 F0.3 2-3s - ablated
+Pre 60% -> Post 90% patent. EBL 0. Comp 0.
+Extub OR -> PACU stable.
+Specimens: BonaStent 14x60, BAL RML.
+Dispo: Crit airway watch. CPAP if RF. CXR AM.
+Mod 22: 31625/31640 - hair removal >40% increased work.
+```
+
+**Prompt 16 – Copy-paste text message to colleague**
+```
+just finished the 29yo stenosis case. stent had migrated into the distal trachea so pulled that bonastent 14x60 out. suctioned a ton of mucus from the whole airway. did a BAL in the RML rb4 and rb5, 20cc in 10 back. the wild part was there was a bunch of hair growing at the graft that was blocking everything and trapping mucus. spent a long time pulling it all out mechanically. also had to APC some granulation tissue subglottic, 1.5mm probe pulse 20 effect 2 flow 0.3. airway went from 60 to 90 percent. no issues. hes extubated and in recovery. going to watch him overnight on critical airway, cpap if he needs it, cxr in the am. definitely modifier 22 on the biopsy and excision codes bc of that hair situation
+```
+
+**Prompt 17 – Numbered procedural steps**
+```
+29M airway stenosis, GA, flex therap scope
+1) inspected - stent migrated distal, significant airway pressure
+2) aspirated mucus - trachea prox/mid/distal + RMS + BI + LMS
+3) BAL at RB4 and RB5 - 20cc NS in, 10cc out - sent cell count + cultures/viral/fungal
+4) removed BonaStent 14x60 from distal trachea with forceps (foreign body)
+5) removed hair at graft level with forceps - was causing endobronchial obstruction and mucus trapping
+6) APC for subglottic granulation tissue - 1.5mm, pulse 20, effect 2, flow 0.3, 2-3 sec - ablated
+patency 60 pre -> 90 post
+EBL none comp none
+extubated OR stable to recovery
+specimens: bonastent + BAL RML
+plan: crit airway watch, cpap prn, cxr am
+mod22 on 31625 and 31640 - hair removal >40% increased work
+```
+
+**Prompt 18 – Mixed abbreviation with parenthetical clarifications**
+```
+29M w/ airway stenosis. GA (general). Flex therapeutic bronch.
+Initial look: stent migrated distal, sig airway pressure.
+Aspiration (therapeutic): mucus from trachea (prox, mid, distal), RMS, BI, LMS.
+BAL: RB4 + RB5 (RML). Instilled 20cc NS, got back 10cc. Sent for cell count + micro (cultures, viral, fungal).
+FB (foreign body): BonaStent 14x60 found distal trachea. Removed w/ forceps.
+Excision: hair at graft site (causing endobronchial obstruction + mucus trapping). Mechanically removed (forceps).
+Ablation: gran tissue (subglottic). APC (1.5mm probe, pulse 20, effect 2, flow 0.3). Applied 2-3 sec. Result: ablated.
+Patency: pre 60%, post 90%.
+EBL: none. Comp: none.
+Dispo: extubated in OR → recovery (stable).
+Spec: BonaStent 14x60 + BAL (RML).
+Plan: crit airway watch o/n, CPAP if resp failure, CXR in AM.
+Coding: mod 22 → 31625 + 31640 (hair removal, >40% increased work).
+```
+
+**Prompt 19 – Sparse outline, memory-jogger style**
+```
+29M stenosis
+GA / flex therap
+stent migrated
+suction everywhere - mucus
+BAL RML rb4 5 / 20/10 / cell ct cx
+bonastent 14x60 out - forceps - FB
+hair at graft - obstruction - forceps out
+APC subglottic gran tissue 1.5 p20 e2 f0.3 2-3s
+60->90
+no ebl no comp
+extub stable
+spec: stent + bal
+crit watch / cpap / cxr
+mod22 31625 31640 hair
+```
+
+**Prompt 20 – Hybrid checklist/narrative**
+```
+Case: 29-year-old male, airway stenosis
+✓ General anesthesia
+✓ Flex therapeutic bronchoscope
+✓ Timeout performed
+
+Findings: airway stable but high pressure, stent migrated distally
+
+Done:
+✓ Therapeutic aspiration — trachea all thirds, right mainstem, BI, left mainstem — cleared mucus
+✓ BAL — RB4 and RB5 in right middle lobe — 20cc NS instilled, 10cc returned — sent cell count and microbiology (cultures viral fungal)
+✓ Foreign body removal — BonaStent 14 x 60 in distal trachea — removed with forceps
+✓ Mechanical excision — hair at graft site causing endobronchial obstruction and mucus trapping — removed with forceps
+✓ APC ablation — subglottic granulation tissue — 1.5mm probe, pulse 20 effect 2 flow 0.3, applied 2-3 sec — successfully ablated
+
+Results: airway 60% patent before treatment, 90% after
+Blood loss: none
+Complications: none
+Extubated in OR, stable to recovery
+
+Specimens: BonaStent 14x60, BAL from RML
+Plan: critical airway watch overnight, CPAP if respiratory failure, chest x-ray in AM
+Modifier 22: applied to 31625 and 31640 — hair removal resulted in >40% increased work intensity and difficulty
+```

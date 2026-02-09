@@ -1,0 +1,68 @@
+**1. Terse/telegraphic**
+> 29M subglottic + tracheal stenosis. flex bronch, therapeutic aspiration, balloon dilation 12/13.5/15, bona stent 14x60 deployed slightly distal, revised 0.5cm prox w forceps, sutured stent to anterior trachea w 2 angiocaths and 2-0 polyene snare technique. granulation tissue subglottis ~15% obstruction bilat. skin graft trachea 9-3 o'clock w hair follicles. sharp carina. mild webbing RUL. no complications. gen anesthesia.
+
+**2. Dictation-style conversational**
+> This is a 29 year old male with subglottic and tracheal stenosis status post tracheal reconstruction. We did a flex bronch with therapeutic aspiration, balloon dilation, placed a bona 14 by 60 stent, had to revise it half a centimeter proximally, then sutured it in place through the anterior trachea using two angiocaths and a snare to secure across 3 struts. Found granulation tissue in the subglottis about 15 percent and skin graft with hair in the trachea. No complications.
+
+**3. Bullet-point shorthand**
+> - 29M, subglottic/tracheal stenosis, s/p tracheal reconstruction
+> - flex therapeutic bronch, GA
+> - aspiration all lobes
+> - granulation subglottis L and R ~15%
+> - skin graft trachea 9-3, hair follicles visible, sutures intact no dehiscence
+> - bona stent 14x60 placed, landed 0.5cm too distal
+> - revised prox w forceps
+> - balloon 12, 13.5, 15 to expand
+> - 14g angiocath x2, 2-0 polyene suture, snare to secure stent 3 struts
+> - no EBL, no complications
+
+**4. Quick voice memo style**
+> Hey so 29 year old guy tracheal stenosis post reconstruction. Did bronch, cleaned everything out, there's granulation tissue in the subglottis maybe 15 percent both sides. Trachea has the skin graft with hair growing in it from 9 to 3. Placed a bona 14x60 stent it went a little distal so we pulled it back half a cm. Ballooned it open then sutured it to the anterior trachea using two angiocaths one anterior one lateral, snared the suture through and tied at skin. Secure across 3 struts. Tolerated well.
+
+**5. Minimal/ultra-short**
+> 29M tracheal stenosis. bronch w aspiration, bona 14x60 stent placed and revised prox 0.5cm, balloon dilated, sutured to ant trachea x2 angiocath snare technique. subglottic granulation 15%. no comp.
+
+**6. Structured shorthand with codes**
+> 31645/31630/31631/31638/31612. 29M subglottic + tracheal stenosis. GA, flex bronch. therapeutic aspiration all segments. subglottic granulation 15% bilat. trachea skin graft 9-3 w hair. bona stent 14x60 deployed slightly distal, revised 0.5cm prox. balloon 12/13.5/15. stent sutured ant trachea 14g angiocath x2, 2-0 polyene, snare, secured 3 struts. no complications no EBL. mod 22 for emergent revision and tracheal flap complexity.
+
+**7. Narrative paragraph**
+> Performed flexible bronchoscopy on a 29 year old male with subglottic and tracheal stenosis following prior tracheal reconstruction. Airway exam showed granulation tissue in the subglottis causing about 15% narrowing on both sides, and a skin graft in the trachea from 9 to 3 o'clock with visible hair follicles and intact sutures. Therapeutically aspirated all segments. Placed a Bona 14 by 60 stent which landed half a centimeter too distal, so revised proximally with forceps. Dilated with 12, 13.5, and 15 mm balloon. Then secured the stent using two 14 gauge angiocatheters through the anterior tracheal wall, passing a 2-0 polyene suture through one and retrieving it through the other with a snare, tying at skin. Stent secured across 3 struts. No complications.
+
+**8. Abbreviation-heavy**
+> 29M SGS/tracheal stenosis s/p trach recon. GA, flex therap bronch. Ther asp all segs. SGS: gran tissue bilat ~15%. Trach: skin graft 9-3 w hair, sutures intact, no dehiscence. Bona 14x60 deployed, 0.5cm distal—revised prox w forceps. Balloon 12/13.5/15 expand. 14g angiocath x2 ant + lat, 2-0 polyene suture + snare, secured 3 struts. RUL mild webbing. Carina sharp. L normal. No comp, no EBL.
+
+**9. Problem-focused format**
+> Problem: 29M with subglottic stenosis and tracheal stenosis after tracheal reconstruction, needs stent placement. What we did: bronch with aspiration, found granulation tissue subglottis 15%, skin graft trachea with hair. Placed bona 14x60, was slightly distal, revised back 0.5cm. Balloon dilated. Sutured stent to trachea with 2 angiocaths and snare technique, 2-0 polyene, 3 struts. Plan: CXR, restart stent hygiene nebs, add lidocaine neb, if needs intubation use 6.0 ETT cuff below cords.
+
+**10. Itemized with findings first**
+> Findings: subglottic granulation bilat 15% soft, trachea skin graft 9-3 with hair follicles, pedunculated tissue around sutures no dehiscence, mild RUL webbing, sharp carina, left normal. Interventions: therapeutic aspiration all lobes, bona stent 14x60 placed revised 0.5 cm prox, balloon 12 13.5 15, stent sutured to anterior trachea via 2 14g angiocaths 2-0 polyene snare across 3 struts. 29M tracheal stenosis. GA. no complications.
+
+**11. Stream of consciousness**
+> ok so 29 yo male subglottic and tracheal stenosis had the reconstruction before. went in with flex bronch general anesthesia. subglottis has granulation on both sides soft tissue about 15 percent obstruction extends maybe 1-2 cm. trachea you can see the skin graft nine to three with actual hair growing in there. sutures look ok no breakdown. suctioned everything out. placed a bona stent fourteen by sixty it sat a little low so pulled it up half a cm with forceps. ballooned it at 12 13.5 and 15. then used an angiocath 14 gauge anteriorly to pass a 2-0 polyene through the stent, second angiocath laterally with a snare to grab the suture and pull it out, tied at skin. got it across 3 struts nice and secure. carina sharp right upper has a little webbing left side all normal. no bleeding no complications.
+
+**12. Copy-forward/template fill style**
+> Patient: 29M. Dx: subglottic stenosis, tracheal stenosis. Procedure: flex bronch, ther aspiration, balloon dilation, stent placement, stent revision, tracheal puncture. Anesthesia: general. Scope: flex therapeutic. Findings: arytenoid nodules, cords normal, subglottic gran 15% bilat, trachea skin graft 9-3 w hair and sutures intact, sharp carina, RUL webbing, left normal. Stent: bona 14x60, revised 0.5cm prox. Balloon: 12/13.5/15. Fixation: 14g angiocath x2, 2-0 polyene, snare, 3 struts. Comp: none. EBL: none.
+
+**13. Action-focused**
+> Did a bronch on 29M with tracheal and subglottic stenosis. Cleaned out secretions from all lobes. Placed jag wire to LLL, removed scope, deployed bona 14x60 stent over wire. It was 0.5cm too distal so revised proximally. Dilated with sequential balloons 12 then 13.5 then 15. Punched 14g angiocath anteriorly, threaded 2-0 polyene into trachea through stent, then second angiocath laterally with snare to retrieve the suture. Tied at skin, secure across 3 struts. Granulation in subglottis 15%. Skin graft with hair in trachea. No issues.
+
+**14. Teaching-style dictation**
+> 29 year old male history of tracheal reconstruction presenting with subglottic and tracheal stenosis. Under general anesthesia performed flexible therapeutic bronchoscopy. On examination the subglottis demonstrated soft granulation tissue bilaterally causing approximately 15 percent obstruction. The trachea showed evidence of prior skin graft from 9 to 3 o'clock position with visible hair follicles and pedunculated tissue at suture sites without dehiscence. After therapeutic aspiration of all segments, a jag wire was placed to the left lower lobe. A Bona 14 by 60 millimeter silicone stent was deployed. The stent position was 0.5 centimeters more distal than desired and was revised proximally using forceps. Sequential balloon dilation at 12, 13.5, and 15 millimeters was performed. The stent was then secured to the anterior tracheal wall using a percutaneous suture technique with two 14 gauge angiocatheters and a 2-0 polyene suture passed via snare, securing across 3 struts. No complications.
+
+**15. Plan-heavy**
+> 29M subglottic/tracheal stenosis s/p reconstruction. Bronch: aspiration, bona 14x60 stent placed revised prox 0.5cm, ballooned, sutured to trachea 2 angiocaths snare 3 struts. Gran tissue subglottis 15%. No comp. Plan: CXR, albuterol 2.5mg nebs + 3% HTS for stent hygiene, 1% lido neb for irritation, may ambulate if tolerating, proximal stent <0.5cm below TVC, if intubation needed 6.0 ETT cuff just below cords to avoid stent migration, may add second suture if further migration.
+
+**16. Mixed shorthand and full sentences**
+> 29M tracheal stenosis post recon. Did flex bronch under GA. Subglottis has gran tissue both sides about 15%. Trachea has skin graft from 9-3 with hair growing, sutures intact. Suctioned everything. Dropped a bona 14x60 stent, landed 0.5cm distal, pulled it back with forceps. Ballooned at 12, 13.5, 15. Sutured stent in with the two-angiocath snare technique, 2-0 polyene, secured 3 struts. Sharp carina, mild RUL webbing, left side normal. No complications no blood loss.
+
+**17. Modifier 22 emphasis**
+> 29M emergent bronch for subglottic + tracheal stenosis s/p tracheal reconstruction with upper airway narrowing. Flex bronch GA. Therapeutic aspiration. Bona stent 14x60 placed, revised 0.5cm prox. Balloon dilation 12/13.5/15. Stent sutured to trachea via 2 14g angiocaths w 2-0 polyene and snare, 3 struts—significantly increased complexity due to tracheal flap requiring suture placement through stent and trachea, 100% increased effort. Subglottic gran 15%, tracheal skin graft w hair. No complications.
+
+**18. Findings-minimal, intervention-heavy**
+> 29M. Bronch, aspiration all lobes, bona 14x60 stent deployed via jag wire to LLL. Stent 0.5cm distal—revised prox forceps. Balloon 12/13.5/15 to expand distally mid and prox. Stent fixation: first 14g angiocath ant tracheal wall, 2-0 polyene passed into trachea through stent, second 14g angiocath lateral wall w snare to grab suture and externalize. Tied at skin across 3 struts. Subglottic gran, tracheal graft noted. No comp.
+
+**19. Q&A/form-fill style**
+> Who: 29M subglottic and tracheal stenosis. What: flex bronch, aspiration, stent, balloon, stent revision, tracheal puncture. Anesthesia: general. Stent: bona 14x60, revised 0.5cm prox. Balloon: 12, 13.5, 15. Fixation: 2x 14g angiocath, 2-0 polyene, snare, 3 struts. Key findings: subglottic gran 15% bilat soft, trachea skin graft 9-3 hair follicles, arytenoid nodules, RUL webbing, sharp carina. Complications: none. Blood loss: none.
+
+**20. Casual dictation with asides**
+> Twenty-nine year old guy, had the tracheal reconstruction, coming back for stenosis. So we scoped him under general, cleaned everything out—moderate thin clear secretions. Subglottis has some granulation both sides, soft, maybe 15 percent. The trachea looks wild honestly, skin graft from 9 to 3 with actual hair growing in it but the sutures are holding and no dehiscence which is good. Placed the bona stent 14 by 60 over a jag wire but it ended up half a centimeter too low so we grabbed it with forceps and pulled it back. Ballooned it open sequentially 12, 13.5, 15. Then the fun part—punched through the anterior trachea with a 14 gauge angiocath, threaded a 2-0 polyene suture through the stent, then punched laterally with another angiocath and used a snare to fish the suture out. Tied it down at the skin, nice and secure across 3 struts. No complications. Plan is CXR, restart nebs with albuterol and hypertonic saline, add some lidocaine neb for comfort, and if he needs intubation use a 6.0 tube and keep the cuff high.

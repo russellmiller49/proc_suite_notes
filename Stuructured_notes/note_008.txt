@@ -1,0 +1,93 @@
+NTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Referred Physician Name]
+
+INDICATION FOR OPERATION The patient is a 29-year-old male who presents with subglottic stenosis and tracheal stenosis. Modifier 22 Declaration: Patient with tracheal reconstruction and subglottic stenosis required an emergent procedure for stent revision due to narrowing of the upper airway. This involved increased technical skill for placing a suture through the stent and trachea due to the tracheal flap. This required increased effort and skill (100% increased effort) due to intensity and mental effort.
+
+CONSENT Obtained before the procedure. The nature, indications, purpose, benefits, risks, potential complications, and alternatives to the procedure were discussed with the patient or surrogate decision-maker in detail. The patient or surrogate decision-maker agreed to proceed with the procedure. The patient or surrogate decision-maker read and signed the provided consent form or provided consent over the phone.
+
+PREOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified
+
+POSTOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified
+
+PROCEDURE
+
+31645 Therapeutic aspiration initial episode
+
+31630 Balloon dilation
+
+31631 Dilate and tracheal stent placement
+
+31638 Revision of tracheal/bronchial stent
+
+31612 Tracheal puncture
+
+ANESTHESIA General Anesthesia
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope.
+
+ESTIMATED BLOOD LOSS None
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location.
+
+Airway Inspection The Flexible Therapeutic Bronchoscope was advanced for airway examination. Endobronchial topical lidocaine was applied to the vocal cords, main carina, right carina 1, and left carina 2. A total of 4 mL of 2% lidocaine was instilled onto the vocal cords.
+
+Larynx: Raised nodules noted on the medial aspects of the arytenoids, likely consistent with irritation.
+
+Vocal Cords: Widely abducted and moving bilaterally.
+
+Subglottis: Granulation tissue noted along the left and right portions; soft but causing approximately 15% obstruction and extending approximately 1-2 cm.
+
+Trachea: The proximal and mid-trachea are abnormal. Evidence of skin graft from the 9 o'clock to 3 o'clock position; hair follicles and longer hair stubbles seen within the airway. Numerous sutures visualized with areas of pedunculated tissue around suture sites. No evidence of dehiscence or necrosis seen.
+
+Main Carina: Sharp.
+
+Right Lung Proximal Airways: Mild webbing of tissue at the RUL take-off.
+
+Left Lung Proximal Airways: Normal anatomic branching to first subsegmental level.
+
+Mucosa: Trachea as described above; more distal airways are normal.
+
+Secretions: Moderate, thin, and clear.
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the trachea, right mainstem bronchus, right upper lobe, bronchus intermedius, right middle lobe, right lower lobe, left mainstem bronchus, left upper lobe, and left lower lobe from mucus. All secretions were suctioned to clear.
+
+Airway Stent Placement A jag wire was introduced into the iGel and advanced to the LLL. The bronchoscope was removed and the jag wire left in place. A Bona stent (14 x 60 mm) was deployed under direct visualization into the trachea.
+
+Stent Revision Following deployment, the stent was noted to be approximately 0.5 cm more distal than desired. Stent revision was performed using forceps to retract the stent 0.5 cm proximally. Following revision, the stent was confirmed to be in the appropriate position.
+
+Balloon Dilation Balloon dilation was performed to expand the stent distally, mid-portion, and proximally. Balloons sized 12 mm, 13.5 mm, and 15 mm were used sequentially.
+
+Tracheal Fixation (Tracheal Puncture) A 14-gauge angiocath was used to puncture the anterior tracheal wall more superiorly. With the stent in appropriate position, the bronchoscope was used to guide a 2.0 polyene suture through the anterior trachea via the angiocath. Using forceps, the suture was grasped and pulled through the trachea and into the stent.
+
+A second 14-gauge angiocath was used to puncture the anterior tracheal wall laterally. A snare was introduced through this angiocatheter into the trachea. The snare was used to retrieve the first suture through the angiocatheter. Both sutures were pulled through the skin and then tied together at the skin. The stent was secured across 3 struts in the trachea.
+
+Conclusion The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the airway device was removed.
+
+SPECIMENS
+
+None
+
+IMPRESSION / PLAN The patient is a 29-year-old male who presents for bronchoscopy for airway evaluation of tracheal stenosis.
+
+Follow-up CXR.
+
+Restart stent hygiene with Albuterol 2.5 mg nebs and 3% hypertonic saline.
+
+Add 1% lidocaine neb to assist with irritation of stent in subglottis.
+
+If able to tolerate the above, consider ambulation.
+
+Note: The proximal end of the stent is <0.5 cm below the true vocal cords.
+
+Intubation Precautions: Should the patient need to be intubated, use a 6.0 ETT and keep the cuff just below the cords to avoid dragging the stent distally with the ETT. The stent is covered and could occlude the airway.
+
+If there is concern for additional migration, will consider the addition of a second suture.

@@ -1,0 +1,72 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+
+DATE OF PROCEDURE: [Date]  INDICATION FOR OPERATION [REDACTED] is a 29-year-old male who presents with airway stenosis. The nature, purpose, risks, benefits, and alternatives to Bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained. 
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional. 
+
+PREOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+POSTOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+PROCEDURE
+
+Therapeutic aspiration (31645)
+
+Bronchoalveolar lavage (BAL) (31624)
+
+Endobronchial Biopsy(s) (31625)
+
+Bronchoscopy with excision (31640)
+
+Destruction of tumor/stenosis by method other than excision (APC) (31641)
+
+Foreign body removal (31635)
+
+Modifier 22: Substantially greater work than normal. This patient required significant airway management and endobronchial hair removal. This resulted in >40% increased work due to increased intensity, technical difficulty of procedure, and physical/mental effort required. 
+
+ANESTHESIA General Anesthesia 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure. 
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope 
+
+ESTIMATED BLOOD LOSS None 
+
+COMPLICATIONS None 
+
+PROCEDURE IN DETAIL After induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality. 
+
+Initial Airway Inspection The airway was noted to be stable but with significant airway pressure. A stent was noted to be migrated distally. 
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Trachea (Proximal 1/3), Trachea (Middle 1/3), Trachea (Distal 1/3), Right Mainstem, Bronchus Intermedius, and Left Mainstem from mucus.
+
+Bronchoalveolar Lavage BAL was performed in the Lateral Segment of RML (RB4) and Medial Segment of RML (RB5) with saline instilled and returned. Instilled 20 cc of NS, suction returned with 10 cc of NS. Samples were sent for Cell Count and Microbiology (Cultures/Viral/Fungal).
+
+Foreign Body Removal A foreign body (stent) was visualized in the distal trachea. The BonaStent (14x60) was removed with forceps.
+
+Excision of Lesion / Obstruction Endobronchial obstruction was noted and excised with mechanical debridement. A significant amount of hair was noted causing endobronchial obstruction at the level of the graft, leading to mucus trapping; these were mechanically removed with forceps.
+
+Endobronchial Tumor Destruction (APC) Endobronchial obstruction at the Subglottic level was treated with APC. Significant granulation tissue was noted and ablated to reduce obstruction using the following settings: 1.5mm probe, Pulse 20 effect 2, flow 0.3, for a duration of 2-3 seconds. Prior to treatment, affected airway was noted to be 60% patent. After treatment, the airway was 90% patent.
+
+The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+SPECIMENS
+
+Bonastent 14x60 
+
+BAL RML 
+
+IMPRESSION / PLAN
+
+[REDACTED] is a 29-year-old male who presents for bronchoscopy for airway stenosis. 
+
+Critical airway watch for overnight. 
+
+Consider CPAP overnight if patient goes into respiratory failure. 
+
+Follow-up in AM with CXR.

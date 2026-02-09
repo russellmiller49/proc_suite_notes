@@ -1,0 +1,90 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] PATIENT: [REDACTED] AGE/SEX: 75-year-old Male INDICATION FOR OPERATION: Patient presents with pleural effusion and lung infiltrates.
+
+CONSENT Obtained before the procedure. Its indications and potential complications and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form or provided consent over the phone. The consent was witnessed by an assisting medical professional. 
+
+PREOPERATIVE DIAGNOSIS
+
+R91.8 Other nonspecific abnormal finding of lung field.
+
+POSTOPERATIVE DIAGNOSIS
+
+R91.8 Other nonspecific abnormal finding of lung field.
+
+PROCEDURE
+
+32555 Thoracentesis with imaging guidance
+
+31645 Therapeutic aspiration, initial episode
+
+31624 Diagnostic bronchoscopy with bronchoalveolar lavage (BAL)
+
+Note: This procedure required greater than 50% of time and effort that was usually needed for a similar procedure (BAL performed in multiple areas).
+
+ANESTHESIA General Anesthesia
+
+MONITORING Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure. 
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope; Thoracentesis Kit.
+
+ESTIMATED BLOOD LOSS None
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL
+
+After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location). 
+
+Thoracic Ultrasound and Thoracentesis Focused thoracic ultrasound was performed. Findings for the Left hemithorax included:
+
+Effusion: Large volume, anechoic echogenicity.
+
+Loculations: None.
+
+Lung: Lung sliding was present pre- and post-procedure; consolidation/atelectasis was present.
+
+
+Diaphragm: Normal motion. 
+
+Based on ultrasound evaluation, thoracentesis was determined to be feasible. The insertion site was prepped and draped in sterile fashion. Local anesthesia was achieved with 7 ml of Lidocaine 1%. Entry was made at the Left 6th Intercostal Space along the Mid-scapular line.
+
+
+Fluid Removed: 1450 ml of serous fluid. 
+
+Drainage: Performed via drainage bag.
+
+Specimens: Samples sent for pH, LDH, Glucose, Total Protein, Cholesterol, Cell Count, Triglycerides, Gram Stain/Culture, AFB, Fungal Culture, and Cytology.
+
+Flexible Bronchoscopy The bronchoscope was introduced, and a survey was performed.
+
+
+Therapeutic Aspiration: Successful therapeutic aspiration was performed to clean out the Left Mainstem from mucus. 
+
+Bronchoalveolar Lavage (BAL) - Lingula: BAL was performed in the Superior Segment of the Lingula (LB4) with saline instilled and returned. Instilled 60 cc of NS, suction returned with 30 cc of NS. 
+
+Bronchoalveolar Lavage (BAL) - LLL: BAL was performed at the Anteromedial Segment of the LLL (Lb7/8). Instilled 60 cc of NS, suction returned with 15 cc of NS. 
+
+Specimens: Samples from lavage were sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology. 
+
+The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition. 
+
+SPECIMENS
+
+Left pleural fluid (Chemistry, Microbiology, Cytology)
+
+BAL - LUL (Superior Segment Lingula)
+
+BAL - LLL (Anteromedial Segment)
+
+IMPRESSION / PLAN
+
+75-year-old male who presents for bronchoscopy for lavage and thoracentesis.
+
+Successful drainage of 1450 ml serous pleural fluid from the left hemithorax.
+
+Successful clearance of mucus from Left Mainstem and BAL of LUL/LLL.
+
+Follow-up BAL and pleural fluid analysis (PFA) results.
+
+Follow-up Chest X-ray (ordered).

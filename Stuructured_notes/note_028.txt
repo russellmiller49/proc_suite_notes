@@ -1,0 +1,63 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
+
+INDICATION FOR OPERATION [REDACTED] is a 30-year-old male who presents with a complicated effusion. The nature, purpose, risks, benefits, and alternatives to Chest Ultrasound and Instillation of agents for fibrinolysis (subsequent) were discussed with the patient in detail.
+
+CONSENT Obtained before the procedure. Its indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form or provided consent over the phone. The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+Complicated Effusion
+
+POSTOPERATIVE DIAGNOSIS
+
+Complicated Effusion
+
+PROCEDURE
+
+Ultrasound, chest (includes mediastinum), real time with image documentation (CPT 76604)
+
+Instillation(s), via chest tube/catheter, agent for fibrinolysis (e.g., fibrinolytic agent for break up of multiloculated effusion); subsequent day (CPT 32562)
+
+ATTENDING [Name]
+
+SUPPORT STAFF RN: [Name]
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL The patient was placed in the supine position.
+
+Focused Thoracic Ultrasound Focused thoracic ultrasound was performed and images were saved.
+
+Hemithorax: Left.
+
+Effusion: Moderate volume.
+
+Echogenicity: Anechoic.
+
+Loculations: Thin loculations identified.
+
+Lung/Pleura: Diaphragmatic motion was normal. Lung sliding was present before the procedure. The pleura appeared normal.
+
+Intrapleural Fibrinolysis The existing left chest tube (inserted 12/29) was identified.
+
+Agent Instilled: tPA 10 mg and DNase 5 mg.
+
+Dosing: This represents Dose #4.
+
+Technique: The agents were instilled via the chest tube.
+
+The patient tolerated the procedure well. There were no immediate complications.
+
+IMPRESSION / PLAN
+
+30-year-old male with complicated effusion underwent chest ultrasound and instillation of fibrinolytic agents (subsequent).
+
+Tube Management: Allow agents to dwell for 1 hour.
+
+Suction: Unclamp and place back on suction -20 cmH2O at 3:00 PM.
+
+Disposition: Return to Nursing Unit.

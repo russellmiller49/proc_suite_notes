@@ -1,0 +1,108 @@
+Procedure report generator
+Custom Gem
+This is for informational purposes only. For medical advice or diagnosis, consult a professional.
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] INDICATION FOR OPERATION [REDACTED] is a 33-year-old female who presents with massive hemoptysis, endobronchial clot causing acute airway obstruction, and worsening of acute respiratory failure.
+
+CONSENT This procedure was emergent. Serial consent was previously obtained before the procedure. The nature, indications, purpose, benefits, risks, potential complications, and alternatives to the procedure were discussed with the patient or surrogate decision-maker in detail. Patient or surrogate decision-maker previously agreed to proceed with the procedure.
+
+PREOPERATIVE DIAGNOSIS
+
+Massive hemoptysis
+
+Acute airway obstruction
+
+POSTOPERATIVE DIAGNOSIS
+
+Massive hemoptysis
+
+Acute airway obstruction
+
+Suspected fungal ball (Aspergilloma) LUL
+
+PROCEDURE
+
+Therapeutic aspiration of tracheobronchial tree (subsequent episodes) (CPT 31646)
+
+Bronchoscopy with cell washing (CPT 31622)
+
+Bronchoscopy with application of Tranexamic Acid (CPT 31899)
+
+Placement of bronchial blocker (CPT 31634)
+
+Foreign body removal (endobronchial clot) (CPT 31635)
+
+NOTE ON PROCEDURAL DIFFICULTY (Modifier 22) This patient was exceptionally critically ill due to acute respiratory failure requiring max ventilator and ECMO support. Patient required extensive therapeutic aspiration and removal of clot using forceps, which required substantially more time, mental/physical effort, and intensity (>100% increased work).
+
+ANESTHESIA Moderate sedation was administered. Medications included Propofol (60 mcg/kg/min), Precedex (1.3 mcg/kg/hr), Fentanyl (250 mcg), and Dilaudid (1 mg).
+
+Start Time: 19:15 PM
+
+Stop Time: 20:00 PM
+
+Total Time: 45 minutes
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope; Disposable Bronchoscope.
+
+ESTIMATED BLOOD LOSS Minimal active bleeding; large amount of organized clot removed.
+
+COMPLICATIONS None.
+
+PROCEDURE IN DETAIL This was an emergency procedure due to rapid clinical decompensation with associated massive hemoptysis and endobronchial clot causing acute airway obstruction. The patient already had a tracheostomy tube (ID 7.5mm) in place.
+
+Airway Inspection The flexible therapeutic bronchoscope was advanced for airway examination. Endobronchial topical lidocaine was applied to the vocal cords, main carina, right carina 1, and left carina 2.
+
+Trachea: Clot extending from the left mainstem bronchus (LMSB) into the distal trachea without obstruction of the right mainstem bronchus (RMSB). Trachea otherwise normal in anatomy.
+
+Right Lung: Evidence of yellow hard debris—likely pieces of fungal ball—noted in RB1. Otherwise normal anatomic branching to the first subsegmental level. No evidence of mass, lesions, or bleeding.
+
+Left Lung: Large clot completely obstructing the LMSB, extending to the main carina. The left upper lobe (LUL) and left lower lobe (LLL) were also completely obstructed by clot.
+
+Mucosa: Mildly friable.
+
+Therapeutic Aspiration and Foreign Body Removal Successful therapeutic aspiration was performed to clear the trachea, RMSB, RUL, bronchus intermedius, RML, RLL, LMSB, LUL, and LLL of blood clot and mucus.
+
+Technique: Endobronchial obstruction due to clot was mechanically excised and removed using bland alligator forceps, therapeutic aspiration utilizing Neptune suction, and numerous cold saline flushes.
+
+Extraction: Able to remove all clot from the LMSB and the majority of the LLL and LB7/8-10. This included a large cast of clot dislodged from the LLL truncus basalis.
+
+Residual Clot: Some partially obstructing clot remained in the LLL superior segment (LB6). The LUL remained largely filled with clot. As the LUL Aspergilloma is the suspected source of the bleed, the LUL clot was intentionally left in place to organize and prevent further bleeding.
+
+Endobronchial Hemostasis To prevent recurrence of active bleeding, the following medications were instilled into the LUL targeting LB1/2 and LB3:
+
+Epinephrine: 0.4mg
+
+Tranexamic Acid (TXA): 1000mg
+
+Bronchial Blocker Placement A 9Fr Uniblocker was utilized. The ventilator adaptor was attached to the tracheostomy tube. Using a parallel Slim disposable scope via the tracheostomy tube, the bronchial blocker balloon was guided into the distal LMSB under direct visualization.
+
+Position: Secured at 25-26cm at the dark blue securement device.
+
+Inflation Test: Confirmed that 8cc of air was required to adequately inflate the balloon and fully occlude the LMSB.
+
+Status: The balloon was deflated and left in the distal LMSB for emergent use in case of recurrent massive hemoptysis.
+
+Conclusion Residual secretions and saline were suctioned to clear. The patient tolerated the procedure well with no immediate complications. Respiratory status was improved at the conclusion of the operation.
+
+SPECIMENS None.
+
+IMPRESSION / PLAN
+
+Successful therapeutic aspiration and foreign body removal of clot from LMSB and LLL; LUL clot left in situ to tamponade suspected fungal bleeding source.
+
+Bronchial blocker (Uniblocker) placed in distal LMSB, currently deflated.
+
+Post-Procedure Orders:
+
+Nebulized TXA.
+
+Hold all anticoagulation (including heparin gtt).
+
+Maintain sedation to limit coughing.
+
+Continue broad-spectrum antimicrobials.
+
+Follow-up: Tentative plan for repeat bronchoscopy tomorrow for therapeutic aspiration/cryoextraction of clot.

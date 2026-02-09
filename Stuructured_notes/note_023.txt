@@ -1,0 +1,59 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+INDICATION FOR OPERATION [REDACTED] is a 74-year-old female who presents with hemoptysis after bronchoscopy. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail.
+
+PREOPERATIVE DIAGNOSIS
+
+Hemoptysis
+
+POSTOPERATIVE DIAGNOSIS
+
+Hemoptysis
+
+PROCEDURE
+
+Therapeutic aspiration initial episode (CPT 31645)
+
+Diagnostic bronchoscopy/cell washing (CPT 31622)
+
+Bronchial blocker exchange and placement
+
+ANESTHESIA Continuous sedation
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Disposable Bronchoscope
+
+ESTIMATED BLOOD LOSS Minimal
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location.
+
+Patient Position: Supine.
+
+Initial Airway Inspection The bronchoscope was introduced into the endotracheal tube (ETT). The ETT was positioned 2 cm above the main carina. The existing bronchial blocker was identified in the right lower lobe (RLL) but was mostly deflated without evidence of spillover into the other segments.
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the left lower lobe (LLL) and left mainstem bronchus (LMSB) from mucus.
+
+Bronchial Blocker Exchange The existing balloon was fully deflated and then removed. A new 7 Fr Arndt bronchial blocker was placed through the existing ETT. The blocker was positioned in the distal bronchus intermedius (BI). The balloon was inflated with 3 mL of air, resulting in occlusion of the BI without occlusion of the right upper lobe (RUL).
+
+During the exchange of the bronchial blocker, there was no increase in blood seen in the RLL lateral segment. This area was not aspirated due to the lack of obvious formed clot.
+
+The bronchoscope was removed. The patient tolerated the procedure well. There were no immediate complications.
+
+SPECIMENS
+
+None
+
+IMPRESSION / PLAN [REDACTED] is a 74-year-old female who presents for bronchoscopy for hemoptysis.
+
+Keep bronchial blocker in place; secured at 40 cm at the connective device.
+
+Maintain ETT at 20 cm at the front tooth.
+
+Stop paralysis.
+
+Once paralysis is not effective, stop fentanyl and repeat bronchoscopy at 15:00 today.
+
+Family updated.

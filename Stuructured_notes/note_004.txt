@@ -1,0 +1,95 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+DATE OF PROCEDURE: [Date] CC REFERRED PHYSICIAN: [Name / Self, Referred]
+
+INDICATION FOR OPERATION
+[Patient Name] is a 71-year-old female who presents with abnormal CT chest findings and neutropenic fever. The procedure is indicated to obtain specimens for cultures to identify the source of fever and to evaluate for infectious etiology or synchronous processes. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient indicated a wish to proceed and informed consent was obtained.
+
+CONSENT
+Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+R91.8 Other nonspecific abnormal finding of lung field 
+
+Neutropenic fever, concern for infectious etiology 
+
+POSTOPERATIVE DIAGNOSIS
+R91.8 Other nonspecific abnormal finding of lung field 
+
+Bilateral mucus plugging 
+
+RML "fishmouthed" airway 
+
+PROCEDURE
+Flexible bronchoscopy with diagnostic bronchial alveolar lavage (BAL) 
+
+Bilateral BAL (RUL and LUL) for infectious workup 
+
+Therapeutic aspiration of mucus plugs (RB1, RB2, LB1/2, LB3) 
+
+Thoracentesis (deferred/not started - CPT 73) 
+
+ATTENDING: [Name] ASSISTANT: [Fellow Name]
+
+SUPPORT STAFF
+
+RN: [Name]
+
+RT: [Name]
+
+ANESTHESIA
+Moderate sedation (99152). Total sedation time: 24 minutes (Start 15:40, Stop 16:04).
+
+Versed: 2 mg
+
+Fentanyl: 75 mcg 
+
+MONITORING
+Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION
+Disposable flexible bronchoscope.
+
+ESTIMATED BLOOD LOSS
+None.
+
+COMPLICATIONS
+None.
+
+PROCEDURE IN DETAIL
+After the successful induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality.
+
+
+Patient Position: Supine 
+
+Initial Airway Inspection: The bronchoscope was introduced via the oral route. 6 mL of 2% lidocaine was applied to the vocal cords for topical anesthesia. The airways were examined to the subsegmental level bilaterally. The RML was noted to be "fishmouthed". Mucosa appeared normal throughout.
+
+Therapeutic Aspiration: Successful therapeutic aspiration was performed to clear mucus plugging from the following segments:
+
+Left Lung: LB1/2 and LB3
+
+Right Lung: RB1 and RB2 
+
+Bronchoalveolar Lavage (BAL):
+
+
+RB2 (Posterior Segment RUL): 80 cc of NS instilled with 15 cc return.
+
+
+LB1/2 (Apical-Posterior Segment LUL): 60 cc of NS instilled with 15 cc return.
+
+Samples were sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
+
+The patient tolerated the procedure well without immediate complications. The bronchoscope was removed.
+
+SPECIMENS
+BAL RUL (RB2) – Cell count, microbiology, cytology
+
+BAL LUL (LB1/2) – Cell count, microbiology, cytology 
+
+IMPRESSION / PLAN
+Bilateral BAL and therapeutic aspiration successfully performed to address mucus plugging and workup for neutropenic fever.
+
+
+Await final pathology and cultures.
+
+Post-procedure monitoring per protocol.

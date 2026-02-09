@@ -1,0 +1,79 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] INDICATION FOR OPERATION [REDACTED] is a 30-year-old male who presents with a pleural effusion. The nature, purpose, risks, benefits, and alternatives to Chest Ultrasound and Chest tube placement were discussed with the patient in detail. The patient indicated a wish to proceed with the procedure and informed consent was signed.
+
+CONSENT Obtained before the procedure. Its indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form or provided consent over the phone. The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+Pleural Effusion
+
+POSTOPERATIVE DIAGNOSIS
+
+Pleural Effusion
+
+PROCEDURE
+
+
+76604: Ultrasound, chest (includes mediastinum), real-time with image documentation.
+
+
+32557: Insert catheter pleura with imaging (chest tube).
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+ANESTHESIA Local anesthesia was achieved with 15 mL of Lidocaine 1%.
+
+COMPLICATIONS None.
+
+PROCEDURE IN DETAIL
+
+Patient Position: Supine.
+
+Focused Thoracic Ultrasound (Pleura & Lung) Focused thoracic ultrasound was performed and the image was saved and printed. Findings were as follows:
+
+Hemithorax: Left.
+
+Pleural Effusion: Large volume; Anechoic echogenicity with thin loculations.
+
+Diaphragmatic Motion: Normal.
+
+Lung: Lung sliding was present before the procedure.
+
+Pleura: Normal.
+
+Pigtail Catheter Placement The insertion site at the Left 4th Intercostal Space (Mid-axillary line) was prepped and draped in sterile fashion.
+
+A 14Fr pigtail catheter was inserted using the Seldinger technique. Entry into the pleural space was confirmed with the easy removal of minimal serous appearing pleural fluid and air bubbles. A guidewire was inserted using the introducer needle pointed in the apical posterior direction. The introducer needle was then removed. A dilator was then inserted over the wire with a twisting motion in order to form a tract for catheter insertion. The dilator was removed and the pigtail catheter (with trochar) was advanced over the guidewire.
+
+The catheter was inserted into the chest until all catheter holes were well within the chest. The guidewire and trochar were then removed. The tube was then attached to the collection drain apparatus (Pleurovac) and secured in place with suture and covered.
+
+Procedure Findings
+
+Fluid Removed: 300 mL of serous fluid.
+
+Suction: No (Water seal).
+
+SPECIMENS The following specimens were sent for analysis:
+
+pH, LDH, Glucose, Total Protein, Cholesterol.
+
+Cell Count.
+
+Gram Stain/Culture, AFB, Fungal Culture.
+
+Cytology.
+
+IMPRESSION / PLAN [REDACTED] is a 30-year-old male who presents for Chest Ultrasound and Chest tube placement on the LEFT. The patient tolerated the procedure well. There were no immediate complications.
+
+Follow-up post-procedure Chest X-ray (ordered).
+
+Follow-up pleural fluid studies.
+
+Keep chest tube to water seal.
+
+Small bore chest tube flushing q8h as per orders.
+
+Daily Chest X-ray while chest tube is in place.
+
+DISPOSITION Nursing Unit.

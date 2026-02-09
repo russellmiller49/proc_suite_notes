@@ -1,0 +1,92 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT 
+
+DATE OF PROCEDURE: [Date]
+
+
+INDICATION FOR OPERATION  [REDACTED] is a 33-year-old female who presents with hemoptysis, airway obstruction, and aspergilloma. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
+
+
+PREOPERATIVE DIAGNOSIS 
+
+Hemoptysis, airway obstruction, aspergilloma
+
+
+POSTOPERATIVE DIAGNOSIS 
+
+Hemoptysis, airway obstruction, aspergilloma
+
+
+PROCEDURE 
+
+Therapeutic aspiration, subsequent episodes (31646)
+
+Therapeutic injection (Amphotericin) (31573)
+
+Destruction of tumor or relief of stenosis by cryotherapy (31641)
+
+Note: Substantially greater work than normal (>100% increased work) due to time, technical difficulty, and physical/mental effort required for removal of organized clot.
+
+Bronchoscopy with application of Tranexamic Acid (31899NFD)
+
+Balloon occlusion / placement of occlusive substance (31634)
+
+
+ANESTHESIA  Moderate sedation (Total time: 124 minutes).
+
+Medications: Versed (10 mg total, 2 mg/hr), Fentanyl (125 mcg total, 150 mcg/hr), Propofol (60 mg/kg/min), Dexmedetomidine (1 mcg/kg/hr), Cisatracurium (7 mg/hr).
+
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+
+INSTRUMENTATION  Disposable Bronchoscope; 1.1mm Cryoprobe; 5 Fr Uniblocker.
+
+
+ESTIMATED BLOOD LOSS Minimal 
+
+
+COMPLICATIONS None 
+
+
+PROCEDURE IN DETAIL After induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
+
+
+Patient position: Supine 
+
+Airway Inspection: The tracheostomy tube was found to be in good position.
+
+Pharynx, Larynx, Vocal Cords: Not assessed due to bronchoscopy introduction through tracheostomy tube.
+
+Trachea: Distal 1/3 normal. Main Carina: Sharp.
+
+Right Lung: Proximal airways demonstrated normal anatomic branching to the segmental level. No evidence of mass, lesions, bleeding, or other endobronchial pathology.
+
+Left Lung: Endobronchial balloon noted at Lingula, LUL, and LB6 with organized clot obscuring evaluation of distal airways. Otherwise, normal anatomic branching to segmental level.
+
+Mucosa/Secretions: Mucosa normal. Secretions were minimal, thin, and clear.
+
+Therapeutic Aspiration & Clot Removal: Successful therapeutic aspiration was performed to clean out the Trachea (Distal 1/3), Right Mainstem, Bronchus Intermedius, Left Mainstem, Carina, RUL Carina (RC1), RML Carina (RC2), LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus, blood, and blood clots. Organized endobronchial clot at the LUL Lingula Carina (Lc1), Left Carina (LC2), and LB6 was treated using a 1.1mm cryoprobe (5-10 second freezes), resulting in excellent clot removal.
+
+Instillation & Occlusion: After organized clot was removed from the LUL, Amphotericin (10mg in 10cc sterile water) was instilled into the LUL proper. The bronchoscope was wedged into the LUL to prevent backflow for 5 minutes. Tranexamic Acid (TXA) 400mg was applied directly into the LUL. Balloon occlusion was performed at the Left Carina (LC2) with a 5 Fr Uniblocker. The blocker was secured at 27.5cm (dark blue securement device), and inflation with 2.5cc of air was confirmed to fully occlude the LUL.
+
+
+IMPRESSION / PLAN 
+
+33-year-old female evaluated for hemoptysis and aspergilloma.
+
+LUL and LB6 airways successfully evacuated of organized clot using a combination of cold saline and cryotherapy.
+
+Amphotericin instilled into LUL; 5 Fr Uniblocker placed and left inflated at the LUL.
+
+Post-procedure Plan:
+
+Obtain post-procedure Chest X-Ray.
+
+Leave Uniblocker in place for 2 hours post-procedure (deflate at 1400 on [Date]).
+
+Plan for repeat bronchoscopy and likely repeat instillation of Amphotericin on [Date].
+
+No immediate complications occurred.

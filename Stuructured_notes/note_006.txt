@@ -1,0 +1,61 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [REDACTED] INDICATION FOR OPERATION [REDACTED] is an 84-year-old female who presents with respiratory failure. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient indicated a wish to proceed with the procedure and informed consent was signed.
+
+CONSENT Obtained before the procedure. Its indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form or provided consent over the phone. The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+J96.90 Respiratory Failure
+
+POSTOPERATIVE DIAGNOSIS
+
+J96.90 Respiratory Failure
+
+PROCEDURE
+
+Therapeutic aspiration (CPT 31645)
+
+Percutaneous Tracheostomy (CPT 31600)
+
+Tracheobronchoscopy via Tracheostomy (CPT 31615)
+
+Ultrasound of Neck (CPT 76536)
+
+ANESTHESIA General Anesthesia
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Disposable Bronchoscope; Percutaneous Tracheostomy Kit; Ultrasound.
+
+ESTIMATED BLOOD LOSS None
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and procedure location.
+
+Neck Ultrasound Neck Ultrasound was performed to evaluate for any abnormal vessels, masses, or structures at the site of the percutaneous tracheostomy. There were no significant vessels or masses noted overlying the tracheostomy site on examination from the laryngeal prominence to the sternal notch.
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Right Mainstem, Bronchus Intermedius, Left Mainstem, Carina, RUL Carina (RC1), RML Carina (RC2), LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus and blood.
+
+Percutaneous Tracheostomy The bronchoscope was retracted into the ETT tube and the ET tube retracted into the subglottic space under direct visualization. The inferior border of the cricoid along with the proximal tracheal rings were visualized. Next, the anterior neck was prepped and draped in the usual sterile fashion. Lidocaine 1% (3 mL) was injected into the anterior neck.
+
+A 1 cm incision was made vertically with a #10 blade down through the subcutaneous tissue, just inferior to the cricoid cartilage. The introducer needle was passed between the 1st and 2nd tracheal rings and into the trachea under direct visualization. This needle was removed, and the introducer catheter over needle was advanced. Next, a J-wire was passed through the catheter, also visualized with the bronchoscope. The site was then dilated using the 14 Fr introducing dilator passed over the wire.
+
+The 14 Fr dilator was then removed from the guide wire and an 8 Fr guiding catheter placed over the guide wire until the safety ridge on the guiding catheter was at skin level. A Portex dilator was placed over the guiding catheter until the positioning mark was visualized via the bronchoscope. The Portex dilator was then removed leaving the guiding catheter and guide wire assembly in place, all under direct visualization bronchoscopically.
+
+Finally, a Portex 7.0 tracheostomy tube with appropriate dilator was introduced over the guiding catheter into the trachea under direct visualization. The dilator, guiding catheter, and J-wire were then removed and the tracheostomy tube left in place.
+
+Tracheobronchoscopy via Tracheostomy Tracheobronchoscopy was performed with insertion of bronchoscope through the tracheostomy to perform airway clearance and confirm tracheostomy position.
+
+Conclusion The Endotracheal tube was then removed and the ventilator connected to the tracheostomy tube. Surgicel was placed preemptively around the tracheostomy site to reduce bleeding. A Lyofoam drain sponge was placed under the tracheostomy tube prior to suturing into place.
+
+The patient tolerated the procedure well. There were no immediate complications. The staff physician was present throughout the entire procedure. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+SPECIMENS None
+
+IMPRESSION / PLAN
+
+84-year-old female presented for bronchoscopy for tracheostomy.
+
+Follow-up in 7 days for tracheostomy change.

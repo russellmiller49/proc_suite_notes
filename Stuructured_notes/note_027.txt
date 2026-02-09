@@ -1,0 +1,70 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+INDICATION FOR OPERATION The patient is a 30-year-old male who presents with a complicated effusion. The nature, purpose, risks, benefits, and alternatives to Chest Ultrasound and Instillation of agents for fibrinolysis (subsequent) were discussed with the patient in detail. The patient indicated a wish to proceed with the procedure and informed consent was signed.
+
+CONSENT Obtained before the procedure. Its indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form (or provided consent over the phone). The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+Complicated Effusion 
+
+POSTOPERATIVE DIAGNOSIS
+
+Complicated Effusion 
+
+PROCEDURE
+
+
+76604: Ultrasound, chest (includes mediastinum), real time with image documentation 
+
+
+32562: Instillation(s), via chest tube/catheter, agent for fibrinolysis (e.g., fibrinolytic agent for break up of multiloculated effusion); subsequent day 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer that was present throughout the entire procedure.
+
+PROCEDURE IN DETAIL
+Focused Thoracic Ultrasound Relevant procedural images were saved to the medical record.
+
+
+Patient Position: Supine 
+
+
+Hemithorax: Left 
+
+
+Pleural Effusion Volume: Moderate 
+
+
+Echogenicity: Anechoic 
+
+
+Loculations: Thin 
+
+
+Diaphragmatic Motion: Normal 
+
+
+Lung Sliding: Present before procedure 
+
+
+Pleura: Normal 
+
+Intrapleural Fibrinolysis Administration The existing chest tube (inserted 12/29) on the left side was identified.
+
+
+Agent Instilled: 10 mg tPA / 5 mg DNase 
+
+
+Dose Number: 4 
+
+COMPLICATIONS None 
+
+IMPRESSION / PLAN
+The patient is a 30-year-old male who presents for Chest Ultrasound and Instillation of agents for fibrinolysis (subsequent).
+
+The patient tolerated the procedure well; there were no immediate complications.
+
+
+Plan: Allow agents to dwell for 1 hour, then unclamp and place back on suction -20cm H2O at 3:00 PM.
+
+
+Disposition: Nursing Unit.

@@ -1,0 +1,65 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Referred Physician Name]
+
+INDICATION FOR OPERATION The patient is a 59-year-old male who presents with lung transplant and airway narrowing. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained. 
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. The consent was signed and witnessed by an assisting medical professional. 
+
+PREOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified
+
+POSTOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified
+
+PROCEDURE
+
+Therapeutic aspiration (initial episode)
+
+Diagnostic bronchoscopy with Bronchoalveolar Lavage (BAL)
+
+Endobronchial Biopsy(s)
+
+ATTENDING [Attending Name]
+
+ASSISTANT [Assistant Name]
+
+SUPPORT STAFF RN: [Name] RT: [Name]
+
+ANESTHESIA General Anesthesia
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure. 
+
+INSTRUMENTATION Disposable Bronchoscope
+
+ESTIMATED BLOOD LOSS None
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality. 
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Right Mainstem, Bronchus Intermedius, and Left Mainstem from mucus. 
+
+Bronchoalveolar Lavage (BAL) BAL was performed in the Lateral Segment of RML (RB4) and Medial Segment of RML (RB5) with saline instilled and returned.  Specimens were submitted. Instilled 60 cc of NS, suction returned with 20 cc of NS. Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology. 
+
+Endobronchial Biopsy Endobronchial biopsies were obtained with hemostasis achieved.  Tissue was submitted for pathology. No immediate bleeding was observed.  Performed at Right Mainstem. Lesion was successfully removed. Samples sent for Microbiology (Cultures/Viral/Fungal) and Pathology. 
+
+The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition. 
+
+SPECIMENS
+
+BAL (RML - RB4/RB5) — Cell Count, Microbiology, Cytology
+
+Endobronchial Biopsy (Right Mainstem) — Microbiology, Pathology
+
+IMPRESSION / PLAN
+
+59-year-old male who presents for bronchoscopy for airway stenosis.
+
+Follow-up BAL performed.
+
+Airway noted to be in good condition.
+
+Plan for repeat bronchoscopy in 4-6 weeks.

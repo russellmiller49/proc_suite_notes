@@ -1,0 +1,75 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT 
+
+
+DATE OF PROCEDURE: [Date] 
+
+
+INDICATION FOR OPERATION [REDACTED] is a 23-year-old female who presents with synovial cell sarcoma requiring airway inspection. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained. 
+
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional. 
+
+
+PREOPERATIVE DIAGNOSIS 
+
+R91.8 Other nonspecific abnormal finding of lung field 
+
+
+POSTOPERATIVE DIAGNOSIS 
+
+R91.8 Other nonspecific abnormal finding of lung field 
+
+
+PROCEDURE 
+
+Diagnostic Bronchoscopy with bronchial washing (CPT 31622)
+
+Moderate Sedation (CPT 99152)
+
+
+ANESTHESIA  Moderate sedation.
+
+Start Time: 09:59
+
+Stop Time: 10:08
+
+Total Time: 9 minutes
+
+Medications Administered: Versed 2 mg; Fentanyl 75 mcg.
+
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure. 
+
+
+INSTRUMENTATION  Disposable Bronchoscope.
+
+
+ESTIMATED BLOOD LOSS None 
+
+
+COMPLICATIONS None 
+
+
+PROCEDURE IN DETAIL After induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality. 
+
+Sedation Assessment The patient was monitored continuously one-to-one throughout the entire procedure by the attending physician while anesthesia was administered.
+
+Airway Inspection and Findings Lidocaine was applied to the vocal cords and airway for topical anesthesia. The mouth and oropharynx were normal appearing. The bronchoscope was advanced, and the airway anatomy was normal appearing to the segmental level bilaterally. The airway was inspected and mucus was suctioned.
+
+Site Inspection The previous biopsy site was inspected and appeared to have healed well.
+
+Conclusion The patient tolerated the procedure well. There were no immediate complications.  At the conclusion of the operation, the patient was transported to the recovery room in stable condition.
+
+
+SPECIMENS 
+
+None
+
+
+IMPRESSION / PLAN 
+
+23-year-old female with synovial cell sarcoma presented for airway inspection. 
+
+Airway anatomy normal to the segmental level; previous biopsy site healed well.
+
+Follow up as needed.

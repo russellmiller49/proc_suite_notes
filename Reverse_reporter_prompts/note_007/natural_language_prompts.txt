@@ -1,0 +1,210 @@
+**Prompt 1 (Terse shorthand)**
+68M persistent airleak. bronch under GA. flex therapeutic and peds scope. aspiration R mainstem, BI, L mainstem - mucus plugs. BAL lingula LB4/LB5 and RB9 60cc NS each 15cc return sent cell count micro cytology. serial occlusion arndt 7fr and fogarty balloon isolated leak to RLL lateral and posterior subsegments. inspiratory hold 30 pleurovac -20. tisseel 2cc RLL posterior subsegment. tried size 7 spiration valve RB10 too big removed. placed size 6 RB9 good position. size 6 RB10 poor position removed replaced with another size 6 better angle. final RB9 size 6 RB10 size 6. airleak significantly decreased. see thistlethwaite for VATS pleurodesis. no complications extubated in OR to recovery stable. specimens BAL x2. fu BAL results and 6 wks valve removal. modifier 22 BAL multiple lobes.
+
+---
+
+**Prompt 2 (Bullet-style quick notes)**
+- 68 yo male, air leak
+- GA, therapeutic flex scope + hybrid peds scope
+- suctioned mucus plugs from RMS, BI, LMS
+- BAL LB4 LB5: 60cc in 15cc back. cell ct, cultures, cyto
+- BAL RB9: same 60/15
+- balloon occlusion w/ arndt 7fr + fogarty → leak at RLL lat + post subseg
+- insp hold 30, pleurovac suction -20cmH2O
+- tisseel 2cc posterior branch RLL subsegment
+- sz7 spiration valve RB10 too large, pulled
+- sz6 valve RB9 good
+- sz6 RB10 bad angle, swapped for new sz6 better position
+- final: RB9 sz6 + RB10 sz6, leak much improved
+- Dr Thistlethwaite doing VATS/pleurodesis
+- no comp, extubated OR, stable to PACU
+- spec: 2 BALs
+- plan: fu BAL, fu 6wk remove valves
+- mod 22 for multi-lobe BAL
+
+---
+
+**Prompt 3 (Voice-dictation style, conversational)**
+Okay so this is a 68 year old guy with a persistent air leak. We did a bronch under general. Used the therapeutic flex scope and the peds hybrid scope. First we aspirated a bunch of mucus and mucus plugs from the right mainstem, bronchus intermedius, and left mainstem. Then did BAL in the lingula, LB4 and LB5, instilled 60 cc of saline got back 15, sent for cell count micro and cytology. Same thing at RB9 in the right lower lobe, 60 in 15 back same labs. Then we did serial occlusion with an Arndt 7 French blocker and a Fogarty balloon and isolated the air leak to the RLL lateral and posterior subsegments. We reproduced the leak with an inspiratory hold at 30 and suction on the pleurovac at negative 20. Used 2 cc of Tisseel to block off a posterior branch subsegment of the RLL. Tried a size 7 spiration valve in RB10 but it was too big so we pulled it. Put a size 6 in RB9 good position. Put a size 6 in RB10 but bad position so we pulled it and put another size 6 in at a better angle. Final is size 6 in RB9 and size 6 in RB10. Air leak significantly decreased. Dr Thistlethwaite did the VATS and pleurodesis see his note. No complications, patient extubated in OR went to recovery stable. Two BAL specimens. Follow up on BAL and 6 weeks for valve removal. Oh and modifier 22 because we did BAL in multiple lobes.
+
+---
+
+**Prompt 4 (Structured fragments)**
+pt: 68M air leak
+anesthesia: general
+scopes: flex therapeutic, flex hybrid peds
+aspiration: RMS, BI, LMS - mucus/plugs
+BAL #1: LB4+LB5 (lingula) 60ccNS→15cc return. cell count/micro/cyto
+BAL #2: RB9 (RLL) 60ccNS→15cc return. cell count/micro/cyto
+occlusion: arndt 7fr blocker + fogarty balloon. serial occlusion. leak isolated RLL lat+post subseg. reproduced with insp hold 30, pleurovac -20cmH2O
+tisseel: 2cc RLL post branch subsegment
+valves: sz7 spiration RB10→too large removed. sz6 RB9→good. sz6 RB10→poor position removed→replaced sz6 better angle
+final valves: RB9 sz6, RB10 sz6
+result: airleak significantly decreased
+concurrent: VATS/pleurodesis by Dr Thistlethwaite
+complications: none
+disposition: extubated OR, stable to recovery
+specimens: BAL x2
+plan: fu BAL results, valve removal 6wk
+billing: mod22 multi-lobe BAL
+
+---
+
+**Prompt 5 (Run-on paragraph, minimal punctuation)**
+68 male persistent airleak did bronch GA flex therapeutic and peds scope aspirated mucus plugs from right mainstem BI and left mainstem then BAL at lingula LB4 LB5 60cc saline 15 back sent cell count cultures cytology also BAL RB9 same volumes same labs then serial balloon occlusion with arndt 7fr and fogarty isolated leak to RLL lateral and posterior subsegments confirmed with insp hold at 30 and pleurovac suction -20 used tisseel 2cc on posterior subsegment RLL then tried size 7 spiration valve RB10 too big removed placed size 6 RB9 good then size 6 RB10 bad angle removed replaced size 6 better angle final RB9 and RB10 both size 6 leak much better thistlethwaite did VATS pleurodesis no complications extubated stable BAL x2 specimens follow up BAL and 6 weeks valve removal modifier 22 for BAL multiple lobes
+
+---
+
+**Prompt 6 (Abbreviated clinical shorthand)**
+68M. PersistAL. GA. TherapBronch+PedsBronch. Asp RMS/BI/LMS mucus plugs. BAL LB4/5 60ccNS 15cc ret → CC/Micro/Cyto. BAL RB9 60ccNS 15cc ret → CC/Micro/Cyto. SerialOccl Arndt7Fr+Fogarty → AL localized RLL lat+post subseg. InspHold30 Pleurovac-20. Tisseel2cc RLL post subseg. Sz7spirationRB10 too lg→removed. Sz6RB9 good. Sz6RB10 poor→removed→rplcd sz6 better. Final: RB9sz6 RB10sz6. AL signif↓. VATS/pleurodesis Thistlethwaite. NoComp. Extub OR→PACU stable. Spec BALx2. FU BAL + 6wk valve removal. Mod22 multilobeBAL.
+
+---
+
+**Prompt 7 (Question-answer format)**
+Who: 68 yo male
+Why: persistent air leak
+What: bronchoscopy under general
+Scopes: flex therapeutic + flex hybrid peds
+What we did first: suctioned out mucus plugs right mainstem, BI, left mainstem
+BALs: lingula (LB4 LB5) 60cc in 15 back, RB9 60cc in 15 back, all sent cell count micro cyto
+How we found the leak: serial occlusion with arndt 7fr and fogarty balloon, leak at RLL lateral and posterior subsegments, reproduced with inspiratory hold 30 and pleurovac -20
+What we used to seal: tisseel 2cc in RLL posterior subsegment
+Valves: tried sz7 in RB10 too big pulled it, sz6 RB9 good, sz6 RB10 bad angle swapped for new sz6
+Final valve setup: RB9 sz6 and RB10 sz6
+Outcome: air leak much improved
+Other: Dr Thistlethwaite VATS and pleurodesis
+Complications: none
+After: extubated in OR to recovery stable
+Specimens: 2 BALs
+Plan: follow up BAL results, 6 week valve removal
+Billing: modifier 22 BAL multiple lobes
+
+---
+
+**Prompt 8 (Narrative style, complete sentences)**
+Performed bronchoscopy on a 68 year old male with persistent air leak under general anesthesia. Used the flexible therapeutic bronchoscope and the flexible hybrid pediatric bronchoscope. Started by aspirating mucus and mucus plugs from the right mainstem, bronchus intermedius, and left mainstem. Performed BAL at the superior and inferior segments of the lingula, LB4 and LB5, instilling 60 cc of normal saline with 15 cc return, sent for cell count, microbiology, and cytology. Also did BAL at the lateral basal segment of the RLL, RB9, same volumes and same labs sent. Next performed serial occlusion using an Arndt 7 French endobronchial blocker and a Fogarty balloon and isolated the air leak to the lateral and posterior subsegments of the RLL. Reproduced the leak with an inspiratory hold at 30 and pleurovac suction at negative 20 cm water. Applied 2 cc of Tisseel to a posterior branch subsegment of the RLL. Attempted a size 7 spiration valve in RB10 but it was too large so it was removed. Placed a size 6 spiration valve in RB9 in good position. Placed size 6 in RB10 in poor position so it was removed and replaced with another size 6 at a better angle. Final configuration is size 6 valves in RB9 and RB10. Air leak significantly decreased. Dr. Thistlethwaite performed VATS and pleurodesis separately. No complications, patient extubated in OR and transported to recovery in stable condition. Two BAL specimens collected. Plan to follow up BAL results and remove valves in 6 weeks. Modifier 22 for BAL in multiple lobes.
+
+---
+
+**Prompt 9 (Telegram style)**
+68M AIRLEAK STOP GA STOP FLEX THERAP + PEDS SCOPE STOP ASPIRATED MUCUS RMS BI LMS STOP BAL LB4 LB5 60CC 15CC BACK CELLCT MICRO CYTO STOP BAL RB9 SAME STOP SERIAL OCCL ARNDT 7FR FOGARTY LEAK RLL LAT POST SUBSEG STOP INSP HOLD 30 PLEUROVAC NEG20 STOP TISSEEL 2CC RLL POST STOP SZ7 VALVE RB10 TOO BIG OUT STOP SZ6 RB9 GOOD STOP SZ6 RB10 BAD ANGLE SWAPPED SZ6 BETTER STOP FINAL RB9 SZ6 RB10 SZ6 STOP LEAK DOWN STOP THISTLETHWAITE VATS PLEURODESIS STOP NO COMP EXTUB OR STABLE STOP BAL X2 STOP FU BAL 6WK VALVES STOP MOD22 MULTILOBE BAL
+
+---
+
+**Prompt 10 (Casual/informal with typos)**
+68 yo dude w persistant air leak. bronched him under general. used the big flex scope and the peds one. sucked out a ton of mucus and plugs from RMS, BI, and LMS. did BAL in the lingula LB4 and 5 put in 60 of saline got 15 back sent the usuals cell ct micro cyto. same at RB9. then did serial balloon occlusion arndt 7fr and fogarty to find the leak - ended up being RLL lat and post subsegments. confirmed w insp hold at 30 and pleuravac on -20. squirted 2cc tisseel in the post branch subseg RLL. tried a 7 spiration valve in RB10 way too big took it out. put a 6 in RB9 looked good. 6 in RB10 looked crooked took it out put a new 6 in better. so final is 6s in RB9 and RB10. leak way better. thistlethwaite did the VATS part see his note. no issues pt extubated in OR did fine went to recovery. 2 BALs for specimens. plan follow up labs and pull valves in 6 wks. oh yeah mod 22 cuz BAL in multiple lobes
+
+---
+
+**Prompt 11 (Chronological step numbering)**
+1. 68M persistent air leak, GA, flex therapeutic + hybrid peds bronchoscope
+2. aspirated mucus plugs RMS, BI, LMS
+3. BAL lingula LB4+LB5: 60cc NS instilled, 15cc return, sent cell count/micro/cyto
+4. BAL RB9: 60cc NS, 15cc return, same labs
+5. serial occlusion arndt 7fr blocker + fogarty balloon
+6. isolated leak to RLL lateral + posterior subsegments
+7. reproduced with insp hold 30, pleurovac -20cmH2O
+8. tisseel 2cc to RLL posterior branch subsegment
+9. size 7 spiration valve RB10 - too large, removed
+10. size 6 valve RB9 - good position
+11. size 6 valve RB10 - poor position, removed, replaced with size 6 at better angle
+12. final: RB9 sz6, RB10 sz6, air leak significantly improved
+13. Dr Thistlethwaite VATS + pleurodesis
+14. no complications, extubated OR, stable to recovery
+15. specimens BAL x2
+16. plan: fu BAL, 6wk valve removal
+17. modifier 22 multi-lobe BAL
+
+---
+
+**Prompt 12 (EMR copy-paste feel with headers)**
+Dx: air leak
+Pt: 68M
+Anes: general
+Scope: therapeutic flex, peds hybrid flex
+Airway clearance: therapeutic aspiration RMS BI LMS mucus plugs
+Lavage 1: LB4 LB5 lingula 60cc NS in 15cc out → cell count micro cyto
+Lavage 2: RB9 RLL 60cc NS in 15cc out → cell count micro cyto
+Air leak localization: serial occlusion arndt 7fr + fogarty. Leak = RLL lateral + posterior subseg. Confirmed insp hold 30, pleurovac -20
+Sealant: tisseel 2cc RLL posterior subseg
+Valve attempts: sz7 RB10 too big removed; sz6 RB9 good; sz6 RB10 poor angle removed then replaced sz6 good angle
+Final valves: RB9 sz6, RB10 sz6
+Result: air leak significantly decreased
+Concomitant: VATS pleurodesis Dr Thistlethwaite
+Comp: none
+Dispo: extubated OR stable recovery
+Spec: BAL x2
+Plan: fu BAL, 6wk valve removal
+Mod: 22 multi-lobe BAL
+
+---
+
+**Prompt 13 (Text-message style from OR)**
+just finished the airleak case. 68M. GA. used flex therap and peds scope. lots of mucus cleaned out RMS BI LMS. BAL'd the lingula and RB9, 60 in 15 back each, sent all the labs. did the serial occlusion thing w arndt and fogarty, leak was RLL lat and post subseg. held at 30 w pleurovac on -20 confirmed it. tisseel 2cc in the post branch. tried a 7 valve in RB10 too fat. 6 in RB9 fine. 6 in RB10 crooked had to redo it w another 6. final 6s in both RB9 RB10. leak way down. thistlethwaite handling the VATS. no comp extubated stable. 2 BAL specimens. fu labs and 6 wk for valve pull. need mod 22 multi lobe BAL
+
+---
+
+**Prompt 14 (Procedure log, minimal prose)**
+Case: bronch + valve placement
+68M / air leak / GA
+Scopes: flex therapeutic, flex hybrid peds
+Aspiration: RMS, BI, LMS. Mucus/plugs cleared.
+BAL: LB4+LB5 60cc/15cc. RB9 60cc/15cc. Labs: CC, micro, cyto (both).
+Occlusion testing: Arndt 7Fr + Fogarty. Isolated to RLL lat+post subseg. Insp hold 30. Pleurovac -20cmH2O.
+Tisseel: 2cc RLL post subsegment.
+Valves: 7 spiration RB10 - oversized, out. 6 RB9 - good. 6 RB10 - poor angle, out, replaced 6 better angle.
+Final: RB9=6, RB10=6.
+Air leak ↓↓.
+Co-procedure: VATS/pleurodesis (Thistlethwaite).
+EBL: none. Complications: none. Extubated OR. Stable→recovery.
+Specimens: BALx2.
+Plan: fu BAL. 6wk valve removal.
+Modifier 22: multi-lobe BAL.
+
+---
+
+**Prompt 15 (Dictation with filler words)**
+Um so this was a 68 year old male with a persistent air leak. We took him to the OR, general anesthesia. I used, uh, the flexible therapeutic bronchoscope and also the flexible hybrid peds scope. First thing we did was suction out all the mucus and mucus plugs from the right mainstem, the bronchus intermedius, and the left mainstem. Then, uh, we did a BAL in the lingula, that's LB4 and LB5, put in 60 cc of normal saline, got 15 back, sent it for cell count, micro, and cytology. Did the same thing at RB9, lateral basal segment of the right lower lobe, 60 in 15 back, same labs. Then we needed to figure out where the leak was, so we did serial occlusion with an Arndt 7 French and a Fogarty balloon. We, uh, isolated it to the lateral and posterior subsegments of the RLL. Confirmed the leak with an inspiratory hold at 30 and pleurovac suction at negative 20. Used 2 cc of Tisseel in the posterior branch subsegment. Then for the valves, tried a size 7 spiration in RB10 but it was too big, so we pulled it. Size 6 in RB9, that looked good. Size 6 in RB10 was in a bad position so we had to pull it and put another size 6 in at a better angle. So final configuration, uh, size 6 in RB9 and size 6 in RB10. Air leak was significantly decreased after that. Dr. Thistlethwaite did the VATS and pleurodesis, see his note. No complications. Patient was extubated in the OR and went to recovery in stable condition. Two BAL specimens. Plan is follow up on BAL and remove valves in 6 weeks. And modifier 22 because BAL was done in multiple lobes.
+
+---
+
+**Prompt 16 (Keyword-heavy, no verbs)**
+68M. air leak. GA. therapeutic flex scope. peds hybrid scope. mucus plugs RMS BI LMS - aspirated. BAL lingula LB4 LB5 - 60cc NS 15cc back - cell count micro cyto. BAL RB9 - 60cc NS 15cc back - same. arndt 7fr fogarty serial occlusion. leak RLL lateral posterior subseg. insp hold 30. pleurovac -20. tisseel 2cc posterior subseg RLL. spiration valve sz7 RB10 too large out. sz6 RB9 good. sz6 RB10 bad replaced sz6 good. final RB9 sz6 RB10 sz6. leak decreased. VATS pleurodesis thistlethwaite. no comp. extubated OR. stable recovery. BAL x2. fu BAL. 6wk valve removal. mod22 multilobe BAL.
+
+---
+
+**Prompt 17 (Mixed narrative and data)**
+Did a bronch on a 68 year old male for persistent air leak, general anesthesia. Two scopes: therapeutic flex and the peds hybrid. Cleared out mucus plugs from RMS, BI, and LMS. BAL data: LB4/LB5 got 60cc in and 15cc back, RB9 got 60cc in and 15cc back. All sent for cell count, microbiology including cultures viral fungal, and cytology. Air leak localization: used arndt 7fr endobronchial blocker and fogarty balloon for serial occlusion. Leak came from RLL lateral and posterior subsegments. Confirmed by inspiratory hold at 30 with pleurovac at -20cmH2O. Treatment: tisseel 2cc in posterior branch subsegment of RLL. Then placed spiration valves. Size 7 in RB10 didn't fit (too big), removed. Size 6 in RB9 perfect. Size 6 in RB10 wrong angle, had to pull and redo with another size 6. Ended with size 6 in RB9 and RB10. Air leak significantly better. Thistlethwaite did the VATS and pleurodesis part. No complications, extubated in OR, stable to PACU. Specimens: 2 BALs. Following up on BAL results and removing valves at 6 weeks. Modifier 22 for BAL in multiple lobes.
+
+---
+
+**Prompt 18 (Pipe-delimited compact)**
+68M|airleak|GA|flex therap scope + peds hybrid|asp RMS BI LMS mucus plugs|BAL LB4/5 60cc→15cc cellct/micro/cyto|BAL RB9 60cc→15cc same|serial occl arndt 7fr + fogarty|leak RLL lat+post subseg|insp hold 30 pleurovac -20|tisseel 2cc RLL post subseg|sz7 valve RB10 too big removed|sz6 RB9 good|sz6 RB10 bad removed replaced sz6 good|final RB9 sz6 RB10 sz6|leak down|VATS pleurodesis Thistlethwaite|no comp|extub OR stable|BALx2|fu BAL + 6wk valve removal|mod22 multilobe BAL
+
+---
+
+**Prompt 19 (Attending-to-fellow teaching style)**
+Alright so for your note on this one: 68 year old male, indication is persistent air leak. General anesthesia. We used two scopes, the flex therapeutic and the peds hybrid. Remember to document that we aspirated mucus and plugs from the right mainstem, BI, and left mainstem first. Then we did two BALs - one in the lingula at LB4 and LB5, and one at RB9 in the right lower lobe. Both were 60 cc of saline in with 15 cc return, and we sent everything for cell count, micro, and cytology. For the air leak workup, we did serial occlusion with the Arndt 7 French and the Fogarty, and localized it to the lateral and posterior subsegments of the RLL. Make sure you document the inspiratory hold at 30 and pleurovac at negative 20 to confirm the leak. We used 2 cc of Tisseel on the posterior subsegment. For valves, note that we tried a 7 in RB10 first but it was too big and had to come out. The 6 in RB9 was good. The first 6 in RB10 was at a bad angle so we swapped it for another 6 in a better position. Final is size 6 in both RB9 and RB10. Leak was way down after. Thistlethwaite did the VATS and pleurodesis, reference his note. No complications, extubated in OR, stable to recovery. Two BAL specimens. Follow up on labs and 6 weeks for valve removal. And don't forget modifier 22 for the multi-lobe BAL.
+
+---
+
+**Prompt 20 (Sparse outline with arrows)**
+68M → persistent airleak → bronch under GA
+Scopes → flex therapeutic + peds hybrid
+Aspiration → RMS/BI/LMS → mucus plugs
+BAL → LB4+LB5 → 60ccNS → 15cc return → CC/micro/cyto
+BAL → RB9 → 60ccNS → 15cc return → CC/micro/cyto
+Serial occlusion → arndt 7fr + fogarty → leak = RLL lat + post subseg
+Confirmed → insp hold 30 → pleurovac -20cmH2O
+Tisseel 2cc → RLL post subseg
+Valve → sz7 RB10 → too large → removed
+Valve → sz6 RB9 → good position
+Valve → sz6 RB10 → poor position → removed → replaced sz6 → better angle
+Final → RB9 sz6 + RB10 sz6 → airleak significantly ↓
+Concurrent → VATS/pleurodesis → Dr Thistlethwaite
+Comp → none → extubated OR → stable → recovery
+Spec → BAL x2
+Plan → fu BAL → 6wk valve removal
+Billing → mod 22 → multi-lobe BAL
+
+---

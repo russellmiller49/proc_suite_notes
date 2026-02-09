@@ -1,0 +1,50 @@
+INTERVENTIONAL PULMONOLOGY PROCEDURAL REPORT
+
+DATE OF PROCEDURE: [Date] PATIENT: [REDACTED] MRN: [MRN] DOB: [Date of Birth] (Age: 30) SEX: Male
+
+INDICATION FOR PROCEDURE The patient is a 30-year-old male who presents with a complicated effusion. The nature, purpose, risks, benefits, and alternatives to the chest ultrasound were discussed with the patient in detail. The patient indicated a wish to proceed, and informed consent was obtained. 
+
+PREOPERATIVE DIAGNOSIS Complicated Effusion
+
+POSTOPERATIVE DIAGNOSIS Complicated Effusion; improving atelectasis.
+
+PROCEDURE Focused Thoracic Ultrasound (Pleura & Lung) (CPT 76604) 
+
+ANESTHESIA/MONITORING No sedation required. Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure. 
+
+COMPLICATIONS None.
+
+PROCEDURE IN DETAIL Focused Thoracic Ultrasound (Pleura & Lung) Focused thoracic ultrasound was performed and archived.  The patient was positioned in the sitting position. The following findings were documented:
+
+Left Hemithorax:
+
+
+Pleural Effusion: A minimal volume effusion was identified. 
+
+
+Character: The fluid was anechoic with thin loculations noted. 
+
+
+Lung: Lung sliding was present before the procedure.  Atelectasis has improved compared to the previous day.
+
+
+Diaphragm: Normal diaphragmatic motion was observed. 
+
+
+Pleura: The pleura appeared normal. 
+
+Right Hemithorax:
+
+Not assessed during this focused exam.
+
+Summary of Findings: Imaging revealed a trace posterior collection which has decreased compared to the previous day. There was no significantly drainable fluid identified.
+
+IMPRESSION / PLAN
+
+Focused chest ultrasound of the left hemithorax demonstrates a minimal, anechoic effusion with thin loculations. 
+
+Atelectasis is improved with no drainable fluid amenable to further intervention at this time.
+
+Plan: Discontinue chest tube.
+
+The patient tolerating the procedure well with no immediate complications.

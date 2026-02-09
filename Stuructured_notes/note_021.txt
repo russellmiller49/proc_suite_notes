@@ -1,0 +1,85 @@
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] INDICATION FOR OPERATION [REDACTED] is a 68-year-old male who presents with persistent airleak. The nature, purpose, risks, benefits, and alternatives to Bronchoscopy were discussed with the patient in detail.
+
+CONSENT Obtained before the procedure. Its indications and potential complications and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form / provided consent over the phone. The consent was witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+J93.82 Other airleaks
+
+POSTOPERATIVE DIAGNOSIS
+
+J93.82 Other airleaks
+
+PROCEDURE
+
+Therapeutic aspiration (initial episode) (CPT 31645)
+
+Bronchoalveolar lavage (BAL) (CPT 31624) – Done in multiple lobes
+
+Bronchial valve insertion (initial lobe) (CPT 31647)
+
+Balloon occlusion (CPT 31634)
+
+Foreign body removal (valve removal/exchange) (CPT 31635)
+
+Endobronchial sealant application
+
+ATTENDING [Name]
+
+ANESTHESIA General Anesthesia
+
+MONITORING Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope; Flexible Hybrid (Pediatric) Bronchoscope.
+
+ESTIMATED BLOOD LOSS None
+
+COMPLICATIONS None
+
+PROCEDURE IN DETAIL
+
+General After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location. Patient Position: [Supine/Lateral Decubitus].
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Right Mainstem, Bronchus Intermedius, and Left Mainstem from mucus and mucus plugs.
+
+Bronchoalveolar Lavage (Lingula) BAL was performed in the Lingula (Superior Segment LB4 and Inferior Segment LB5) with saline instilled and returned. Instilled 60 cc of NS, suction returned with 15 cc of NS. Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
+
+Bronchoalveolar Lavage (RLL) BAL was performed in the Lateral-basal Segment of RLL (RB9) with saline instilled and returned. Instilled 60 cc of NS, suction returned with 15 cc of NS. Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
+
+Bronchopleural Fistula (BPF) Localization and Occlusion Serial occlusion with an endobronchial blocker (Arndt 7Fr) and Fogarty balloon was performed to isolate the airleak to the RLL (Lateral and Posterior subsegment). The airleak was reproduced with inspiratory hold at 30 and suction on pleurovac on -20 cmH2O.
+
+Endobronchial Sealant Application Tisseel (2cc) was used to block off a subsegment of the RLL posterior branch.
+
+Endobronchial Valve Placement and Exchange Based on localization, Spiration valves were selected for deployment.
+
+Attempt 1: A Size 7 Spiration valve was placed in RB10 but noted to be too large for the airway; this was subsequently removed.
+
+Placement: A Size 6 Spiration valve was placed in RB9 in good position.
+
+Attempt 2: A Size 6 Spiration valve was placed in RB10 but noted to be in poor position; this was removed.
+
+Placement: A replacement Size 6 Spiration valve was placed in RB10 in a better angle.
+
+Final Valve Configuration:
+
+RB9: Size 6 Spiration valve.
+
+RB10: Size 6 Spiration valve.
+
+Result Airleak was significantly decreased following intervention. See Dr. Thistlethwaite's note for VATS and pleurodesis.
+
+Conclusion The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+SPECIMENS
+
+BAL (x2)
+
+IMPRESSION / PLAN
+
+[REDACTED] is a 68-year-old male who presents for bronchoscopy for BAL and valve placement.
+
+Follow-up on BAL results.
+
+Follow-up in 6 weeks for valve removal.

@@ -1,35 +1,106 @@
-NOTE_ID:  note_086 SOURCE_FILE: note_086.txt INDICATION FOR OPERATION:  [REDACTED] is a 57 year old-year-old male who presents with bronchial stenosis.  
-PREOPERATIVE DIAGNOSIS: J98.09 Other diseases of bronchus, not elsewhere classified
-POSTOPERATIVE DIAGNOSIS:  J98.09 Other diseases of bronchus, not elsewhere classified
-PROCEDURE:  
-31899 Unlisted Procedure (Trach Change with Mature Tract or Procedure NOS)
-31645 Therapeutic aspiration initial episode
-31624 Dx bronchoscope/lavage (BAL)    
-ANESTHESIA: 
-General Anesthesia
-MONITORING : Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
-INSTRUMENT : 
-Flexible Therapeutic Bronchoscope
-PROCEDURE IN DETAIL:
-A timeout was performed (confirming the patient's name, procedure type, and procedure location).  Sedation initiated.  LMA placed.
-The Flexible Therapeutic Bronchoscope was advanced for airway examination.  Endobronchial topical lidocaine applied to the vocal cords, main carina, right carina 1, and left carina 2.
-Initial Airway Examination Findings:
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
+
+INDICATION FOR OPERATION [REDACTED] is a 57-year-old male who presents with bronchial stenosis. He presents for bronchoscopy for airway evaluation and BAL.
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient. The patient wished to proceed and informed consent was obtained.
+
+PREOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+POSTOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+Bronchial stenosis (Right and Left anastomosis) 
+
+RML bronchial stenosis 
+
+PROCEDURE
+
+Flexible Therapeutic Bronchoscopy
+
+Therapeutic aspiration (initial episode) 
+
+Bronchoalveolar lavage (BAL) of Right Middle Lobe 
+
+ANESTHESIA General Anesthesia 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope 
+
+ESTIMATED BLOOD LOSS None 
+
+COMPLICATIONS None 
+
+SPECIMENS
+
+RML BAL - cell count, cultures/micro, cytology 
+
+PROCEDURE IN DETAIL A timeout was performed (confirming the patient's name, procedure type, and procedure location). Sedation was initiated and an LMA was placed. The Flexible Therapeutic Bronchoscope was advanced for airway examination.
+
+Initial Airway Inspection
+
+
 Larynx: Not fully assessed due to bronchoscopy introduction through LMA.
-Vocal Chords: Normal without mass/lesions
-Trachea: Mildy tortuous, otherwise normal.
-Main Carina: Sharp
-Right Lung Proximal Airways: Right Lung Proximal Airways: The right anastomosis site was intact with visible intact blue sutures at site; mild stenosis of right anastomosis without dehiscence. The RUL and RB1-3 were normal to segmental level. The bronchus intermedius and more distal lobes/airways are mildly rotated clockwise.  The RML bronchus with moderate stenosis - estimate ~5mm patent; unable to traverse with therapeutic bronchoscope.  The RML mucosa has an anthracotic appearance to it.  However, this is overall the best I have seen his RML look before an intervention; no associated granulation tissue.  Able to visualize patent RB5/RB5.
-Left Lung Proximal Airways: The left anastomosis site was intact with visible intact blue sutures at site; mild stenosis of left anastomosis. The LUL bronchus and LB1-3 were normal to first subsegmental level. The lingula is patent and LB4-5 are normal to first subsegmental level - able to traverse lingular bronchus with therapeutic bronchoscope. LLL and LB6-10 have normal anatomic branching to segmental level. No other evidence of mass, lesions, bleeding or other endobronchial pathology. 
-Mucosa: Normal except as described above.
-Secretions: Moderate, thin, and clear  All secretions were suctioned to clear (therapeutic aspiration). 
-Successful therapeutic aspiration was performed to clean out the trachea, right mainstem bronchus, right upper lobe, bronchus intermedius, right middle lobe, right lower lobe, left mainstem bronchus, left upper lobe, left lower lobe from mucus. 
-Bronchial alveolar lavage was performed at right middle lobe (Lateral Segment of RML (RB4) and Medial Segment of RML (RB5)).  Instilled 40 cc of NS, suction returned with 15 cc of NS.  Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
-Residual secretions, saline suctioned to clear.  No bleeding.  Bronchoscope removed.
-The patient tolerated the procedure well.  There were no immediate complications.  At the conclusion of the operation, the patient's LMA was removed in the operating room and transported to the recovery room in stable condition.
-ESTIMATED BLOOD LOSS:   None
-COMPLICATIONS:    None
-SPECIMEN(S): 
-RML BAL - cell count, cultures/micro, cytology
-IMPRESSION/PLAN: [REDACTED] is a 57 year old-year-old male who presents for bronchoscopy for airway evaluation and BAL.
--RML bronchus appears overall the best I have seen it at the beginning of the bronchoscopy; no granulation tissue or signs of irritation.  Although unable to traverse with therapeutic bronchoscope, the RB4 and RB5 subsegments are grossly patent.  Therefore, to hopefully avoid undo inflammation, no dilation or other intervention was performed today.
--Repeat bronchoscopy in 2-3 weeks to confirm stability of RML bronchus.  Consideration of interventions depending on appearance of airway.
+
+
+Vocal Cords: Normal without mass/lesions.
+
+
+Trachea: Mildly tortuous, otherwise normal. Endobronchial topical lidocaine was applied to the vocal cords, main carina, right carina 1, and left carina 2.
+
+
+Main Carina: Sharp.
+
+Right Lung Findings
+
+
+Anastomosis: The right anastomosis site was intact with visible intact blue sutures at the site. There was mild stenosis of the right anastomosis without dehiscence.
+
+
+Proximal Airways: The RUL and RB1-3 were normal to the segmental level. The bronchus intermedius and more distal lobes/airways were mildly rotated clockwise.
+
+
+Right Middle Lobe (RML): The RML bronchus presented with moderate stenosis, estimated at ~5mm patent; it was unable to be traversed with the therapeutic bronchoscope. The mucosa appeared anthracotic. However, there was no associated granulation tissue and this was overall the best the RML has appeared prior to intervention. Patent RB5/RB5 was visualized.
+
+
+Right Lower Lobe: RLL and RB6-10 had normal anatomic branching to the segmental level.
+
+Left Lung Findings
+
+
+Anastomosis: The left anastomosis site was intact with visible intact blue sutures at the site. There was mild stenosis of the left anastomosis.
+
+
+Proximal Airways: The LUL bronchus and LB1-3 were normal to the first subsegmental level.
+
+
+Lingula: Patent and LB4-5 were normal to the first subsegmental level; able to traverse the lingular bronchus with the therapeutic bronchoscope.
+
+Interventions
+
+
+Therapeutic Aspiration: Secretions were moderate, thin, and clear. Successful therapeutic aspiration was performed to clear mucus from the trachea, right mainstem bronchus, right upper lobe, bronchus intermedius, right middle lobe, right lower lobe, left mainstem bronchus, left upper lobe, and left lower lobe. All secretions were suctioned to clear.
+
+
+Bronchoalveolar Lavage (BAL): Performed at the Right Middle Lobe (Lateral Segment RB4 and Medial Segment RB5). 40 cc of NS was instilled, and suction returned 15 cc of NS. Samples were sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
+
+Conclusion Residual secretions and saline were suctioned to clear. No bleeding was observed. The bronchoscope was removed. At the conclusion of the operation, the patient's LMA was removed in the operating room and the patient was transported to the recovery room in stable condition. The patient tolerated the procedure well with no immediate complications.
+
+IMPRESSION / PLAN
+
+[REDACTED] is a 57-year-old male who presented for bronchoscopy for airway evaluation and BAL.
+
+RML bronchus appears overall the best seen at the beginning of bronchoscopy, with no granulation tissue or signs of irritation.
+
+Although unable to traverse with the therapeutic bronchoscope, the RB4 and RB5 subsegments are grossly patent.
+
+To avoid undue inflammation, no dilation or other intervention was performed today.
+
+Repeat bronchoscopy in 2-3 weeks to confirm stability of the RML bronchus.
+
+Consideration of interventions depending on the appearance of the airway at that time.

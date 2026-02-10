@@ -1,13 +1,12 @@
 import json
 import random
 import os
-import datetime
 
 # ==========================================
 # 1. CONFIGURATION
 # ==========================================
 # EXTRACTED FROM NOTE
-NOTE_ID = "note_013" 
+NOTE_ID = "note_013"
 OUTPUT_DIR = "reporter_training"
 NUM_SAMPLES = 100
 TRAIN_RATIO = 0.8
@@ -20,148 +19,147 @@ if not os.path.exists(OUTPUT_DIR):
 # ==========================================
 # 2. DATA POOLS (Medical Variations)
 # ==========================================
-
 data_pool = {
-    "age": [str(x) for x in range(25, 85)],
+    "age": ["22", "29", "33", "38", "45", "51", "64", "72"],
     "gender_tuple": [("female", "F"), ("male", "M")],
-    "indication_dx": [
-        "Aspergilloma", "Invasive Aspergillosis", "Pulmonary Mycetoma", 
-        "Fungal Ball", "Chronic Cavitary Aspergillosis"
-    ],
-    "sedation_time": ["65", "72", "83", "90", "105", "110"],
-    "secretion_type": [
-        "Moderate bloody secretions", 
-        "Copious purulent secretions", 
-        "Thick mucoid secretions", 
-        "Tenacious fungal debris and secretions",
-        "Scant hemopurulent secretions"
-    ],
-    "drug_name": ["Amphotericin", "Voriconazole", "Amphotericin B"],
-    "drug_dose": ["50mg", "40mg", "30mg", "100mg"],
-    "drug_vol": ["20cc", "10cc", "40cc"],
+    "start_time": ["1439", "0915", "1030", "1300", "0845", "1120"],
+    "stop_time_delta": [45, 60, 83, 90, 110],  # Minutes to add to start time
+    "diagnosis_main": ["Aspergilloma", "Invasive Aspergillosis", "Fungal Ball", "Mycetoma"],
+    "secretion_type": ["bloody", "mucopurulent", "thick tan", "purulent", "serosanguinous"],
+    "antifungal_drug": ["Amphotericin", "Voriconazole", "Amphotericin B Liposomal"],
+    "antifungal_dose": ["30mg", "40mg", "50mg", "100mg"],
+    "volume": ["10cc", "20cc", "40cc"],
+    
+    # LOGIC MAPPING: Lobe -> Segments -> Uniblocker Position
+    # Structure: (Lobe Name, Segment 1, Segment 2, Uniblocker Position)
+    "anatomy_map": [
+        ("Left Upper Lobe (LUL)", "apico-posterior (LB1/2)", "anterior (LB3)", "Left Mainstem Bronchus (LMSB)"),
+        ("Right Upper Lobe (RUL)", "apical (RB1)", "posterior (RB2)", "Right Mainstem Bronchus (RMSB)"),
+        ("Right Lower Lobe (RLL)", "superior (RB6)", "posterior basal (RB10)", "Right Mainstem Bronchus (RMSB)"),
+        ("Left Lower Lobe (LLL)", "superior (LB6)", "posterior basal (LB10)", "Left Mainstem Bronchus (LMSB)")
+    ]
 }
-
-# LOGIC SYNC: Anatomy must match the side (Right vs Left)
-# If we inject RUL, the blocker should be in RMSB, and segments are RB1/RB2, etc.
-anatomy_logic = [
-    {
-        "target_lobe": "Left Upper Lobe (LUL)",
-        "target_lobe_short": "LUL",
-        "blocker_loc": "Left Mainstem Bronchus (LMSB)",
-        "seg_1": "apico-posterior (LB1/2)",
-        "seg_2": "anterior (LB3)",
-        "secretion_dominance": "left greater than right",
-        "carina_list": "Left Mainstem, Left Carina (LC2), LUL Lingula Carina (Lc1)"
-    },
-    {
-        "target_lobe": "Right Upper Lobe (RUL)",
-        "target_lobe_short": "RUL",
-        "blocker_loc": "Right Mainstem Bronchus (RMSB)",
-        "seg_1": "apical (RB1)",
-        "seg_2": "posterior (RB2)",
-        "secretion_dominance": "right greater than left",
-        "carina_list": "Right Mainstem, Bronchus Intermedius, RUL Carina (RC1)"
-    }
-]
 
 # ==========================================
 # 3. TEMPLATES
 # ==========================================
-
 note_template = """NOTE_ID: {note_id}
+SOURCE_FILE: {note_id}.txt
+
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
 DATE OF PROCEDURE: [Date]
-INDICATION FOR OPERATION: Patient is a {age}-year-old {gender_long} who presents with respiratory failure and {indication_dx}.
+INDICATION FOR OPERATION
+[REDACTED] is a {age}-year-old {gender_long} who presents with respiratory failure and {diagnosis}.
 
 The nature, purpose, risks, benefits, and alternatives to Bronchoscopy were discussed with the patient in detail.
-CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate.
+
+CONSENT
+Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate.
 The patient or surrogate read and signed the provided consent form or provided consent over the phone.
 The consent was witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 J96.90 Respiratory Failure
-{indication_dx}
+{diagnosis}
 
 POSTOPERATIVE DIAGNOSIS
 J96.90 Respiratory Failure
-{indication_dx}
+{diagnosis}
 
 PROCEDURE
 Therapeutic aspiration initial episode (CPT 31645)
 Therapeutic injection(s) [eg, chemotherapy denervation agent or corticosteroid] (CPT 31573)
 
 ANESTHESIA
-Moderate Sedation: Initial 15 minutes (99152); each additional 15 minutes (99153). Total Time: {sedation_time} minutes.
+Moderate Sedation: Initial 15 minutes (99152);
+each additional 15 minutes (99153). Total Time: {total_minutes} minutes (Start: {start_time}; Stop: {stop_time}).
+
 Medications:
-Etomidate 20 mg
-Rocuronium 50 mg
+Etomidate {etomidate_dose} mg
+Rocuronium {roc_dose} mg
 Dexmedetomidine gtt 1 mcg/kg/hr
 Propofol gtt 40 mcg/kg/min
 Fentanyl gtt 150 mcg/hr
 
-MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+MONITORING
+Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
 The patient was monitored continuously one-to-one throughout the entire procedure by the attending physician while anesthesia was administered.
-INSTRUMENTATION Disposable Bronchoscope.
 
-ESTIMATED BLOOD LOSS None.
-COMPLICATIONS None.
+INSTRUMENTATION
+Disposable Bronchoscope.
 
-PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location.
+ESTIMATED BLOOD LOSS
+None.
+
+COMPLICATIONS
+None.
+
+PROCEDURE IN DETAIL
+After the successful induction of anesthesia, a timeout was performed confirming the patient's name, procedure type, and procedure location.
+
 Patient Position: Supine
 
-Initial Airway Inspection The bronchoscope was introduced through the tracheostomy tube.
+Initial Airway Inspection
+The bronchoscope was introduced through the tracheostomy tube.
+
 Tracheostomy: Tube is in good position.
 Upper Airway: Pharynx, Larynx, and Vocal Cords were not assessed due to introduction through tracheostomy tube.
 Trachea: Distal 1/3 normal.
 Carina: Sharp.
 Proximal Airways: Right and Left lung proximal airways showed normal anatomic branching to the segmental level.
 Mucosa: Normal.
-Secretions: {secretion_type} with {secretion_dominance}.
-Additional Findings: Uniblocker in place (deflated) at the {blocker_loc}.
+Secretions: Moderate {secretion_type} secretions.
 
-Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out mucus, blood, and blood clots from the following segments:
+Additional Findings: Uniblocker in place (deflated) at the {uniblocker_loc}.
+
+Therapeutic Aspiration
+Successful therapeutic aspiration was performed to clean out mucus, blood, and blood clots from the following segments:
 Trachea (Distal 1/3)
 Right Mainstem, Bronchus Intermedius, RUL Carina (RC1), RML Carina (RC2)
 Left Mainstem, Left Carina (LC2), LUL Lingula Carina (Lc1)
 
-Therapeutic Injection {drug_name} {drug_dose} in {drug_vol} sterile water was instilled into the {target_lobe} as follows:
-10cc into the {seg_1} subsegment
-10cc into the {seg_2} subsegment
+Therapeutic Injection
+{drug} {dose} in {volume} sterile water was instilled into the {target_lobe} as follows:
+{half_vol} into the {seg1} subsegment
+{half_vol} into the {seg2} subsegment
 
-Completion The patient tolerated the procedure well.
+Completion
+The patient tolerated the procedure well.
 There were no immediate complications. At the conclusion of the operation, the patient was in stable condition.
 
-SPECIMENS None.
+SPECIMENS
+None.
 
 IMPRESSION / PLAN
-{age}-year-old {gender_long} presented for bronchoscopy for instillation of {drug_name}.
-{target_lobe_short} {drug_name} instillation successfully performed.
+{age}-year-old {gender_long} presented for bronchoscopy for instillation of {drug}.
+{target_lobe_short} {drug} instillation successfully performed.
 Patient tolerated the procedure well; no immediate complications.
 Continued care per primary team.
-Repeat instillation of {drug_name} planned.
+Repeat instillation of {drug} planned.
 """
 
-# <--- CREATE 5 DISTINCT PROMPT STYLES HERE --->
+# 5 Prompt Styles
 prompt_styles = [
-    # Style 1: Telegraphic / Handoff
-    "Interventional Pulm Note. Pt: {age} {gender_short}. Dx: {indication_dx}. Procedure: Bronch with {drug_name} injection to {target_lobe_short}. Findings: {secretion_type}. Trach access.",
+    # Style 1: Telegraphic
+    "Gen IP Report. {age}{gender_short}, {diagnosis}. Trach present. Inj {drug} {dose} to {target_lobe_short}. Secretions {secretion_type}. No comps.",
     
-    # Style 2: Dictation Style
-    "Generate an operative report for a {age} year old {gender_long} with {indication_dx}. We performed therapeutic aspiration and injection of {drug_name} {drug_dose} into the {target_lobe_short}. Note the use of a uniblocker in the {blocker_loc}.",
+    # Style 2: Dictation
+    "Please generate an operative note for a {age} year old {gender_long} with {diagnosis}. We accessed via trach. Found {secretion_type} secretions. We performed therapeutic aspiration and then injected {drug} {dose} into the {target_lobe_short}. Patient stable.",
     
     # Style 3: Sloppy / Quick
-    "{age}yo {gender_short} with {indication_dx}, bronch done through trach. {secretion_type} seen. {drug_name} injected {target_lobe_short} ({seg_1}, {seg_2}). no complications.",
+    "{age}yo {gender_short} bronch. dx {diagnosis}. uniblocker in {uniblocker_loc}. instilled {drug} into {target_lobe_short} ({seg1}, {seg2}). everything went fine.",
     
-    # Style 4: Billing / Coding Focus
-    "CPT 31645, 31573. Diagnosis J96.90 and {indication_dx}. Procedure: Instillation of {drug_name} to {target_lobe_short} via Trach. Anesthesia time {sedation_time} min.",
+    # Style 4: Billing Focus
+    "Procedure CPT 31645, 31573. Diagnosis J96.90, {diagnosis}. Patient {age} {gender_short}. Intervention: Injection of {drug} into {target_lobe_short}.",
     
-    # Style 5: Structured Request
-    "PROCEDURE: Bronchoscopy with Therapeutic Injection\nPATIENT: {age} {gender_short}\nINDICATION: {indication_dx}\nTARGET: {target_lobe_short}\nDRUG: {drug_name}\nFINDINGS: {secretion_type}"
+    # Style 5: Structured
+    "Patient: {age} {gender_short}\nIndication: {diagnosis}\nAirway: Tracheostomy\nProcedure: Injection of {drug} ({dose})\nTarget: {target_lobe}\nFindings: {secretion_type} secretions"
 ]
 
 # ==========================================
 # 4. GENERATOR LOGIC
 # ==========================================
-
 def generate_dataset():
     dataset = []
     
@@ -169,49 +167,84 @@ def generate_dataset():
         # A. Randomly select independent variables
         age = random.choice(data_pool["age"])
         gender_tup = random.choice(data_pool["gender_tuple"])
-        indication_dx = random.choice(data_pool["indication_dx"])
-        sedation_time = random.choice(data_pool["sedation_time"])
+        diagnosis = random.choice(data_pool["diagnosis_main"])
         secretion_type = random.choice(data_pool["secretion_type"])
-        drug_name = random.choice(data_pool["drug_name"])
-        drug_dose = random.choice(data_pool["drug_dose"])
-        drug_vol = random.choice(data_pool["drug_vol"])
+        drug = random.choice(data_pool["antifungal_drug"])
+        dose = random.choice(data_pool["antifungal_dose"])
+        volume = random.choice(data_pool["volume"])
         
-        # B. Select Anatomy Logic (ensures side consistency)
-        anatomy = random.choice(anatomy_logic)
+        # B. Handle Time Math
+        start_str = random.choice(data_pool["start_time"])
+        duration = random.choice(data_pool["stop_time_delta"])
         
-        # C. Generate Prompt (User Input)
+        # Simple math to calculate stop time string (approximate)
+        start_h = int(start_str[:2])
+        start_m = int(start_str[2:])
+        total_m = start_m + duration
+        end_h = start_h + (total_m // 60)
+        end_m = total_m % 60
+        stop_str = f"{end_h:02d}{end_m:02d}"
+        
+        # C. Handle Logic-Dependent Variables (Anatomy)
+        # Select a target lobe, which dictates segments and uniblocker position
+        anat_config = random.choice(data_pool["anatomy_map"])
+        target_lobe = anat_config[0]
+        seg1 = anat_config[1]
+        seg2 = anat_config[2]
+        uniblocker_loc = anat_config[3]
+        
+        # Create short forms and derived values
+        target_lobe_short = target_lobe.split("(")[1].replace(")", "") # Extracts LUL, RUL, etc.
+        
+        # Handle volume splitting string (e.g., "20cc" -> "10cc")
+        try:
+            vol_int = int(''.join(filter(str.isdigit, volume)))
+            half_vol = f"{vol_int // 2}cc"
+        except:
+            half_vol = "half volume"
+
+        # Randomized meds variation
+        etomidate_dose = random.choice(["20", "30", "40"])
+        roc_dose = random.choice(["50", "60", "100"])
+
+        # D. Generate Prompt
         prompt_style = random.choice(prompt_styles)
         prompt = prompt_style.format(
             age=age, 
             gender_short=gender_tup[1], 
             gender_long=gender_tup[0],
-            indication_dx=indication_dx,
-            target_lobe_short=anatomy["target_lobe_short"],
-            drug_name=drug_name,
+            diagnosis=diagnosis,
+            drug=drug,
+            dose=dose,
+            target_lobe=target_lobe,
+            target_lobe_short=target_lobe_short,
             secretion_type=secretion_type,
-            blocker_loc=anatomy["blocker_loc"],
-            seg_1=anatomy["seg_1"],
-            seg_2=anatomy["seg_2"],
-            sedation_time=sedation_time
+            uniblocker_loc=uniblocker_loc,
+            seg1=seg1,
+            seg2=seg2
         )
         
-        # D. Generate Completion (Structured Note)
+        # E. Generate Completion
         completion = note_template.format(
             note_id=NOTE_ID,
-            age=age, 
+            age=age,
             gender_long=gender_tup[0],
-            indication_dx=indication_dx,
-            sedation_time=sedation_time,
+            diagnosis=diagnosis,
+            total_minutes=duration,
+            start_time=start_str,
+            stop_time=stop_str,
+            etomidate_dose=etomidate_dose,
+            roc_dose=roc_dose,
             secretion_type=secretion_type,
-            secretion_dominance=anatomy["secretion_dominance"],
-            blocker_loc=anatomy["blocker_loc"],
-            drug_name=drug_name,
-            drug_dose=drug_dose,
-            drug_vol=drug_vol,
-            target_lobe=anatomy["target_lobe"],
-            target_lobe_short=anatomy["target_lobe_short"],
-            seg_1=anatomy["seg_1"],
-            seg_2=anatomy["seg_2"]
+            uniblocker_loc=uniblocker_loc,
+            drug=drug,
+            dose=dose,
+            volume=volume,
+            target_lobe=target_lobe,
+            target_lobe_short=target_lobe_short,
+            half_vol=half_vol,
+            seg1=seg1,
+            seg2=seg2
         )
         
         dataset.append({"prompt": prompt, "completion": completion})
@@ -221,7 +254,6 @@ def generate_dataset():
 # ==========================================
 # 5. EXECUTION & SAVING
 # ==========================================
-
 if __name__ == "__main__":
     print(f"Generating data for {NOTE_ID}...")
     full_data = generate_dataset()

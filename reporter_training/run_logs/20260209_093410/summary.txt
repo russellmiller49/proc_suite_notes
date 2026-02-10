@@ -1,0 +1,52 @@
+Run started: 2026-02-09T09:34:10-08:00
+Directory: /home/rjm/projects/proc_suite_notes/reporter_training
+Python: python3 (Python 3.11.13)
+Continue on error: 0
+Scripts: 105
+
+=== RUN note_001.py ===
+PASS (0 s)
+
+=== RUN note_002.py ===
+PASS (0 s)
+
+=== RUN note_003.py ===
+PASS (0 s)
+
+=== RUN note_004.py ===
+PASS (0 s)
+
+=== RUN note_005.py ===
+PASS (0 s)
+
+=== RUN note_006.py ===
+PASS (0 s)
+
+=== RUN note_007.py ===
+PASS (0 s)
+
+=== RUN note_008.py ===
+PASS (0 s)
+
+=== RUN note_009.py ===
+PASS (0 s)
+
+=== RUN note_010.py ===
+PASS (0 s)
+
+=== RUN note_011.py ===
+PASS (0 s)
+
+=== RUN note_012.py ===
+PASS (0 s)
+
+=== RUN note_013.py ===
+FAIL exit=1 (0 s)
+  stdout: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093410/note_013.py.out.log
+  stderr: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093410/note_013.py.err.log
+
+Stopping at first failure. Re-run with --continue-on-error to keep going.
+Run finished: 2026-02-09T09:34:10-08:00
+Passed: 12
+Failed: 1
+Logs: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093410

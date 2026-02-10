@@ -1,44 +1,79 @@
-NOTE_ID:  note_083 SOURCE_FILE: note_083.txt INDICATION FOR OPERATION:  [REDACTED]is a 68 year old-year-old female who presents with bronchial stenosis.  
-PREOPERATIVE DIAGNOSIS: J98.09 Other diseases of bronchus, not elsewhere classified
-POSTOPERATIVE DIAGNOSIS:  J98.09 Other diseases of bronchus, not elsewhere classified
-PROCEDURE:  
-31645 Therapeutic aspiration initial episode
-31624 Dx bronchoscope/lavage (BAL)    
-31625 Endobronchial Biopsy(s)
-31654 Radial EBUS for peripheral lesion
-31641 Destruction of tumor OR relief of stenosis by any method other than excision (eg. laser therapy, cryotherapy)
-31635 Foreign body removal
-22 Substantially greater work than normal (i.e., increased intensity, time, technical difficulty of procedure, and severity of patient's condition, physical and mental effort required)
-IP [REDACTED] CODE MOD DETAILS: 
-Unusual Procedure:
-This patient required a extensive mechanical excision of endobronchial tissue to salvage the airway as well as two separate stent placement given abarrent anatomy. This resulted in >80% increased work due to Technical difficulty of procedure and Physical and mental effort required. Apply to: 31641 Destruction of tumor OR relief of stenosis by any method other than excision (eg. laser therapy, cryotherapy). Pt with complex airway with significant stenosis of the LMSB and complete occlusion of the LLL bronchus that required multiple attempts and 
- ANESTHESIA: 
-General Anesthesia
-MONITORING : Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
-INSTRUMENT : 
-Disposable Bronchoscope
-ESTIMATED BLOOD LOSS:   Minimum
-COMPLICATIONS:    None
-PROCEDURE IN DETAIL:
-After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).   
-PATIENT POSITION: 
-Initial Airway Inspection Findings:
-An iGel was placed by anesthesia after adequate sedation.
-Successful therapeutic aspiration was performed to clean out the Trachea (Middle 1/3), Trachea (Distal 1/3), Left Mainstem, Carina, LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus and mucus plug. The stent was partially occluded with thick yellow,green mucus
-The LUL bronchus was approximately 3-4 mm and the LLL bronchus could not be visualized. Saline was instilled without visualization of the LLL.  
-Endobronchial tumor was noted and required extensive excision and mechanical debridement.  (Alligator forceps) and 1.7 cryoprobe with 30 second freeze cycles to vascular occlusion and then cryotherapy for further debulking of the LUL ostium.
-It appeared that the LMSB stent migrated distally and appeared to be covering the LMSB
-Using forceps the proximal end of the microtech stent was grasped and then removed on en bloc with the bronchoscope. The foreign body removal was difficult due to significant inflammation.
-After removal the LMSB mucosa was ragged, irregular and there was dynamic collapse. The LLL bronchus could not be visualized and the LC2 was difficult to delineate along the inferior portion. The area of firm and unable to use multiple aliquots the LLL airway could not be identified. 
-Due to complex anatomy a jag wire was placed in the Lingula and the radial EBUS was utilized to identify vasculature and airways but the LLL was still unable to be identified.
-Bronchial alveolar lavage was performed at Superior Segment of Lingula (LB4).  Instilled 40 cc of NS, suction returned with 15 cc of NS.  Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
- 
-The patient tolerated the procedure well.  There were no immediate complications.  At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition. 
-SPECIMEN(S): 
-- LUL BAL - cell count, culture and cytology
-- LMSB EBBx - pathology 
-IMPRESSION/PLAN: [REDACTED]is a 68 year old-year-old female who presents for bronchoscopy for bronchial stenosis. Very odd presentation of cicatrization and benign stenosis of the LMSB without evidence of residual malignancy. Very challenging anatomy of the airway and stenosis. Continues to have robust inflammatory response and no additional stents were placed. 
-- admit overnight
-- start abx to treat MSSA, add prednisone 20 mg and obtain CT chest with contrast
-- NPO after midnight for bronchoscopy [REDACTED]
- 
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+INDICATION FOR OPERATION [REDACTED] is a 68-year-old female who presents with bronchial stenosis. The patient has a complex airway with significant stenosis of the Left Mainstem Bronchus (LMSB) and complete occlusion of the Left Lower Lobe (LLL) bronchus. Unusual Procedural Circumstances: This patient required extensive mechanical excision of endobronchial tissue to salvage the airway, as well as stent management given aberrant anatomy. This resulted in >80% increased work due to the technical difficulty of the procedure and the physical and mental effort required.
+
+PREOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+POSTOPERATIVE DIAGNOSIS
+
+J98.09 Other diseases of bronchus, not elsewhere classified 
+
+Bronchial stenosis with stent migration and occlusion 
+
+PROCEDURE
+
+31645 Therapeutic aspiration initial episode 
+
+31635 Foreign body removal (Stent removal) 
+
+31641 Destruction of tumor OR relief of stenosis by any method other than excision (e.g., laser therapy, cryotherapy) 
+
+31625 Endobronchial Biopsy(s) 
+
+31654 Radial EBUS 
+
+31624 Bronchoalveolar lavage (BAL) 
+
+22 Substantially greater work than normal 
+
+ANESTHESIA General Anesthesia 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
+
+INSTRUMENTATION Disposable Bronchoscope; 1.7mm Cryoprobe; Alligator Forceps; Radial EBUS probe; Jag wire.
+
+ESTIMATED BLOOD LOSS Minimum 
+
+COMPLICATIONS None 
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).
+
+Patient Position / Airway Inspection An iGel was placed by anesthesia after adequate sedation. Initial inspection revealed the airway stent was partially occluded with thick yellow-green mucus. It appeared that the LMSB stent had migrated distally and was covering the LMSB.
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Trachea (Middle 1/3), Trachea (Distal 1/3), Left Mainstem, Carina, LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus and mucus plugs.
+
+Foreign Body (Stent) Removal Using forceps, the proximal end of the Microtech stent was grasped and removed en bloc with the bronchoscope. The removal was difficult due to significant inflammation. After removal, the LMSB mucosa appeared ragged and irregular, with dynamic collapse noted.
+
+Tumor Destruction and Relief of Stenosis Endobronchial tumor/tissue was noted and required extensive excision and mechanical debridement. This was performed using alligator forceps and a 1.7mm cryoprobe with 30-second freeze cycles to achieve vascular occlusion, followed by cryotherapy for further debulking of the LUL ostium.
+
+Navigation and Airway Survey The LUL bronchus was approximately 3-4 mm, and the LLL bronchus could not be visualized. Saline was instilled without visualization of the LLL. The area was firm, and the LLL airway could not be identified despite multiple attempts. Due to the complex anatomy, a jag wire was placed in the Lingula, and radial EBUS was utilized to identify vasculature and airways to assist in localization. Despite these measures, the LLL remained unidentifiable.
+
+Bronchoalveolar Lavage (BAL) Bronchoalveolar lavage was performed at the Superior Segment of the Lingula (LB4). 40 cc of NS was instilled, and suction returned 15 cc of NS.
+
+Endobronchial Biopsy Endobronchial biopsies were obtained from the LMSB.
+
+Conclusion The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+SPECIMEN(S)
+
+LUL BAL - cell count, culture, and cytology 
+
+LMSB EBBx - pathology 
+
+IMPRESSION / PLAN
+
+68-year-old female with very odd presentation of cicatrization and benign stenosis of the LMSB without evidence of residual malignancy.
+
+Very challenging anatomy of the airway and stenosis with continued robust inflammatory response.
+
+No additional stents were placed at this time.
+
+Admit overnight.
+
+Start antibiotics to treat MSSA; add Prednisone 20 mg.
+
+Obtain CT chest with contrast.
+
+NPO after midnight for potential follow-up bronchoscopy.

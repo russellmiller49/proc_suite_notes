@@ -1,0 +1,329 @@
+Run started: 2026-02-09T09:35:08-08:00
+Directory: /home/rjm/projects/proc_suite_notes/reporter_training
+Python: python3 (Python 3.11.13)
+Continue on error: 1
+Scripts: 105
+
+=== RUN note_001.py ===
+PASS (0 s)
+
+=== RUN note_002.py ===
+PASS (0 s)
+
+=== RUN note_003.py ===
+PASS (0 s)
+
+=== RUN note_004.py ===
+PASS (0 s)
+
+=== RUN note_005.py ===
+PASS (0 s)
+
+=== RUN note_006.py ===
+PASS (0 s)
+
+=== RUN note_007.py ===
+PASS (0 s)
+
+=== RUN note_008.py ===
+PASS (0 s)
+
+=== RUN note_009.py ===
+PASS (0 s)
+
+=== RUN note_010.py ===
+PASS (0 s)
+
+=== RUN note_011.py ===
+PASS (1 s)
+
+=== RUN note_012.py ===
+PASS (0 s)
+
+=== RUN note_013.py ===
+FAIL exit=1 (0 s)
+  stdout: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093508/note_013.py.out.log
+  stderr: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093508/note_013.py.err.log
+
+=== RUN note_014.py ===
+PASS (0 s)
+
+=== RUN note_015.py ===
+PASS (0 s)
+
+=== RUN note_016.py ===
+PASS (0 s)
+
+=== RUN note_017.py ===
+PASS (0 s)
+
+=== RUN note_018.py ===
+PASS (0 s)
+
+=== RUN note_019.py ===
+PASS (0 s)
+
+=== RUN note_020.py ===
+PASS (0 s)
+
+=== RUN note_021.py ===
+PASS (0 s)
+
+=== RUN note_022.py ===
+PASS (0 s)
+
+=== RUN note_023.py ===
+PASS (0 s)
+
+=== RUN note_024.py ===
+PASS (0 s)
+
+=== RUN note_025.py ===
+PASS (0 s)
+
+=== RUN note_026.py ===
+PASS (0 s)
+
+=== RUN note_027.py ===
+PASS (0 s)
+
+=== RUN note_028.py ===
+PASS (0 s)
+
+=== RUN note_029.py ===
+PASS (0 s)
+
+=== RUN note_030.py ===
+PASS (0 s)
+
+=== RUN note_031.py ===
+PASS (0 s)
+
+=== RUN note_032.py ===
+PASS (0 s)
+
+=== RUN note_033.py ===
+PASS (0 s)
+
+=== RUN note_034.py ===
+PASS (0 s)
+
+=== RUN note_035.py ===
+PASS (0 s)
+
+=== RUN note_036.py ===
+PASS (0 s)
+
+=== RUN note_037.py ===
+PASS (0 s)
+
+=== RUN note_038.py ===
+FAIL exit=1 (0 s)
+  stdout: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093508/note_038.py.out.log
+  stderr: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093508/note_038.py.err.log
+
+=== RUN note_039.py ===
+PASS (0 s)
+
+=== RUN note_040.py ===
+PASS (0 s)
+
+=== RUN note_041.py ===
+PASS (0 s)
+
+=== RUN note_042.py ===
+PASS (0 s)
+
+=== RUN note_043.py ===
+PASS (0 s)
+
+=== RUN note_044.py ===
+PASS (0 s)
+
+=== RUN note_045.py ===
+PASS (0 s)
+
+=== RUN note_046.py ===
+PASS (0 s)
+
+=== RUN note_047.py ===
+PASS (0 s)
+
+=== RUN note_048.py ===
+PASS (0 s)
+
+=== RUN note_049.py ===
+PASS (0 s)
+
+=== RUN note_050.py ===
+PASS (0 s)
+
+=== RUN note_051.py ===
+PASS (0 s)
+
+=== RUN note_052.py ===
+PASS (1 s)
+
+=== RUN note_053.py ===
+PASS (0 s)
+
+=== RUN note_054.py ===
+PASS (0 s)
+
+=== RUN note_055.py ===
+PASS (0 s)
+
+=== RUN note_056.py ===
+PASS (0 s)
+
+=== RUN note_057.py ===
+PASS (0 s)
+
+=== RUN note_058.py ===
+PASS (0 s)
+
+=== RUN note_059.py ===
+PASS (0 s)
+
+=== RUN note_060.py ===
+PASS (0 s)
+
+=== RUN note_061.py ===
+PASS (0 s)
+
+=== RUN note_062.py ===
+PASS (0 s)
+
+=== RUN note_063.py ===
+PASS (0 s)
+
+=== RUN note_064.py ===
+PASS (0 s)
+
+=== RUN note_065.py ===
+PASS (0 s)
+
+=== RUN note_066.py ===
+PASS (0 s)
+
+=== RUN note_067.py ===
+PASS (0 s)
+
+=== RUN note_068.py ===
+PASS (0 s)
+
+=== RUN note_069.py ===
+PASS (0 s)
+
+=== RUN note_070.py ===
+PASS (0 s)
+
+=== RUN note_071.py ===
+PASS (0 s)
+
+=== RUN note_072.py ===
+PASS (0 s)
+
+=== RUN note_073.py ===
+PASS (0 s)
+
+=== RUN note_074.py ===
+PASS (0 s)
+
+=== RUN note_075.py ===
+PASS (0 s)
+
+=== RUN note_076.py ===
+PASS (0 s)
+
+=== RUN note_077.py ===
+PASS (0 s)
+
+=== RUN note_078.py ===
+PASS (0 s)
+
+=== RUN note_079.py ===
+PASS (0 s)
+
+=== RUN note_080.py ===
+PASS (0 s)
+
+=== RUN note_081.py ===
+PASS (0 s)
+
+=== RUN note_082.py ===
+PASS (0 s)
+
+=== RUN note_083.py ===
+PASS (0 s)
+
+=== RUN note_084.py ===
+PASS (0 s)
+
+=== RUN note_085.py ===
+PASS (0 s)
+
+=== RUN note_086.py ===
+PASS (0 s)
+
+=== RUN note_087.py ===
+PASS (0 s)
+
+=== RUN note_088.py ===
+PASS (0 s)
+
+=== RUN note_089.py ===
+PASS (0 s)
+
+=== RUN note_090.py ===
+PASS (0 s)
+
+=== RUN note_091.py ===
+PASS (0 s)
+
+=== RUN note_092.py ===
+PASS (0 s)
+
+=== RUN note_093.py ===
+PASS (1 s)
+
+=== RUN note_094.py ===
+PASS (0 s)
+
+=== RUN note_095.py ===
+PASS (0 s)
+
+=== RUN note_096.py ===
+PASS (0 s)
+
+=== RUN note_097.py ===
+PASS (0 s)
+
+=== RUN note_098.py ===
+PASS (0 s)
+
+=== RUN note_099.py ===
+PASS (0 s)
+
+=== RUN note_100.py ===
+PASS (0 s)
+
+=== RUN note_101.py ===
+PASS (0 s)
+
+=== RUN note_102.py ===
+PASS (0 s)
+
+=== RUN note_103.py ===
+PASS (0 s)
+
+=== RUN note_104.py ===
+PASS (0 s)
+
+=== RUN note_105.py ===
+PASS (0 s)
+
+Run finished: 2026-02-09T09:35:11-08:00
+Passed: 103
+Failed: 2
+Logs: /home/rjm/projects/proc_suite_notes/reporter_training/run_logs/20260209_093508

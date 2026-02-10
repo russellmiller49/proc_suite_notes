@@ -1,0 +1,4 @@
+Generating data for note_060...
+Done!
+ - Saved to: reporter_training/note_060_train.jsonl (80 examples)
+ - Saved to: reporter_training/note_060_valid.jsonl (20 examples)

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/rjm/projects/proc_suite_notes/reporter_training/note_013.py", line 227, in <module>
+    full_data = generate_dataset()
+                ^^^^^^^^^^^^^^^^^^
+  File "/home/rjm/projects/proc_suite_notes/reporter_training/note_013.py", line 184, in generate_dataset
+    prompt = prompt_style.format(
+             ^^^^^^^^^^^^^^^^^^^^
+KeyError: 'drug_dose'

@@ -1,49 +1,109 @@
-NOTE_ID:  note_077 SOURCE_FILE: note_077.txt INDICATION FOR OPERATION:  [REDACTED]is a 62 year old-year-old female who presents with lymphadenopathy.  The nature, purpose, risks, benefits and alternatives to Bronchoscopy were discussed with the patient in detail.  
-PREOPERATIVE DIAGNOSIS: R59.0 Localized enlarged lymph nodes
-POSTOPERATIVE DIAGNOSIS:  R59.0 Localized enlarged lymph nodes
-PROCEDURE:  
-31645 Therapeutic aspiration initial episode
-31624 Dx bronchoscope/lavage (BAL)    
-31653 EBUS sampling 3 or more nodes  
-ANESTHESIA: 
-General Anesthesia
-MONITORING : Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
-INSTRUMENT : 
-Linear EBUS 
-Disposable Bronchoscope
-ESTIMATED BLOOD LOSS:   Minimum
-COMPLICATIONS:    None
-PROCEDURE IN DETAIL:
-After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).   
-PATIENT POSITION: . 
-Initial Airway Inspection Findings:
-Normal appearing airway anatomy and mucosa bilaterally to the segmental level.
-Successful therapeutic aspiration was performed to clean out the Trachea (Middle 1/3), Trachea (Distal 1/3), Right Mainstem, Bronchus Intermedius , Left Mainstem, Carina, RUL Carina (RC1), RML Carina (RC2), LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus. 
-EBUS-Findings
-Indications: Diagnostic
-Technique:
-All lymph node stations were assessed. Only those 5 mm or greater in short axis were sampled.
-Lymph node sizing was performed by EBUS and sampling by transbronchial needle aspiration was performed using 22-gauge Needle.
-Lymph Nodes/Sites Inspected: 4R (lower paratracheal) node
-4L (lower paratracheal) node
-7 (subcarinal) node
-11Rs lymph node
-11Ri lymph node
-11L lymph node
-Overall ROSE Diagnosis: Granulomas
-No immediate complications
-Lymph Nodes Evaluated:
-Site 1: The 11L lymph node was => 10 mm on CT and Hypermetabolic via PET-CT scan. The lymph node was not photographed. The site was sampled.. 4 endobronchial ultrasound guided transbronchial biopsies were performed with samples obtained. 
-Preliminary ROSE Cytology was reported as not adequate and suggestive of Specimen was inadequate for ROSE analysis . Final results are pending.
-Site 2: The 7 (subcarinal) node was => 10 mm on CT and Hypermetabolic via PET-CT scan. The lymph node was not photographed. The site was sampled.. 4 endobronchial ultrasound guided transbronchial biopsies were performed with samples obtained. 
-Preliminary ROSE Cytology was reported as adequate and suggestive of Granulomas. Final results are pending.
-Site 3: The 11Ri lymph node was => 10 mm on CT and Hypermetabolic via PET-CT scan. The lymph node was not photographed. The site was sampled.. 4 endobronchial ultrasound guided transbronchial biopsies were performed with samples obtained. 
-Bronchial alveolar lavage was performed at Lateral Segment of RML (RB4) and Medial Segment of RML (RB5).  Instilled 40 cc of NS, suction returned with 15 cc of NS.  Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
-Successful therapeutic aspiration was performed to clean out the Trachea (Middle 1/3), Trachea (Distal 1/3), Right Mainstem, Bronchus Intermedius , Left Mainstem, Carina, RUL Carina (RC1), RML Carina (RC2), LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus, blood, and blood clots. 
- 
-The patient tolerated the procedure well.  There were no immediate complications.  At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition. 
-SPECIMEN(S): 
-•	EBUS-TBNA 11L, 7, 11Ri
-•	Right middle lobe Bronchoalveolar lavage
-IMPRESSION/PLAN: [REDACTED]is a 62 year old-year-old female who presents for bronchoscopy for lymphadenopathy.
--Follow up bronchoscopic lab work
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Name / Self, Referred]
+
+INDICATION FOR OPERATION [Patient Name] is a 62-year-old female who presents with lymphadenopathy. The nature, purpose, risks, benefits, and alternatives to Bronchoscopy were discussed with the patient in detail.
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. The patient wished to proceed and informed consent was obtained.
+
+PREOPERATIVE DIAGNOSIS
+
+R59.0 Localized enlarged lymph nodes 
+
+POSTOPERATIVE DIAGNOSIS
+
+R59.0 Localized enlarged lymph nodes 
+
+Granulomas noted on ROSE 
+
+PROCEDURE
+
+Therapeutic aspiration (initial episode) 
+
+Diagnostic bronchoscopy with Bronchoalveolar lavage (BAL) 
+
+EBUS sampling 3 or more nodes 
+
+ATTENDING [Name]
+
+ASSISTANT [Fellow name]
+
+SUPPORT STAFF RN: [Name] RT: [Name]
+
+ANESTHESIA General Anesthesia 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Linear EBUS, Disposable Bronchoscope.
+
+ESTIMATED BLOOD LOSS Minimum 
+
+COMPLICATIONS None 
+
+PROCEDURE IN DETAIL After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).
+
+
+Patient position: [Supine] 
+
+Initial Airway Inspection: Normal appearing airway anatomy and mucosa bilaterally to the segmental level.
+
+Therapeutic Aspiration Successful therapeutic aspiration was performed to clean out the Trachea (Middle 1/3), Trachea (Distal 1/3), Right Mainstem, Bronchus Intermedius, Left Mainstem, Carina, RUL Carina (RC1), RML Carina (RC2), LUL Lingula Carina (Lc1), and Left Carina (LC2) from mucus, blood, and blood clots.
+
+EBUS STAGING The EBUS bronchoscope was introduced. All lymph node stations were assessed.
+
+
+Technique: Only lymph nodes measuring ≥5 mm in short axis were sampled. Sampling was performed by transbronchial needle aspiration using a 22-gauge needle.
+
+
+Lymph Nodes Inspected: 4R, 4L, 7, 11Rs, 11Ri, 11L.
+
+Stations Sampled:
+
+Station 11L:
+
+Size/Appearance: ≥10 mm on CT and hypermetabolic via PET-CT.
+
+Sampling: 4 EBUS-guided TBNA biopsies obtained.
+
+ROSE: Preliminary cytology reported as inadequate.
+
+Station 7 (Subcarinal):
+
+Size/Appearance: ≥10 mm on CT and hypermetabolic via PET-CT.
+
+Sampling: 4 EBUS-guided TBNA biopsies obtained.
+
+ROSE: Preliminary cytology reported as adequate and suggestive of Granulomas.
+
+Station 11Ri:
+
+Size/Appearance: ≥10 mm on CT and hypermetabolic via PET-CT.
+
+Sampling: 4 EBUS-guided TBNA biopsies obtained.
+
+
+Overall ROSE Diagnosis: Granulomas. Final Results: Pending.
+
+Bronchoalveolar Lavage (BAL) Bronchial alveolar lavage was performed at the Lateral Segment of RML (RB4) and Medial Segment of RML (RB5).
+
+Instilled 40 cc of NS, suction returned with 15 cc of NS.
+
+Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
+
+Completion The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+SPECIMENS
+
+EBUS-TBNA: Station 11L, Station 7, Station 11Ri 
+
+Right middle lobe Bronchoalveolar lavage 
+
+IMPRESSION / PLAN
+
+62-year-old female who presents for bronchoscopy for lymphadenopathy.
+
+EBUS-TBNA performed on stations 11L, 7, and 11Ri; ROSE suggestive of Granulomas at station 7.
+
+BAL performed in RML.
+
+Follow up bronchoscopic lab work.

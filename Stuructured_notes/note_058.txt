@@ -1,140 +1,148 @@
-NOTE_ID:  note_058 SOURCE_FILE: note_058.txt INDICATION FOR OPERATION:  [REDACTED]is a 88 year old-year-old female who presents with lung nodules.  The nature, purpose, risks, benefits and alternatives to Bronchoscopy were discussed with the patient in detail.  Patient indicated a wish to proceed with surgery and informed consent was signed.
- 
-PREOPERATIVE DIAGNOSIS: R91.1 Solitary Lung Nodule
- 
-POSTOPERATIVE DIAGNOSIS:  R91.1 Solitary Lung Nodule
- 
-PROCEDURE:  
-31645 Therapeutic aspiration initial episode
-31623 Dx bronchoscope/brushing    
-31624 Dx bronchoscope/lavage (BAL)    
-31628 TBBX single lobe     
-31632 TBBX additional lobes  
-31629 TBNA single lobe   
-31633 TBNA additional lobes   
-31626 Fiducial marker placements, single or multiple     
-31627 Navigational Bronchoscopy (computer assisted)
-77012 Radiology / radiologic guidance for CT guided needle placement (CIOS)
-76377 3D rendering with interpretation and reporting of CT, US, Tomo modality (ION Planning Station)
-31899NFN BRONCHOSCOPY WITH ENDOBRONCHIAL ULTRASOUND (EBUS) OF MEDIASTINAL AND/OR HILAR LYMPH NODES WITHOUT BIOPSY
-31654 Radial EBUS for peripheral lesion
-31899NFD BRONCHOSCOPY W/ APPLICATION OF TRANEXAMIC ACID
- 
- 
-IP [REDACTED] CODE MOD DETAILS: 
-Unusual Procedure:
-This patient required a Transbronchial Cryo biopsies, Robotic Navigation to more than one site, and Radial EBUS performed at multiple locations. This resulted in >40% increased work due to Technical difficulty of procedure and Physical and mental effort required. Apply to: 31628 TBBX single lobe     
-31629 TBNA single lobe   
-31627 Navigational Bronchoscopy (computer assisted). 
- 
-ANESTHESIA: 
-General Anesthesia
- 
-MONITORING : Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
- 
-INSTRUMENT : 
-Flexible Therapeutic Bronchoscope
-Linear EBUS 
-Radial EBUS
-Ion Robotic Bronchoscope
- 
-ESTIMATED BLOOD LOSS:   None
- 
-COMPLICATIONS:    None
- 
-PROCEDURE IN DETAIL:
-After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).   
- 
-PATIENT POSITION: . 
- 
-Initial Airway Inspection Findings:
-CT Chest scan was placed on separate planning station to generate 3D rendering of the pathway to target.   The navigational plan was reviewed and verified.  This was then loaded into robotic bronchoscopy platform. 
- 
-Successful therapeutic aspiration was performed to clean out the Right Mainstem, Bronchus Intermedius , and Left Mainstem from mucus. 
- 
-Ventilation Parameters:
-Mode	RR	TV	PEEP	FiO2	Flow Rate	Pmean
-vcv	14	375	12	100	10	15
- 
-Target 1: Lingular nodule
-Robotic navigation bronchoscopy was performed with Ion platform.  Partial registration was used.    Ion robotic catheter was used to engage the Superior Segment of Lingula (LB4).  Target lesion is about 1 cm in diameter.   Under navigational guidance the ion robotic catheter was advanced to 1.0 cm away from the planned target. 
- 
-Radial EBUS was performed to confirm that the location of the nodule is Eccentric.  The following features were noted: Continuous margin  and Absence of linear-discrete air bronchogram.
- 
-Cone Beam CT was performed: 3-D reconstructions were performed on an independent workstation.  Cios Spin system was used for evaluation of nodule location.  Low dose spin was performed to acquire CT imaging.  This was passed on to Ion platform system for reconstruction and nodule location.  The 3D images was interpreted on an independent workstation (Ion).   Using the newly acquired nodule location, the Ion robotic system was adjusted to the new targeted location.   I personally interpreted the cone beam CT and 3-D reconstruction. 
- 
-Transbronchial needle aspiration was performed with 21G Needle through the extended working channel catheter.  Total 4 samples were collected.  Samples sent for Cytology.
- 
-Transbronchial biopsy was performed with alligator forceps the extended working channel catheter.  Total 1 samples were collected.  Samples sent for Pathology.
- 
-Transbronchial cryobiopsy was performed with 1.1mm cryoprobe via the extended working channel catheter.  Freeze time of 6 seconds were used.  Total 6 samples were collected.  Samples sent for Pathology.
- 
-Transbronchial brushing was performed with Protected cytology brush the extended working channel catheter.  Total 1 samples were collected.  Samples sent for Microbiology (Cultures/Viral/Fungal).
- 
-Bronchial alveolar lavage was performed the extended working channel catheter.  Instilled 20 cc of NS, suction returned with 10 cc of NS.  Samples sent for Microbiology (Cultures/Viral/Fungal).
- 
-Fiducial marker (0.8mm x 3mm soft tissue gold CIVCO) was loaded with bone wax and placed under fluoroscopy guidance. Prior to withdraw of the bronchoscope. 
- 
-ROSE from ION procedure was noted to be:
-Conclusive evidence of malignant neoplasm
- 
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding.
- 
-Target 2: LUL anterior
-Robotic navigation bronchoscopy was performed with Ion platform.  Partial registration was used.    Ion robotic catheter was used to engage the Anterior Segment of LUL (LB3).  Target lesion is about 1 cm in diameter.   Under navigational guidance the ion robotic catheter was advanced to 1.0 cm away from the planned target. 
- 
-Radial EBUS was performed to confirm that the location of the nodule is Eccentric.  The following features were noted: Continuous margin  and Absence of linear-discrete air bronchogram.
- 
-Cone Beam CT was performed: 3-D reconstructions were performed on an independent workstation.  Cios Spin system was used for evaluation of nodule location.  Low dose spin was performed to acquire CT imaging.  This was passed on to Ion platform system for reconstruction and nodule location.  The 3D images was interpreted on an independent workstation (Ion).   Using the newly acquired nodule location, the Ion robotic system was adjusted to the new targeted location.   I personally interpreted the cone beam CT and 3-D reconstruction. 
- 
-Transbronchial needle aspiration was performed with 21G Needle through the extended working channel catheter.  Total 6 samples were collected.  Samples sent for Cytology.
- 
-Cryobiopsy was attempted but was technically challenging - unable to penetrate the airway wall to achieve consistent biopsy.
- 
-Bronchial alveolar lavage was performed the extended working channel catheter.  Instilled 60 cc of NS, suction returned with 15 cc of NS.  Samples sent for Cell Count, Microbiology (Cultures/Viral/Fungal), and Cytology.
- 
-ROSE from ION procedure was noted to be:
-Conclusive evidence of malignant neoplasm
- 
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding.
- 
-200mg of TXA was placed into LUL to achieve hemostasis. 
- 
-EBUS-Findings
-Indications: Diagnostic
-Technique:
-All lymph node stations were assessed. Only those 5 mm or greater in short axis were sampled.
- 
-Lymph node sizing was performed by EBUS.
- 
-Lymph Nodes/Sites Inspected: 4R (lower paratracheal) node
-4L (lower paratracheal) node
-7 (subcarinal) node
-10R lymph node
-10L lymph node
-11Rs lymph node
-11Ri lymph node
-11L lymph node
- 
-No immediate complications
- 
-Endobronchial ultrasound (EBUS) elastography was performed to assess lymph node stiffness and tissue characteristics. Elastography provided a semi-quantitative classification (Type 1–3), which was used to guide biopsy site selection and sampling strategy. 
- 
-Lymph Nodes Evaluated:
-Site 1: The 4L (lower paratracheal) node was < 10 mm on CT  and Non-Hypermetabolic via PET-CT scan. The lymph node was photographed. The site was not sampled: Sampling this lymph node was not clinically indicated. Endobronchial ultrasound (EBUS) elastography was performed to assess lymph node stiffness and tissue characteristics. The target lymph node demonstrated a Type 1 elastographic pattern, predominantly soft (green/yellow), suggesting a reactive or benign process.
- 
- 
-Site 2: The 7 (subcarinal) node waswas < 10 mm on CT  and Non-Hypermetabolic via PET-CT scan. The lymph node was photographed. The site was not sampled: Sampling this lymph node was not clinically indicated. Endobronchial ultrasound (EBUS) elastography was performed to assess lymph node stiffness and tissue characteristics. The target lymph node demonstrated a Type 1 elastographic pattern, predominantly soft (green/yellow), suggesting a reactive or benign process.
- 
-All other lymph node stations did not have any detectable lymph nodes noted. 
- 
- 
-The patient tolerated the procedure well.  There were no immediate complications.  At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition. 
- 
-SPECIMEN(S): 
-TBNA, TBCBX, Brush, BAL lingula nodule
-TBNA LUL nodule.
- 
-IMPRESSION/PLAN: [REDACTED]is a 88 year old-year-old female who presents for bronchoscopy for lung nodules.
-- f/u in clinic for results
- 
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
+
+DATE OF PROCEDURE: [Date] CC Referred Physician: [Name / Self, Referred]
+
+INDICATION FOR OPERATION [REDACTED] is a 88-year-old female who presents with lung nodules requiring bronchoscopic diagnosis. The nature, purpose, risks, benefits, and alternatives to Bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was signed.
+
+CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
+
+PREOPERATIVE DIAGNOSIS
+
+R91.1 Solitary Lung Nodule 
+
+POSTOPERATIVE DIAGNOSIS
+
+R91.1 Solitary Lung Nodule 
+
+Malignant neoplasm (ROSE confirmation for Lingula and LUL nodules) 
+
+PROCEDURE
+
+Robotic navigational bronchoscopy (Ion) to Lingula and LUL targets 
+
+Radial EBUS (rEBUS) localization 
+
+Cone-beam CT imaging (Cios Spin) with trajectory adjustment and confirmation 
+
+TBNA of Lingula and LUL targets 
+
+Transbronchial cryobiopsy of Lingula target 
+
+Transbronchial biopsy (forceps) and brushing of Lingula target 
+
+Bronchoalveolar lavage (BAL) 
+
+Fiducial marker placement (Lingula) 
+
+EBUS mediastinal/hilar lymph node survey (inspection only) 
+
+ATTENDING [Name]
+
+ASSISTANT [Fellow name]
+
+SUPPORT STAFF RN: [Name] RT: [Name]
+
+ANESTHESIA General Anesthesia 
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+INSTRUMENTATION Flexible Therapeutic Bronchoscope; Linear EBUS; Radial EBUS; Ion Robotic Bronchoscope; Cios Spin System.
+
+ESTIMATED BLOOD LOSS None 
+
+COMPLICATIONS None 
+
+PROCEDURE IN DETAIL After successful induction of anesthesia, a timeout was performed confirming patient identity, planned procedures, and procedure location. Patient position: [Supine]. Initial airway inspection: Successful therapeutic aspiration was performed to clean out the Right Mainstem, Bronchus Intermedius, and Left Mainstem from mucus. A CT-based navigation plan was loaded into the robotic bronchoscopy platform.
+
+Target 1: Lingular Nodule Robotic navigation bronchoscopy was performed with the Ion platform using partial registration. The Ion robotic catheter was used to engage the Superior Segment of the Lingula (LB4).
+
+Target: Lesion is approximately 1 cm in diameter. Catheter advanced to 1.0 cm from target under navigational guidance.
+
+
+rEBUS: Radial EBUS confirmed an Eccentric signal. Features noted: Continuous margin and absence of linear-discrete air bronchogram.
+
+Cone-beam CT (Cios Spin): A low-dose spin was performed. 3D reconstructions on an independent workstation were interpreted by the attending.
+
+
+Adjustment: The system was updated with the acquired nodule location and the robotic catheter was adjusted to the new target.
+
+Sampling:
+
+TBNA: 21G needle; 4 samples collected.
+
+Transbronchial Biopsy: Alligator forceps; 1 sample collected.
+
+Cryobiopsy: 1.1mm cryoprobe, 6-second freeze time; 6 samples collected.
+
+Brushing: Protected cytology brush; 1 sample collected.
+
+
+BAL: 20 cc NS instilled, 10 cc returned.
+
+
+Fiducial: One 0.8mm x 3mm soft tissue gold marker was placed under fluoroscopy guidance.
+
+
+ROSE: Conclusive evidence of malignant neoplasm. No bleeding was noted prior to withdrawal.
+
+Target 2: LUL Anterior Nodule Robotic navigation was performed to the Anterior Segment of LUL (LB3).
+
+Target: Lesion is approximately 1 cm in diameter. Catheter advanced to 1.0 cm from target.
+
+
+rEBUS: Radial EBUS confirmed an Eccentric signal. Features noted: Continuous margin and absence of linear-discrete air bronchogram.
+
+
+Cone-beam CT (Cios Spin): Spin performed, 3D images interpreted, and catheter position adjusted/confirmed.
+
+Sampling:
+
+TBNA: 21G needle; 6 samples collected.
+
+
+Cryobiopsy: Attempted but technically challenging; unable to penetrate airway wall for consistent biopsy.
+
+
+BAL: 60 cc NS instilled, 15 cc returned.
+
+
+ROSE: Conclusive evidence of malignant neoplasm.
+
+
+Hemostasis: 200mg of Tranexamic Acid (TXA) was placed in the LUL to achieve hemostasis. No evidence of bleeding upon inspection.
+
+EBUS STAGING The EBUS bronchoscope was introduced. All lymph node stations were assessed. Technique: Only nodes ≥5 mm in short axis were considered for sampling. EBUS elastography was performed to assess tissue stiffness (Type 1-3).
+
+
+Stations Inspected: 4R, 4L, 7, 10R, 10L, 11Rs, 11Ri, 11L.
+
+Site 1 - Station 4L: <10 mm on CT, Non-Hypermetabolic on PET. Elastography Type 1 (soft/benign). Not sampled (not clinically indicated).
+
+Site 2 - Station 7: <10 mm on CT, Non-Hypermetabolic on PET. Elastography Type 1 (soft/benign). Not sampled (not clinically indicated).
+
+
+Other Stations: No detectable lymph nodes noted in other stations.
+
+No immediate complications. The patient was extubated in the operating room and transported to recovery in stable condition.
+
+SPECIMENS
+
+Lingula nodule: TBNA (4 samples), TBBX (1 sample), Cryobiopsy (6 samples), Brush (1 sample) — Pathology/Cytology.
+
+Lingula nodule: BAL — Microbiology.
+
+LUL nodule: TBNA (6 samples) — Cytology.
+
+LUL nodule: BAL — Cell Count, Microbiology, Cytology.
+
+IMPRESSION / PLAN
+
+88-year-old female with bilateral lung nodules successfully sampled via Robotic Bronchoscopy.
+
+Lingula Nodule: ROSE conclusive for malignant neoplasm. Fiducial marker placed.
+
+LUL Anterior Nodule: ROSE conclusive for malignant neoplasm.
+
+EBUS Staging: Complete inspection performed; no nodes met criteria for sampling (benign elastography/size/PET features).
+
+Follow-up in clinic for final pathology results.

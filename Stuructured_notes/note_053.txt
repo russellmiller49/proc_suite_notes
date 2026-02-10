@@ -1,41 +1,65 @@
-NOTE_ID:  note_053 SOURCE_FILE: note_053.txt Pre-Op Diagnosis: Respiratory failure, on VV ECMO, CTEPH, acute PE, RV failure, reintubation
- 
-Post-Op Diagnosis: Same
- 
-Procedure: Tracheostomy, modified open/percutaneous
+INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
-Brief Clinical Note: 
-49F w/polycythemia vera with JAK2 mutation and prior thrombogenic events p/w SOB/CP found to have group 4 CTEPH w/ massive PEs w/RV strain/thrombus 12/1 (Loma Linda) s/p failed/incomplete IR thrombectomy c/b Lt CVA s/p neuroIR thrombectomy 12/3 further c/b CV decompensation s/p Lt fem VA ECMO w/DPC 12/4, failed wean 12/10 so converted to VV ECMO. Extubated 12/11. S/p oxygenator exchange 12/12. Re-intubated 12/14 2/2 secretions. 12/15 bronch, AF RVR. New LLE DVT on bival 12/16 though was ECMO cannula there.  From her Lt MCA CVA has Rt hemiplegia 
- 
-In need of tracheostomy to assist with ventilator weaning, secretion management, and ongoing potential rehabilitation. Primary team, ICU team, and family in agreement. Ventilator settings, labs, and body habitus adequate for bedside procedure. Has slightly high riding innominate artery (though not classic) as well as a large bridging neck vein. VV ECMO/DVT/PE anticoagulation held and will restart shortly thereafter. Consent signed.
- 
-Details of Procedure Performed:  
- 
-The patient remained in the ICU with a previously placed single-lumen endotracheal tube. The patient was positioned supine with a padded shoulder roll in place, the head of bed elevated, and the neck moderately extended. A surgical brief was performed and the level of inspired fraction of oxygen was reduced to 40%. Patient remained on VV ECMO support. After adequate anesthesia, landmarks were palpated including the thyroid notch, cricoid, and suprasternal notch. Neck ultrasound was performed to confirm vascular anatomy. Exposure was excellent. The anterior neck was prepped and draped in the standard fashion. 
- 
-A surgical time out was performed. 5mL of 1% lidocaine was injected 2-3 cm above the sternal notch. It was made higher due to the known partially high-riding innominate. A 3cm horizontal skin incision was made with a #15 blade knife in a natural, relaxed skin tension line midway between the cricoid cartilage and the sternal notch. Bovie cautery was used to dissect through the platysma and down to the strap muscles, with effort made to avoid the anterior jugular veins. There were two vertical engorged veins along the midline raphe with a bridging vein between then. The bridging vein was dissected, suture ligated, and divided. This allowed visualization of the midline raphe. The strap muscles were separated vertically at the midline with Bovie cautery. The strap muscles are retracted laterally. Using a combination of blunt and careful cautery midline dissection, the anterior tracheal wall was freed of soft tissue. The innominate artery was identified and protected. There was good soft tissue between the innominate and the trachea which was not disturbed.  The trachea was palpated to find the 2nd and 3rd tracheal rings. There was adequate distance between the innominate artery and the planned insertion site. 
- 
-Under bronchoscopic guidance, the endotracheal tube cuff was deflated and was pulled back below the level of the vocal cords. A finder needle was placed through the anterior trachea between the 2nd and 3rd cartilaginous rings.  Once confirmed by bronchoscopy, a seldinger technique was used to serially dilate the tracheotomy over a wire and to place a # 7 cuffed shiley tracheostomy. The tracheostomy cuff was inflated. Cross table ventilation was performed and the tracheostomy placement was confirmed by bronchoscopy through the tracheostomy as well as CO2 return on the anesthesia monitor. The tracheostomy inner cannula was then placed. Surgicel was placed in the wound bed though hemostasis was great but plan to resume anticoagulation very shortly. The tracheostomy was secured with loose 2-0 prolene sutures to the skin and tracheostomy straps to maintain airway but prevent skin pressure injuries. The endotracheal tube was then withdrawn completely. The tracheostomy obturator was provided to the bedside care team. The patient remained in the ICU in critical condition. There were no complications.
- 
-At the end of the procedure, I contacted her husband Carl Pinell at 626-991-6311 
- 
-EBL: 1ml
- 
-Fluids: per anesthesia record
- 
-Specimens: none
- 
-Implants: none
- 
-Drains: none
- 
-Complications: none immediately apparent
- 
-Disposition: stable, ventilated, remained in ICU, on VV ECMO
- 
-Plan: 
-Okay to resume bival in 1 hour
-Trach ties to stay for 7-10 days
-No need for routine trach exchange within first 14 day if not having issues
-Do not over inflate the cuff 
- 
+DATE OF PROCEDURE: [Current Date] ATTENDING PHYSICIAN: [Name]
+
+INDICATION FOR OPERATION The patient is a 49-year-old female with polycythemia vera (JAK2 mutation) and a history of thrombogenic events. She presented with shortness of breath and chest pain and was found to have group 4 CTEPH with massive PEs and RV strain. Her course was complicated by a left CVA following failed thrombectomy and subsequent RV failure requiring VA ECMO, which was converted to VV ECMO on 12/10. The patient requires a tracheostomy to assist with ventilator weaning, secretion management, and rehabilitation.
+
+CONSENT The primary team, ICU team, and family were in agreement with the procedure. The nature, purpose, risks, and benefits were discussed. Consent was signed.
+
+PREOPERATIVE DIAGNOSIS
+
+Respiratory failure on VV ECMO 
+
+CTEPH, Acute PE, RV Failure 
+
+Left MCA CVA with right hemiplegia 
+
+POSTOPERATIVE DIAGNOSIS
+
+Same 
+
+PROCEDURE
+
+Modified open/percutaneous tracheostomy 
+
+Bronchoscopic guidance 
+
+ANESTHESIA Local anesthesia with sedation/analgesia as per ICU protocol.
+
+ESTIMATED BLOOD LOSS 1 mL 
+
+COMPLICATIONS None immediately apparent 
+
+DISPOSITION Stable, ventilated, remained in ICU, on VV ECMO 
+
+PROCEDURE IN DETAIL
+
+Preparation and Exposure The patient remained in the ICU on VV ECMO support. She was positioned supine with a padded shoulder roll, head elevated, and neck moderately extended. A surgical timeout was performed. The anterior neck was prepped and draped in the standard sterile fashion.
+
+Neck ultrasound was performed to confirm vascular anatomy. A slightly high-riding innominate artery and a large bridging neck vein were identified. 5 mL of 1% lidocaine was injected 2-3 cm above the sternal notch; the injection site was adjusted higher due to the known partially high-riding innominate artery.
+
+Incision and Dissection A 3 cm horizontal skin incision was made with a #15 blade in a relaxed skin tension line midway between the cricoid cartilage and the sternal notch. Bovie cautery was used to dissect through the platysma down to the strap muscles, avoiding the anterior jugular veins. Two vertical engorged veins were identified with a bridging vein between them. The bridging vein was dissected, suture ligated, and divided to allow visualization of the midline raphe.
+
+The strap muscles were separated vertically at the midline with Bovie cautery and retracted laterally. Using blunt and careful cautery dissection, the anterior tracheal wall was freed of soft tissue. The innominate artery was identified and protected; the soft tissue between the artery and trachea was left undisturbed.
+
+Tracheostomy Placement The trachea was palpated to identify the 2nd and 3rd tracheal rings, ensuring adequate distance from the innominate artery. Under bronchoscopic guidance, the endotracheal tube cuff was deflated and withdrawn to a level below the vocal cords. A finder needle was placed through the anterior trachea between the 2nd and 3rd cartilaginous rings.
+
+Once position was confirmed by bronchoscopy, a Seldinger technique was used to serially dilate the tract over a wire. A #7 cuffed Shiley tracheostomy tube was placed.
+
+Confirmation and Closure The tracheostomy cuff was inflated. Cross-table ventilation was performed, and placement was confirmed by both bronchoscopic visualization through the tracheostomy and CO2 return on the monitor. The inner cannula was inserted.
+
+Surgicel was placed in the wound bed for hemostasis, anticipating the resumption of anticoagulation. The tracheostomy was secured with loose 2-0 prolene sutures to the skin and tracheostomy straps. The endotracheal tube was withdrawn completely.
+
+IMPRESSION / PLAN
+
+Successful placement of #7 Shiley tracheostomy via modified open/percutaneous technique.
+
+Okay to resume bivalirudin (anticoagulation) in 1 hour.
+
+Trach ties to remain for 7-10 days.
+
+No routine trach exchange within the first 14 days unless issues arise.
+
+Avoid over-inflation of the cuff.
+
+Husband notified of successful procedure.

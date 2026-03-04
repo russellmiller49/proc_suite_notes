@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:29
+# id: ip_preporter_prompts:13
+
+ion robotic bronchoscopy for RML 2.5cm mass abutting the fissure. Navigation successful but radial probe eccentric despite multiple catheter adjustments. CBCT shows tool adjacent to lesion. Proceeded with 5 needle biopsies ROSE + malignant. 3 cryobiopsies 1.1mm probe. Staging EBUS 7 (8.4mm) 5 passes 22g 25g ROSE adequate negative, 4R (6.1mm) 4 passes 22g ROSE adequate negative. No complications

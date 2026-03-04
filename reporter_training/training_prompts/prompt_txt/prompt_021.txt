@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:47
+# id: ip_preporter_prompts:21
+
+Therapeutic bronchoscopy for LUL obstruction. Electrocautery snare resection of endobronchial tumor. APC for base coagulation. Balloon dilation of residual stenosis to 10mm. Approximately 70% lumen restored. Tumor sent for pathology. Moderate bleeding controlled with electrocautery and cold saline. No other complications

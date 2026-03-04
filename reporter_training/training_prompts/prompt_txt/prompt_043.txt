@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:95
+# id: ip_preporter_prompts:43
+
+Medical thoracoscopy right side for diagnosis and pleurodesis. 1500ml serous fluid drained. Inspection showed thickened parietal pleura with nodular deposits. 10 biopsies taken with rigid forceps. Talc poudrage 4g sterile talc. 28Fr chest tube to wall suction. ROSE showed epithelioid cells consistent with mesothelioma. No complications

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:41
+# id: ip_preporter_prompts:18
+
+Rigid bronchoscopy with silicone Y-stent placement for malignant obstruction of distal trachea and bilateral mainstem. Debulked tumor with rigid barrel and electrocautery. Placed 18/14/14mm Dumon Y-stent. Good positioning confirmed with flex bronch. Patent bilateral airways. No complications

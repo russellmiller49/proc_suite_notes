@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:45
+# id: ip_preporter_prompts:20
+
+Rigid and flex bronch for RMS metallic SEMS removal. Stent in place for 6 months post radiation. Granulation tissue at proximal and distal ends. Used rat tooth forceps and cryo to extract stent in 3 pieces. APC to granulation tissue. Airway patent post removal approximately 90% lumen. No complications

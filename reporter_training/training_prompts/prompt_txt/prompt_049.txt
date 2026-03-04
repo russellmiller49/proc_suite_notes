@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:109
+# id: ip_preporter_prompts:49
+
+ion robotic bronchoscopy LUL lingula 1.5cm nodule. Navigation successful. Radial probe concentric. CBCT confirmed tool in lesion. 4 needle biopsies ROSE nondiagnostic. 4 cryobiopsies 1.1mm probe. Moderate bleeding managed with bronchial blocker and cold saline. ROSE re-evaluation of cryo specimens + suspicious. No staging EBUS performed given small size T1a. Post procedure CXR no pneumothorax. Patient monitored for 2 hours post

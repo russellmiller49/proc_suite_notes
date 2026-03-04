@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:75
+# id: ip_preporter_prompts:34
+
+Bronchoscopy for BLVR assessment bilateral upper lobes. Chartis RUL CV negative. Chartis LUL initially indeterminate, repeated and CV negative. Target lobe selection: RUL based on quantitative CT showing greatest destruction and volume. Proceeded with 3 Zephyr valves RB1 5.5 RB2 5.5 RB3 4.0. Complete occlusion confirmed. No complications. Admitted for monitoring

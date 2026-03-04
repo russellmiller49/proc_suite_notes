@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:13
+# id: ip_preporter_prompts:5
+
+Linear EBUS for restaging after neoadjuvant chemo. Previously positive 4R now 4R (6.2mm) 5 passes 22g and 25g ROSE negative, 7 (5.5mm) 5 passes 22g ROSE negative, 4L (4.8mm) 3 passes 22g ROSE negative. All stations adequate for evaluation per ROSE. No complications

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:39
+# id: ip_preporter_prompts:17
+
+Rigid and flex bronch for malignant central airway obstruction. Near complete obstruction of left mainstem by endobronchial tumor. Rigid bronch mechanical coring debulking followed by electrocautery snare removal of residual tumor. APC for hemostasis. Restored approximately 80% of LMS lumen. Flex bronch showed patent LUL and LLL. No complications

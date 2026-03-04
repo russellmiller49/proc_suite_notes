@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:77
+# id: ip_preporter_prompts:35
+
+BLVR valve removal for persistent pneumothorax. Patient developed PTX day 2 post valve placement RUL. Chest tube placed. Persistent air leak despite 5 days. Decision to remove valves. All 3 valves RUL removed without difficulty. Air leak resolved within hours. Chest tube removed next day. Will reassess for future BLVR candidacy

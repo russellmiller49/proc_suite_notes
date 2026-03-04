@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:31
+# id: ip_preporter_prompts:14
+
+Diagnostic bronchoscopy for hemoptysis. Airway inspection revealed blood in RLL with active oozing from RB6. Cold saline lavage x3 with resolution of bleeding. BAL sent for cytology. No endobronchial lesion identified. Mucosa appeared friable. No other complications

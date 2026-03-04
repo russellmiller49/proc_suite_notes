@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:43
+# id: ip_preporter_prompts:19
+
+Flex bronch for whole lung lavage right side for PAP. Total lavage volume 15L warm saline. Return initially turbid clearing to near clear by end. Patient tolerated well on double lumen ETT. Left lung lavage planned for next week. No complications

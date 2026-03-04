@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:35
+# id: ip_preporter_prompts:16
+
+Robotic bronchoscopy LUL apicoposterior 1.9cm nodule. Navigation successful. Radial probe concentric. CBCT confirmed tool in lesion. 4 needle biopsies ROSE nondiagnostic. Repositioned catheter, repeat CBCT confirmed good position. 3 additional needle biopsies ROSE now + atypical. 4 cryobiopsies 1.1mm. No complications

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:83
+# id: ip_preporter_prompts:37
+
+Tunneled pleural catheter placement right side for malignant pleural effusion. Ultrasound guided. Safe triangle approach. Tunneled catheter placed with good drainage of 1500ml serous fluid. Catheter secured and dressed. Drained additional 500ml over 2 hours. Patient educated on home drainage. No complications

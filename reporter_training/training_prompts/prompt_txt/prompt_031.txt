@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:69
+# id: ip_preporter_prompts:31
+
+Bronchoscopy for BLVR evaluation. Chartis assessment of RUL showed collateral ventilation positive. Assessed RLL and Chartis CV negative. Will proceed with RLL valve placement as target lobe instead. Procedure aborted for today, will discuss with patient and schedule RLL BLVR

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:11
+# id: ip_preporter_prompts:4
+
+Flex bronch with BAL and TBBx for suspected ILD. BAL from RML 3 aliquots 60ml each, return approx 55%. TBBx from RLL x6 with fluoroscopy. Small amount bleeding controlled with suction, no pneumothorax on post procedure CXR

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:73
+# id: ip_preporter_prompts:33
+
+BLVR RUL with Zephyr valves. Chartis assessment CV negative confirmed. Placed RB1 5.5, RB2 4.0, RB3 4.0. Complete lobar occlusion confirmed on bronchoscopy. Patient tolerated well. Admitted for observation. Post procedure CXR shows no pneumothorax, early volume loss RUL. No complications

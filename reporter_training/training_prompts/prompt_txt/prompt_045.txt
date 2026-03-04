@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:99
+# id: ip_preporter_prompts:45
+
+PleurX catheter placement left side followed by talc slurry pleurodesis through the catheter. 1200ml drained initially. 5g talc slurry instilled through catheter and clamped for 2 hours. Patient rotated q15 min. Moderate pleuritic pain managed with IV morphine. Catheter unclamped after 2 hours with additional 200ml drained. No other complications

@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:93
+# id: ip_preporter_prompts:42
+
+Bilateral tunneled pleural catheters for refractory hepatic hydrothorax. Right side 1100ml drained, left side 800ml drained. Both catheters tunneled and secured. Patient educated on drainage schedule 3x/week or as needed. No complications

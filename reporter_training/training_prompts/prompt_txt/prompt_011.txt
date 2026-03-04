@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:25
+# id: ip_preporter_prompts:11
+
+EBUS for suspected lymphoma. 4R (22mm) 5 passes 22g and 25g needle plus 19g needle x3 for flow cytometry and core, ROSE atypical lymphoid. 7 (16mm) 5 passes 22g and 25g plus 19g x2 for flow. 4L (18mm) 3 passes 22g. Samples sent for flow cytometry, immunohistochemistry, and cytology. No complications

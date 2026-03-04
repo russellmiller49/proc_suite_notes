@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:105
+# id: ip_preporter_prompts:47
+
+Flex bronch with EBUS and pleural catheter. EBUS-TBNA 4R (9.1mm) 5 passes 22g 25g ROSE adequate, 7 (7.8mm) 4 passes 22g ROSE adequate for restaging. Followed by US-guided right TPC placement, 1400ml serosanguinous drained. No complications

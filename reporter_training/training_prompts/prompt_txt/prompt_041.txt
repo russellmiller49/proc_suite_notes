@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:91
+# id: ip_preporter_prompts:41
+
+Ultrasound guided chest tube placement for complicated parapneumonic effusion right side. Complex effusion with septations on US. 14Fr pigtail catheter placed under US guidance into largest pocket. 450ml purulent fluid drained. tPA/DNase protocol initiated 10mg tPA and 5mg DNase q12h x3 days. No complications

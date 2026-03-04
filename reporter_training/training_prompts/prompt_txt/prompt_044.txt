@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:97
+# id: ip_preporter_prompts:44
+
+Percutaneous pleural biopsy with Abrams needle left side. US guided for pleural thickening with small effusion. 3 biopsy passes posterior mid chest. Adequate tissue obtained. Samples sent for histology, AFB culture, and TB PCR. Small amount of oozing controlled with pressure. No pneumothorax on post procedure imaging

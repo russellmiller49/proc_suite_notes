@@ -1,0 +1,4 @@
+# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:51
+# id: ip_preporter_prompts:23
+
+Rigid bronchoscopy emergent for foreign body aspiration. Chicken bone lodged in bronchus intermedius. Extracted with optical forceps via rigid barrel. Mucosa edematous and mildly erythematous but intact. Distal airways cleared of secretions. No complications

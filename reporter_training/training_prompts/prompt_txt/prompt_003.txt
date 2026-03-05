@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:9
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:9
 # id: ip_preporter_prompts:3
 
 Robotic bronchoscopy RLL 3.1cm mass. Navigation successful radial probe concentric on first attempt. CBCT confirming tool in lesion. 5 needle aspirates ROSE + malignant followed by 4 cryobiopsies 1.1mm probe. Staging EBUS 7 (9.1mm) 5 passes 22g and 25g ROSE adequate, 4R (7.3mm) 5 passes 22g and 25g ROSE malignant, 11R (5.8mm) 3 passes 22g ROSE adequate. No complications

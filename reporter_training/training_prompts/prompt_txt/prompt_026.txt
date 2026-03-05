@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:57
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:57
 # id: ip_preporter_prompts:26
 
 Rigid bronchoscopy with SEMS placement LMS for extrinsic compression from NSCLC. Uncovered 14x40mm metallic stent deployed across LMS stenosis. Good expansion confirmed on bronchoscopy and fluoroscopy. Patent LUL and LLL. No complications

@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:85
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:85
 # id: ip_preporter_prompts:38
 
 Ultrasound guided thoracentesis left side. Large free-flowing effusion. 18g needle inserted posteriorly under real-time US guidance. 1800ml straw colored fluid removed. Stopped due to patient cough. Fluid sent for cell count, chemistry, cytology, culture, pH, LDH, protein, glucose. No pneumothorax on post procedure US. No complications

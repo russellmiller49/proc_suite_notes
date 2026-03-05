@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:19
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:19
 # id: ip_preporter_prompts:8
 
 Flex bronch with navigational bronchoscopy electromagnetic navigation for RML 2.0cm nodule. Navigation to target, radial probe eccentric view. Adjusted position to concentric. TBBx x5 with fluoroscopy, brushings x2, ROSE + suspicious for malignancy. No complications

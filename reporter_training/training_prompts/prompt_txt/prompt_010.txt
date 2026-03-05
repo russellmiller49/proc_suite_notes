@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:23
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:23
 # id: ip_preporter_prompts:10
 
 Robotic bronchoscopy bilateral nodules. First target RUL 1.6cm nodule navigation successful radial probe concentric CBCT confirmed. 3 needle biopsies ROSE + malignant, 3 cryobiopsies 1.1mm. Second target LLL 1.2cm nodule navigation successful radial probe concentric CBCT confirmed. 3 needle biopsies ROSE + atypical, 3 cryobiopsies 1.1mm. No staging needed given bilateral. No complications

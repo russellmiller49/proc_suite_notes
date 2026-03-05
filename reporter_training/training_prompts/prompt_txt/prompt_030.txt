@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:67
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:67
 # id: ip_preporter_prompts:30
 
 BLVR valve placement LUL heterogeneous emphysema. Chartis CV negative. Four Zephyr valves placed: LB1+2 size 5.5, LB3 size 5.5, LB4 size 4.0, LB5 size 4.0. Complete lobar exclusion confirmed. No complications. Admitted for 3 day pneumothorax watch

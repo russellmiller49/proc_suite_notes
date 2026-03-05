@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:33
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:33
 # id: ip_preporter_prompts:15
 
 EBUS-TBNA combined with EUS-B for complete mediastinal staging. EBUS: 4R (7.8mm) 5 passes 22g 25g ROSE adequate, 7 (6.3mm) 4 passes 22g ROSE adequate. EUS-B: 8 (9.2mm) 4 passes 22g ROSE adequate, 9 (7.1mm) 3 passes 22g ROSE adequate. All stations negative for malignancy. No complications

@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:17
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:17
 # id: ip_preporter_prompts:7
 
 Conventional EBUS for left hilar mass with mediastinal adenopathy. Direct EBUS-TBNA of left hilar mass (28mm) 5 passes 22g and 25g ROSE malignant NSCLC. 7 (15mm) 5 passes 22g and 25g ROSE malignant, 4L (11mm) 5 passes 22g and 25g ROSE malignant. Right sided 4R (5.1mm) 3 passes 22g ROSE adequate negative. No complications

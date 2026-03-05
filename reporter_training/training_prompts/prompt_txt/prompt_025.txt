@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:55
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:55
 # id: ip_preporter_prompts:25
 
 Flex bronch laser photoresection Nd:YAG for endobronchial carcinoid RUL orifice. Complete endoscopic resection of pedunculated lesion. Base treated with laser for hemostasis. Minimal bleeding. Specimen sent for pathology. Airway widely patent. No complications

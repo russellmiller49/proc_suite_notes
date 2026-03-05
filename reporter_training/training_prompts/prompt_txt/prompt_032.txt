@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:71
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:71
 # id: ip_preporter_prompts:32
 
 BLVR valve removal and replacement LUL. Previous valves placed 8 months ago with good response but one valve migrated. Removed all 4 valves. LB3 valve had migrated to LLL and was retrieved with forceps. Replaced with 4 new Zephyr valves LB1+2 5.5, LB3 5.5, LB4 4.0, LB5 4.0. Complete occlusion confirmed. No complications

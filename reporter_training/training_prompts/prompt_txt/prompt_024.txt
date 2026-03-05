@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:53
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:53
 # id: ip_preporter_prompts:24
 
 Rigid and flex bronch for complex benign tracheal stenosis. Web-like stenosis mid trachea approximately 5mm lumen. Radial incisions with electrocautery knife at 3, 9, and 12 oclock. Sequential balloon dilation to 14mm. Topical mitomycin C applied 0.4mg/ml x 4 minutes. Final lumen approximately 12mm. No complications

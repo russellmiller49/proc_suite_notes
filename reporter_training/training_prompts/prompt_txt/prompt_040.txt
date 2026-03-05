@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:89
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:89
 # id: ip_preporter_prompts:40
 
 Indwelling pleural catheter removal right side. Catheter in place for 4 months, spontaneous pleurodesis achieved. No drainage in past 3 weeks. Cuff dissected free, catheter removed intact. Site closed with suture. Dressing applied. No complications

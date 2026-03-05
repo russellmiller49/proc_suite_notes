@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:27
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:27
 # id: ip_preporter_prompts:12
 
 Flex bronch with transbronchial cryobiopsy for suspected ILD using 1.9mm cryo probe. RLL lateral basal x3 biopsies and posterior basal x2 biopsies. Fogarty balloon placed prophylactically, deployed once for moderate bleeding controlled. Specimens adequate for pathology. Post procedure CXR no pneumothorax

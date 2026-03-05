@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:61
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:61
 # id: ip_preporter_prompts:28
 
 Rigid and flex bronch for post-tracheostomy tracheal stenosis. A-shaped stenosis 2cm below stoma, approximately 6mm lumen. Mechanical dilation with rigid bronchoscope. Electrocautery radial incisions. Balloon dilation to 14mm. Mitomycin C applied. Final lumen 13mm. Silicone stent 14x30mm placed. No complications. Followup planned 6 weeks

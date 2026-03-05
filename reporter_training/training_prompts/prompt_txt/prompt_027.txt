@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:59
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:59
 # id: ip_preporter_prompts:27
 
 Therapeutic bronchoscopy for mucus plugging and lobar collapse in ICU patient. Extensive thick mucus plugging bilateral lower lobes and RML. Suctioning and lavage with saline and NAC. Restored patency to all lobar and segmental airways. Chest xray post procedure showed near complete re-expansion. No complications

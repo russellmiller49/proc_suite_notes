@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:103
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:103
 # id: ip_preporter_prompts:46
 
 Combined robotic bronchoscopy and medical thoracoscopy. First: ion robotic bronch RLL 2.8cm mass, navigation successful, radial probe concentric, CBCT confirmed, 5 needle biopsies ROSE + malignant, 4 cryobiopsies 1.1mm. Staging EBUS 7 (8.2mm) 5 passes 22g 25g ROSE malignant. Then repositioned for right medical thoracoscopy for pleural effusion. 800ml drained. Nodular parietal pleura, biopsies x6. Talc poudrage 4g. 24Fr chest tube placed. No complications

@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:107
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:107
 # id: ip_preporter_prompts:48
 
 Rigid bronch for tracheal tumor debulking followed by stent and then tunneled pleural catheter. Rigid mechanical coring of tracheal tumor, APC hemostasis. SEMS 20x40mm tracheal stent placed. Good position confirmed. Then right TPC placed for associated malignant effusion, 1600ml drained. No complications

@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:5
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:5
 # id: ip_preporter_prompts:1
 
 ion robotic bronchoscopy for LUL 1.8cm GGO. Navigation successful, radial probe eccentric view, TIL confirmed with CBCT after catheter adjustment to concentric. 3 needle biopsies with ROSE + for atypical cells followed by 4 cryobiopsies 1.1mm probe. EBUS staging 7 (5.1mm) 4 passes 22g ROSE negative, 4L (6.8mm) 3 passes 22g ROSE negative. No complications

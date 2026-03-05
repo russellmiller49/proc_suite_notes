@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:21
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:21
 # id: ip_preporter_prompts:9
 
 EBUS-TBNA 4R (6.5mm) 3 passes 22g ROSE adequate for staging known RUL squamous cell. Also sampled 7 (7.2mm) 4 passes 22g and 25g ROSE adequate. 10R (5.2mm) 3 passes 22g ROSE adequate. Airway inspection notable for extrinsic compression of RUL orifice but patent. No complications

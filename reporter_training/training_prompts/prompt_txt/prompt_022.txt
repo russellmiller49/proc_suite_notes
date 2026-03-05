@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:49
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:49
 # id: ip_preporter_prompts:22
 
 Flex bronch with cryotherapy spray ablation for low grade mucoepidermoid carcinoma RMS. Tumor debulked with cryo extraction probe followed by spray cryo x4 cycles to tumor base. Approximately 90% of visible tumor removed. Follow up bronch planned 6 weeks. No complications

@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:111
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:111
 # id: ip_preporter_prompts:50
 
 Therapeutic bronchoscopy and BLVR assessment. First addressed mucoid impaction LLL with suctioning and lavage. Then performed Chartis assessment of both upper lobes for BLVR candidacy. RUL CV negative, LUL CV positive. Plan to proceed with RUL BLVR with Zephyr valves at next procedure. No complications today

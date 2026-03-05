@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:65
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:65
 # id: ip_preporter_prompts:29
 
 BLVR with endobronchial valves RUL for severe emphysema. Chartis assessment RUL confirmed no collateral ventilation (CV negative). Three Zephyr valves placed: RB1 size 5.5, RB2 size 5.5, RB3 size 4.0. Complete lobar occlusion confirmed. Post procedure CXR no pneumothorax. Admitted for monitoring

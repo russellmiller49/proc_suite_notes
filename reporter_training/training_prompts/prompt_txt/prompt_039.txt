@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:87
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:87
 # id: ip_preporter_prompts:39
 
 Medical thoracoscopy with talc poudrage left side for recurrent malignant pleural effusion. 900ml bloody fluid drained. Thoracoscopy showed diffuse parietal and visceral pleural studding. Biopsies x6. 4g sterile talc insufflated. 24Fr chest tube placed and connected to suction. No complications

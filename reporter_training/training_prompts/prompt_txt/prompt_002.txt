@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:7
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:7
 # id: ip_preporter_prompts:2
 
 EBUS-TBNA for mediastinal lymphadenopathy. 7 (18mm) 5 passes 22g and 25g ROSE granulomas consistent with sarcoidosis, 4R (14mm) 4 passes 22g ROSE granulomas, 11L (12mm) 3 passes 22g ROSE granulomas. Airway inspection normal. No complications

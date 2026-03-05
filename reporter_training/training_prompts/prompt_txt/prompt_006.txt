@@ -1,4 +1,4 @@
-# source: /Users/russellmiller/Projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:15
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_preporter_prompts.md:15
 # id: ip_preporter_prompts:6
 
 ion robotic bronchoscopy LLL superior segment 1.4cm nodule PET avid. Navigation successful radial probe concentric. CBCT confirms tool in lesion. 4 needle biopsies ROSE + atypical then 3 cryobiopsies 1.1mm. No staging indicated given peripheral T1a. No complications

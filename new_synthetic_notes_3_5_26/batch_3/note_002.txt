@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+PROCEDURE NOTE — FLEXIBLE BRONCHOSCOPY
+[PATIENT]  Age/Sex: 54F  Date: [REDACTED]
+
+Indication: Hemoptysis, recurrent; evaluate for endobronchial source.
+Procedure: Flexible bronchoscopy (CPT 31622).
+Findings: Active blood-tinged secretions in right lower lobe (B7/B8 region). No discrete endobronchial mass. Mucosa erythematous in RLL basal segments. Bilateral airways otherwise unremarkable. BAL collected from RLL for culture/cytology.
+Impression: RLL mucosal erythema with hemoptysis; etiology uncertain. BAL sent. CT chest with contrast ordered. Follow-up in 1 week.
+Complications: None.

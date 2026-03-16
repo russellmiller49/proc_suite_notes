@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+PRE DIAGNOSIS: Subglottic stenosis.
+PROCEDURE: Rigid bronchoscopy, balloon dilation.
+ANESTHESIA: General, Jet Ventilation.
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] intubated with rigid bronchoscope.
+☑‌ Stricture seen in subglottic space.
+☐‌ Active bleeding noted.
+CRE Balloon dilation performed to 15mm for 2 minutes. Mucosa stretched. Minimal mucosal tearing.
+IMPRESSION/PLAN:
+Stenosis improved. F/u in clinic.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:127
+# id: ip_procedure_prompts_batch3:64
+
+Diagnostic bronchoscopy for hemoptysis and visible endobronchial lesion in bronchus intermedius. Washings, brushings, and forceps biopsies obtained. APC used after biopsies for hemostasis due friability. Airway remained patent.

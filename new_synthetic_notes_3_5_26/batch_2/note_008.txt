@@ -1,0 +1,13 @@
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+Lung nodule R91.1-
+Mediastinal node R59:90
+
+PROCEDURE
+Bronchoscopy 31620,, 31652-
+
+ANESTHESIA: MAC
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was brought to the room. Linear EBUS inserted. Survey showed an enlarged station 7. TBNA of station 7 performed. 4 passes. No comps.
+IMPRESSION
+Uncomplicated procedure procedure. Await path.

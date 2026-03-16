@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:141
+# id: ip_procedure_prompts_batch3:71
+
+Rigid bronchoscopy for removal of obstructing silicone stent due mucus impaction and recurrent infections. Stent removed intact, airway toileted, and no replacement placed given adequate residual lumen. BAL from LLL sent for culture.

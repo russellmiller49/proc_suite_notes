@@ -1,0 +1,24 @@
+EDGE_<<<NOTE _TAGS: ambiguous_laterality
+
+Procedure:
+Ultrasound-guided chest tube placement for pleural infection.
+
+Indication:
+Loculated left pleural effusion with fever and pleuritic pain.
+
+Findings:
+Bedside ultrasound initially documented a right-sided pocket in error; final site confirmation and procedure were performed on the left. Complex septated pleural fluid was present.
+
+Technique:
+Patient placed sitting upright. Under sterile technique and ultrasound guidance, a 12 Fr pigtail chest tube was inserted into the left pleural space using Seldinger technique. Immediate return of thick cloudy fluid. Tube secured and connected to suction.
+
+Specimens:
+Pleural fluid sent for Gram stain, culture, pH, glucose, LDH.
+
+Complications:
+None immediate.
+
+Plan:
+Maintain suction. Consider intrapleural fibrinolytic therapy depending on drainage and imaging.
+
+<<<END NOTE>>>

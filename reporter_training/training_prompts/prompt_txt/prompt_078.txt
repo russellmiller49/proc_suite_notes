@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:155
+# id: ip_procedure_prompts_batch3:78
+
+Navigational bronchoscopy for multiple pulmonary nodules with biopsy of dominant RUL lesion only. Robotic navigation successful, concentric radial view and cone-beam CT confirmation. Needle biopsies x4, forceps x5, cryobiopsy x2, BAL from same segment. No complications.

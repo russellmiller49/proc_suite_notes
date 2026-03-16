@@ -1,0 +1,23 @@
+Bronchoscopy + EBUS with station list (headings format, no codes)
+
+PRE/POST DIAGNOSIS: Mediastinal adenopathy and lung nodule
+ANESTHESIA: General anesthesia
+PROCEDURES: Bronchoscopy; EBUS-TBNA
+
+Indication:
+[PATIENT] is a 60-year-old male with PET-avid nodes.
+
+Findings:
+No endobronchial lesion. EBUS identified stations 4R and 7 as enlarged.
+
+Sampling:
+
+4R: 4 passes (22G)
+
+7: 6 passes (22G)
+
+10R: 3 passes (22G)
+
+Specimens labeled by station.
+Complications none; EBL minimal.
+Plan: Routine recovery; follow pathology.

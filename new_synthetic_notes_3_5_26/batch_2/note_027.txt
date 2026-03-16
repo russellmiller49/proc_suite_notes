@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ambiguous_laterality, noisy_units
+Indication: Evaluation of subcarinal and right paratracheal nodes.
+Consent: Obtained and documented.
+Technique: EBUS-TBNA
+Findings: Patient [NAME:REDACTED] was sedated with Fentanyl 100m mcg and Midazolam 2mg. A linear EBUS bronchoscope was introduced through the ETT. The right paratracheal node (4R) was enlarged. Wait, left paratracheal node (4L) was identified and sampled. TBNA of 4L was performed. TBNA of station 7 was also performed. Airway was otherwise patent.
+Specimens: 4R lymph node (wait, 4L lymph node), Station 7 lymph node.
+Plan: Patient tolerated the procedure well. Discharged to recovery.

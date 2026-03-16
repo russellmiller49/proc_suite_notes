@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, missing_section
+PRE/POST: R91.1 RUL apical nodule
+PROCEDURE: Bronchoscopic cryoablation via robotic bronchoscopy + radial EBUS
+ANESTHESIA: GA
+DETAILS:
+Normal airway survey. Navigation to target. Radial EBUS concentric. CBCT confirmed tool position. Cryoablation performed with freeze/thaw cycles and catheter micro-repositioning. No bleeding. duplicated phrase: “No bleeding no bleeding.”
+EBL minimal | Complications none
+SPECIMENS: (omitted)
+PLAN: CXR; CT follow-up.

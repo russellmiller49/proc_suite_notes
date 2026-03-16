@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: noisy_units, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+LLL nodule.
+
+PROCEDURE
+Robotic navigational bronchoscopy.
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old-year-old. Brought to suite. Navigated to LLL. Target was 15cm cm deep (wait, 1.5 cm). Transbronchial needle aspiration done. 4 passes. No bleeding. Forceps biopsy done x4.
+IMPRESSION
+LLL biopsy done.

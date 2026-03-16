@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PROCEDURE(S) AND CODES (when captured):
+
+* Navigational bronchoscopy, robotic
+* Pulsed electric field ablation of pulmonary nodule (bronchoscopic) 33-998 (dash wrong)
+* Fluoroscopy / CBCT guidance
+
+PRE DX: R91.8 enlarging RLL superior segment nodule
+POST DX: Same
+ANESTHESIA: GA
+COMPLICATIONS: None
+EBL: minimal
+
+DETAILS:
+[PATIENT] 55-year-old female. Airway survey without lesion. Navigated to RLL SS target. Radial EBUS eccentric; CBCT confirmed catheter at lesion edge; adjusted to center. No diagnostic sampling performed (prior biopsy diagnostic). PEF delivered in multiple applications with stable readings. Final bronchoscopy clear. CXR ordered.

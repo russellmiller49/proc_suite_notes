@@ -1,0 +1,68 @@
+EDGE_CASE_TAGS: missing_section, extreme_length
+
+INTERVENTIONAL PULMONOLOGY OPERATIVE NOTE
+PROCEDURE DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD
+INSTITUTION: [NAME:REDACTED]
+PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    AGE/SEX: 63M
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Right-sided exudative pleural effusion, recurrent (J91.8)
+  2. Suspected malignant pleural mesothelioma vs metastatic disease, R/O primary
+
+POST-PROCEDURE DIAGNOSIS:
+  1. Right-sided complex exudative effusion with loculation (J90)
+  2. Pleural biopsy specimens obtained; pathology pending
+  3. Talc slurry pleurodesis performed
+
+PROCEDURES:
+  1. Diagnostic thoracentesis with ultrasound guidance (CPT 32555)
+  2. Medical thoracoscopy (pleuroscopy) under moderate sedation (CPT 32601)
+  3. Pleural biopsy x6 (CPT 32609)
+  4. Talc slurry pleurodesis (CPT 32560)
+  5. Small-bore chest tube placement, 14 Fr (CPT 32557)
+
+ANESTHESIA: Moderate sedation. Midazolam 3 mg IV; fentanyl 150 mcg IV in divided doses; additional midazolam 1 mg at 30 min. Local anesthetic: lidocaine 1% with epinephrine 1:100,000, approximately 15 mL total infiltrated at port sites.
+
+POSITIONING AND SETUP:
+Patient positioned in left lateral decubitus, right side up. Ultrasound (Sonosite Edge II, 6–13 MHz linear probe) performed pre-procedurally: confirmed large right-sided effusion, estimated volume 850–1000 mL, with internal echogenicity and fibrin stranding noted in the dependent portion. No significant lung sliding in the right base. Entry site marked in the 6th intercostal space, mid-axillary line (MAL). Skin prepared and draped in sterile fashion. Local anesthetic infiltrated in layered fashion to pleura (confirmed by aspiration of pleural fluid prior to incision).
+
+THORACENTESIS:
+Initial diagnostic aspirate obtained: 150 mL of amber-yellow, turbid fluid. Sent for: LDH, protein, glucose, pH, cytology, AFB/fungal/bacterial culture, CEA, mesothelin. Pleural/serum LDH ratio and protein ratio to follow for Light's criteria categorization.
+
+THORACOSCOPY:
+Following initial aspirate and partial drainage, a 1.5 cm skin incision made with 15-blade scalpel at the marked site. Blunt dissection through intercostal musculature to pleural space. A 9 mm semi-rigid thoracoscope (Olympus LTF-160) inserted after digital confirmation of pleural space entry. Remaining effusion drained under direct visualization.
+
+Pleural survey:
+  - Visceral pleura: diffuse nodular thickening with multiple white plaques, 2–8 mm, studding the right lower and mid parietal pleura; visceral pleura irregular with fibrin deposits.
+  - Parietal pleura: nodular deposits along posterior chest wall and diaphragm; surface appears grossly involved.
+  - Diaphragmatic pleura: papillary projections, 3–5 mm; highly suspicious for malignant involvement.
+  - No clear mass lesion; pattern consistent with diffuse pleural carcinomatosis vs mesothelioma.
+  - Loculation present in the posterior inferior compartment; blunt breakdown of loculation performed under direct thoracoscopic visualization.
+
+Biopsies: Six biopsies obtained using large-cup thoracoscopic forceps (3 from parietal plaques, 2 from diaphragmatic projections, 1 from visceral pleural nodule). Adequate tissue volume confirmed by visual inspection.
+
+PLEURODESIS:
+Following biopsy, talc slurry prepared: 4 g sterile-graded talc (Novatech) mixed with 100 mL 0.9% NaCl; slurry instilled via thoracoscope under direct vision. Distribution confirmed visually throughout accessible pleural space. Port site temporarily sealed; patient repositioned from side to side x4 to facilitate distribution.
+
+CHEST TUBE:
+14 Fr small-bore pleural catheter (Pleuracan) placed through the thoracoscope port under direct vision and secured with 0-silk suture and adhesive dressing. Connected to water-seal drainage at -20 cm H2O.
+
+POST-PROCEDURE MANAGEMENT:
+Patient transferred to recovery. CXR obtained: moderate residual right-sided effusion, tube in satisfactory position. SpO2 98% on 2 L NC. No pneumothorax on contralateral side.
+
+SPECIMENS:
+  Tube 1: Pleural fluid (150 mL) — chemistry, cytology, cultures, biomarkers
+  Jar A: Parietal pleural biopsy x3 — formalin, H&E, IHC panel (CK5/6, WT-1, calretinin, D2-40, TTF-1, Napsin A, CEA)
+  Jar B: Diaphragmatic biopsy x2 — formalin
+  Jar C: Visceral pleural biopsy x1 — formalin + additional tissue in saline for potential flow cytometry
+
+COMPLICATIONS: None significant. Mild vasovagal response at start of procedure; resolved with brief Trendelenburg position and fluid bolus (250 mL NS). Estimated blood loss: <5 mL.
+
+IMPRESSION/PLAN:
+1. Diffuse pleural nodularity highly concerning for malignant pleural disease; mesothelioma vs pleural carcinomatosis.
+2. Six biopsies obtained; expect adequate tissue for full IHC characterization and potential molecular analysis.
+3. Talc pleurodesis performed; tube to remain until drainage <150 mL/24h, then clamp trial per nursing protocol.
+4. Results to multidisciplinary thoracic oncology tumor board.
+5. Oncology and thoracic surgery co-management; if mesothelioma confirmed, discuss HIPEC/P/D vs systemic therapy.
+6. Follow-up IP clinic 2 weeks post-discharge.

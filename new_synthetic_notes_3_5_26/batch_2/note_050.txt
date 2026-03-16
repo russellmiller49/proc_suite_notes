@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+PLAN: Keep chest tube to suction -20cmH2O.
+COMPLICATIONS: None.
+
+PRE DIAGNOSIS: Right empyema.
+PROCEDURE: Small-bore chest tube placement.
+
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] consented. Ultrasound showed a large complex right effusion with septations. Local anesthesia with 15c cc of 1% lidocaine. A 14Fr pigtail catheter was inserted via Seldinger technique. 600cc of purulent fluid drained. Secured to skin with silk suture.

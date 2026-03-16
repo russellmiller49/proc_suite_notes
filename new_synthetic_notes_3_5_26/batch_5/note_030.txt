@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, conflicting_details
+PRE DX: R91.1 solitary pulmonary nodule, LLL superior segment
+POST DX: Same
+
+PROCEDURE:
+CT-guided cryoablation of LLL SS nodule
+
+SEDATION:
+Moderate sedation documented; one header line states “General anesthesia.”
+
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Under CT guidance, two cryoprobes placed. Freeze-thaw-freeze performed. Post CT showed expected ablation zone and no pneumothorax. Patientpatient tolerated procedure well and was observed per protocol.
+
+PLAN:
+
+* CXR at 2 hours
+* CT chest 4–6 weeks

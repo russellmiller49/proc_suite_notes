@@ -1,0 +1,16 @@
+Pleural procedure: Small-bore chest tube placement
+Patient: [PATIENT], 63-year-old female with complicated left pleural effusion and fever.
+
+Procedure: Ultrasound-guided left 14 Fr pigtail catheter placement.
+Anesthesia: Local lidocaine.
+Complications: None.
+
+Details:
+Ultrasound identified a complex septated effusion with safest pocket in posterior axillary line. After sterile prep, local anesthesia, and Seldinger technique, a 14 Fr pigtail catheter was placed with immediate return of cloudy fluid. Tube secured and connected to suction at -20 cm H2O.
+
+Specimens:
+
+“Pleural fluid” for culture and chemistries.
+
+Plan:
+CXR to confirm position; flush protocol per service; consider intrapleural fibrinolytic therapy if drainage remains poor.

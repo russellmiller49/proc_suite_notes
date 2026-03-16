@@ -1,0 +1,16 @@
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DX: Tracheal stenosis (J39.8)
+
+PROCEDURE:
+
+* Bronchoscopy with laser ablation of tracheal granulation tissue (CPT “31641?? laser”)
+* Balloon dilation
+
+ANESTHESIA: GA
+
+DETAIL:
+[PATIENT] 36-year-old female with post-intubation tracheal stenosis and granulation. Bronchoscopy showed focal stenosis with granulation tissue. Laser applied in controlled fashion to granulation, followed by balloon dilation to improve airway diameter. Final inspection showed improved patency and minimal oozing.
+
+EBL: <10 mL
+COMPLICATIONS: none
+PLAN: PPI, inhaled steroid course, repeat evaluation in 4–8 weeks.

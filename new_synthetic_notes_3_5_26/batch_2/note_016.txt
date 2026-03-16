@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+PRE DIAGNOSIS: Tracheal stenosis.
+PROCEDURE: Rigid bronchoscopy, mechanical dilation, balloon dilation.
+ANESTHESIA: General.
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] intubated with rigid bronchoscope.
+☑‌ Complex web-like stricture seen in upper third of trachea.
+☐‌ Bleeding noted.
+Balloon dilation performed to 12mm. Mucosa stretched. No significant mucosal tearing.
+IMPRESSION/PLAN:
+Tracheal stenosis improved. F/u 4 weeks.

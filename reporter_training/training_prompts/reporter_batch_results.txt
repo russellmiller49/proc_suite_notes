@@ -19,17 +19,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with heterogeneous emphysema. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+heterogeneous emphysema
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+heterogeneous emphysema
 
 PROCEDURE
 
@@ -61,7 +61,9 @@ Airflow occlusion and target-lobe atelectasis were confirmed. No immediate compl
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful BLVR valve placement in the LUL with 4 valves deployed.
+
+Admitted for pneumothorax watch per BLVR protocol.
 
 ====================================================================================================
 CASE 2
@@ -78,17 +80,19 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with refractory hepatic hydrothorax.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+refractory hepatic hydrothorax
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+refractory hepatic hydrothorax
+
+Status post left tunneled pleural catheter placement
 
 PROCEDURE
 
@@ -118,6 +122,7 @@ The tunneled pleural catheter was then placed into the pleural space via the int
 PROCEDURE FINDINGS
 
 Fluid Removed: 800 mL (0.8 L)
+Appearance: Drained
 
 Chest Ultrasound Findings
 
@@ -133,12 +138,13 @@ The tunneled pleural catheter was then placed into the pleural space via the int
 PROCEDURE FINDINGS
 
 Fluid Removed: 1100 mL (1.1 L)
+Appearance: Drained
 
 IMPRESSION / PLAN
 
 Successful placement of Right Indwelling Tunneled Pleural Catheter.
 
-1.1 L of pleural fluid drained during procedure.
+1.1 L of drained drained during procedure.
 
 Catheter instructions and drainage kit provided to patient.
 
@@ -157,17 +163,19 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with airway obstruction requiring intervention. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with tracheal tumor debulking followed by stent and then tunneled pleural catheter. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+tracheal tumor debulking followed by stent and then tunneled pleural catheter
 
 POSTOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+tracheal tumor debulking followed by stent and then tunneled pleural catheter
+
+Status post right tunneled pleural catheter placement
 
 PROCEDURE
 
@@ -205,7 +213,7 @@ Catheter Placement The right chest was prepped and draped in sterile fashion. Lo
 
 Two 5 mm skin incisions were made at the guidewire entry site, as well as 5-6 cm away. The tunneling device was used to tunnel the catheter in the subcutaneous tissue. Serial dilation over the guidewire was then achieved. The introducer sheath was placed and the guidewire removed.
 
-The Other catheter was then placed into the pleural space via the introducer sheath. The pleural entry site was closed with an absorbable suture. The catheter was secured to the skin using 2-0 nylon. Sterile dressings were applied.
+The tunneled pleural catheter was then placed into the pleural space via the introducer sheath. The pleural entry site was closed with an absorbable suture. The catheter was secured to the skin using 2-0 nylon. Sterile dressings were applied.
 
 PROCEDURE FINDINGS
 
@@ -234,7 +242,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 14 mm LLL pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with a 14 mm LLL pulmonary nodule requiring bronchoscopic diagnosis and staging requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -249,12 +257,10 @@ LLL pulmonary nodule, 14 mm
 PROCEDURE
 
 Robotic navigational bronchoscopy (Ion) to LLL target
-Tool-in-lesion confirmation
-rEBUS localization (Concentric) - LLL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (LLL)
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of LLL (4 passes)
+Cone-beam CT imaging with confirmation
+TBNA of LLL target (4 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -277,7 +283,7 @@ A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
 
-rEBUS demonstrated concentric pattern. Tool-in-lesion was confirmed with Cone Beam CT.
+Tool-in-lesion was confirmed with Cone Beam CT.
 
 Localization: Radial EBUS was performed.
 Target Confirmation: rEBUS demonstrated concentric view of the lesion.
@@ -285,13 +291,9 @@ LLL Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 4 passes were obtained from the LLL target.
 
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
+Transbronchial Cryobiopsy Attention was turned to the Left Lower Lobe (LLL) for transbronchial cryobiopsy.
 
-Radial EBUS & Preparation Attention was turned to the Left Lower Lobe (LLL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A cryoprobe was utilized for sampling.
+A cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -299,7 +301,7 @@ Yield: A total of 3 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
 
 SPECIMENS
 
@@ -328,17 +330,19 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with restaging. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+restaging
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+restaging
+
+Status post right tunneled pleural catheter placement
 
 PROCEDURE
 
@@ -401,24 +405,23 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Right Main Stem (RMS) bronchus obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with RMS metallic SEMS removal. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-Right Main Stem (RMS) bronchus obstruction
+RMS metallic SEMS removal
 
 POSTOPERATIVE DIAGNOSIS
 
-Right Main Stem (RMS) bronchus obstruction
-Right Main Stem (RMS) bronchus obstruction
+RMS metallic SEMS removal
 
 PROCEDURE
 
 Rigid Bronchoscopy (Therapeutic)
 Endobronchial Tumor Destruction (APC)
-Airway Stent Placement
+Airway Stent Removal / Revision (target airway)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -435,17 +438,13 @@ COMPLICATIONS None
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 After induction of general anesthesia, a rigid bronchoscope was introduced via the mouth under direct visualization. A complete airway survey was performed.
-Therapeutic interventions performed: Argon Plasma Coagulation (APC), Airway Stent Placement.
+Therapeutic interventions performed: Argon Plasma Coagulation (APC), Airway Stent Removal / Revision.
 Hemostasis was confirmed and all instruments were withdrawn. The patient tolerated the procedure well without immediate complications.
 
 Argon Plasma Coagulation (APC): Endobronchial obstruction was treated with Argon Plasma Coagulation (APC) for tumor ablation and hemostasis.
 
-Airway Stent Placement The airway was measured to determine appropriate stent sizing. A stent was deployed across the target stenosis under bronchoscopic guidance.
-Location: Right Main Stem (RMS) bronchus.
-
-A suspected foreign body was visualized at the target airway. Retrieval was performed using Forceps, Cryoprobe.
-The object was removed. Post-removal inspection showed no significant mucosal trauma.
-Ventilation and airway patency were confirmed. The patient tolerated the procedure well.
+Airway stent removal/revision was performed in the target airway.
+Indication: Granulation tissue / stent revision. Stent details: SEMS - Uncovered. Technique: forceps, cryoprobe. Adjuncts: APC to granulation tissue, granulation tissue management. Outcome: Airway patent post removal approximately 90% lumen.
 
 IMPRESSION / PLAN
 
@@ -466,7 +465,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with a 20 mm RML pulmonary nodule. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with RML 2. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
@@ -481,11 +480,10 @@ RML pulmonary nodule, 20 mm
 PROCEDURE
 
 Electromagnetic Navigation Bronchoscopy (superDimension) to RML target
-rEBUS localization (Concentric) - RML
-Radial EBUS (Concentric view)
-Fluoroscopy with trajectory adjustment and confirmation
-Transbronchial biopsy of RML (5 samples)
-Bronchial Brush
+Radial EBUS localization (concentric view)
+Fluoroscopy with confirmation
+Transbronchial biopsy of RML target (5 samples)
+Bronchial brushings (2 samples)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -531,17 +529,18 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with complicated parapneumonic effusion right side.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+complicated parapneumonic effusion right side
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+complicated parapneumonic effusion right side
+Successful drainage of 450 mL purulent fluid
 
 PROCEDURE
 
@@ -593,21 +592,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with hemoptysis. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+hemoptysis
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+hemoptysis
 
 PROCEDURE
 
-Bronchoalveolar Lavage (BAL)
+Bronchoalveolar lavage (BAL)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -648,18 +647,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Trachea obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with malignant obstruction of distal trachea and bilateral mainstem. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-Trachea obstruction
+malignant obstruction of distal trachea and bilateral mainstem
 
 POSTOPERATIVE DIAGNOSIS
 
-Trachea obstruction
-Trachea obstruction
+malignant obstruction of distal trachea and bilateral mainstem
 
 PROCEDURE
 
@@ -710,17 +708,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with LUL obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+LUL obstruction
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+LUL obstruction
 
 PROCEDURE
 
@@ -768,17 +766,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with free-flowing effusion.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+free-flowing effusion
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+free-flowing effusion
 
 PROCEDURE
 
@@ -799,11 +797,15 @@ COMPLICATIONS None; No pneumothorax noted.
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 Ultrasound Ultrasound identified a pleural effusion on the Left side. Following sterile prep and local anesthesia, thoracentesis was performed at the unspecified intercostal space along the mid-axillary line.
-A total of 1800 mL of straw colored fluid was removed. The patient tolerated the procedure well without immediate complications.
+A total of 1800 mL of straw colored fluid was removed. The procedure was stopped due to patient cough.
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful Left thoracentesis with 1800 mL removed (straw colored).
+
+Procedure was stopped due to patient cough.
+
+No post-procedure pneumothorax was identified.
 
 ====================================================================================================
 CASE 13
@@ -820,31 +822,31 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with restaging after neoadjuvant chemo. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+restaging after neoadjuvant chemo
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+restaging after neoadjuvant chemo
 
 PROCEDURE
 
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4L, 4R, 7)
+Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4R, 7, 4L)
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
 
-Station 4L (Left Lower Paratracheal): The node measured 4.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
 Station 4R (Right Lower Paratracheal): The node measured 6.2 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA.
 
 Station 7 (Subcarinal): The node measured 5.5 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA.
+
+Station 4L (Left Lower Paratracheal): The node measured 4.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
@@ -867,31 +869,31 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with suspected lymphoma. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+suspected lymphoma
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+suspected lymphoma
 
 PROCEDURE
 
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4L, 4R, 7)
+Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4R, 7, 4L)
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G, 19G needle:
 
-Station 4L (Left Lower Paratracheal): The node measured 18 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA.
-
 Station 4R (Right Lower Paratracheal): The node measured 22 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Atypical cells.
 
 Station 7 (Subcarinal): The node measured 16 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA.
+
+Station 4L (Left Lower Paratracheal): The node measured 18 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
@@ -914,17 +916,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with Pleural effusion requiring tunneled pleural catheter drainage and pleurodesis.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+Pleural effusion requiring tunneled pleural catheter drainage and pleurodesis
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+Pleural effusion requiring tunneled pleural catheter drainage and pleurodesis
 
 PROCEDURE
 
@@ -939,6 +941,8 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After adequate sedation was achieved, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
+Therapeutic injection was performed with talc slurry instilled through catheter and clamped for (total dose 5g).
+
 Chest Ultrasound Findings
 
 Hemithorax: Left
@@ -952,7 +956,7 @@ The PleurX catheter was then placed into the pleural space via the introducer sh
 
 PROCEDURE FINDINGS
 
-Fluid Removed: 1200 mL (1.2 L)
+Fluid Removed: 1400 mL (1.4 L)
 
 Pleurodesis: Chemical pleurodesis was performed via the tunneled pleural catheter using Talc (dose: 5.0 g) with method Chemical - slurry.
 
@@ -960,7 +964,7 @@ IMPRESSION / PLAN
 
 Successful placement of Left Indwelling Tunneled Pleural Catheter (PleurX).
 
-1.2 L of pleural fluid drained during procedure.
+1.4 L of pleural fluid drained during procedure.
 
 Catheter instructions and drainage kit provided to patient.
 
@@ -979,7 +983,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 25 mm RML pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with RML 2 requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -995,13 +999,12 @@ RML pulmonary nodule, 25 mm
 
 PROCEDURE
 
+Linear Endobronchial Ultrasound (EBUS) with Transbronchial Needle Aspiration (TBNA)
 Robotic navigational bronchoscopy (Ion) to RML target
-rEBUS localization (Eccentric) - RML
+Radial EBUS localization (eccentric view)
 Transbronchial Cryobiopsy (RML)
-Radial EBUS (Eccentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of RML (5 passes)
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4R, 7)
+Cone-beam CT imaging with confirmation
+Transbronchial needle aspiration of RML target (5 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1030,21 +1033,9 @@ RML Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 5 passes were obtained from the RML target.
 
-EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+Transbronchial Cryobiopsy Attention was turned to the Right Middle Lobe (RML) for transbronchial cryobiopsy.
 
-Station 4R (Right Lower Paratracheal): The node measured 6.1 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
-Station 7 (Subcarinal): The node measured 8.4 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
-
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Right Middle Lobe (RML).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A 1.1 mm cryoprobe was utilized for sampling.
+A 1.1 mm cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -1052,7 +1043,15 @@ Yield: A total of 3 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+
+Station 7 (Subcarinal): The node measured 8.4 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+
+Station 4R (Right Lower Paratracheal): The node measured 6.1 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+
+Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
 SPECIMENS
 
@@ -1081,22 +1080,22 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with left hilar mass with mediastinal adenopathy. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+left hilar mass with mediastinal adenopathy
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+left hilar mass with mediastinal adenopathy
 
 PROCEDURE
 
-TBNA of target (5 passes)
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4L, 4R, 7)
+TBNA of target with 22-gauge needle (5 passes)
+Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 7, 4L, 4R)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1111,15 +1110,15 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
-TBNA: Transbronchial needle aspiration was performed. A total of 5 passes were obtained.
+TBNA: Transbronchial needle aspiration was performed using a 22G needle. A total of 5 passes were obtained.
 
 EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+
+Station 7 (Subcarinal): The node measured 15 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
 
 Station 4L (Left Lower Paratracheal): The node measured 11 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
 
 Station 4R (Right Lower Paratracheal): The node measured 5.1 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
-Station 7 (Subcarinal): The node measured 15 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
@@ -1142,17 +1141,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with endobronchial carcinoid RUL orifice. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+endobronchial carcinoid RUL orifice
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+endobronchial carcinoid RUL orifice
 
 PROCEDURE
 
@@ -1193,17 +1192,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with BLVR assessment bilateral upper lobes. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR assessment bilateral upper lobes
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR assessment bilateral upper lobes
 
 PROCEDURE
 
@@ -1225,16 +1224,16 @@ PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeou
 
 Balloon occlusion was performed to confirm lobe selection.
 The Chartis system was used to assess for collateral ventilation (collateral ventilation absent).
-Based on criteria, lobes were selected for endobronchial one-way valve therapy: target lobe.
+Based on criteria, lobes were selected for endobronchial one-way valve therapy: RUL.
 Valves deployed:
-- Zephyr (Pulmonx) (5.5) placed in target lobe - RB1.
-- Zephyr (Pulmonx) (5.5) placed in target lobe - RB2.
-- Zephyr (Pulmonx) (4.0) placed in target lobe - RB3.
+- Zephyr (Pulmonx) (5.5) placed in RUL - RB1.
+- Zephyr (Pulmonx) (5.5) placed in RUL - RB2.
+- Zephyr (Pulmonx) (4.0) placed in RUL - RB3.
 Airflow occlusion and target-lobe atelectasis were confirmed. No immediate complications were observed.
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful BLVR valve placement in the RUL with 3 valves deployed.
 
 ====================================================================================================
 CASE 20
@@ -1251,34 +1250,33 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 28 mm RLL pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with pleural effusion requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-RLL pulmonary nodule, 28 mm
+pleural effusion
 
 Mediastinal/Hilar lymphadenopathy (suspected)
 
 POSTOPERATIVE DIAGNOSIS
 
-RLL pulmonary nodule, 28 mm
+pleural effusion
 
 PROCEDURE
 
 Right Medical Thoracoscopy (Diagnostic)
 Evacuation of pleural fluid (800 mL)
-Pleural biopsies (4 specimens)
+Pleural biopsies (6 specimens)
 Talc poudrage pleurodesis
 Chest tube placement (24 Fr)
+Linear Endobronchial Ultrasound (EBUS) with Transbronchial Needle Aspiration (TBNA)
 Robotic navigational bronchoscopy (Ion) to RLL target
-rEBUS localization (Concentric) - RLL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (RLL)
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of RLL (5 passes)
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 7)
+Cone-beam CT imaging with confirmation
+Transbronchial needle aspiration of RLL target (5 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1307,19 +1305,9 @@ RLL Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 5 passes were obtained from the RLL target.
 
-EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+Transbronchial Cryobiopsy Attention was turned to the Right Lower Lobe (RLL) for transbronchial cryobiopsy.
 
-Station 7 (Subcarinal): The node measured 8.2 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
-
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
-
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Right Lower Lobe (RLL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A cryoprobe was utilized for sampling.
+A cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -1327,14 +1315,20 @@ Yield: A total of 4 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+
+Station 7 (Subcarinal): The node measured 8.2 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
+
+Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
 Right Diagnostic Thoracoscopy The chest was prepped and draped in the usual sterile fashion.
 
 Survey: Thoracoscopic survey performed.
 
 Intervention: Evacuation of pleural fluid (800 mL).
-Intervention: Pleural biopsies (4 specimens).
+Intervention: Pleural biopsies (6 specimens).
 Intervention: Talc poudrage pleurodesis.
 Intervention: Chest tube placement (24 Fr).
 
@@ -1343,6 +1337,8 @@ The patient tolerated the procedure well. There were no immediate complications.
 SPECIMENS
 
 RLL Transbronchial Cryobiopsy (4 samples) — Histology
+Pleural fluid (for analysis)
+Pleural biopsies (6 specimens)
 
 IMPRESSION / PLAN
 
@@ -1351,6 +1347,16 @@ Successful transbronchial cryobiopsy of RLL for diagnostic evaluation of periphe
 No pneumothorax or significant bleeding complications.
 
 Recover per protocol; obtain post-procedure chest imaging to assess for late pneumothorax per local workflow.
+
+Right diagnostic thoracoscopy completed.
+
+Evacuation of pleural fluid (800 mL).
+
+Pleural biopsies (6 specimens).
+
+Talc poudrage pleurodesis.
+
+Chest tube placement (24 Fr).
 
 ====================================================================================================
 CASE 21
@@ -1367,7 +1373,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 18 mm LUL pulmonary nodule (ground-glass on CT) requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with LUL 1 requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -1383,14 +1389,12 @@ LUL pulmonary nodule, 18 mm
 
 PROCEDURE
 
+Linear Endobronchial Ultrasound (EBUS) with Transbronchial Needle Aspiration (TBNA)
 Robotic navigational bronchoscopy (Ion) to LUL target
-Tool-in-lesion confirmation
-rEBUS localization (Concentric) - LUL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (LUL)
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of LUL (3 passes)
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4L, 7)
+Cone-beam CT imaging with confirmation
+Transbronchial needle aspiration of LUL target (3 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1413,7 +1417,8 @@ A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
 
-rEBUS demonstrated concentric pattern. Tool-in-lesion was confirmed with Cone Beam CT.
+Tool-in-lesion was confirmed with Cone Beam CT.
+Notes: Initial rEBUS view was eccentric; after adjustment, concentric view was obtained.
 
 Localization: Radial EBUS was performed.
 Target Confirmation: rEBUS demonstrated concentric view of the lesion.
@@ -1421,21 +1426,9 @@ LUL Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 3 passes were obtained from the LUL target.
 
-EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22-gauge needle:
+Transbronchial Cryobiopsy Attention was turned to the Left Upper Lobe (LUL) for transbronchial cryobiopsy.
 
-Station 4L (Left Lower Paratracheal): The node measured 6.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA.
-
-Station 7 (Subcarinal): The node measured 5.1 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA.
-
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
-
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Left Upper Lobe (LUL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A 1.1 mm cryoprobe was utilized for sampling.
+A 1.1 mm cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -1443,7 +1436,15 @@ Yield: A total of 4 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22-gauge needle:
+
+Station 7 (Subcarinal): The node measured 5.1 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA.
+
+Station 4L (Left Lower Paratracheal): The node measured 6.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA.
+
+Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
 SPECIMENS
 
@@ -1472,21 +1473,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with mucus plugging and lobar collapse in ICU patient. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+mucus plugging and lobar collapse in ICU patient
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+mucus plugging and lobar collapse in ICU patient
 
 PROCEDURE
 
-Bronchoalveolar Lavage (BAL)
+Therapeutic aspiration of bilateral lower lobes and RML (mucus)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1502,13 +1503,15 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
-BAL: Bronchoalveolar lavage was performed with saline instilled and returned. Specimens were submitted.
-
-Bronchial washing was performed in the RML.
+Successful therapeutic aspiration was performed to clear the bilateral lower lobes and RML of mucus.
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful therapeutic aspiration cleared mucus from the bilateral lower lobes and RML.
+
+Patency was restored to the treated airways.
+
+Post-procedure imaging showed re-expansion.
 
 ====================================================================================================
 CASE 23
@@ -1525,17 +1528,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with persistent pneumothorax. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+persistent pneumothorax
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+persistent pneumothorax
 
 PROCEDURE
 
@@ -1561,7 +1564,9 @@ Removal performed using standard retrieval techniques with 3 valves removed. Fin
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Endobronchial valve removal/revision completed for persistent pneumothorax.
+
+Air leak resolved following valve removal.
 
 ====================================================================================================
 CASE 24
@@ -1578,18 +1583,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Bronchus intermedius obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with foreign body aspiration. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-Bronchus intermedius obstruction
+foreign body aspiration
 
 POSTOPERATIVE DIAGNOSIS
 
-Bronchus intermedius obstruction
-Bronchus intermedius obstruction
+foreign body aspiration
 
 PROCEDURE
 
@@ -1637,17 +1641,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with recurrent malignant pleural effusion.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+recurrent malignant pleural effusion
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+recurrent malignant pleural effusion
 
 PROCEDURE
 
@@ -1710,21 +1714,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with undiagnosed exudative pleural effusion.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+undiagnosed exudative pleural effusion
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+undiagnosed exudative pleural effusion
 
 PROCEDURE
 
-Right Medical Thoracoscopy (Diagnostic)
+Medical Thoracoscopy (Diagnostic)
 Evacuation of pleural fluid (1200 mL)
 Pleural biopsies (8 specimens)
 Chest tube placement (24 Fr)
@@ -1743,7 +1747,7 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
-Right Diagnostic Thoracoscopy The chest was prepped and draped in the usual sterile fashion.
+Diagnostic Thoracoscopy The chest was prepped and draped in the usual sterile fashion.
 
 Survey: Thoracoscopic survey performed.
 
@@ -1760,7 +1764,7 @@ Pleural biopsies (8 specimens)
 
 IMPRESSION / PLAN
 
-Right diagnostic thoracoscopy performed.
+Diagnostic thoracoscopy performed.
 
 Fluid evacuated and chest tube placed.
 
@@ -1781,21 +1785,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with PAP. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+PAP
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+PAP
 
 PROCEDURE
 
-See procedure details below
+Whole Lung Lavage (Right, 15 L)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1811,9 +1815,17 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After induction of general anesthesia, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
+Whole lung lavage was performed on the right lung.
+Serial aliquots of warmed saline were instilled and drained by gravity.
+Maximum planned volume: 15.0 liters. Total volume instilled: 15.0 liters.
+
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Whole lung lavage of the right lung completed.
+
+Total lavage volume: 15.0 L warmed saline.
+
+Contralateral lavage is planned at a subsequent procedure.
 
 ====================================================================================================
 CASE 28
@@ -1830,7 +1842,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 16 mm RUL pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with a 16 mm RUL pulmonary nodule requiring bronchoscopic diagnosis and staging requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -1844,12 +1856,13 @@ RUL pulmonary nodule, 16 mm
 
 PROCEDURE
 
-Robotic navigational bronchoscopy (Ion) to RUL target
-rEBUS localization (Concentric) - RUL
+Robotic navigational bronchoscopy (Ion) to 2 targets (RUL, LLL)
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (RUL)
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of RUL (3 passes)
+Transbronchial Cryobiopsy (LLL)
+Cone-beam CT imaging with confirmation
+TBNA of RUL target (3 passes)
+TBNA of LLL target (3 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -1868,6 +1881,8 @@ PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeou
 
 Robotic Navigational Bronchoscopy (Ion) — RUL Nodule A CT-based navigation plan was loaded and registration was completed. The robotic catheter was advanced to the planned RUL target (16 mm).
 
+Robotic Navigational Bronchoscopy (Ion) — LLL Nodule A CT-based navigation plan was loaded and registration was completed. The robotic catheter was advanced to the planned LLL target (12 mm).
+
 A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
@@ -1876,15 +1891,17 @@ Localization: Radial EBUS was performed.
 Target Confirmation: rEBUS demonstrated concentric view of the lesion. Cone-beam CT imaging: Tool-in-lesion was confirmed by CBCT.
 RUL Target Sampling
 
+Localization: Radial EBUS was performed.
+Target Confirmation: rEBUS demonstrated concentric view of the lesion. Cone-beam CT imaging: Tool-in-lesion was confirmed by CBCT.
+LLL Target Sampling
+
 TBNA: Transbronchial needle aspiration was performed. A total of 3 passes were obtained from the RUL target.
 
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
+TBNA: Transbronchial needle aspiration was performed. A total of 3 passes were obtained from the LLL target.
 
-Radial EBUS & Preparation Attention was turned to the Right Upper Lobe (RUL).
+Transbronchial Cryobiopsy Attention was turned to the Right Upper Lobe (RUL) for transbronchial cryobiopsy.
 
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A cryoprobe was utilized for sampling.
+A cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -1892,11 +1909,26 @@ Yield: A total of 3 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+Transbronchial Cryobiopsy Attention was turned to the Left Lower Lobe (LLL) for transbronchial cryobiopsy.
+
+A cryoprobe was utilized for sampling.
+
+Findings & Hemostasis
+
+Yield: A total of 3 samples were collected.
+Hemostasis:
+Final airway inspection was performed.
+
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
 
 SPECIMENS
 
 RUL Transbronchial Cryobiopsy (3 samples) — Histology
+LLL Transbronchial Cryobiopsy (3 samples) — Histology
+RUL TBNA (3 passes) — Cytology
+LLL TBNA (3 passes) — Cytology
 
 IMPRESSION / PLAN
 
@@ -1905,6 +1937,8 @@ Successful transbronchial cryobiopsy of RUL for diagnostic evaluation of periphe
 No pneumothorax or significant bleeding complications.
 
 Recover per protocol; obtain post-procedure chest imaging to assess for late pneumothorax per local workflow.
+
+Successful robotic bronchoscopy with sampling of RUL and LLL targets.
 
 ====================================================================================================
 CASE 29
@@ -1921,17 +1955,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with airway obstruction requiring intervention. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with post-tracheostomy tracheal stenosis. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+post-tracheostomy tracheal stenosis
 
 POSTOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+post-tracheostomy tracheal stenosis
 
 PROCEDURE
 
@@ -1986,7 +2020,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 15 mm LUL pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with a 15 mm LUL pulmonary nodule requiring bronchoscopic diagnosis and staging requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -2001,13 +2035,11 @@ LUL pulmonary nodule, 15 mm
 PROCEDURE
 
 Robotic navigational bronchoscopy (Ion) to LUL target
-Tool-in-lesion confirmation
-rEBUS localization (Concentric) - LUL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (LUL)
 Prophylactic Endobronchial blocker balloon placement
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of LUL (4 passes)
+Cone-beam CT imaging with confirmation
+TBNA of LUL target (4 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -2030,7 +2062,7 @@ A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
 
-rEBUS demonstrated concentric pattern. Tool-in-lesion was confirmed with Cone Beam CT.
+Tool-in-lesion was confirmed with Cone Beam CT.
 
 Localization: Radial EBUS was performed.
 Target Confirmation: rEBUS demonstrated concentric view of the lesion.
@@ -2038,17 +2070,9 @@ LUL Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 4 passes were obtained from the LUL target.
 
-Balloon Block: A Endobronchial blocker balloon was positioned at the lobar/segmental orifice for hemorrhage control to provide immediate tamponade if necessary.
-Location: LUL.
-Indication: Hemorrhage control.
+Transbronchial Cryobiopsy Attention was turned to the Left Upper Lobe (LUL) for transbronchial cryobiopsy.
 
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Left Upper Lobe (LUL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A 1.1 mm cryoprobe was utilized for sampling.
+A 1.1 mm cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -2056,7 +2080,11 @@ Yield: A total of 4 samples were collected.
 Hemostasis:
 Bleeding managed with bronchial blocker and cold saline.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+Balloon Block: A Endobronchial blocker balloon was positioned at the lobar/segmental orifice for hemorrhage control to provide immediate tamponade if necessary.
+Location: LUL.
+Indication: Hemorrhage control.
 
 Source of bleeding localized to the LUL.
 Hemostasis achieved: Documented.
@@ -2089,17 +2117,18 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with Pleural effusion requiring thoracoscopic evaluation.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+Pleural effusion requiring thoracoscopic evaluation
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+diagnosis and pleurodesis
+ROSE: epithelioid cells consistent with mesothelioma (final pathology pending)
 
 PROCEDURE
 
@@ -2162,17 +2191,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with pleural thickening with small effusion. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+pleural thickening with small effusion
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+pleural thickening with small effusion
 
 PROCEDURE
 
@@ -2214,17 +2243,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Severe emphysema requiring bronchoscopic lung volume reduction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+Severe emphysema requiring bronchoscopic lung volume reduction
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+Severe emphysema requiring bronchoscopic lung volume reduction
 
 PROCEDURE
 
@@ -2255,7 +2284,11 @@ Airflow occlusion and target-lobe atelectasis were confirmed. No immediate compl
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful BLVR valve placement in the RUL with 3 valves deployed.
+
+Admitted for post-BLVR observation.
+
+Post-procedure imaging showed no pneumothorax.
 
 ====================================================================================================
 CASE 34
@@ -2272,21 +2305,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with airway obstruction requiring intervention. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with extrinsic compression from NSCLC. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+extrinsic compression from NSCLC
 
 POSTOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+extrinsic compression from NSCLC
 
 PROCEDURE
 
-Fluoroscopy with trajectory adjustment and confirmation
+Fluoroscopy with confirmation
 Rigid Bronchoscopy (Therapeutic)
 Airway Stent Placement (SEMS - Uncovered)
 
@@ -2332,31 +2365,34 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with staging known RUL squamous cell. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+staging known RUL squamous cell
+
+Mediastinal/Hilar lymphadenopathy (suspected)
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+staging known RUL squamous cell
 
 PROCEDURE
 
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 10R, 4R, 7)
+Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4R, 7, 10R)
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
-
-Station 10R (Right Hilar): The node measured 5.2 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+Airway findings: extrinsic compression of RUL orifice but patent.
 
 Station 4R (Right Lower Paratracheal): The node measured 6.5 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
 
 Station 7 (Subcarinal): The node measured 7.2 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+
+Station 10R (Right Hilar): The node measured 5.2 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
@@ -2379,17 +2415,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy and ablation were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with low grade mucoepidermoid carcinoma RMS. The nature, purpose, risks, benefits, and alternatives to bronchoscopy and ablation were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+low grade mucoepidermoid carcinoma RMS
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+low grade mucoepidermoid carcinoma RMS
 
 PROCEDURE
 
@@ -2431,17 +2467,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with airway obstruction requiring intervention. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with complex benign tracheal stenosis. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+complex benign tracheal stenosis
 
 POSTOPERATIVE DIAGNOSIS
 
-airway obstruction requiring intervention
+complex benign tracheal stenosis
 
 PROCEDURE
 
@@ -2490,19 +2526,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with [indication] requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with suspected ILD using 1 requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+suspected ILD using 1
 
 POSTOPERATIVE DIAGNOSIS
 
-Interstitial Lung Disease
-
-Successful Transbronchial Cryobiopsy (RLL)
+suspected ILD using 1
 
 PROCEDURE
 
@@ -2527,21 +2561,17 @@ Balloon Block: A Fogarty balloon was positioned at the lobar/segmental orifice f
 Location: RLL.
 Indication: Prophylaxis.
 
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Right Lower Lobe (RLL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
+Transbronchial Cryobiopsy Attention was turned to the Right Lower Lobe (RLL) for transbronchial cryobiopsy.
 
 Balloon Block: A Fogarty balloon was positioned prophylactically at the lobar/segmental orifice to provide immediate tamponade if necessary.
-Transbronchial Cryobiopsy A 1.9 mm cryoprobe was utilized for sampling.
+A 1.9 mm cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
 Hemostasis:
 The Fogarty balloon was utilized/monitored as needed. Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
 
 SPECIMENS
 
@@ -2570,21 +2600,21 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with BLVR candidacy. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR candidacy
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR candidacy
 
 PROCEDURE
 
-Bronchoalveolar Lavage (BAL)
+Therapeutic aspiration of airways (mucus)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -2600,11 +2630,10 @@ COMPLICATIONS None
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
-BAL: Bronchoalveolar lavage was performed with saline instilled and returned. Specimens were submitted.
-
-Bronchial washing was performed in the RUL.
+Successful therapeutic aspiration was performed to clear the airways of mucus.
 
 The Chartis system was used to assess for collateral ventilation (CV) in the following lobes:
+- LLL: CV negative
 - RUL: CV negative
 - LUL: CV positive
 No endobronchial valves were deployed during this procedure.
@@ -2612,7 +2641,7 @@ Plan: Proceed with BLVR valve placement in the RUL using Zephyr (Pulmonx) at a f
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful therapeutic aspiration cleared mucus from the airways.
 
 ====================================================================================================
 CASE 40
@@ -2629,31 +2658,31 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with mediastinal lymphadenopathy. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+mediastinal lymphadenopathy
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+mediastinal lymphadenopathy
 
 PROCEDURE
 
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 11L, 4R, 7)
+Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 7, 4R, 11L)
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
 
-Station 11L (Left Interlobar): The node measured 12 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Granuloma.
+Station 7 (Subcarinal): The node measured 18 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Granuloma.
 
 Station 4R (Right Lower Paratracheal): The node measured 14 mm by EBUS. 4 passes were performed. Biopsy Tools: TBNA. ROSE Results: Granuloma.
 
-Station 7 (Subcarinal): The node measured 18 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Granuloma.
+Station 11L (Left Interlobar): The node measured 12 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Granuloma.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
@@ -2691,12 +2720,10 @@ LUL pulmonary nodule, 19 mm
 PROCEDURE
 
 Robotic navigational bronchoscopy (Ion) to LUL target
-Tool-in-lesion confirmation
-rEBUS localization (Concentric) - LUL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (LUL)
-Radial EBUS (Concentric view)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-TBNA of LUL (4 passes)
+Cone-beam CT imaging with confirmation
+TBNA of LUL target (4 passes)
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -2719,7 +2746,7 @@ A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
 
-rEBUS demonstrated concentric pattern. Tool-in-lesion was confirmed with Cone Beam CT.
+Tool-in-lesion was confirmed with Cone Beam CT.
 
 Localization: Radial EBUS was performed.
 Target Confirmation: rEBUS demonstrated concentric view of the lesion.
@@ -2727,13 +2754,9 @@ LUL Target Sampling
 
 TBNA: Transbronchial needle aspiration was performed. A total of 4 passes were obtained from the LUL target.
 
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
+Transbronchial Cryobiopsy Attention was turned to the Left Upper Lobe (LUL) for transbronchial cryobiopsy.
 
-Radial EBUS & Preparation Attention was turned to the Left Upper Lobe (LUL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A cryoprobe was utilized for sampling.
+A cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -2741,7 +2764,7 @@ Yield: A total of 4 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
 
 SPECIMENS
 
@@ -2770,7 +2793,7 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] presents with a 31 mm RLL pulmonary nodule requiring histopathologic diagnosis.
+INDICATION FOR OPERATION [Patient Name] presents with a 31 mm RLL pulmonary nodule requiring bronchoscopic diagnosis and staging requiring histopathologic diagnosis.
 
 CONSENT The nature, purpose, risks, benefits, and alternatives to bronchoscopy and cryobiopsy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
@@ -2786,12 +2809,11 @@ RLL pulmonary nodule, 31 mm
 
 PROCEDURE
 
+Linear Endobronchial Ultrasound (EBUS) with Transbronchial Needle Aspiration (TBNA)
 Robotic navigational bronchoscopy (Ion) to RLL target
-Tool-in-lesion confirmation
-rEBUS localization (Concentric) - RLL
+Radial EBUS localization (concentric view)
 Transbronchial Cryobiopsy (RLL)
-Cone-beam CT imaging with trajectory adjustment and confirmation
-Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 11R, 4R, 7)
+Cone-beam CT imaging with confirmation
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -2810,31 +2832,17 @@ PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeou
 
 Robotic Navigational Bronchoscopy (Ion) — RLL Nodule A CT-based navigation plan was loaded and registration was completed. The robotic catheter was advanced to the planned RLL target.
 
+rEBUS localization (concentric view). Location: RLL.
+
 A CBCT/CACT spin was obtained intra-procedurally.
 Image fusion was performed to align intra-op imaging with the pre-procedure CT. The updated overlay demonstrated Cone Beam CT.
 The patient tolerated the imaging without complications.
 
-rEBUS demonstrated concentric pattern. Tool-in-lesion was confirmed with Cone Beam CT.
+Tool-in-lesion was confirmed with Cone Beam CT.
 
-rEBUS localization (concentric view). Location: RLL.
+Transbronchial Cryobiopsy Attention was turned to the Right Lower Lobe (RLL) for transbronchial cryobiopsy.
 
-EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
-
-Station 11R (Right Interlobar): The node measured 5.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
-Station 4R (Right Lower Paratracheal): The node measured 7.3 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
-
-Station 7 (Subcarinal): The node measured 9.1 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
-
-Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
-
-Airway Inspection The bronchoscope was introduced and a systematic airway inspection was performed, noting normal anatomy without endobronchial lesions.
-
-Radial EBUS & Preparation Attention was turned to the Right Lower Lobe (RLL).
-
-rEBUS Survey: A radial EBUS probe was advanced to the target to confirm an appropriate biopsy window and absence of significant vessels at the selected biopsy sites.
-
-Transbronchial Cryobiopsy A 1.1 mm cryoprobe was utilized for sampling.
+A 1.1 mm cryoprobe was utilized for sampling.
 
 Findings & Hemostasis
 
@@ -2842,7 +2850,17 @@ Yield: A total of 4 samples were collected.
 Hemostasis:
 Final airway inspection was performed.
 
-Pneumothorax Check: Post-procedure assessment demonstrated no pneumothorax.
+Pneumothorax Check: Post-procedure assessment for pneumothorax was performed.
+
+EBUS-TBNA Staging The endobronchial ultrasound-capable bronchoscope was introduced and a systematic mediastinal and hilar survey was performed. The following lymph node stations were identified and sampled based on ultrasound criteria using a 22G, 25G needle:
+
+Station 7 (Subcarinal): The node measured 9.1 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+
+Station 4R (Right Lower Paratracheal): The node measured 7.3 mm by EBUS. 5 passes were performed. Biopsy Tools: TBNA. ROSE Results: Malignant.
+
+Station 11R (Right Interlobar): The node measured 5.8 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
+
+Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
 
 SPECIMENS
 
@@ -2871,23 +2889,23 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with suspected ILD. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+suspected ILD
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+suspected ILD
 
 PROCEDURE
 
-Fluoroscopy with trajectory adjustment and confirmation
-Transbronchial biopsy of RML
-Bronchoalveolar Lavage (RML)
+Fluoroscopy with confirmation
+Transbronchial biopsy of RML target
+Bronchoalveolar lavage (BAL) RML
 
 ATTENDING [Name]
 ASSISTANT [Name]
@@ -2926,17 +2944,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with severe emphysema. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+severe emphysema
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+severe emphysema
 
 PROCEDURE
 
@@ -2967,7 +2985,9 @@ Airflow occlusion and target-lobe atelectasis were confirmed. No immediate compl
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful BLVR valve placement in the RUL with 3 valves deployed.
+
+Post-procedure imaging showed no pneumothorax.
 
 ====================================================================================================
 CASE 45
@@ -2984,17 +3004,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Endobronchial valve revision for migrated valve. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+Endobronchial valve revision for migrated valve
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+Endobronchial valve revision for migrated valve
 
 PROCEDURE
 
@@ -3020,7 +3040,9 @@ Removal performed using standard retrieval techniques with 4 valves removed. Exc
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Endobronchial valve removal/revision completed for Endobronchial valve removal and replacement.
+
+Migrated valve was retrieved successfully.
 
 ====================================================================================================
 CASE 46
@@ -3037,18 +3059,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with Left Main Stem (LMS) bronchus obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with malignant central airway obstruction. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-Left Main Stem (LMS) bronchus obstruction
+malignant central airway obstruction
 
 POSTOPERATIVE DIAGNOSIS
 
-Left Main Stem (LMS) bronchus obstruction
-Left Main Stem (LMS) bronchus obstruction
+malignant central airway obstruction
 
 PROCEDURE
 
@@ -3094,17 +3115,19 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with malignant pleural effusion.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+malignant pleural effusion
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+malignant pleural effusion
+
+Status post right tunneled pleural catheter placement
 
 PROCEDURE
 
@@ -3128,13 +3151,17 @@ Catheter Placement The right chest was prepped and draped in sterile fashion. Lo
 
 Two 5 mm skin incisions were made at the guidewire entry site, as well as 5-6 cm away. The tunneling device was used to tunnel the catheter in the subcutaneous tissue. Serial dilation over the guidewire was then achieved. The introducer sheath was placed and the guidewire removed.
 
-The Other catheter was then placed into the pleural space via the introducer sheath. The pleural entry site was closed with an absorbable suture. The catheter was secured to the skin using 2-0 nylon. Sterile dressings were applied.
+The tunneled pleural catheter was then placed into the pleural space via the introducer sheath. The pleural entry site was closed with an absorbable suture. The catheter was secured to the skin using 2-0 nylon. Sterile dressings were applied.
 
 PROCEDURE FINDINGS
+
+Fluid Removed: 2000 mL (2.0 L)
 
 IMPRESSION / PLAN
 
 Successful placement of Right Indwelling Tunneled Pleural Catheter.
+
+2.0 L of pleural fluid drained during procedure.
 
 Catheter instructions and drainage kit provided to patient.
 
@@ -3153,17 +3180,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION The patient presents with [indication].
+INDICATION FOR OPERATION The patient presents with Spontaneous pleurodesis after indwelling pleural catheter.
 
 CONSENT Obtained before the procedure. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+Spontaneous pleurodesis after indwelling pleural catheter
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+Spontaneous pleurodesis after indwelling pleural catheter
 
 PROCEDURE
 
@@ -3188,7 +3215,11 @@ Reason for removal: Spontaneous pleurodesis achieved; No drainage in past 3 week
 
 IMPRESSION / PLAN
 
-Await final pathology and cytology. Post-procedure monitoring per protocol; obtain post-procedure chest imaging.
+Successful Right tunneled pleural catheter removal.
+
+Spontaneous pleurodesis achieved; No drainage in past 3 weeks. Cuff dissected free, catheter removed inta.
+
+Site care instructions were provided.
 
 ====================================================================================================
 CASE 49
@@ -3205,21 +3236,37 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with complete mediastinal staging. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+complete mediastinal staging
+
+Mediastinal/Hilar lymphadenopathy (suspected)
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+complete mediastinal staging
+
+Mediastinal/Hilar lymphadenopathy (suspected)
 
 PROCEDURE
 
 Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) (Stations 4R, 7, 8, 9)
+EUS-B-guided needle aspiration (Stations 8, 9, 4, 7, 3)
+
+ATTENDING [Name]
+ASSISTANT [Name]
+
+ANESTHESIA Not documented
+
+MONITORING Pulse oximetry, heart rate, telemetry, and blood pressure were continuously monitored by an independent trained observer throughout the procedure.
+
+ESTIMATED BLOOD LOSS Minimal
+
+COMPLICATIONS None
 
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
@@ -3234,6 +3281,9 @@ Station 8: The node measured 9.2 mm by EBUS. 4 passes were performed. Biopsy Too
 Station 9: The node measured 7.1 mm by EBUS. 3 passes were performed. Biopsy Tools: TBNA. ROSE Results: Adequate lymphocytes.
 
 Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding. The patient tolerated the procedure well. There were no immediate complications.
+
+Linear EBUS scope was advanced into the esophagus. Mediastinal nodes were visualized and sampled: 8, 9, 4, 7, 3 with a 22G needle.
+ROSE: Adequate lymphocytes. No immediate complications.
 
 IMPRESSION / PLAN
 
@@ -3254,17 +3304,17 @@ INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT
 
 DATE OF PROCEDURE: [Date] CC Referred Physician: [Name]
 
-INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with [indication]. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
+INDICATION FOR OPERATION [Patient Name] is a [Age]-year-old [Sex] who presents with BLVR evaluation. The nature, purpose, risks, benefits, and alternatives to the procedure were discussed with the patient in detail. The patient wished to proceed and informed consent was obtained.
 
 CONSENT Obtained before the procedure. Indications, potential complications, and alternatives were discussed with the patient or surrogate. Consent was signed and witnessed by an assisting medical professional.
 
 PREOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR evaluation
 
 POSTOPERATIVE DIAGNOSIS
 
-[indication]
+BLVR evaluation
 
 PROCEDURE
 
@@ -3285,7 +3335,7 @@ COMPLICATIONS None
 PROCEDURE IN DETAIL After appropriate local anesthesia and preparation, a timeout was performed confirming patient identity, planned procedures, and laterality. Relevant procedural images were saved to the medical record.
 
 The Chartis system was used to assess for collateral ventilation (CV) in the following lobes:
-- RUL: CV negative
+- RUL: CV positive
 - RLL: CV negative
 No endobronchial valves were deployed during this procedure.
 Procedure aborted: aborted for today, will discuss with patient and schedule RLL BLVR.

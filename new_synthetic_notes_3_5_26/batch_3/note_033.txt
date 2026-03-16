@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+TRACH CHANGE NOTE — OUTPATIENT IP CLINIC
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 57F
+
+Reason: Routine quarterly tracheostomy tube exchange; non-healing granulation tissue at stoma; complaint of blood-tinged secretions x2 days.
+Current tube: Bivona 7.0 TTS (tight-to-shaft) cuffed, in place 3 months.
+Procedure: Cuff deflated; tube removed (slight resistance, resolved with rotation). 10 Fr red rubber catheter guide placed through stoma into trachea. New Bivona 7.0 TTS tube advanced over guide; inner cannula locked. Position confirmed clinically (breath sounds, SpO2 stable, phonation with finger occlusion).
+Granulation tissue at superior stoma margin: 2 × 3 mm; treated with silver nitrate stick x2 applications. Hemostasis achieved.
+Complications: None. EBL: <1 mL.
+Plan: Next exchange in 3 months. Otolaryngology referral placed for persistent stomal granulation; consider electrocautery at next IP visit if not resolved.

@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+Patient [REDACTED] [REDACTED] underwent EBUS-TBNA of station 4R. 4 passes made. No comps comps. Patient discharged.

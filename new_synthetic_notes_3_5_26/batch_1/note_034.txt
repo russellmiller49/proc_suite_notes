@@ -1,0 +1,15 @@
+Peripheral bronchoscopy (cone-beam confirmation) + BAL
+
+Patient: [PATIENT], 69-year-old female
+Indication: Right lower lobe 1.3 cm nodule, growing.
+
+Procedures:
+Navigation bronchoscopy; radial EBUS; transbronchial biopsy; brushing; BAL
+Anesthesia: General anesthesia
+Complications: None
+
+Technique:
+Navigation achieved to RLL posterior basal lesion. Radial EBUS showed concentric signal. Cone-beam CT confirmed tool-in-lesion. Forceps biopsies x8, brushing x1, TBNA x2 performed. BAL completed in RLL (120 mL in, 50 mL out).
+
+Specimens: “RLL bx”, “RLL brush”, “RLL TBNA”, “RLL BAL”.
+Plan: CXR in PACU; follow pathology/cultures.

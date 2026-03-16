@@ -1,0 +1,39 @@
+EDGE_CASE_TAGS: conflicting_details, noisy_units
+
+OPERATIVE REPORT
+PATIENT: [PATIENT]   DOB: [DOB:REDACTED]   MRN: [MRN:REDACTED]
+DATE: [REDACTED]
+SURGEON/BRONCHOSCOPIST: [NAME:REDACTED], MD, FCCP
+
+PREOPERATIVE DIAGNOSIS: Malignant central airway obstruction, right mainstem bronchus; squamous cell carcinoma (C34.11)
+POSTOPERATIVE DIAGNOSIS: Same; post-debulking airway patency restored
+
+PROCEDURES:
+1. Rigid bronchoscopy
+2. Mechanical debulking of endobronchial tumor
+3. Electrocautery/snare tumor ablation
+4. Argon plasma coagulation (APC)
+5. Balloon bronchoplasty, 14 mm
+CPT: 31641 (therapeutic bronchoscopy, tumor)
+
+ANESTHESIA: General anesthesia [note: moderate sedation listed on nursing intake form — confirmed GA by anesthesia record; intake form error]. Jet ventilation via rigid bronchoscope. Anesthesiologist: [NAME:REDACTED], MD.
+
+PROCEDURE NOTE:
+Patient brought to the bronchoscopy suite in supine position. Induction of GA and muscle relaxation achieved. Rigid bronchoscope (Karl Storz 12.5 mm) introduced transorally; ETT not placed (jet ventilation used). Supraglottic structures normal. Tracheal lumen patent, approximately 85% of predicted cross-section. At the level of the right mainstem bronchus (RMB), a large polypoid friable tumor was identified occupying approximately 70% of the lumen, extending to the right upper lobe (RUL) bronchus takeoff. Left mainstem and bilateral upper and lower lobe bronchi patent without lesion.
+
+Debulking initiated using rigid bronchoscope tip (core-out technique). Large tumor fragments extracted using optical forceps. Electrocautery snare applied to tumor stalk; power setting 40 W cut/coag. APC applied to bleeding mucosa at 2 L/min flow, 45 W; hemostasis achieved. Post-debulking, 14 mm CRE balloon inflated to 4 atm for 60 seconds at RMB; lumen re-expanded to approximately 80% predicted cross-section. Residual distal disease noted at RUL orifice; partial debulking only — discussed with patient/family pre-procedure.
+
+Flexible bronchoscope (Olympus BF-H190) passed through rigid barrel for distal inspection: RUL superior segment patent, residual tumor fronds at orifice; RML and RLL patent. Secretions cleared with suction.
+
+Estimated blood loss: 25–30 mL (suctioned and irrigated specimen). Epinephrine 1:20,000 solution 4m mg [sic] topically applied to bleeding sites — intended 4 mL of 1:20,000 solution; documented as administered by nursing.
+
+SPECIMENS: Tumor fragments (multiple) from RMB debulking — permanent pathology for margins and molecular/IHC. Previously known SCC by prior biopsy.
+
+COMPLICATIONS: Moderate hemorrhage, controlled intraoperatively with epinephrine and APC. No pneumothorax. No airway fire.
+
+IMPRESSION/PLAN:
+1. Successful debulking of RMB obstructing SCC; lumen restored to ~80%.
+2. Residual RUL orifice disease — palliative; oncology to coordinate radiation planning.
+3. Repeat bronchoscopy in 4–6 weeks; consider endobronchial stenting if restenosis.
+4. ICU monitoring overnight.
+5. Continue oncologic therapy per primary team.

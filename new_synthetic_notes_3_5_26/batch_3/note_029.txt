@@ -1,0 +1,59 @@
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting, copy_paste_artifacts
+
+INTERVENTIONAL PULMONOLOGY — OPERATIVE REPORT
+PERCUTANEOUS DILATIONAL TRACHEOSTOMY (MODIFIED GRIGGS TECHNIQUE)
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD   RESIDENT: [NAME:REDACTED], MD (PGY-4, surgery)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 48M   DOB: [DOB:REDACTED]
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Anoxic brain injury following out-of-hospital cardiac arrest (G93.1); ICU day 11
+  2. Ventilator-dependent respiratory failure (J96.00)
+  3. Failed percutaneous tracheostomy attempt x1 (two days prior, separate team — abandoned due to difficult anatomy; documented separately)
+
+POST-PROCEDURE DIAGNOSES:
+  Same; Portex 8.0 cuffed low-profile trach placed; bronchoscopic confirmation satisfactory
+
+CPT: 31600; 31622
+
+ANESTHESIA: Propofol infusion 100–140 mcg/kg/min; fentanyl 150 mcg IV in divided doses; vecuronium 10 mg IV for paralysis. No anesthesiologist; attending performed procedural sedation per ICU protocol. Certified CRNA available in adjacent bay.
+
+CLINICAL BACKGROUND:
+48-year-old male 48-year-old [sic] admitted after OHCA, ROSC achieved after 18 min CPR. Cooled to 33°C for 24h (TTM protocol complete). Neurological assessment: no purposeful movement; MRI brain: diffuse cortical/subcortical anoxic injury; multidisciplinary goals-of-care conference with family ongoing; decision to proceed with tracheostomy for ongoing airway management pending prognosis clarification. Prior PDT attempt (day 9): abandoned — neck circumference 48 cm, high-riding innominate artery identified on ultrasound, team elected to abort.
+
+ULTRASOUND PLANNING SESSION (performed morning of procedure):
+Attending performed dedicated cervical/tracheal ultrasound (pre-procedure):
+  - High-frequency linear probe (7–13 MHz)
+  - Tracheal rings identified: ring 2–3 interspace marked (1.8 cm below cricoid)
+  - Vasculature mapping: thyroid gland midline, no isthmus at ring 2–3; innominate artery loop identified on prior attempt (day 9) now assessed — artery lies 2.2 cm below ring 3 (safe margin); paratracheal vessels mapped; no midline vessel at entry point
+  - Skin-to-trachea depth: 4.1 cm (deep — large habitus)
+  - Entry site confirmed with confidence; no contraindication to proceed at ring 2–3
+
+EQUIPMENT MODIFICATION (per difficult anatomy plan):
+  - Griggs guidewire dilating forceps (GWDF) technique selected (over Blue Rhino) for better tactile control in deep-tissue anatomy
+  - Portex PDT kit with GWDF
+  - Extended-length Shiley 8.0 cuffed XLT (length 105 mm vs standard 80 mm) selected given 4.1 cm tissue depth
+  - Olympus BF-P290 bronchoscope; extra-length working channel for depth
+
+PROCEDURE IN DETAIL:
+Patient supine, neck extended on folded blanket (shoulder roll). Neck circumference 48 cm — significant subcutaneous tissue present. Pre-procedure SpO2 97% on FiO2 0.70, PEEP 8. Skin prepared; sterile drape. ETT position: 7.5 ETT at 22 cm; withdrawn to 17 cm under bronchoscopic guidance; carina 9 cm distal.
+
+Under direct bronchoscopic illumination: transillumination of anterior tracheal wall confirmed at ring 2–3 level (faint but adequate given depth of tissue). Real-time ultrasound probe manned by assisting resident — confirmed needle in midline at ring 2–3 on ultrasound B-mode simultaneously.
+
+14-gauge introducer needle advanced under combined US + bronchoscopic guidance. Needle tip confirmed in tracheal lumen at ring 2–3, midline. J-wire advanced without resistance; wire in tracheal lumen confirmed. Small longitudinal fascial dilator (12 Fr). Griggs GWDF forceps loaded on wire; forceps advanced closed, then opened under bronchoscopic visualization — tracheal lumen widened step-wise to accommodate tube. One additional GWDF pass required (total 2 passes; adequate dilation confirmed on bronchoscopy). Extended Portex 8.0 XLT tube (length 105 mm) loaded on obturator, advanced over wire, seated; obturator removed; cuff inflated 24 mmHg (manometer).
+
+Ventilator circuit connected. ETCO2 present. Bilateral breath sounds on auscultation. Bronchoscopic check through trach: tube tip 5 cm above carina (satisfactory for XLT tube), midline, posterior wall intact, no hemorrhage, no false passage.
+
+Site secured: 2-0 silk suture x2 to flange; Velcro holder. Trach dressing applied.
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. SpO2 nadir 92% at dilation — brief; FiO2 increased to 1.0 x2 minutes; recovered to 97%. EBL: approximately 8 mL. No pneumothorax. No posterior wall injury. No arterial injury.
+
+POST-PROCEDURE ORDERS:
+1. CXR portable — confirm trach position.
+2. FiO2 wean per protocol after post-procedure CXR reviewed.
+3. Trach site dressing: daily; inner cannula q8h cleaning.
+4. Cuff pressure q8h; target 20–25 mmHg.
+5. Neurology and palliative care co-management ongoing — trach does not constitute a terminal or curative decision; family meeting scheduled.
+6. PMV assessment deferred (GCS 3T).

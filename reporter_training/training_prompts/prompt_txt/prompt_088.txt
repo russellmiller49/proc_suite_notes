@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:175
+# id: ip_procedure_prompts_batch3:88
+
+Chest ultrasound guided therapeutic thoracentesis for massive left pleural effusion causing mediastinal shift. 1500 mL dark serous fluid removed with symptom improvement. Procedure stopped at volume limit and cough onset. No immediate pneumothorax.

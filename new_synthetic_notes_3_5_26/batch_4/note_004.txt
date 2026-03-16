@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+TITLE: BRONCHOSCOPIC LUNG VOLUME REDUCTION — ENDOBRONCHIAL VALVES
+
+Indication:
+72-year-old female with severe COPD/emphysema, significant hyperinflation and dyspnea despite maximal therapy.
+
+Pre-op Dx: Emphysema (J43.9), dyspnea (R06.00)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Bronchoscopy with endobronchial valve placement to LUL (CPT 31647; modifier -22??)
+* Airway toilet
+
+Sedation/Anesthesia:
+Moderate sedation listed on nursing sheet; procedure performed under GA with LMA noted once in anesthesia record. Patient tolerated without hemodynamic instability.
+
+Procedure in detail:
+Flexible bronchoscope introduced. Tracheobronchial tree examined. No tumor. Secretions suctioned. Chartis balloon occlusion testing of LUL demonstrated pattern consistent with no collateral ventilation. Segmental measurements performed; valves deployed to apicoposterior and anterior segments and lingula (total 4 valves). Valves seated well. No bleeding.
+
+EBL: <10 mL
+Complications: None
+Disposition/Plan: Observe overnight; CXR in PACU; continue bronchodilators; avoid strenuous activity x 48 hrs; follow-up in IP clinic.

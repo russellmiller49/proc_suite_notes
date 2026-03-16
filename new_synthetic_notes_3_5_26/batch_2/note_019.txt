@@ -1,0 +1,12 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION: Successful recanalization of the right intermediate bronchus using laser and mechanical coring.
+SPECIMENS: Endobronchial biopsies of the right intermediate bronchus tumor.
+COMPLICATIONS: Minimal bleeding, controlled with cold saline.
+
+PRE-PROCEDURE DIAGNOSIS: Malignant airway obstruction (ICD J98.09, C34.31)
+PROCEDURE: Rigid bronchoscopy, Nd:YAG laser ablation, mechanical debulking.
+
+INDICATION: [PATIENT], [REDACTED] male, squamous cell ca with post-obstructive pneumonia.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia with total intravenous anesthesia (TIVA), a size 12.0 Dumon rigid bronchoscope was passed into the trachea. The carina was sharp. The right mainstem was patent. The bronchus intermedius was completely occluded by an exophytic, fleshy tumor. We applied Nd:YAG laser at 20W continuous mode to coagulate the tumor base. Mechanical coring was then performed using the bevel of the rigid scope. Large tumor fragments were removed with rigid forceps. Airway patency was restored to approximately 80%, allowing visualization of the middle and lower lobe orifices. Copious purulent secretions were suctioned from the RLL. Hemostasis achieved. Scope withdrawn.

@@ -1,0 +1,14 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+Indication: Lung nodule.
+Procedure: Robotic Bronchoscopy.
+Findings:
+
+* Airway normal.
+* Nav to LUL.
+Modality	Passes	Result
+TBNA	3	Adequate
+Forceps	4	Tissue
+Brush	1	Smear
+
+Specimen: LUL.
+Plan: DC home.

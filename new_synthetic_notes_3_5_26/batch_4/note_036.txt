@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+BRONCHIAL THERMOPLASTY — SESSION 3 (LUL)
+
+Pre/Post Dx: Severe asthma (J45.50)
+Anesthesia: Moderate sedation
+
+TAB (tabs):
+Lobe	Activations	Notes
+LUL	38	mild cough
+Lingula	12	transient wheeze
+
+Procedure:
+Flexible bronchoscopy performed. Thermoplasty catheter used to deliver activations as above. Airways inspected; no complication.
+
+EBL none; complications none. Plan: steroid burst + follow-up.

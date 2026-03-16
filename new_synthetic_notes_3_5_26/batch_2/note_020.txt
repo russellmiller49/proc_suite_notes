@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, noisy_units
+PRE/POST DIAGNOSIS
+Airway stenosis.
+
+PROCEDURE
+Balloon dilation.
+
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was sedated. Flex bronchoscope inserted. Left mainstem had a tight stricture. Balloon dilated to 10m mm (10mm) for 60 seconds seconds. Airway opened nicely.
+IMPRESSION
+Successful dilation.

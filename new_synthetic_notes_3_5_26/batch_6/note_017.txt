@@ -1,0 +1,28 @@
+EDGE_<<<NOTE _TAGS: malformed_codes
+
+PRE-PROCEDURE DX: Tracheal stenosis after prolonged intubation
+POST-PROCEDURE DX: Same
+
+Procedure(s):
+Rigid bronchoscopy, balloon dilation, cryotherapy to granulation tissue
+CPT-ish: [31630]; [31641?]
+
+Indication:
+Progressive stridor and dyspnea.
+
+Findings:
+Subglottic/proximal tracheal stenosis with granulation tissue, residual lumen approximately 5 mm. Distal trachea normal.
+
+Technique:
+Under general anesthesia with jet ventilation, rigid bronchoscopy performed. Granulation tissue treated with cryotherapy. Balloon dilation carried out gradually to 12 mm with improved airway caliber.
+
+Specimens:
+None.
+
+Complications:
+Transient desaturation during dilation, resolved with ventilation pause and re-oxygenation.
+
+Plan:
+Observe overnight. Continue reflux precautions and follow-up airway evaluation.
+
+<<<END NOTE>>>

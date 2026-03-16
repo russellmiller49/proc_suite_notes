@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+BRONCHOSCOPY FOR BRONCHIAL CAST (plastic bronchitis)
+
+Patient: [PATIENT] (22-year-old male)
+Indication: Acute hypoxemia with suspected airway cast.
+
+Dx: Acute respiratory failure (J96.00), airway obstruction (J98.09)
+
+Procedure: Flexible bronchoscopy with cast extraction
+Anesthesia: GA
+
+TAB (tabs):
+Location	Material	Removal method
+R main bronchus	cast	cryoprobe en bloc
+RLL	cast fragments	suction/forceps
+
+Detail:
+Large tenacious cast removed using cryoprobe with intact extraction. Airways cleared with suction. Oxygenation improved intra-procedure.
+
+EBL minimal; complications none. Plan: ICU; evaluate underlying lymphatic/cardiac contributors.

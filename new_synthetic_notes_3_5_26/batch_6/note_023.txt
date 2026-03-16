@@ -1,0 +1,27 @@
+EDGE_<<<NOTE _TAGS: conflicting_details
+
+PRE-PROCEDURE DIAGNOSIS
+Right mainstem stent migration.
+
+POST-PROCEDURE DIAGNOSIS
+Right mainstem stent migration, revised.
+
+PROCEDURE
+Flexible bronchoscopy with stent repositioning and secretion clearance.
+
+FINDINGS
+A silicone stent was seen partially prolapsed proximally into the distal trachea. Later in the note the stent is described as covered metallic; the intended device was the previously placed silicone right mainstem stent. Moderate secretions distal to the stent were suctioned. After repositioning, the stent sat appropriately within the right mainstem with good opening of the bronchus intermedius.
+
+DETAILS
+Under general anesthesia, rigid intervention was not required. Using forceps through flexible bronchoscopy, the migrated stent was repositioned distally. Final inspection showed good apposition and no major granulation tissue.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None.
+
+PLAN
+Repeat surveillance bronchoscopy if symptoms recur.
+
+<<<END NOTE>>>

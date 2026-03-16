@@ -1,0 +1,27 @@
+EDGE_<<<NOTE _TAGS: table_with_tabs, noisy_units
+
+ABLATlON NOTE
+
+Indication:
+Known peripheral NSCLC, medically inoperable, planned RFA.
+
+Target summary
+Lobe	Segment	Approx size
+RLL	Superior segment	1.9 cm
+
+Procedure:
+Navigational bronchoscopy using ION robotic platform with cone-beam CT confirmation and radiofrequency ablation.
+
+Findings:
+Shape-sensing navigation provided stable access. CT spin confirmed catheter traversing the target. Expected post-ablation change present. No active airway bleeding.
+
+Specimens:
+None.
+
+Complications:
+Tiny trace PTX on immediate film, clinically stable.
+
+Plan:
+Observation with repeat chest radiograph in 2 hrs.
+
+<<<END NOTE>>>

@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+Cryospray airway ablation note: [PATIENT] 52-year-old female with recurrent airway papillomatosis. GA. Flexible bronchoscopy with cryospray applied to supraglottic/tracheal lesions (code line “31641??”). Lesions treated in short bursts; airway patent at end. EBL minimal. No complications. Plan: repeat surveillance in 6–8 weeks.

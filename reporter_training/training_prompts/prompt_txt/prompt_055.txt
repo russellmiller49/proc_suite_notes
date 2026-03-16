@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:109
+# id: ip_procedure_prompts_batch3:55
+
+Pleural ultrasound and diagnostic thoracentesis for small loculated left effusion in patient with fever after surgery. Pocket localized posteriorly and 180 mL cloudy fluid aspirated for diagnostic studies. No chest tube placed due small volume.

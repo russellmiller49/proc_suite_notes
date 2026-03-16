@@ -1,0 +1,12 @@
+Airway stent removal
+Patient: [PATIENT], 61-year-old female with benign left mainstem stenosis previously treated with stent, now improved.
+
+Procedure: Bronchoscopy with silicone stent removal.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Details:
+Flexible bronchoscopy demonstrated silicone stent in left mainstem bronchus with minimal granulation tissue. Rigid forceps used to grasp stent retrieval loop and stent removed en bloc without mucosal injury. Post-removal inspection showed mild residual stenosis with lumen ~11–12 mm and good distal airway patency. Minor oozing resolved with suction.
+
+Specimens: None.
+Plan: Observe for bronchospasm; airway clearance; follow-up in clinic with repeat imaging as indicated.

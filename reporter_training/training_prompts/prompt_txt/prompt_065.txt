@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:129
+# id: ip_procedure_prompts_batch3:65
+
+EBUS staging for known LUL adenocarcinoma with PET avid 4L and 7 nodes. Sampling order 11R, 4R, 7, 4L, 11L from contralateral to ipsilateral side. Four passes each with 22g needle, ROSE malignant at 4L and 7. Procedure uncomplicated.

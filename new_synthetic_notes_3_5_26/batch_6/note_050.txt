@@ -1,0 +1,6 @@
+EDGE_<<<NOTE _TAGS: missing_section, copy_paste_artifacts, ultra_short
+
+Flexible bronchoscopy for hemoptysis and left lower lobe infiltrate. Airways inspected to segmental level; no active bleeding seen, but old blood staining was present in the left lower lobe. BAL performed in the LLL with 100 mL instilled and 34 mL returned.
+Specimen: LLL BAL for culture/cytology. No endobronchial biopsy biopsy performed.
+Stable after procedure. Follow results and continue observation.
+<<<END NOTE>>>

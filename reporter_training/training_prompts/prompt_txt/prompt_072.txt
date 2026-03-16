@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:143
+# id: ip_procedure_prompts_batch3:72
+
+Bronchoscopy with APC treatment of granulation tissue at proximal end of tracheal stent causing cough and minor hemoptysis. Secretion clearance also performed. Stent otherwise stable and patent.

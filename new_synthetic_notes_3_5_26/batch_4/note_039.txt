@@ -1,0 +1,25 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+ENDOBRONCHIAL ULTRASOUND — ELASTOGRAPHY (diagnostic adjunct)
+
+Patient: [PATIENT] (56-year-old female)
+Indication: Mediastinal adenopathy with need for targeted sampling.
+
+Pre Dx: Mediastinal LAD (R59.0)
+Post Dx: Same
+
+Procedure(s):
+
+* Linear EBUS with elastography mapping
+* EBUS-TBNA stations 4R and 7 (3 passes each)
+
+Anesthesia: GA
+Findings:
+Elastography: station 4R predominantly “stiff” pattern; station 7 mixed.
+Technique:
+EBUS performed; Doppler negative. TBNA performed as above. Minimal bleeding.
+
+Specimens:
+A: 4R TBNA
+B: 7 TBNA
+
+EBL minimal; complications none. Plan: follow cytology/flow as indicated.

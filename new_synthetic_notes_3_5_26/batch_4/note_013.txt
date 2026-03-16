@@ -1,0 +1,28 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+INTERVENTIONAL PULMONOLOGY — ROBOTIC BRONCHOSCOPY
+
+Indication: 54-year-old female, RML nodule (R91.1), PET-avid.
+
+PRE DX: R91.1
+POST DX: R91.1
+
+Procedures:
+
+* Robotic bronchoscopy (navigational)
+* Radial ultrasound
+* Transbronchial needle aspiration (peripheral) (CPT 31629??)
+* Transbronchial biopsies
+* BAL
+
+Anesthesia: GA
+Findings:
+
+1. Normal central airways.
+2. Radial ultrasound: concentric signal at target after tool-in-lesion adjustments.
+
+Specimens:
+
+* RML lesion: TBNA x4; forceps x4; brush x1; BAL.
+
+Complications: none; EBL <5 mL
+Disposition: PACU; CXR ordered.

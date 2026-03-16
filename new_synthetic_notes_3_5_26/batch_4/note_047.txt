@@ -1,0 +1,21 @@
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+AIRWAY STENT REMOVAL — GRANULATION
+
+Patient: [PATIENT] (66-year-old female)
+Indication: Silicone stent with granulation and mucus plugging.
+
+Dx: Tracheal stenosis (J39.8)
+
+Procedure:
+
+* Rigid bronchoscopy
+* Silicone stent removal
+* Granulation debulking
+
+Anesthesia: GA with jet ventilation
+TAB (tabs):
+Action	Tool	Result
+Stent removal	Rigid forceps	removed intact
+Granulation	debridement	patent airway
+
+EBL ~15 mL; complications none. Plan: airway clearance; consider replacement vs observation.

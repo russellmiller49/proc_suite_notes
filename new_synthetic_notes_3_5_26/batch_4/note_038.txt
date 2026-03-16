@@ -1,0 +1,14 @@
+EDGE_CASE_TAGS: missing_section, copy_paste_artifacts
+PRE/POST DX: Tracheoesophageal fistula (J39.2), aspiration (T17.9xxA)
+
+PROCEDURE:
+
+* Bronchoscopy with methylene blue evaluation for TEF
+* Esophagoscopy by GI noted in separate note
+
+ANESTHESIA: GA
+
+DETAIL:
+[PATIENT] 61-year-old male with suspected TEF. Bronchoscopy performed. Methylene blue instilled via esophagus (coordinated with GI) and blue dye visualized entering posterior tracheal wall at mid-trachea, consistent with fistula. Airway suctioned. No intervention performed in this setting. patientpatient to recovery stable.
+
+Plan: multidisciplinary discussion for stent vs surgical management.

@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+POST-PROCEDURE DIAGNOSIS: R91.1 pulmonary nodule, RLL superior segment
+COMPLICATIONS: None
+EBL: minimal
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 pulmonary nodule, RLL superior segment
+
+PROCEDURE: Pulsed electric field ablation of pulmonary nodule via robotic bronchoscopy + radial EBUS + CBCT
+ANESTHESIA: General
+
+INDICATION:
+[PATIENT] is a 61-year-old female with an enlarging RLL superior segment nodule. Plan for biopsy and non-thermal ablation to preserve surrounding structures.
+
+DETAILS:
+Airway inspection was normal. Navigation performed to target; radial EBUS concentric. CBCT confirmed tool-in-lesion. TBNA performed x2. PEF catheter positioned; 8 applications delivered. No significant bleeding. patientpatient transported to PACU stable.
+
+SPECIMENS:
+
+* RLL SS nodule: TBNA x2 passes
+* RLL SS nodule: TBBx x5 fragments
+  PLAN:
+* Post-procedure CXR
+* CT chest 4–8 weeks

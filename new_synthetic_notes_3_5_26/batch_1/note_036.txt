@@ -1,0 +1,21 @@
+Airway stent surveillance + granulation management
+
+Patient: [PATIENT], 58-year-old male with prior tracheal stent for benign stenosis.
+
+Procedure: Bronchoscopy with stent toileting and granulation tissue treatment.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Silicone tracheal stent in place with moderate granulation tissue at distal edge and adherent secretions.
+
+Interventions:
+
+Mechanical debridement of granulation tissue with forceps.
+
+APC applied to focal granulation areas for hemostasis.
+
+Stent lumen suctioned clear.
+
+Specimens: None.
+Plan: Nebulized saline; consider inhaled steroid per protocol; follow-up bronchoscopy in 4–6 weeks.

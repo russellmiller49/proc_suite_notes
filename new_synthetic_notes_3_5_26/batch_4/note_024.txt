@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+ULTRASOUND-GUIDED TRANSTHORACIC NEEDLE BIOPSY — PROCEDURE NOTE
+
+Patient: [PATIENT] (74-year-old male)
+Indication: Pleural-based RLL mass abutting chest wall; tissue diagnosis required.
+
+Pre Dx: Lung mass (R91.8)
+Post Dx: Same
+
+Procedure(s):
+
+* Ultrasound-guided transthoracic core needle biopsy (CPT 32408? + 76942?)
+* Local anesthesia only (sometimes with minimal anxiolysis)
+
+Technique:
+Time-out performed. Ultrasound used to identify pleural-based lesion and avoid intercostal vessels. Skin prepped and draped sterile. Local lidocaine infiltrated. Using real-time ultrasound guidance, coaxial technique used to obtain 4 core samples. Minimal tract bleeding; hemostasis with manual pressure and dressing.
+
+Specimens:
+A–D: Core biopsies, RLL pleural-based lesion
+
+EBL: minimal
+Complications: none immediate
+Plan: Post-procedure CXR in 1–2 hours; return precautions for chest pain/shortness of breath; follow pathology.

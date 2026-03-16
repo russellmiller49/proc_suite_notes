@@ -1,0 +1,30 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+IMPRESSION / PLAN:
+
+* Successful bronchoscopic microwave ablation of [TARGET 1] RUL posterior segment nodule with post-ablation CBCT showing expected ground-glass halo.
+* CXR in PACU; CT chest at ~4–6 weeks to assess ablation zone.
+* Standard post-bronchoscopy precautions; call for fever, hemoptysis > tablespoon, worsening dyspnea.
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 (solitary pulmonary nodule), suspected early-stage lung cancer
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy to RUL lesion
+* Radial EBUS confirmation (eccentric)
+* TBNA + transbronchial biopsy for diagnosis
+* Microwave ablation of pulmonary nodule (bronchoscopic) 32998-?? (descriptor line wrapped)
+* Cone-beam CT (CBCT) spin for tool-in-lesion confirmation
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL:
+After informed consent, [PATIENT] (67-year-old male) was brought to the hybrid suite. Airway inspection with flexible bronchoscopy revealed no endobronchial lesions. Robotic platform was docked and navigation performed to the RUL posterior segment target based on pre-op CT plan. Radial EBUS demonstrated an eccentric lesion; fluoroscopy and CBCT confirmed tool-in-lesion. TBNA and TBBx were obtained prior to ablation.
+
+A microwave ablation catheter was advanced to the target and energy delivered in staged applications with repositioning for margin coverage. Repeat CBCT showed expected ablation change without pneumothorax. Bronchial toileting performed; hemostasis confirmed. Patient extubated in stable condition.
+SPECIMENS:
+
+* RUL target: TBNA x4 passes
+* RUL target: TBBx x6 fragments

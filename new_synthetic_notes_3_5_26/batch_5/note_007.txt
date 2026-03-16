@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: unicode_checkboxes, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 LLL posterior basilar nodule, suspected malignancy
+POST DIAGNOSIS: Same
+
+0‌/1‌ CONSENT: obtained (written + verbal)
+0‌/1‌ ANESTHESIA: GA
+0‌/1‌ ANTIBIOTICS: per anesthesia record
+0‌/1‌ SPECIMENS: yes (see below)
+
+PROCEDURES (checklist style):
+0‌/1‌ Bronchoscopy airway survey
+0‌/1‌ Navigational bronchoscopy
+0‌/1‌ Radial EBUS
+0‌/1‌ RFA ablation catheter placement and energy delivery
+0‌/1‌ Fluoroscopy confirmation
+
+FINDINGS:
+
+* No endobronchial abnormality.
+* Radial EBUS: concentric view, lesion in LLL posterior basilar.
+
+DETAILS:
+[PATIENT] (70-year-old male) underwent navigation to target with fluoroscopic guidance. Diagnostic biopsies obtained. RFA performed with two treatment zones for margin coverage. Final bronchoscopy without bleeding.
+
+SPECIMENS:
+
+* LLL nodule: TBBx x6
+* LLL nodule: brushing x1
+  COMPLICATIONS: none
+  EBL: <10 mL
+  PLAN: CXR post-procedure; CT chest in 6 weeks.

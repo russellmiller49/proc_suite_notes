@@ -1,0 +1,15 @@
+Peripheral bronchoscopy (cone-beam CT assisted)
+
+Patient: [PATIENT], 66-year-old male
+Indication: RML 1.4 cm nodule, high suspicion; need diagnosis.
+
+Procedure: Computer-assisted navigation bronchoscopy; radial EBUS; transbronchial biopsy; bronchial brushing.
+Anesthesia: General anesthesia.
+Imaging: Cone-beam CT used for confirmation.
+Complications: None.
+
+Narrative:
+Navigation performed to RML medial segment. Radial EBUS showed concentric signal. Cone-beam CT confirmed tool within lesion. Sampling included TBNA x2, forceps biopsies x8, and brush x1. Hemostasis achieved with wedging. No pneumothorax noted on end-procedure imaging.
+
+Specimens: “RML bx”, “RML brush”, “RML TBNA”.
+Plan: CXR in PACU; follow pathology.

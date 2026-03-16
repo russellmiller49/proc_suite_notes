@@ -1,0 +1,21 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+PLAN:
+
+* Stent surveillance bronchoscopy in 4–6 weeks.
+* Nebulized saline + airway clearance.
+
+PRE/POST DX: Malignant central airway obstruction (C34.9), tracheal stenosis (J39.8)
+
+PROCEDURES:
+
+* Rigid bronchoscopy
+* Silicone Y-stent placement (size documented below)
+
+ANESTHESIA: GA with jet ventilation
+EBL: ~20 mL
+COMPLICATIONS: none
+
+DETAIL:
+[PATIENT] 59-year-old male with distal tracheal obstruction extending to carina. Rigid bronchoscopy performed; mechanical debulking completed. A silicone Y-stent was deployed (tracheal limb 16 mm; right 12 mm; left 12 mm; lengths per sizing) with improved airway caliber and ventilation. Minor oozing controlled with topical measures. Final airway patent.
+
+SPECIMENS: none

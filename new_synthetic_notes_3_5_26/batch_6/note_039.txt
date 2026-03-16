@@ -1,0 +1,7 @@
+EDGE_<<<NOTE _TAGS: missing_section, ultra_short
+
+Indication: retained secretions after stent placement.
+Flexible bronchoscopy showed a patent left mainstem covered metallic stent with moderate retained secretions and a small amount of granulation tissue at the proximal edge. Secretions were cleared and the granulation tissue was treated with APC.
+No specimen. No immediate complication. Continue airway clearance and outpatient follow-up.
+
+<<<END NOTE>>>

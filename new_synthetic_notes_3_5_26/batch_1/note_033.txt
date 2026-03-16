@@ -1,0 +1,22 @@
+Bronchoscopy with endobronchial biopsy + BAL
+
+Indication: Hemoptysis, right middle lobe endobronchial abnormality on CT.
+Patient: [PATIENT], 54-year-old male
+Sedation: Moderate sedation.
+
+Findings:
+Polypoid lesion at right middle lobe bronchus orifice with mild oozing. Remaining airways without mass.
+
+Interventions:
+
+Endobronchial biopsies x5 from RML lesion.
+
+Brushings x1 from RML lesion.
+
+BAL in RML (100 mL instilled, 36 mL return).
+
+Specimens:
+“RML endobronchial bx”, “RML brush”, “RML BAL”
+
+Complications: None.
+Plan: Hemoptysis precautions; follow pathology.

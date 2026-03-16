@@ -1,0 +1,40 @@
+EDGE_<<<NOTE _TAGS: reordered_sections, inconsistent_formatting
+
+PLAN
+Post-procedure chest radiograph. Follow BAL and TBBBx pathology/culture results. Discharge from bronchoscopy recovery if stable on room air.
+
+POST-PROCEDURE DIAGNOSIS
+RUL peripheral opacity; mediastinal adenopathy.
+
+PRE-PROCEDURE DIAGNOSIS
+Abnormal chest CT with persistent cough and PET-avid RUL lesion.
+
+PROCEDURES PERFORMED
+Flexible bronchoscopy with airway inspection
+BAL, right upper lobe
+Transbronchial biopsy, right upper lobe
+Linear EBUS-TBNA stations 4R and 7
+
+ANESTHESIA
+General anesthesia with LMA.
+
+FINDINGS
+Trachea midline. Main carina sharp. No endobronchial tumor seen. Mild friable mucosa in the anterior segment of the RUL. Station 4R enlarged and hypoechoic. Station 7 mildly enlarged.
+
+PROCEDURE IN DETAIL
+After timeout and induction, flexible bronchoscope was advanced through the LMA. Complete airway inspection was performed to the segmental level. BAL was obtained from the RUL with 120 mL instilled and 42 mL returned, lightly blood-tinged. Fluoroscopically guided transbronchial biopsies were then obtained from the RUL lesion. Linear EBUS scope was introduced and nodal sampling performed in the sequence 4R then 7. Station 4R underwent 5 passes, station 7 underwent 3 passes. ROSE was available and showed lymphoid tissue at both sites.
+
+SPECIMENS
+
+1. RUL BAL
+2. RUL transbronchial biopsy
+3. EBUS-TBNA station 4R x5 passes
+4. EBUS-TBNA station 7 x3 passes
+
+COMPLICATIONS
+None immediate.
+
+IMPRESSION
+Diagnostic bronchoscopy with combined parenchymal and mediastinal sampling completed without immediate complication.
+
+<<<END NOTE>>>

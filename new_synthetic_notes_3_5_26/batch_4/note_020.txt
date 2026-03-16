@@ -1,0 +1,4 @@
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+Plan first: keep chest tube, daily CXR, assess for removal once leak resolved.
+[PATIENT] 41-year-old male with PAL after pneumothorax. Bronchoscopy under moderate sedation. Balloon occlusion localized leak to LUL; 2 valves deployed; bubbling decreased significantly. No bleeding. EBL minimal.

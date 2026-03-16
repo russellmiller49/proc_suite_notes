@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PLAN: Extubate and transfer to PACU. Monitor for pneumothorax with post-op CXR.
+SPECIMENS: 1. RLL nodule BAL. 2. RLL nodule FNA. 3. RLL nodule core biopsy.
+COMPLICATIONS: None.
+
+PRE-OP DIAGNOSIS: Right lower lobe pulmonary nodule (ICD-10 R91.1)
+POST-OP DIAGNOSIS: Same.
+
+PROCEDURE:
+
+1. Robotic-assisted navigational bronchoscopy (31627)
+2. Transbronchial biopsy (31628)
+3. Fluoroscopy
+
+INDICATION: [PATIENT], [REDACTED] yr old, with a 1.8 cm RLL nodule.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia, the robotic bronchoscope was calibrated and inserted. Navigation to the RLL superior segment (RB6) was successful using pre-planned pathways. Fluoroscopy confirmed target. Radial EBUS showed an eccentric view, adjusted to concentric. TBNA x3 passes performed. Then, TBBx x4 using flexible forceps. Finally, a small BAL was performed in the segment. The robotic scope was removed. Patient remained hemodynamically stable.

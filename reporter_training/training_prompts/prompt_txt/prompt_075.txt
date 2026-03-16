@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:149
+# id: ip_procedure_prompts_batch3:75
+
+Bronchoscopy through endotracheal tube for tube position confirmation and secretion clearance after difficult intubation. Tube tip 3 cm above carina, no mainstem intubation. Secretions aspirated from both lower lobes. No additional abnormalities.

@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: inconsistent_formatting, noisy_units
+TRANSTRACHEAL OXYGEN CATHETER EXCHANGE (rare)
+
+Patient: [PATIENT] (77-year-old male)
+Indication: Chronic transtracheal oxygen with catheter malfunction.
+
+Dx: Chronic hypoxemia (R09.02)
+
+Procedure:
+
+* Bronchoscopy-assisted transtracheal oxygen catheter exchange
+  Anesthesia: Local with minimal sedation (lidocaine topical; one line typo “20m mg”)
+
+Detail:
+Bronchoscope used to confirm catheter position and exclude mucous plugging. Old catheter removed; new catheter placed via established tract and position confirmed. Mild bleeding at stoma controlled with pressure.
+
+EBL minimal; complications none. Plan: home O2 instructions; stoma care.

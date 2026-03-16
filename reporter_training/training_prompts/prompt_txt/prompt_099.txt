@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:197
+# id: ip_procedure_prompts_batch3:99
+
+Combined pleuroscopy and tunneled pleural catheter placement for recurrent malignant pleural effusion with trapped lung physiology. Pleural biopsies obtained, lung remained partially expanded, so catheter left for chronic drainage rather than talc pleurodesis.

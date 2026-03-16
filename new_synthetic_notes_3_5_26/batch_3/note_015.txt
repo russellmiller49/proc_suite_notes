@@ -1,0 +1,92 @@
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+
+COMPLEX COMBINED PROCEDURE OPERATIVE REPORT
+ENDOBRONCHIAL ULTRASOUND / EUS-B / NAVIGATIONAL BRONCHOSCOPY — TRIPLE MODALITY STAGING AND BIOPSY
+PROCEDURE DATE: [REDACTED]
+ATTENDING SURGEON/BRONCHOSCOPIST: [NAME:REDACTED], MD, FCCP, DAABIP
+FELLOW: [NAME:REDACTED], MD (PCCM fellow, Year 2, direct supervision)
+PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    DOB: [DOB:REDACTED]    AGE/SEX: 58-year-old male
+INSTITUTION: [NAME:REDACTED] Medical Center
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Right upper lobe 3.8 cm mass, highly PET-avid (SUVmax 16.3) (R91.1)
+  2. Mediastinal adenopathy — stations 2R, 4R, 4L, 7 enlarged on CT/PET
+  3. Left adrenal incidentaloma, PET-avid (SUVmax 4.2) (E27.40)
+  4. Suspected stage IIIB NSCLC vs stage IV disease, restaging required
+
+POST-PROCEDURE DIAGNOSES:
+  1–3: Same; tissue obtained from all targets; pending pathology
+  4. If adrenal confirmed met: cM1b (stage IV); if N3 only: cIIIB
+
+CPT CODES:
+  31652 — EBUS-TBNA, one or two mediastinal and/or hilar lymph node stations
+  31653 — EBUS-TBNA, three or more stations
+  31627 — Navigational bronchoscopy
+  31628 — TBBX, each lobe (x1)
+  43232 — EUS-B with FNA (transesophageal, EBUS scope — biopsy of adrenal)
+
+ANESTHESIA: General anesthesia; LMA #5 for EBUS/ENB phases; TIVA (propofol 120 mcg/kg/min, remifentanil 0.1 mcg/kg/min). Anesthesiologist: [NAME:REDACTED], MD. Airway exchanged to 8.0 ETT for EUS-B transesophageal phase.
+
+MONITORING: Arterial line (radial, left). Standard ASA monitors. Total procedure time: 2 hours 14 minutes.
+
+INSTRUMENTS:
+  - Olympus BF-UC180F linear EBUS (for endobronchial stations + transesophageal)
+  - Medtronic SuperDimension ENB v7 for peripheral navigation
+  - Olympus BF-P290 thin bronchoscope (4.9 mm) for peripheral phase
+  - Radial EBUS probe 20 MHz, 2.0 mm
+  - Vizishot 2, 21-gauge TBNA needle
+  - 19-gauge EUS-FNA needle (transesophageal adrenal access)
+
+CLINICAL SUMMARY:
+58-year-old male, 40 pack-year smoking history, presenting with 3-month history of progressive cough, 15-pound weight loss, and hemoptysis. CT chest/abdomen/pelvis: 3.8 cm RUL mass with spiculated margins; enlarged mediastinal nodes (2R 1.8 cm, 4R 2.2 cm, 4L 1.1 cm, station 7 2.4 cm); 2.1 cm left adrenal mass (PET SUVmax 4.2). PET-CT: hypermetabolic primary RUL mass; mediastinal and left adrenal involvement. MRI brain negative for metastases. Case presented at multidisciplinary lung cancer conference; plan for triple-modality staging bronchoscopy.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — ENDOBRONCHIAL ULTRASOUND (EBUS-TBNA):
+EBUS scope introduced via LMA. White-light survey: trachea patent, carina mildly widened (consistent with subcarinal adenopathy). Right and left mainstem bronchi patent; no endobronchial lesion identified at this phase.
+
+Systematic EBUS-TBNA sampling (see table below):
+
+	Station	Short-axis (cm)	Echogenicity	Borders	Passes	ROSE
+	2R	1.8	Hypoechoic	Regular	3	Atypical/malignant
+	4R	2.2	Hypoechoic, hetero	Irregular	4	Malignant (adenoca morphology)
+	4L	1.1	Hypoechoic	Regular	3	Lymphocytes, atypical
+	7	2.4	Hypo, central necrosis	Irregular	4	Malignant
+	10R	0.7	Not sampled	—	0	—
+	11L	Not visualized	—	—	0	—
+
+Total TBNA passes: 14 passes across 4 stations.
+
+Doppler confirmed: no intervening vessels at any sampled station.
+
+PHASE 2 — EUS-B (TRANSESOPHAGEAL — LEFT ADRENAL):
+LMA removed; 8.0 ETT placed by anesthesia. EBUS scope introduced transorally into esophagus (EUS-B technique). Left adrenal gland identified in transesophageal window posterior to left lobe of liver/gastroesophageal junction region. Adrenal gland: 2.1 cm heterogeneous mass with preserved adrenal architecture on periphery. 19-gauge FNA needle introduced through working channel; adrenal mass accessed under real-time EUS guidance x3 passes. ROSE: malignant cells, morphology consistent with adenocarcinoma metastasis.
+
+PHASE 3 — NAVIGATIONAL BRONCHOSCOPY (PERIPHERAL LUNG MASS):
+ETT retained. Scope exchanged to thin bronchoscope + ENB catheter. RUL posterior segment (B2) target registered from pre-operative CT (3.8 cm mass). Navigational guidance confirmed catheter position at target. Radial EBUS deployed: concentric ring, within lesion confirmed. CXR-equivalent fluoroscopy spot obtained.
+
+Samples: 4 transbronchial biopsies (1.8 mm cup forceps); brushings x2; BAL 50 mL (30 mL return).
+
+Post-procedure flexible bronchoscopy: RUL B2 minimal ooze, self-limited. No endobronchial lesion visible. Distal airways clear.
+
+SPECIMENS:
+	Label	Station/Site	Technique	Container/Destination
+	A1	Station 2R	EBUS-TBNA x3	Cytology + cell block
+	A2	Station 4R	EBUS-TBNA x4	Cytology + cell block + mol hold
+	A3	Station 4L	EBUS-TBNA x3	Cytology + cell block
+	A4	Station 7	EBUS-TBNA x4	Cytology + cell block + mol hold
+	B1	Left adrenal	EUS-B FNA x3	Cytology + IHC (TTF-1, NapsinA, CK7, CK20)
+	C1	RUL B2 mass	TBBX x4	Formalin, H&E + IHC
+	C2	RUL B2 brushings	2 passes	ThinPrep cytology
+	C3	RUL B2 BAL	50 mL	Cytology + culture
+
+COMPLICATIONS: None significant. Estimated blood loss: <5 mL total. Post-procedure SpO2 97% on 2 L NC.
+
+POST-PROCEDURE PLAN:
+1. ROSE indicates malignancy at 4R, 7, and adrenal — highly suggestive of stage IV NSCLC with adrenal metastasis.
+2. Await formal pathology and molecular profiling (NGS — EGFR/ALK/ROS1/KRAS/MET/NTRK/BRAF; PD-L1 22C3).
+3. Present at next multidisciplinary thoracic oncology conference.
+4. If adenocarcinoma confirmed: initiate work-up for targeted therapy vs immunotherapy based on molecular results.
+5. Bone scan if PD-L1 high or if bone pain develops.
+6. Palliative care consultation given stage IV provisional diagnosis.
+7. Patient and family counseling regarding preliminary findings performed pre-discharge.

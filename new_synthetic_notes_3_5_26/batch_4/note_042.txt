@@ -1,0 +1,19 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* Continue antifungal therapy per ID.
+* Repeat bronchoscopy for surveillance if symptoms recur.
+
+PRE/POST DX: Endobronchial fungal ball (B44.9?), airway obstruction (J98.09)
+
+PROCEDURE:
+
+* Bronchoscopy with debulking and removal of obstructing material (31641??)
+* BAL
+
+ANESTHESIA: GA
+DETAIL:
+[PATIENT] 60-year-old female with obstructing lesion in RUL bronchus. Bronchoscopy revealed necrotic/fungal-appearing material partially occluding segmental airway. Material removed with forceps and suction; BAL performed. Minimal mucosal bleeding controlled. Airway patent at conclusion.
+
+Specimens: endobronchial debris + BAL to micro/path.
+EBL minimal; complications none.

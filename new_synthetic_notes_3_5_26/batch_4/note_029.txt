@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, ultra_short
+[PATIENT] 57-year-old female with mucus plugging and lobar atelectasis. Bronchoscopy under moderate sedation. Large tenacious plug extracted from LLL with suction + forceps. Airways otherwise clear. EBL none. No complications. Post Dx: Atelectasis (J98.11). Plan: aggressive airway clearance; CXR tomorrow. patientpatient stable.

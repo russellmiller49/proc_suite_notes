@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:105
+# id: ip_procedure_prompts_batch3:53
+
+Tunneled pleural catheter placement for recurrent symptomatic malignant right pleural effusion. Ultrasound guided access obtained and catheter tunneled successfully with drainage of 1000 mL amber fluid. Position confirmed and dressing applied.

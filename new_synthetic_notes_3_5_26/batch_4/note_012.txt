@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN (placed early):
+
+* Post-procedure CXR to evaluate pneumothorax.
+* Discharge home if imaging stable; call for hemoptysis, fever, worsening dyspnea.
+
+PRE/POST DIAGNOSIS: Pulmonary nodule, LUL (R91.1)
+
+PROCEDURE(S):
+Robotic bronchoscopy with peripheral sampling + EBUS staging
+
+ANESTHESIA: General anesthesia
+
+DETAIL:
+[PATIENT] is a 62-year-old male with a LUL peripheral nodule. Robotic platform used for navigation. Registration completed; pathway planned. Advanced to target. Radial ultrasound showed eccentric then improved to near-concentric after minor withdrawal and rotation. Biopsies performed (TBBx x5, brush x2) and BAL obtained. Linear EBUS then performed with TBNA of station 4L and 7 (3 passes each). Hemostasis confirmed; no active bleeding. patientpatient recovered in stable condition.
+
+EBL: minimal
+COMPLICATIONS: none

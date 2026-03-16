@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: malformed_codes
+PRE/POST DIAGNOSIS
+Tracheobronchial malacia. (J98-09)
+PROCEDURE
+Airway stent removal (31631- )
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old. Brought to OR. Rigid bronchoscopy performed. Silicone Y-stent in the carina was grasped with rigid forceps, folded, and removed en bloc. Airway inspected, moderate granulation tissue present. APC applied.
+IMPRESSION/PLAN
+Stent removed. Start inhaled steroids.

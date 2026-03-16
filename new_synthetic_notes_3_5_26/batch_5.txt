@@ -1,0 +1,1118 @@
+<<<NOTE 001>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+IMPRESSION / PLAN:
+
+* Successful bronchoscopic microwave ablation of [TARGET 1] RUL posterior segment nodule with post-ablation CBCT showing expected ground-glass halo.
+* CXR in PACU; CT chest at ~4–6 weeks to assess ablation zone.
+* Standard post-bronchoscopy precautions; call for fever, hemoptysis > tablespoon, worsening dyspnea.
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 (solitary pulmonary nodule), suspected early-stage lung cancer
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy to RUL lesion
+* Radial EBUS confirmation (eccentric)
+* TBNA + transbronchial biopsy for diagnosis
+* Microwave ablation of pulmonary nodule (bronchoscopic) 32998-?? (descriptor line wrapped)
+* Cone-beam CT (CBCT) spin for tool-in-lesion confirmation
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL:
+After informed consent, [PATIENT] (67-year-old male) was brought to the hybrid suite. Airway inspection with flexible bronchoscopy revealed no endobronchial lesions. Robotic platform was docked and navigation performed to the RUL posterior segment target based on pre-op CT plan. Radial EBUS demonstrated an eccentric lesion; fluoroscopy and CBCT confirmed tool-in-lesion. TBNA and TBBx were obtained prior to ablation.
+
+A microwave ablation catheter was advanced to the target and energy delivered in staged applications with repositioning for margin coverage. Repeat CBCT showed expected ablation change without pneumothorax. Bronchial toileting performed; hemostasis confirmed. Patient extubated in stable condition.
+SPECIMENS:
+
+* RUL target: TBNA x4 passes
+* RUL target: TBBx x6 fragments
+  <<<END NOTE 001>>>
+
+<<<NOTE 002>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+POST DIAGNOSIS: R91.1 pulmonary nodule
+PROCEDURE: CT-guided percutaneous cryoablation, LLL superior segment nodule
+ANESTHESIA: Moderate sedation (see MAR)
+EBL: <5 mL   COMPLICATIONS: none
+TECHNIQUE: Two cryoprobes placed under CT guidance; freeze-thaw-freeze performed; post-procedure CT without PTX.
+PLAN: CXR 2 hrs; discharge if stable; follow-up CT 1 month.
+<<<END NOTE 002>>>
+
+<<<NOTE 003>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE DIAGNOSIS: Suspected oligometastatic disease; enlarging LUL apical nodule (R91.8)
+POST DIAGNOSIS: Same
+
+PROCEDURE(S):
+• Robotic bronchoscopy + radial EBUS + CBCT confirmation
+• Pulsed electric field ablation (PEF) of pulmonary nodule
+• BAL LUL (diagnostic)
+
+ANESTHESIA: GA
+COMPLICATIONS: None  |  EBL: minimal
+
+MODALITY/RESULTS (tab-delimited):
+Navigation	successful to within 6 mm of target
+Radial EBUS	concentric view obtained
+CBCT	tool-in-lesion confirmed; no PTX on exit spin
+PEF	6 applications delivered; impedance stable
+
+HISTORY/INDICATION:
+[PATIENT] is a 58-year-old female with prior treated breast cancer and a growing LUL apical nodule concerning for metastasis vs new primary. Multidisciplinary discussion favored biopsy with same-session non-thermal ablation if confirmed.
+
+DETAILS:
+Airway exam unremarkable. Navigated to LUL apical target; radial EBUS confirmed concentric lesion. One CBCT spin performed for confirmation. BAL performed. PEF catheter positioned and applications delivered per protocol with intermittent fluoroscopic checks. No significant bleeding. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* LUL apical nodule: TBNA x3, TBBx x5
+* BAL: LUL 60 mL instilled, 22 mL return
+  PLAN:
+* Post-procedure CXR
+* CT chest at 4–8 weeks for ablation zone assessment
+  <<<END NOTE 003>>>
+
+<<<NOTE 004>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, conflicting_details
+PRE/POST DIAGNOSIS: R91.1 solitary pulmonary nodule, RML medial segment
+
+PROCEDURES PERFORMED:
+
+1. Bronchoscopy with airway survey
+2. Computer-assisted navigation to RML lesion
+3. RFA ablation of pulmonary nodule (bronchoscopic)
+4. Endobronchial ultrasound (radial) confirmation
+5. Transbronchial biopsy
+
+SEDATION / ANESTHESIA:
+Moderate sedation with midazolam and fentanyl. Time-out complete. (Later: Patient under GA with LMA.)
+
+FINDINGS:
+
+* No endobronchial lesion.
+* RML medial segment lesion localized with radial EBUS (eccentric).
+
+PROCEDURE IN DETAIL:
+[PATIENT] (72-year-old male) underwent bronchoscopy. After airway survey, the navigation catheter was advanced to the RML medial segment target. Radial EBUS demonstrated eccentric lesion. Biopsies obtained. RFA catheter advanced to target; ablation performed with repositioning to cover margins. Minimal oozing controlled with suction and iced saline. Final airway inspection clear.
+
+EBL: 10 mL
+COMPLICATIONS: None (no PTX on fluoroscopy)
+SPECIMENS:
+
+* RML lesion TBBx x7
+* RML lesion TBNA x2
+  PLAN:
+* CXR in recovery
+* Follow-up CT chest in ~6 weeks
+  <<<END NOTE 004>>>
+
+<<<NOTE 005>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PATIENT CONTEXT:
+[PATIENT] is a 64-year-old female with COPD and a peripheral RLL basilar segment nodule (1.6 cm) with interval growth and PET avidity. She is not an ideal surgical candidate. Plan: same-session diagnostic sampling and cryoablation if safe localization achieved.
+
+PLAN / RECOMMENDATIONS (placed first intentionally):
+
+1. Observe in PACU with CXR at 0 and 3 hours.
+2. Resume usual inhalers; hold anticoagulation x24h if applicable.
+3. CT chest in 4–6 weeks, then 3 months to evaluate involution of ablation zone.
+4. Pathology follow-up; oncology referral if malignancy confirmed.
+
+PRE-PROCEDURE DX: R91.1; suspected early-stage NSCLC
+POST-PROCEDURE DX: Same
+
+PROCEDURES:
+
+* Robotic bronchoscopy with peripheral navigation
+* Radial EBUS localization
+* Cone-beam CT confirmation x2
+* Transbronchial cryobiopsy (diagnostic)
+* Bronchoscopic cryoablation of pulmonary nodule (non-resectional therapy)
+
+ANESTHESIA: General anesthesia (ETT)
+AIRWAY DEVICE: 8.0 ETT
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL:
+After consent and time-out, flexible bronchoscopy demonstrated normal tracheobronchial anatomy without endobronchial mass. A robotic system was docked. Navigation was performed to the RLL basilar segment target. Radial EBUS showed an eccentric lesion with adjacent vessel excluded by Doppler on linear EBUS from a segmental takeoff.
+
+CBCT spin #1 confirmed near-lesion position; catheter adjusted. CBCT spin #2 confirmed tool-in-lesion. Diagnostic sampling performed first: TBNA from within the lesion, followed by transbronchial cryobiopsy using a 1.1 mm cryoprobe with balloon occlusion in the segment for hemostasis readiness.
+
+Following diagnostic sampling, cryoablation catheter was positioned centrally within the target. A freeze-thaw-freeze sequence was performed with slight catheter retraction between cycles to broaden coverage. Final CBCT demonstrated expected perilesional ground-glass change. No pneumothorax seen on exit imaging. Airway toileting performed; no active bleeding at conclusion.
+
+SPECIMENS:
+
+* RLL basilar segment nodule: TBNA x4 passes
+* RLL basilar segment nodule: cryobiopsy x3
+  <<<END NOTE 005>>>
+
+<<<NOTE 006>>>
+EDGE_CASE_TAGS: malformed_codes, missing_section
+PRE DX: R91.8 multiple pulmonary nodules; enlarging RUL anterior segment nodule
+POST DX: Same
+
+PROCEDURE:
+CT-guided microwave ablation of RUL nodule
+CPT (as documented): 32998:26 - 59 (line break)
+EBL: minimal
+COMPLICATIONS: Small apical PTX, stable, no chest tube
+
+TECHNIQUE:
+Under CT guidance, antenna positioned within RUL anterior segment lesion; ablation performed with two overlapping positions. Immediate CT showed expected ablation halo and a small apical pneumothorax. Patient remained hemodynamically stable with no increased O2 requirement.
+
+PLAN:
+
+* Observation + repeat CXR
+* Return precautions; CT follow-up per protocol
+  <<<END NOTE 006>>>
+
+<<<NOTE 007>>>
+EDGE_CASE_TAGS: unicode_checkboxes, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 LLL posterior basilar nodule, suspected malignancy
+POST DIAGNOSIS: Same
+
+0‌/1‌ CONSENT: obtained (written + verbal)
+0‌/1‌ ANESTHESIA: GA
+0‌/1‌ ANTIBIOTICS: per anesthesia record
+0‌/1‌ SPECIMENS: yes (see below)
+
+PROCEDURES (checklist style):
+0‌/1‌ Bronchoscopy airway survey
+0‌/1‌ Navigational bronchoscopy
+0‌/1‌ Radial EBUS
+0‌/1‌ RFA ablation catheter placement and energy delivery
+0‌/1‌ Fluoroscopy confirmation
+
+FINDINGS:
+
+* No endobronchial abnormality.
+* Radial EBUS: concentric view, lesion in LLL posterior basilar.
+
+DETAILS:
+[PATIENT] (70-year-old male) underwent navigation to target with fluoroscopic guidance. Diagnostic biopsies obtained. RFA performed with two treatment zones for margin coverage. Final bronchoscopy without bleeding.
+
+SPECIMENS:
+
+* LLL nodule: TBBx x6
+* LLL nodule: brushing x1
+  COMPLICATIONS: none
+  EBL: <10 mL
+  PLAN: CXR post-procedure; CT chest in 6 weeks.
+  <<<END NOTE 007>>>
+
+<<<NOTE 008>>>
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+POST-PROCEDURE DIAGNOSIS: R91.1 pulmonary nodule, RLL superior segment
+COMPLICATIONS: None
+EBL: minimal
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 pulmonary nodule, RLL superior segment
+
+PROCEDURE: Pulsed electric field ablation of pulmonary nodule via robotic bronchoscopy + radial EBUS + CBCT
+ANESTHESIA: General
+
+INDICATION:
+[PATIENT] is a 61-year-old female with an enlarging RLL superior segment nodule. Plan for biopsy and non-thermal ablation to preserve surrounding structures.
+
+DETAILS:
+Airway inspection was normal. Navigation performed to target; radial EBUS concentric. CBCT confirmed tool-in-lesion. TBNA performed x2. PEF catheter positioned; 8 applications delivered. No significant bleeding. patientpatient transported to PACU stable.
+
+SPECIMENS:
+
+* RLL SS nodule: TBNA x2 passes
+* RLL SS nodule: TBBx x5 fragments
+  PLAN:
+* Post-procedure CXR
+* CT chest 4–8 weeks
+  <<<END NOTE 008>>>
+
+<<<NOTE 009>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+[PATIENT] 66M | PRE/POST: R91.1 RML lateral nodule
+Procedure: Percutaneous RFA ablation under CT
+Sedation: MAC
+Codes: 32998-?? / 77012 (wrapped)
+EBL minimal | Complications none
+Note: Overlapping ablations x2; post CT no PTX.
+<<<END NOTE 009>>>
+
+<<<NOTE 010>>>
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE DX: Suspected early lung cancer, peripheral LUL lingular nodule
+POST DX: Same
+
+PROCEDURES:
+
+* Bronchoscopy + robotic navigation
+* Microwave ablation (bronchoscopic)
+* (No specimens collected per patient preference)
+
+ANESTHESIA: GA
+FINDINGS:
+Lingular target localized with radial EBUS (eccentric). CBCT confirmed adequate positioning.
+
+DETAILS (narrative):
+Patient brought to suite, intubated, and bronchoscopy performed. No endobronchial lesions. Navigated to lingular lesion with robotic platform. After confirmation, microwave ablation performed in staged applications with slight catheter adjustment between runs. Final CBCT with expected ablation change. No bleeding. Extubated uneventfully.
+
+COMPLICATIONS: None
+EBL: minimal
+PLAN:
+
+* CXR
+* CT chest 6 weeks
+  <<<END NOTE 010>>>
+
+<<<NOTE 011>>>
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+PRE DIAGNOSIS: R91.8 multiple nodules; dominant RUL apical nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE LIST (with codes sometimes):
+
+* Bronchoscopy (diagnostic)
+* Navigational bronchoscopy to RUL apical lesion
+* Transbronchial biopsy
+* Cryoablation of pulmonary nodule (bronchoscopic) 32994-?? (modifier 22? listed)
+* CBCT guidance
+
+ANESTHESIA: General anesthesia (ETT). Moderate sedation documented in nursing header.
+EBL: <10 mL
+COMPLICATIONS: None
+
+DETAILS:
+Airway survey normal. Navigation performed; radial EBUS eccentric view. CBCT used to optimize catheter position. Biopsies obtained. Cryoablation performed using freeze/thaw cycles with catheter repositioning for margins. No significant bleeding; final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL apical nodule: TBBx x6
+* RUL apical nodule: TBNA x3
+  PLAN: CXR; CT follow-up 4–6 weeks.
+  <<<END NOTE 011>>>
+
+<<<NOTE 012>>>
+EDGE_CASE_TAGS: table_with_tabs, reordered_sections
+PLAN:
+Follow-up CT chest at 1 month, then 3 months. Return precautions reviewed.
+
+PRE/POST DIAGNOSIS: R91.1 peripheral pulmonary nodule, LLL lateral basilar
+
+PROCEDURE: CT-guided percutaneous pulsed electric field ablation (PEF)
+SEDATION: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+OPERATIVE SUMMARY (tabbed):
+Needle path	posterolateral
+Electrode placement	confirmed in lesion
+Applications	10
+Immediate CT	no PTX, small perilesional hemorrhage
+
+DETAILS:
+Under CT guidance, electrode advanced into lesion. PEF delivered with stable parameters. Post-procedure CT demonstrated expected ablation effect and minimal perilesional hemorrhage without pneumothorax. Patient tolerated well.
+<<<END NOTE 012>>>
+
+<<<NOTE 013>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 RLL anterior basilar nodule
+POST DIAGNOSIS: Same
+
+Procedure(s):
+
+1. Airway inspection bronchoscopy
+2. Robotic navigation + radial EBUS localization
+3. RFA ablation of pulmonary nodule
+4. Bronchial toilet
+
+Anesthesia: General
+EBL: minimal
+Complications: none
+
+Technique:
+Bronchoscopy showed normal airways. Navigation to RLL anterior basilar target achieved; radial EBUS concentric. Fluoro and CBCT confirmed tool position. Diagnostic biopsies obtained. RFA catheter deployed and ablation performed in two overlapping zones. Final bronchoscopy clear. year old-year-old artifact present in header.
+
+Specimens:
+
+* RLL nodule: TBBx x5
+* RLL nodule: brush x1
+  Plan:
+* CXR
+* CT chest ~6 weeks
+  <<<END NOTE 013>>>
+
+<<<NOTE 014>>>
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+PRE/POST: R91.1 RUL posterior segment nodule
+0‌/1‌ Procedure: Percutaneous microwave ablation (CT-guided)
+0‌/1‌ EBL: minimal
+0‌/1‌ Complications: small tract hemorrhage only
+TECHNIQUE: Antenna placed; 2 ablations performed with pullback. Post CT without PTX.
+PLAN: Observe; CXR; outpatient CT in 4–8 wks.
+<<<END NOTE 014>>>
+
+<<<NOTE 015>>>
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, LUL anterior segment
+* High surgical risk (poor reserve)
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES PERFORMED:
+A. Robotic bronchoscopy with computer-assisted navigation
+B. Radial EBUS localization
+C. Cone-beam CT confirmation (pre and post ablation)
+D. Transbronchial needle aspiration + forceps biopsy
+E. Bronchoscopic microwave ablation of pulmonary nodule
+F. BAL (left upper lobe)
+
+ANESTHESIA: General anesthesia
+EBL: ~15 mL
+COMPLICATIONS: None
+
+INDICATION / HISTORY:
+[PATIENT] is a 69-year-old male with emphysema and a growing LUL anterior segment nodule. Multidisciplinary tumor board recommended bronchoscopic diagnosis with the option for same-session ablation.
+
+FINDINGS:
+
+* Airways: mild anthracosis; no endobronchial lesion.
+* Radial EBUS: concentric lesion, surrounding aerated lung.
+
+PROCEDURE IN DETAIL:
+After consent and time-out, bronchoscopy performed. Robotic system docked and pathway followed to the LUL target. Radial EBUS demonstrated concentric view; CBCT confirmed tool-in-lesion. TBNA x3 performed followed by forceps biopsy. BAL performed.
+
+Microwave ablation catheter advanced and energy delivered with a central application followed by a slight anterior reposition to cover the expected margin. Intermittent suctioning performed; minor oozing resolved spontaneously. Exit CBCT showed expected ablation halo without pneumothorax. Patient extubated and transported to PACU stable.
+
+SPECIMENS:
+
+* LUL nodule: TBNA x3
+* LUL nodule: TBBx x6
+* BAL: LUL (50 mL instilled; 18 mL return)
+  PLAN:
+* CXR in PACU
+* CT chest at 6 weeks
+* Pathology follow-up and oncology referral if indicated
+  <<<END NOTE 015>>>
+
+<<<NOTE 016>>>
+EDGE_CASE_TAGS: ultra_short, conflicting_details
+PRE/POST: R91.1 RML nodule
+Procedure: CT-guided cryoablation
+Sedation: “Local only” / moderate sedation per nursing
+EBL minimal | Complications none
+Freeze-thaw cycles completed; post CT no PTX.
+<<<END NOTE 016>>>
+
+<<<NOTE 017>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PROCEDURE(S) AND CODES (when captured):
+
+* Navigational bronchoscopy, robotic
+* Pulsed electric field ablation of pulmonary nodule (bronchoscopic) 33-998 (dash wrong)
+* Fluoroscopy / CBCT guidance
+
+PRE DX: R91.8 enlarging RLL superior segment nodule
+POST DX: Same
+ANESTHESIA: GA
+COMPLICATIONS: None
+EBL: minimal
+
+DETAILS:
+[PATIENT] 55-year-old female. Airway survey without lesion. Navigated to RLL SS target. Radial EBUS eccentric; CBCT confirmed catheter at lesion edge; adjusted to center. No diagnostic sampling performed (prior biopsy diagnostic). PEF delivered in multiple applications with stable readings. Final bronchoscopy clear. CXR ordered.
+<<<END NOTE 017>>>
+
+<<<NOTE 018>>>
+EDGE_CASE_TAGS: table_with_tabs, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 LLL nodule, posterior segment
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided RFA ablation
+ANESTHESIA: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+TABLE (tabs):
+Target	LLL posterior
+Needle gauge	17
+Ablations	2
+Post CT	No PTX; mild perilesional hemorrhage
+
+DETAILS:
+CT guidance used to position electrode centrally in lesion. Two overlapping ablations performed for margin coverage. Post-procedure CT without pneumothorax. Discharged with precautions and follow-up imaging.
+<<<END NOTE 018>>>
+
+<<<NOTE 019>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, missing_section
+PRE/POST: R91.1 RUL apical nodule
+PROCEDURE: Bronchoscopic cryoablation via robotic bronchoscopy + radial EBUS
+ANESTHESIA: GA
+DETAILS:
+Normal airway survey. Navigation to target. Radial EBUS concentric. CBCT confirmed tool position. Cryoablation performed with freeze/thaw cycles and catheter micro-repositioning. No bleeding. duplicated phrase: “No bleeding no bleeding.”
+EBL minimal | Complications none
+SPECIMENS: (omitted)
+PLAN: CXR; CT follow-up.
+<<<END NOTE 019>>>
+
+<<<NOTE 020>>>
+EDGE_CASE_TAGS: unicode_checkboxes, malformed_codes
+PRE DX: R91.1 lingular nodule
+POST DX: Same
+0‌/1‌ Procedure: CT-guided microwave ablation (32998:LT)
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+Technique: antenna placed; ablation performed; final CT no PTX.
+Plan: observe; discharge if stable; CT in 4–6 wks.
+<<<END NOTE 020>>>
+
+<<<NOTE 021>>>
+EDGE_CASE_TAGS: extreme_length, conflicting_details
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, RLL medial basilar (1.9 cm)
+* Prior SBRT to adjacent area; concern for recurrence
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy
+* Radial EBUS localization
+* CBCT confirmation x2
+* Transbronchial biopsy
+* Pulsed electric field ablation (PEF) of pulmonary nodule (bronchoscopic)
+
+ANESTHESIA:
+General anesthesia. Header from pre-op clinic note lists “moderate sedation planned.”
+
+EBL: 5–10 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 73-year-old male with prior radiation and a growing RLL nodule. Airway survey unremarkable. Navigation performed with robotic assistance; radial EBUS demonstrated eccentric lesion with adjacent atelectasis. CBCT spin confirmed partial tool-in-lesion; repositioned. Repeat CBCT confirmed improved lesion engagement. TBBx obtained x5 with mild bleeding controlled by suction and topical epinephrine (small dose per anesthesia approval). PEF catheter advanced; applications delivered with attention to avoiding airway cartilage contact. Final bronchoscopy showed no active bleeding. Exit CBCT without pneumothorax.
+
+SPECIMENS:
+
+* RLL medial basilar nodule: TBBx x5
+  PLAN:
+* CXR in PACU
+* CT chest at 4–8 weeks; compare ablation zone evolution given prior SBRT
+  <<<END NOTE 021>>>
+
+<<<NOTE 022>>>
+EDGE_CASE_TAGS: ultra_short, inconsistent_formatting
+PRE/POST DX: R91.1 RUL anterior nodule
+Procedure: CT-guided cryoablation
+EBL <5; Complications: none.
+Freeze-thaw-freeze completed; post CT no PTX.  Follow-up CT 1 month.
+<<<END NOTE 022>>>
+
+<<<NOTE 023>>>
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+IMPRESSION:
+Successful bronchoscopic RFA ablation of LUL apicoposterior nodule with expected post-ablation change on CBCT.
+
+PRE/POST DIAGNOSIS: R91.1 LUL apicoposterior nodule
+
+PROCEDURES:
+
+* Bronchoscopy, robotic navigation
+* Radial EBUS
+* RFA ablation
+* CBCT
+
+PARAMETERS (tabs):
+Radial EBUS	concentric
+CBCT#1	tool-in-lesion
+RFA	zones=2
+Exit spin	no PTX
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+SPECIMENS:
+
+* Prior diagnostic tissue available; no new biopsies obtained today.
+  PLAN: CXR; CT chest 6 weeks.
+  <<<END NOTE 023>>>
+
+<<<NOTE 024>>>
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE DIAGNOSIS: R91.8 enlarging LLL subpleural nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided pulsed electric field ablation (PEF)
+CODES: 32998-PEF? (free text), 77012 (guidance)
+SEDATION: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Under CT guidance, electrode advanced to lesion. PEF delivered with stable readings; one line contains missing space after bracket: “[PATIENT]tolerated procedure well.” Post CT showed expected ablation effect without pneumothorax. Disposition per protocol.
+
+PLAN:
+
+* CXR
+* CT follow-up 4–6 weeks
+  <<<END NOTE 024>>>
+
+<<<NOTE 025>>>
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE/POST DIAGNOSIS: R91.1 RLL lateral basilar nodule
+
+PROCEDURES (narrative format):
+Bronchoscopic microwave ablation performed after successful robotic navigation and CBCT confirmation. Diagnostic sampling deferred due to prior tissue diagnosis.
+
+ANESTHESIA: General
+FINDINGS:
+No endobronchial lesion. Target localized with radial EBUS (eccentric) and fluoroscopy.
+
+DETAILS:
+[PATIENT] is a 62-year-old female. Navigation achieved to RLL lateral basilar target. CBCT confirmed catheter position. Microwave ablation delivered in staged applications with slight repositioning to optimize margins. Minimal airway oozing self-resolved. Final airway inspection clear.
+
+EBL: minimal
+COMPLICATIONS: None
+PLAN:
+Post-procedure CXR; CT chest in ~6 weeks; clinic follow-up.
+<<<END NOTE 025>>>
+
+<<<NOTE 026>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* CXR in PACU; discharge if stable after observation.
+* CT chest 4–6 weeks to assess ablation zone; additional CT at 3 months if indeterminate.
+* Hold anticoagulation x24h if applicable.
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 solitary pulmonary nodule, RLL superior segment
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy to RLL superior segment target
+* Radial EBUS localization
+* Cone-beam CT guidance (two spins)
+* Bronchoscopic cryoablation of pulmonary nodule 32994-?? (line wrapped)
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: Minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 59-year-old male with a growing RLL superior segment nodule. Flexible bronchoscopy showed no endobronchial lesion. Navigation performed to the planned target; radial EBUS showed concentric view. CBCT spin confirmed tool-in-lesion; catheter repositioned slightly to improve centrality, then repeat CBCT confirmed. Cryoablation performed with freeze-thaw-freeze sequence with minor catheter pullback to broaden margins. Final airway inspection without bleeding. Exit imaging without PTX.
+
+SPECIMENS: None (prior diagnostic tissue available).
+<<<END NOTE 026>>>
+
+<<<NOTE 027>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+PRE/POST: R91.1 LUL anterior nodule
+Procedure: CT-guided microwave ablation
+Sedation: MAC
+EBL <5 mL | Complications: none
+Two overlapping ablations; post CT no PTX. CT follow-up 1 month.
+<<<END NOTE 027>>>
+
+<<<NOTE 028>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE DIAGNOSIS: R91.8 enlarging RUL apical nodule (prior SBRT field nearby)
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic bronchoscopy + navigation
+* Radial EBUS
+* Transbronchial biopsy
+* Pulsed electric field ablation (PEF)
+
+ANESTHESIA: GA
+EBL: 10 mL
+COMPLICATIONS: None
+
+WORKFLOW (tabs):
+Navigation	reached target; stable catheter
+Radial EBUS	eccentric view; adjusted to concentric
+CBCT	spin x1 confirmed near-center
+Biopsy	TBNA x2; TBBx x4
+PEF	applications=8; impedance stable
+Exit check	no PTX
+
+DETAILS:
+[PATIENT] is a 71-year-old female with a slowly enlarging RUL apical nodule. Airway exam unremarkable. Robotic navigation performed; radial EBUS initially eccentric, then repositioned to concentric. One CBCT spin confirmed catheter position. Diagnostic sampling obtained, followed by PEF applications. Mild oozing controlled with suction. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL apical nodule: TBNA x2 passes
+* RUL apical nodule: TBBx x4
+  PLAN:
+* CXR post-procedure
+* CT chest 4–8 weeks
+  <<<END NOTE 028>>>
+
+<<<NOTE 029>>>
+EDGE_CASE_TAGS: unicode_checkboxes, inconsistent_formatting
+PRE/POST DIAGNOSIS: R91.1 RML medial segment nodule
+
+0‌/1‌ Consent: obtained
+0‌/1‌ Anesthesia: General
+0‌/1‌ Antibiotics: per record
+0‌/1‌ Specimens: yes
+
+PROCEDURES:
+0‌/1‌ Robotic navigation
+0‌/1‌ Radial EBUS confirmation
+0‌/1‌ Bronchoscopic microwave ablation
+0‌/1‌ Post-ablation CBCT
+
+FINDINGS:
+
+* No endobronchial lesion
+* Radial EBUS: concentric lesion view in RML medial segment
+
+DETAILS:
+[PATIENT] 63-year-old male. Navigation successful; CBCT confirmed tool-in-lesion. Biopsies obtained prior to ablation. Microwave ablation delivered in staged applications with minor catheter retraction for margin coverage. Minimal bleeding.
+
+SPECIMENS:
+
+* RML nodule: TBBx x5
+* RML nodule: brushing x1
+  PLAN: CXR; CT chest 6 weeks.
+  <<<END NOTE 029>>>
+
+<<<NOTE 030>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, conflicting_details
+PRE DX: R91.1 solitary pulmonary nodule, LLL superior segment
+POST DX: Same
+
+PROCEDURE:
+CT-guided cryoablation of LLL SS nodule
+
+SEDATION:
+Moderate sedation documented; one header line states “General anesthesia.”
+
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Under CT guidance, two cryoprobes placed. Freeze-thaw-freeze performed. Post CT showed expected ablation zone and no pneumothorax. Patientpatient tolerated procedure well and was observed per protocol.
+
+PLAN:
+
+* CXR at 2 hours
+* CT chest 4–6 weeks
+  <<<END NOTE 030>>>
+
+<<<NOTE 031>>>
+EDGE_CASE_TAGS: reordered_sections, extreme_length
+IMPRESSION / PLAN (front-loaded):
+
+* Bronchoscopic RFA ablation of RLL lateral basilar nodule completed with expected post-ablation CBCT changes.
+* No pneumothorax on exit spin; routine post-procedure imaging ordered.
+* Follow-up CT chest at ~6 weeks; consider repeat CT at 3 months if equivocal.
+
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, RLL lateral basilar (1.7 cm)
+* Severe COPD, high surgical risk
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+1. Flexible bronchoscopy with airway survey
+2. Robotic navigational bronchoscopy to RLL target
+3. Radial EBUS localization
+4. CBCT guidance (spin x2)
+5. Transbronchial needle aspiration + forceps biopsy
+6. Bronchoscopic radiofrequency ablation (RFA) of pulmonary nodule (non-thermal planning margins documented)
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: ~20 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 74-year-old male with a growing peripheral RLL nodule. Airway exam showed mild secretions, suctioned. Robotic system docked; navigation performed along planned pathway. Radial EBUS demonstrated eccentric lesion; catheter adjusted until near-concentric. CBCT spin #1 suggested edge position; catheter advanced 5–8 mm and repeat CBCT confirmed improved tool-in-lesion.
+
+Sampling obtained prior to ablation (TBNA x3, TBBx x6). Mild bleeding after forceps biopsy controlled with suction and topical iced saline; no balloon occlusion required.
+
+RFA catheter placed centrally. Two overlapping ablations delivered with slight retraction between applications to cover expected margin. Final bronchoscopy showed no active bleeding. Exit CBCT without pneumothorax.
+
+SPECIMENS:
+
+* RLL lateral basilar nodule: TBNA x3 passes
+* RLL lateral basilar nodule: TBBx x6 fragments
+  <<<END NOTE 031>>>
+
+<<<NOTE 032>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST: R91.1 RUL posterior nodule
+Procedure: CT-guided PEF ablation
+Sedation: moderate
+Codes: 32998-PEF / 77O12 (letter O typo)
+EBL minimal | Complications none
+Post CT: no PTX; small perilesional hemorrhage.
+<<<END NOTE 032>>>
+
+<<<NOTE 033>>>
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE/POST DIAGNOSIS: R91.8 enlarging RUL anterior segment nodule
+
+PROCEDURES:
+
+* Robotic bronchoscopy with navigation
+* Radial EBUS
+* Microwave ablation of pulmonary nodule (bronchoscopic)
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 60-year-old female. Airway survey normal. Navigation achieved to target; radial EBUS eccentric. CBCT used to confirm catheter location. Ablation performed in staged applications with minor catheter adjustment. No diagnostic biopsies obtained today (patient declined). Final bronchoscopy clear.
+
+PLAN:
+CXR in recovery; CT chest in 4–8 weeks.
+<<<END NOTE 033>>>
+
+<<<NOTE 034>>>
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+PRE DIAGNOSIS: R91.1 LUL apicoposterior nodule
+POST DIAGNOSIS: Same
+
+0‌/1‌ Procedure: CT-guided RFA
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+0‌/1‌ EBL: minimal
+
+TAB SUMMARY:
+Target	LUL apicoposterior
+Electrode	placed central
+Ablations	2 (overlap)
+Post CT	no PTX
+
+DETAILS:
+Electrode advanced under CT guidance; two overlapping ablations performed. Post-procedure CT without pneumothorax. Observed then discharged.
+
+PLAN: CT follow-up 1 month.
+<<<END NOTE 034>>>
+
+<<<NOTE 035>>>
+EDGE_CASE_TAGS: reordered_sections, conflicting_details
+PLAN:
+
+* CXR now and repeat in 2 hours.
+* If stable, discharge with return precautions.
+* CT chest 4–6 weeks.
+
+PRE/POST DIAGNOSIS: R91.1 LLL subpleural nodule
+
+PROCEDURE: CT-guided microwave ablation
+ANESTHESIA: Moderate sedation (one line states GA)
+EBL: <10 mL
+COMPLICATIONS: Small pneumothorax, stable, no chest tube
+
+DETAILS:
+[PATIENT] 68-year-old male. Antenna positioned in lesion with CT guidance. Ablation performed, followed by pullback for second ablation. Immediate CT showed expected ablation zone and a small pneumothorax. Patient remained stable on room air.
+
+DISPOSITION: Observation per protocol.
+<<<END NOTE 035>>>
+
+<<<NOTE 036>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PRE DIAGNOSIS: R91.1 RUL apical nodule, suspicious for malignancy
+POST DIAGNOSIS: Same
+
+PROCEDURES (CPT-style lines vary):
+
+* Robotic navigational bronchoscopy (31627)
+* Radial EBUS (31654)
+* Microwave ablation of pulmonary lesion (32998—??) (em dash)
+* CBCT guidance (unlisted)
+
+ANESTHESIA: General
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 57-year-old female. Bronchoscopy showed no endobronchial lesion. Navigation to RUL apical target achieved. Radial EBUS concentric. CBCT confirmed tool-in-lesion. Microwave ablation performed with staged applications and minor repositioning. No bleeding.
+
+SPECIMENS: None (prior diagnostic tissue).
+PLAN: CXR; CT chest 6 weeks.
+<<<END NOTE 036>>>
+
+<<<NOTE 037>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, missing_section
+PRE/POST: R91.8 enlarging RML lateral nodule
+Procedure: Bronchoscopic cryoablation via navigation + radial EBUS + CBCT
+Anesthesia: GA
+Details:
+Airways normal. Navigated to target; radial EBUS eccentric then corrected to concentric. CBCT confirmed position. Cryoablation performed freeze/thaw. No bleeding no bleeding at end.
+EBL minimal | Complications none
+Specimens: omitted
+Plan: CXR; CT follow-up.
+<<<END NOTE 037>>>
+
+<<<NOTE 038>>>
+EDGE_CASE_TAGS: table_with_tabs, reordered_sections
+IMPRESSION:
+Successful PEF ablation of RLL superior segment nodule without immediate complication.
+
+PRE/POST DIAGNOSIS: R91.1 RLL superior segment nodule
+
+PROCEDURES:
+
+* Robotic bronchoscopy with navigation
+* Radial EBUS
+* CBCT
+* PEF ablation
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+
+PARAMETERS (tabs):
+Radial EBUS	concentric
+CBCT#1	edge position; adjusted
+CBCT#2	tool-in-lesion
+PEF	applications=10
+Exit	spin no PTX
+
+DETAILS:
+[PATIENT] 65-year-old male. Airway exam normal. Navigation performed; radial EBUS concentric. Two CBCT spins used to optimize catheter position. PEF delivered. Minimal oozing self-resolved.
+
+SPECIMENS: None.
+PLAN: CXR; CT chest 4–8 weeks.
+<<<END NOTE 038>>>
+
+<<<NOTE 039>>>
+EDGE_CASE_TAGS: ultra_short, inconsistent_formatting
+PRE/POST: R91.1 RLL nodule
+Procedure: CT-guided RFA
+Sedation: moderate
+EBL minimal | Complications: none
+Overlapping ablations x2; post CT no PTX; home after obs.
+<<<END NOTE 039>>>
+
+<<<NOTE 040>>>
+EDGE_CASE_TAGS: inconsistent_formatting, conflicting_details
+PRE DIAGNOSIS: R91.1 LUL lingular nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE:
+CT-guided cryoablation (percutaneous)
+
+ANESTHESIA:
+Local + moderate sedation. One line in template: “GA” (not applicable).
+
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Under CT guidance, two cryoprobes advanced into lingular lesion. Freeze-thaw cycles completed. Post CT showed no pneumothorax and expected ablation change. Patient tolerated well.
+
+PLAN:
+Observe, CXR, outpatient CT 1 month.
+<<<END NOTE 040>>>
+
+<<<NOTE 041>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* Post-procedure CXR
+* CT chest 6 weeks
+* Clinic follow-up to review pathology if obtained
+
+PRE DIAGNOSIS: R91.1 peripheral nodule, RUL anterior segment
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigation + radial EBUS
+* TBNA/TBBx
+* Bronchoscopic microwave ablation 32998:RT (colon used)
+
+ANESTHESIA: General
+EBL: 15 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 70-year-old male. Navigation to target achieved; radial EBUS eccentric. Biopsies obtained. Microwave ablation delivered in staged applications with minor catheter adjustments. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL nodule: TBNA x2
+* RUL nodule: TBBx x5
+  <<<END NOTE 041>>>
+
+<<<NOTE 042>>>
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+PRE/POST: R91.1 LLL posterior basilar nodule
+0‌/1‌ Procedure: CT-guided PEF ablation
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+Technique: electrode placed; 10 applications; post CT no PTX.
+Plan: CT chest 4–6 wks.
+<<<END NOTE 042>>>
+
+<<<NOTE 043>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PRE DIAGNOSIS: R91.8 enlarging LUL apical nodule
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Bronchoscopy with navigation (robotic)
+* Radial EBUS
+* RFA ablation of pulmonary nodule (bronchoscopic) 32998-?? (wrapped)
+* CBCT guidance
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 62-year-old female. Airway exam normal. Navigated to LUL apical target; radial EBUS concentric. CBCT confirmed catheter. RFA performed with two overlapping zones. Final bronchoscopy clear.
+
+SPECIMENS: None (prior diagnostic).
+PLAN: CXR; CT chest 6 weeks.
+<<<END NOTE 043>>>
+
+<<<NOTE 044>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, unicode_checkboxes
+PRE/POST DIAGNOSIS: R91.1 RML nodule
+
+0‌/1‌ Consent obtained
+0‌/1‌ Anesthesia GA
+DETAILS:
+Robotic navigation to RML target; radial EBUS eccentric, then corrected. CBCT confirmed position. PEF delivered in multiple applications. Missing space artifact: “[PATIENT]tolerated procedure well.”
+EBL minimal | Complications none
+SPECIMENS: None
+PLAN: CXR; CT 4–8 weeks.
+<<<END NOTE 044>>>
+
+<<<NOTE 045>>>
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, LLL superior segment (1.8 cm)
+* Prior lung surgery; limited reserve
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+1. Flexible bronchoscopy with airway survey
+2. Robotic navigation to LLL superior segment target
+3. Radial EBUS localization
+4. CBCT guidance (spin x2)
+5. Diagnostic sampling (TBNA + TBBx)
+6. Bronchoscopic microwave ablation of pulmonary nodule
+
+ANESTHESIA: General (ETT)
+EBL: ~25 mL
+COMPLICATIONS: None
+
+INDICATION:
+[PATIENT] is a 76-year-old male with an enlarging LLL superior segment nodule. Tumor board recommended bronchoscopic biopsy with same-session ablation if localization adequate.
+
+DETAILS:
+Airway survey without endobronchial lesion. Robotic system docked; navigation performed. Radial EBUS initially eccentric with adjacent atelectasis; catheter manipulated to improve lesion engagement. CBCT spin #1 showed edge position; catheter advanced and angulated slightly; CBCT spin #2 confirmed improved tool-in-lesion.
+
+TBNA x3 passes performed. Forceps biopsies obtained x6. Moderate bleeding occurred after the final biopsy, controlled with suction, iced saline, and brief balloon occlusion in the segment. Hemostasis confirmed.
+
+Microwave ablation catheter advanced; staged applications delivered. Small amount of airway soot/char seen at catheter tip (expected), cleared with suction; no airway injury appreciated. Final bronchoscopy clear; exit imaging without pneumothorax.
+
+SPECIMENS:
+
+* LLL SS nodule: TBNA x3
+* LLL SS nodule: TBBx x6
+  PLAN:
+* CXR in PACU
+* CT chest at 6 weeks
+  <<<END NOTE 045>>>
+
+<<<NOTE 046>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST: R91.1 RLL subpleural nodule
+Procedure: CT-guided microwave ablation
+Sedation: moderate
+Codes: 77012 / 32998-??-
+EBL minimal | Complications: none
+Post CT no PTX; discharge after obs.
+<<<END NOTE 046>>>
+
+<<<NOTE 047>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Bronchoscopic cryoablation of LUL anterior nodule completed; exit CBCT without PTX.
+
+PRE/POST DIAGNOSIS: R91.1 LUL anterior nodule
+
+PROCEDURES:
+
+* Robotic navigation + radial EBUS
+* CBCT confirmation
+* Cryoablation (bronchoscopic)
+* BAL (left upper lobe)
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+
+DETAILS:
+[PATIENT] 54-year-old female. Airway survey normal. Navigation to LUL target. Radial EBUS concentric. CBCT confirmed. BAL performed. Cryoablation freeze/thaw cycles completed with slight catheter repositioning for margins. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* BAL LUL: 40 mL instilled, 15 mL return
+  PLAN: CXR; CT chest 4–6 weeks.
+  <<<END NOTE 047>>>
+
+<<<NOTE 048>>>
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE DIAGNOSIS: R91.8 enlarging RLL superior segment nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided PEF ablation
+ANESTHESIA: MAC
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Electrode positioned under CT guidance. PEF delivered in 8 applications. Post CT showed expected effect and no PTX. Disposition per protocol.
+
+PLAN: CT follow-up 1 month.
+<<<END NOTE 048>>>
+
+<<<NOTE 049>>>
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+PRE/POST: R91.1 RUL anterior nodule
+0‌/1‌ Procedure: CT-guided cryoablation
+0‌/1‌ Sedation: “local only” / MAC
+0‌/1‌ Complications: none
+Technique: two probes; freeze-thaw-freeze; post CT no PTX.
+Plan: CT chest 4–6 wks.
+<<<END NOTE 049>>>
+
+<<<NOTE 050>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, malformed_codes
+PRE DIAGNOSIS: R91.1 LLL nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE:
+Bronchoscopic RFA ablation via navigation + radial EBUS + CBCT
+Codes: 32998—RFA? (em dash), 31627 (nav), 31654 (radial)
+
+ANESTHESIA: General
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 66-year-old male. Navigation successful. Radial EBUS concentric. CBCT confirmed. RFA performed with overlapping zones. Copy/paste artifact: “year old-year-old” appears once in body. Final bronchoscopy clear.
+
+SPECIMENS: None
+PLAN: CXR; CT chest 6 weeks.
+<<<END NOTE 050>>>

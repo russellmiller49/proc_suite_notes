@@ -1,0 +1,43 @@
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+ICU BRONCHOSCOPY NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   FELLOW: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 63M
+
+INDICATION: Ventilated patient; bilateral opacities; R/O diffuse alveolar hemorrhage (DAH) vs pneumonia; ANCA-associated vasculitis (M31.31) on treatment.
+
+PRE-PROCEDURE DIAGNOSIS: New bilateral infiltrates, mechanically ventilated patient; suspected DAH (D69.0 provisional)
+POST-PROCEDURE DIAGNOSIS: Same; serial BAL consistent with DAH (progressively bloodier aliquots); awaiting pathology/cytology
+
+PROCEDURE: Flexible bronchoscopy, BAL bilateral (CPT 31624)
+
+ANESTHESIA: No additional sedation; patient on propofol 35 mcg/kg/min + fentanyl drip (baseline ICU). Paralytic held during procedure for cough assessment.
+
+MONITORING: Continuous arterial line, SpO2, ETCO2, invasive BP.
+
+PROCEDURE:
+
+EBUS scope not used; standard Olympus BF-P290 via ETT (8.0 ETT). Airways inspected:
+
+	Location	Mucosal Appearance	BAL Aliquot Results
+	Trachea	Diffuse erythema; blood-tinged secretions	—
+	Right upper lobe B1	Erythematous; no discrete lesion	Aliquot 1: pink-tinged
+	Right lower lobe B10	Erythematous	Aliquot 2: bright red
+	Left lower lobe B9	Diffuse erythema	Aliquots 1–3: progressively bloodier (serial DAH pattern confirmed)
+
+Serial BAL protocol (LLL B9, primary site): 3 × 60 mL aliquots, each progressively bloodier — diagnostic for DAH.
+
+BAL fluid analysis ordered:
+  Hemosiderin-laden macrophages (Prussian Blue stain)
+  Cytology and cell differential
+  BAL Golde score (hemosiderin index)
+  AFB, fungal, bacterial culture
+  Urinalysis + anti-GBM, ANCA re-check (concurrent with BAL)
+
+COMPLICATIONS: Transient SpO2 drop to 86% during RLL BAL; FiO2 increased to 1.0 for 3 minutes; recovery to 95% on FiO2 0.7. No pneumothorax. EBL: moderate (BAL return heavily blood-tinged but consistent with DAH, not iatrogenic).
+
+PLAN:
+1. DAH pattern confirmed bronchoscopically; pulse-dose methylprednisolone 1 g IV x3 days initiated.
+2. Cyclophosphamide vs rituximab decision pending rheumatology.
+3. Plasmapheresis consult for severe DAH with ANCA.
+4. Repeat bronchoscopy in 48–72h if clinical worsening.

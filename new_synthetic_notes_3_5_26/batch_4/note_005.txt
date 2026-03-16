@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION/PLAN (first, per operator preference):
+
+* Target: RLL for BLVR. Successful valve placement.
+* Post-procedure: CXR now and in 4 hours; admit overnight for pneumothorax monitoring.
+* Continue COPD regimen; prednisone burst x 3 days then taper.
+* Encourage pulmonary hygiene; monitor for hemoptysis/fever/chest pain.
+
+PATIENT: [PATIENT], 69-year-old male
+INDICATION: Severe heterogeneous emphysema with hyperinflation; candidate for bronchoscopic lung volume reduction.
+
+PRE-DX: Emphysema (J43.9), COPD (J44.9), dyspnea (R06.02)
+POST-DX: Same
+
+PROCEDURES PERFORMED:
+
+* Flexible bronchoscopy with airway clearance
+* Chartis collateral ventilation assessment (RLL)
+* Endobronchial valve placement (RLL)
+
+ANESTHESIA: General anesthesia with ETT
+MONITORING: Standard ASA monitors
+INSTRUMENTS: Therapeutic bronchoscope; Chartis catheter; sizing kit; valves (multiple sizes)
+
+PROCEDURE IN DETAIL:
+Time-out performed. Bronchoscope advanced via ETT. Airway survey demonstrated moderate tracheobronchomalacia and scattered mucous plugging, suctioned. No endobronchial lesion. Balloon occlusion testing of RLL performed with stable tracings suggesting absence of collateral ventilation. Segmental sizing performed sequentially. Valves deployed to RLL superior segment and basal segments (total 5). One valve was repositioned for improved seating. Final inspection showed no active bleeding, no valve dislodgement, and improved occlusion of targeted segments.
+
+SPECIMENS: None
+EBL: Minimal
+COMPLICATIONS: None
+DISPOSITION: PACU then inpatient observation.

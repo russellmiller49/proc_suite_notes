@@ -1,0 +1,16 @@
+THERAPEUTIC BRONCHOSCOPY — mucus plugging
+
+PRE: Lobar atelectasis due to mucus plug (J98.11)
+POST: Improved after airway clearance
+Procedure: Bronchoscopy with therapeutic aspiration (codes sometimes: 31645)
+Sedation: Moderate sedation
+Complications: None
+
+Findings/Description:
+Copious thick secretions obstructing left lower lobe basilar segments. Therapeutic aspiration and saline lavage performed until segmental bronchi patent. No endobronchial lesion.
+
+Specimen:
+“LLL washings” for culture.
+
+Plan:
+Continue airway clearance; follow cultures; repeat imaging as needed.

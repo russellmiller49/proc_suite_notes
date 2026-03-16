@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+PRE-DX: Pneumothorax with persistent air leak (J93.9)
+POST-DX: Same
+
+PROCEDURES:
+
+* Flexible bronchoscopy
+* Endobronchial valves placed for PAL (31647-LT?; line wrap artifact)
+
+ANESTHESIA:
+Moderate sedation documented; a single line says “General” in header (template artifact). Patient breathing spontaneously throughout with topical lidocaine.
+
+FINDINGS/TECHNIQUE:
+48-year-old male. Airway normal. Balloon occlusion testing performed with stepwise lobar then segmental occlusion. Leak reduction localized to RLL superior segment. One valve deployed, then a second to adjacent segment due to residual bubbling. Post placement: bubbling decreased to rare with cough only.
+
+EBL: none
+Complications: none
+Plan: water seal trial, CXR, monitor.

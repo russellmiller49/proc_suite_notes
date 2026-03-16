@@ -1,0 +1,13 @@
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE DIAGNOSIS: R91.8 enlarging RLL superior segment nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided PEF ablation
+ANESTHESIA: MAC
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Electrode positioned under CT guidance. PEF delivered in 8 applications. Post CT showed expected effect and no PTX. Disposition per protocol.
+
+PLAN: CT follow-up 1 month.

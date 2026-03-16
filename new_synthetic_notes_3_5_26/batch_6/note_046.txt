@@ -1,0 +1,28 @@
+EDGE_<<<NOTE _TAGS: extreme_length, reordered_sections, conflicting_details
+
+PLAN
+Admit to monitored bed, serial chest radiographs, and bronchodilator therapy.
+
+PROCEDURE
+Robotic bronchoscopy on Monarch platform to right upper lobe lesion with radial EBUS, fluoroscopy, cone-beam CT, transbronchial needle aspiration, forceps biopsy, cryobiopsy, fiducial placement, and EBUS staging.
+
+POST-PROCEDURE DIAGNOSIS
+RUL lesion with mediastinal adenopathy; diagnosis and staging completed.
+
+INDICATION
+Enlarging right upper lobe lesion with PET-avid 4R node.
+
+FINDINGS
+No central endobronchial tumor. Robotic scope articulation allowed access to the posterior segment target. Radial EBUS showed an eccentric lesion view that became near concentric after slight repositioning. Cone-beam CT confirmed the biopsy tool within the lesion. Three fiducials were deployed after tissue acquisition. Linear EBUS identified enlarged 4R and 7 nodes. One line in the auto-import states LUL lesion, but the intended and repeatedly documented target throughout the note is RUL.
+
+DETAILS
+After airway inspection, robotic bronchoscopy was used to access the lesion. Samples obtained included TBNA x4, forceps biopsy x6, and cryobiopsy x2. Minor bleeding after cryobiopsy resolved with tamponade and suction. EBUS-TBNA then performed at 4R x5 and 7 x3. ROSE from peripheral and nodal samples suggested adequacy.
+
+SPECIMENS
+RUL lesion aspirates, forceps biopsies, cryobiopsies
+4R and 7 nodal aspirates
+
+COMPLICATIONS
+Minor bleeding controlled bronchoscopically; no immediate pneumothorax.
+
+<<<END NOTE>>>

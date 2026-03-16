@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE DX: Suspected early lung cancer, peripheral LUL lingular nodule
+POST DX: Same
+
+PROCEDURES:
+
+* Bronchoscopy + robotic navigation
+* Microwave ablation (bronchoscopic)
+* (No specimens collected per patient preference)
+
+ANESTHESIA: GA
+FINDINGS:
+Lingular target localized with radial EBUS (eccentric). CBCT confirmed adequate positioning.
+
+DETAILS (narrative):
+Patient brought to suite, intubated, and bronchoscopy performed. No endobronchial lesions. Navigated to lingular lesion with robotic platform. After confirmation, microwave ablation performed in staged applications with slight catheter adjustment between runs. Final CBCT with expected ablation change. No bleeding. Extubated uneventfully.
+
+COMPLICATIONS: None
+EBL: minimal
+PLAN:
+
+* CXR
+* CT chest 6 weeks

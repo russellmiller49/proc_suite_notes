@@ -1,0 +1,49 @@
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS: RUL lung nodule, mediastinal lymphadenopathy.
+POST-PROCEDURE DIAGNOSIS: Same.
+
+PROCEDURE:
+
+Flexible bronchoscopy
+
+Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA)
+
+Robotic-assisted navigational bronchoscopy
+
+Mobile C-Arm Fluoroscopy
+
+INDICATION: [PATIENT] is a [DOB:REDACTED] male with a 2.2 cm RUL nodule and enlarged station 7 node.
+
+** ANESTHESIA: General Anesthesia with endotracheal intubation.
+** INSTRUMENTS: Robotic bronchoscopy system, Linear EBUS, Mobile C-Arm.
+
+PROCEDURE IN DETAIL:
+The patient was placed supine. Time out completed. Following induction of GA, an 8.0 ETT was placed. The linear EBUS scope was introduced first for mediastinal staging.
+Station	Size	Passes
+4R	8mm	0
+7	19mm	4
+11R	10mm	0
+
+Station 7 was sampled x4 passes with a 21G needle. ROSE showed malignant cells.
+The EBUS scope was removed. The robotic bronchoscope was then calibrated and introduced. We navigated to the RUL apical segment. Mobile C-Arm fluoroscopy was utilized to confirm the target in 3D space. The lesion was localized.
+We obtained the following from the RUL target:
+
+Needle aspiration x 3
+
+Forceps biopsy x 5
+
+Bronchial washing x 1
+
+SPECIMENS:
+
+EBUS TBNA Station 7
+
+RUL TBNA
+
+RUL Forceps Biopsies
+
+RUL Washings
+
+COMPLICATIONS: None. Minimal EBL. Fluoro time 1.2 mins.
+
+PLAN: Extubated successfully. Transfer to PACU.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:171
+# id: ip_procedure_prompts_batch3:86
+
+Bronchoscopy with combined cryorecanalization and balloon dilation for obstructed right bronchus intermedius from granulation after prior stent removal. Airways reopened with improved access to RML and RLL. Mild oozing controlled with topical epinephrine.

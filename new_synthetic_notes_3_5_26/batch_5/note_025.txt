@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE/POST DIAGNOSIS: R91.1 RLL lateral basilar nodule
+
+PROCEDURES (narrative format):
+Bronchoscopic microwave ablation performed after successful robotic navigation and CBCT confirmation. Diagnostic sampling deferred due to prior tissue diagnosis.
+
+ANESTHESIA: General
+FINDINGS:
+No endobronchial lesion. Target localized with radial EBUS (eccentric) and fluoroscopy.
+
+DETAILS:
+[PATIENT] is a 62-year-old female. Navigation achieved to RLL lateral basilar target. CBCT confirmed catheter position. Microwave ablation delivered in staged applications with slight repositioning to optimize margins. Minimal airway oozing self-resolved. Final airway inspection clear.
+
+EBL: minimal
+COMPLICATIONS: None
+PLAN:
+Post-procedure CXR; CT chest in ~6 weeks; clinic follow-up.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:189
+# id: ip_procedure_prompts_batch3:95
+
+Bronchoscopy for persistent cough after aspiration event. Small vegetable fragment found in lingular bronchus and removed with forceps. Surrounding granulation minimal. BAL performed for culture.

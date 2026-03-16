@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN:
+
+* Maintain chest tube; reassess air leak trend.
+* If stable, consider clamp trial per primary team.
+* Follow-up bronchoscopy only if leak persists.
+
+PRE/POST DX: Persistent air leak after pneumothorax (J93.9 / J95.811)
+
+PROCEDURE: Bronchoscopy with endobronchial valve placement (air leak control)
+
+DETAIL:
+[PATIENT] 52-year-old female with persistent air leak. Flexible bronchoscopy performed under GA. Balloon occlusion used for localization. Occlusion of LUL segments resulted in near-complete cessation of bubbling. Valves deployed to LUL segmental bronchi (3 valves). Immediate improvement in air leak noted.
+
+EBL minimal; complications none. patientpatient to recovery stable.

@@ -1,0 +1,39 @@
+Navigational bronchoscopy + EBUS staging combined (Template E style, no explicit codes)
+
+Patient: [PATIENT], 63-year-old female
+Indication: RUL 2.3 cm spiculated nodule; staging requested.
+
+Anesthesia: General anesthesia with ETT.
+Procedures:
+
+Navigation bronchoscopy to RUL target with radial EBUS confirmation
+
+Sampling of RUL target with TBNA and biopsies
+
+Linear EBUS-TBNA of mediastinal/hilar nodes
+
+Procedure:
+Flexible bronchoscopy showed no endobronchial lesion. Navigation performed to RUL posterior segment lesion. Radial EBUS showed concentric signal. TBNA x3 and forceps biopsies x8 obtained; minimal bleeding controlled with wedging.
+
+Linear EBUS staging followed:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+11R: 3 passes (22G)
+
+Specimens:
+
+“RUL TBNA”
+
+“RUL bx”
+
+“4R TBNA”
+
+“7 TBNA”
+
+“11R TBNA”
+
+Complications: None. EBL minimal.
+Plan: Post-procedure CXR; follow pathology and cytology; outpatient follow-up with pulmonary and oncology.

@@ -1,0 +1,12 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION: Successful recanalization of the left mainstem bronchus using Nd:YAG laser.
+SPECIMENS: None.
+COMPLICATIONS: None.
+
+PRE-PROCEDURE DIAGNOSIS: Malignant airway obstruction (ICD C34.90)
+PROCEDURE: Rigid bronchoscopy, Laser ablation.
+
+INDICATION: [PATIENT], [REDACTED] female, metastatic breast cancer with left mainstem obstruction.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia with jet ventilation, a rigid bronchoscope was passed. The trachea and carina were normal. The left mainstem was 80% occluded by an exophytic, highly vascular tumor. We applied Nd:YAG laser at 30W pulsed mode to coagulate and vaporize the tumor. Carbonized debris was removed with rigid forceps. Airway patency was restored to approximately 100%. Hemostasis was excellent. No signs of perforation. Scope withdrawn safely.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:177
+# id: ip_procedure_prompts_batch3:89
+
+Ultrasound guided pigtail chest tube placement for malignant hydropneumothorax. Air and serous fluid returned after insertion. Tube secured and placed to suction, post placement chest film ordered.

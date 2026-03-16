@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:157
+# id: ip_procedure_prompts_batch3:79
+
+Robotic bronchoscopy for RLL lesion with absent radial signal but suspicious fluoroscopic and CBCT alignment. Sampling proceeded with TBNA x5 and cryobiopsy x3 after confirming tool passes through lesion on CT spin. Final pathology pending, no pneumothorax.

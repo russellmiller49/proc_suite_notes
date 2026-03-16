@@ -1,0 +1,30 @@
+PRE-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy; lung mass (R59.0, R91.8)
+POST-PROCEDURE DIAGNOSIS: Same
+PROCEDURES: Bronchoscopy; Linear EBUS-TBNA (include codes: CPT 31652)
+ANESTHESIA: General anesthesia
+EBL: Minimal
+COMPLICATIONS: None
+
+INDICATION: [PATIENT] is a 59-year-old male with left upper lobe mass and PET-avid mediastinal nodes for staging.
+
+FINDINGS:
+
+No endobronchial lesion.
+
+EBUS: Station 7 enlarged; station 4L borderline; station 11L visualized.
+
+DETAILS:
+Bronchoscopy performed to segmental level bilaterally. EBUS performed with Doppler guidance.
+TBNA:
+
+7: 6 passes (22G)
+
+4L: 4 passes (22G)
+
+11L: 3 passes (22G)
+
+SPECIMENS:
+“7 TBNA”, “4L TBNA”, “11L TBNA”
+
+PLAN:
+Routine recovery; follow cytology and pathology.

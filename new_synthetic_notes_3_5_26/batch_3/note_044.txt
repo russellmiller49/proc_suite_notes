@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+EMERGENCY PROCEDURE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 48M
+
+EMERGENCY BRONCHOSCOPY — DISLODGED AIRWAY STENT WITH ACUTE OBSTRUCTION
+Indication: Known tracheal Dumon stent (placed 8 weeks prior); acute stridor, dyspnea, SpO2 72% on arrival.
+Procedure: Emergency rigid bronchoscopy; stent retrieval; balloon bronchoplasty; repeat stent placement.
+Findings: Dumon stent migrated distally into LMB; near-complete obstruction of LMB orifice; RMB patent. Stent grasped with rigid forceps; extracted. Post-removal: LMB open. Balloon (12 mm) to LMB for residual stenosis. New Dumon stent placed in trachea (18 mm × 40 mm).
+Complications: Hypoxic cardiac arrest (PEA) during induction — ACLS initiated; ROSC in 2 minutes; amiodarone 300 mg IV; rhythm: sinus tachycardia post-ROSC. Patient stabilized; airway secured. Admitted to ICU intubated. Cardiology consult placed.
+Outcome: Patient extubated ICU day 2. Tracheal stent in position. Adverse event report filed.

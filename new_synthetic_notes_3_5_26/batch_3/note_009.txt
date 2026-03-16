@@ -1,0 +1,42 @@
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+
+BRONCHOSCOPY / LINEAR EBUS NOTE
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+DATE: [REDACTED]
+
+POST-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy (R59.9); endobronchial lesion right upper lobe bronchus; biopsy results pending.
+
+PLAN (stated early per template):
+- Await pathology and cytology results (5–7 business days)
+- If adenocarcinoma confirmed: molecular reflex testing (EGFR, ALK, ROS1, KRAS G12C, MET, NTRK, PD-L1) already ordered as reflex on specimen
+- Oncology referral placed
+- Repeat CT chest in 2 months if non-diagnostic
+
+PRE-PROCEDURE DIAGNOSIS: New 3.2 cm RUL mass with mediastinal adenopathy; rule out malignancy
+
+PROCEDURES: Flexible bronchoscopy with EBUS-TBNA; endobronchial biopsy
+
+ANESTHESIA: Moderate sedation (midazolam 3 mg, fentanyl 100 mcg)
+
+INSTRUMENTS: Olympus BF-UC180F EBUS scope; Olympus BF-H190 therapeutic scope (switched for endobronchial biopsy)
+
+CLINICAL BACKGROUND: 55-year-old 55-year-old [sic] female, 35 pack-year smoking history, presenting with 3.2 cm spiculated RUL mass on CT, PET-avid (SUVmax 12.4); PET also demonstrated FDG uptake in stations 4R and 7 (SUVmax 3.1 and 2.8 respectively).
+
+PROCEDURE IN DETAIL:
+EBUS introduced transorally. Survey of mediastinum:
+  Station 2R: Not clearly visualized.
+  Station 4R: 1.6 cm node, heterogeneous, TBNA x3 passes. ROSE: malignant cells, consistent with adenocarcinoma.
+  Station 7: 1.1 cm node, homogeneous; TBNA x2 passes. ROSE: atypical cells.
+  Station 10R: 0.8 cm, TBNA x2 passes. ROSE: lymphocytes only.
+
+Scope exchanged for therapeutic bronchoscope. RUL anterior segment (B3): polypoid 8 mm endobronchial lesion visualized; biopsy forceps x4 passes; moderate ooze, controlled with 1:10,000 epinephrine 2 mL topical instillation. Brushings x2.
+
+SPECIMENS:
+  A: Station 4R — 3 passes, cytology + cell block
+  B: Station 7 — 2 passes, cytology
+  C: Station 10R — 2 passes, cytology
+  D: RUL B3 endobronchial biopsy x4 — formalin
+  E: RUL B3 brushings x2 — ThinPrep
+
+COMPLICATIONS: Minor hemorrhage at endobronchial biopsy site; controlled with topical epinephrine. EBL: ~3 mL.

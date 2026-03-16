@@ -1,0 +1,19 @@
+EDGE_CASE_TAGS: table_with_tabs, reordered_sections
+PLAN:
+Follow-up CT chest at 1 month, then 3 months. Return precautions reviewed.
+
+PRE/POST DIAGNOSIS: R91.1 peripheral pulmonary nodule, LLL lateral basilar
+
+PROCEDURE: CT-guided percutaneous pulsed electric field ablation (PEF)
+SEDATION: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+OPERATIVE SUMMARY (tabbed):
+Needle path	posterolateral
+Electrode placement	confirmed in lesion
+Applications	10
+Immediate CT	no PTX, small perilesional hemorrhage
+
+DETAILS:
+Under CT guidance, electrode advanced into lesion. PEF delivered with stable parameters. Post-procedure CT demonstrated expected ablation effect and minimal perilesional hemorrhage without pneumothorax. Patient tolerated well.

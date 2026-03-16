@@ -1,0 +1,23 @@
+EDGE_<<<NOTE _TAGS: missing_section, copy_paste_artifacts
+
+PROCEDURE: Mature trach exchange + bronchoscopy through trach
+
+INDICATION:
+Difficulty passing suction catheter and cuff leak. Difficulty passing suction catheter and cuff leak.
+
+FINDINGS:
+Existing tracheostomy tube partially obstructed by dried secretions. Mature tract present. Distal trachea and main carina visualized. New tube tip approximately 2.5 cm above carina. Mild tracheal irritation, no false passage.
+
+DETAILS:
+The existing cuffed tube was removed over a bougie and replaced with a new cuffed tracheostomy tube of the same size. Flexible bronchoscope was advanced through the new tube to confirm intratracheal position and evaluate the distal airway. Secretions were suctioned from the lower trachea and right mainstem.
+
+SPECIMENS:
+None.
+
+COMPLICATIONS:
+None immediate.
+
+PLAN:
+Routine trach care, humidification, monitor cuff pressures.
+
+<<<END NOTE>>>

@@ -1,0 +1,25 @@
+EDGE_<<<NOTE _TAGS: table_with_tabs
+
+Indication: Staging of suspected lung cancer with subcarinal and right paratracheal adenopathy.
+
+Procedure: Linear EBUS-TBNA with ROSE
+
+Node table
+Station	Size impression	Passes	Result on ROSE
+4R	Enlarged, round	5	Lymphoid tissue, atypical cells
+7	Enlarged	4	Lymphoid tissue
+11R	Small/intermediate	3	Adequate lymphoid sample
+
+Findings:
+No endobronchial lesion on limited airway survey. 4R was the most suspicious node with heterogeneous echotexture. Doppler used to avoid vascular structures. Sampling order 11R, 4R, 7.
+
+Specimens:
+EBUS-TBNA station 11R x3, 4R x5, 7 x4.
+
+Complications:
+None immediate.
+
+Plan:
+Await final cytology. Recovery per protocol.
+
+<<<END NOTE>>>

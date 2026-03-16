@@ -1,0 +1,25 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* CXR in PACU; discharge if stable after observation.
+* CT chest 4–6 weeks to assess ablation zone; additional CT at 3 months if indeterminate.
+* Hold anticoagulation x24h if applicable.
+
+PRE-PROCEDURE DIAGNOSIS: R91.1 solitary pulmonary nodule, RLL superior segment
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy to RLL superior segment target
+* Radial EBUS localization
+* Cone-beam CT guidance (two spins)
+* Bronchoscopic cryoablation of pulmonary nodule 32994-?? (line wrapped)
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: Minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 59-year-old male with a growing RLL superior segment nodule. Flexible bronchoscopy showed no endobronchial lesion. Navigation performed to the planned target; radial EBUS showed concentric view. CBCT spin confirmed tool-in-lesion; catheter repositioned slightly to improve centrality, then repeat CBCT confirmed. Cryoablation performed with freeze-thaw-freeze sequence with minor catheter pullback to broaden margins. Final airway inspection without bleeding. Exit imaging without PTX.
+
+SPECIMENS: None (prior diagnostic tissue available).

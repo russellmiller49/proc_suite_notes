@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY WITH ENDOBRONCHIAL TAMPONADE — MASSIVE HEMOPTYSIS
+
+Indication: 65-year-old male with brisk hemoptysis and respiratory compromise.
+
+Pre Dx: Massive hemoptysis (R04.2)
+Post Dx: Same; temporary control achieved
+
+Procedure(s):
+
+* Emergency bronchoscopy
+* Selective intubation / endobronchial tamponade (no clear code; template “31622 + 0??”)
+
+Anesthesia: GA
+Findings: Active bleeding from RUL; large clot burden.
+Technique:
+Airway suctioned; clot extracted. Bronchial blocker positioned to isolate RUL with cessation of spillover. Topical vasoconstrictor applied.
+
+Complications: none procedural
+Plan: ICU; IR bronchial artery embolization evaluation; repeat bronchoscopy PRN.

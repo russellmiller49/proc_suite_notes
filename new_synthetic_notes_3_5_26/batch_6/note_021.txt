@@ -1,0 +1,35 @@
+PRE-PROCEDURE DIAGNOSIS
+Peripheral left lower lobe lesion.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post robotic bronchoscopy on Monarch platform with radial EBUS and transbronchial sampling.
+
+PROCEDURES PERFORMED
+Robotic bronchoscopy platform navigation
+Radial EBUS
+Fluoroscopy
+TBNA
+Forceps biopsy
+BAL
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+Monarch robotic bronchoscopy platform used to reach a left lower lobe posterior basal target. Outer sheath and inner scope positioning allowed stable access. Radial EBUS demonstrated an eccentric view. Airways otherwise without endobronchial abnormality.
+
+PROCEDURE IN DETAIL
+After planning and bronchoscopy inspection, the robotic scope was navigated to the lesion. Sampling included TBNA x4 and forceps biopsy x7 under fluoroscopic guidance. BAL performed in the left lower lobe after tissue sampling. Hemostasis was adequate.
+
+SPECIMENS
+LLL lesion TBNA
+LLL forceps biopsies
+LLL BAL
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Chest radiograph in PACU. Follow pathology and microbiology results.
+
+<<<END NOTE>>>

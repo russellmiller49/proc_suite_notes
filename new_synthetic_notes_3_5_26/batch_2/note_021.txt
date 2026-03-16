@@ -1,0 +1,5 @@
+EDGE_CASE_TAGS: conflicting_details, missing_section
+Indication: Tracheomalacia.
+Technique: Airway stent placement.
+Findings: Patient sedated with propofol. Wait, patient under general anesthesia with paralysis. A fully covered self-expanding metallic stent (18mm x 40mm) was deployed in the trachea under direct bronchoscopic visualization. Stent expanded well. No migration.
+Plan: Observe overnight.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:153
+# id: ip_procedure_prompts_batch3:77
+
+Diagnostic bronchoscopy with navigation assisted dye marking and fiducial placement before planned surgical resection of small peripheral LUL lesion. Radial probe confirmed lesion vicinity, two fiducials placed and methylene blue marking performed. No biopsy obtained.

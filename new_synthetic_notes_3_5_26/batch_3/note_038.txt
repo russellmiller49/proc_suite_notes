@@ -1,0 +1,29 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+
+MONTGOMERY T-TUBE INSERTION — POST-INTUBATION TRACHEAL STENOSIS
+OPERATIVE REPORT
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+ENT CO-SURGEON: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 38M
+
+PLAN (documented at top per department template):
+1. IP clinic follow-up 2 weeks.
+2. T-tube bronchoscopy check (flexible via sidearm) at 4 weeks.
+3. SLP for Passy-Muir trial (T-tube capped state allows voicing).
+4. Surgical candidacy for tracheal resection reassessment at 12 months.
+
+PRE-PROCEDURE DIAGNOSIS: Post-intubation tracheal stenosis, subglottic, grade III (J95.5)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube in satisfactory position
+
+PROCEDURE CODES:
+  31631-22     — Rigid bronchoscopy, complex (increased complexity for T-tube placement with laser)
+  31641        — Therapeutic bronchoscopy (laser ablation)
+  [T-tube code: unlisted — 31899; billing: confirm 31899:22 modifier vs 31631-22 per payer; coding addendum to follow]
+
+ANESTHESIA: GA; TIVA; spontaneous ventilation.
+
+PROCEDURE: Rigid bronchoscopy (8.5 → 10.5 → 12.5 mm scopes sequential) confirmed subglottic grade III stenosis at 1.2 cm below vocal cords; fibrous mature web; 4 mm residual lumen. Nd:YAG radial incisions (4 positions). Balloon dilation: 10 → 12 → 14 mm. Post-dilation lumen 13 mm. Stoma created at ring 2–3 under transillumination. T-tube (13 × 60 × 30 mm) introduced; upper limb seated above cords; sidearm exteriorized. Flexible scope confirmed position. Voice test: clear phonation with sidearm plugged.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Grade I mucosal lacerations. Transient SpO2 dip to 88% during proximal limb placement — spontaneous ventilation maintained; FiO2 increased; recovered within 60 seconds. EBL: 15 mL.

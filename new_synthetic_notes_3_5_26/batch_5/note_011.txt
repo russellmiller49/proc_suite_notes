@@ -1,0 +1,24 @@
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+PRE DIAGNOSIS: R91.8 multiple nodules; dominant RUL apical nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE LIST (with codes sometimes):
+
+* Bronchoscopy (diagnostic)
+* Navigational bronchoscopy to RUL apical lesion
+* Transbronchial biopsy
+* Cryoablation of pulmonary nodule (bronchoscopic) 32994-?? (modifier 22? listed)
+* CBCT guidance
+
+ANESTHESIA: General anesthesia (ETT). Moderate sedation documented in nursing header.
+EBL: <10 mL
+COMPLICATIONS: None
+
+DETAILS:
+Airway survey normal. Navigation performed; radial EBUS eccentric view. CBCT used to optimize catheter position. Biopsies obtained. Cryoablation performed using freeze/thaw cycles with catheter repositioning for margins. No significant bleeding; final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL apical nodule: TBBx x6
+* RUL apical nodule: TBNA x3
+  PLAN: CXR; CT follow-up 4–6 weeks.

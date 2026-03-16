@@ -1,0 +1,14 @@
+EDGE_CASE_TAGS: missing_section
+PRE/POST DIAGNOSIS
+Lung Nodule
+PROCEDURE
+Navigational Bronchoscopy with biopsy
+ANESTHESIA: General Anesthesia
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for biopsy of a LLL nodule. Using a robotic-assisted platform, the scope was driven into the posterior basal segment of the LLL. Radial EBUS confirmed eccentric signal, adjusted to concentric. Transbronchial biopsy was performed x4 passes. Needle aspiration x2 passes.
+IMPRESSION/PLAN
+
+Successful nav bronch of LLL nodule.
+
+Obtain post-procedure CXR.

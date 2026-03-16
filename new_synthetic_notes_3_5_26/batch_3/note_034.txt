@@ -1,0 +1,34 @@
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+
+TRACHEOSTOMY TUBE EXCHANGE — DIFFICULT (IMMATURE TRACT)
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 39F
+INSTITUTION: [NAME:REDACTED] MICU
+
+PRE-PROCEDURE DIAGNOSIS: Tracheostomy in situ, day 6 (early/immature tract); accidental decannulation overnight; nursing requested urgent tube reinsertion (J95.04)
+POST-PROCEDURE DIAGNOSIS: Same; trach tube reinserted, position confirmed
+
+PROCEDURES / CPT:
+  31502    — Tracheostomy tube change (immature tract) [billing note: 31502:U1 vs 31502-U1 per payer format — modifier for immature tract designation, confirm with coder]
+  31622    — Flexible bronchoscopy for confirmation
+
+ANESTHESIA: Midazolam 1 mg IV (anxiolysis only); local 1% lidocaine 2 mL at stoma margins topically.
+
+CLINICAL NOTE:
+39-year-old female, day 6 post-PDT (performed for respiratory failure complicating status asthmaticus). Overnight nursing note: patient self-decannulated at approximately 0300. Nurse re-attempted bedside insertion with 7.5 Shiley — resistance encountered, tube not inserted; patient placed on bag-valve-mask via stoma orifice (adequate ventilation maintained per nursing note). IP fellow called STAT; attending arrived with kit.
+
+PROCEDURE:
+Stoma examined: tract partially closed (day 6 — immature, not yet epithelialized). Hemostats passed gently through stoma to re-dilate tract. 5.0 Shiley cuffed (smaller than prior 7.5) advanced through stoma with obturator under direct bronchoscopic visualization — scope introduced simultaneously via ETT (orotracheal ETT placed emergently by anesthesia team as backup airway prior to IP arrival; cords visualized, 7.0 ETT in trachea). Trach stoma approached from anterior; scope light visible through stoma confirmed intratracheal position; 5.0 Shiley guided into lumen without false passage.
+
+Cuff inflated. Patient ventilated via trach. Orotracheal ETT removed.
+
+Bronchoscopy through Shiley: tip 5 cm above carina; posterior wall intact; no false passage confirmed.
+
+Tube exchanged 30 min later (after patient stabilized): 7.0 Shiley inserted over Aintree catheter (airway exchange catheter) under bronchoscopic guidance; position re-confirmed.
+
+COMPLICATIONS: Accidental decannulation event (nursing occurrence report filed). False passage not created. Hypoxemia during event (SpO2 nadir 81% per nursing, resolved with BVM ventilation pre-IP arrival). EBL: None.
+
+PLAN:
+1. Trach holder changed to suture (2-0 silk x2); strict "no trach tie removal without physician at bedside" order.
+2. Daily neck and stoma inspection.
+3. Incident review per quality process.

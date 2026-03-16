@@ -1,0 +1,22 @@
+Robotic navigational bronchoscopy + fiducial placement
+
+Patient: [PATIENT], 74-year-old male
+Indication: Left lower lobe posterior basal nodule planned for SBRT; need tissue diagnosis and fiducial placement.
+
+Procedures:
+
+Robotic navigation to LLL target
+
+Radial EBUS confirmation
+
+Transbronchial biopsy and TBNA
+
+Fiducial marker placement x3
+Sedation: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation completed to target in LLL posterior basal segment. Radial EBUS demonstrated eccentric signal; fluoroscopy used to confirm tool position. TBNA x3 and forceps biopsies x7 obtained. Three fiducials deployed around lesion margins under fluoroscopy with stable position at completion. Minimal bleeding.
+
+Specimens: “LLL TBNA”, “LLL bx”.
+Plan: Post-procedure CXR; coordinate with radiation oncology; follow pathology.

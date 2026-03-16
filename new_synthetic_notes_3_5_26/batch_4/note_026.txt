@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE-DX: Tracheobronchomalacia (J39.8), dyspnea (R06.02)
+POST-DX: Same
+
+PROCEDURE(S):
+
+* Dynamic bronchoscopy with forced expiratory maneuver
+* CPAP titration during bronchoscopy (no code listed; template line “31622-CPAP??”)
+
+ANESTHESIA: Moderate sedation
+MEDS (variably documented): midazolam 1 mg IV + fentanyl 50 mcg IV; topical lidocaine
+
+FINDINGS/DETAIL:
+[PATIENT] is a 63-year-old male with suspected airway collapse. Bronchoscopy performed with dynamic assessment at baseline and during forced exhalation. Severe posterior membrane invagination noted in distal trachea and bilateral main bronchi with >80% expiratory collapse. CPAP applied via mask and titrated; collapse improved substantially at higher CPAP settings. No endobronchial lesion. Secretions suctioned.
+
+EBL: none
+COMPLICATIONS: none
+PLAN: Refer for airway stabilization options; consider stent trial vs surgical tracheobronchoplasty evaluation.

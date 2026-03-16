@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+BEDSIDE PROCEDURE NOTE — PERCUTANEOUS DILATIONAL TRACHEOSTOMY
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 71F
+
+Indication: Prolonged MV, ICU day 16; failure to wean due to severe ICU-acquired weakness; anticipated tracheostomy-dependent ventilation.
+Anesthesia: Propofol 100 mg + fentanyl 75 mcg + succinylcholine 100 mg IV bolus; bedside ICU.
+Procedure: Percutaneous dilational tracheostomy (PDT), Ciaglia Blue Rhino technique, ring 2–3 interspace, bronchoscopic guidance throughout. Shiley 6.0 cuffed XLT (extended-length) trach placed due to large neck habitus. Bronchoscopic confirmation: tube tip 5 cm above carina, midline, no posterior wall injury.
+Findings: Tracheal entry confirmed between rings 2 and 3; blue-lit needle visible bronchoscopically; clean single-pass dilation; good hemostasis.
+Complications: None. EBL: minimal.
+Plan: Standard PDT care bundle; SLP consult; ventilator weaning protocol in AM.

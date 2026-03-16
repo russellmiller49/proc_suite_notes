@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+
+ICU BRONCHOSCOPY — MUCUS PLUGGING / LOBAR ATELECTASIS
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 49F
+
+Indication: ICU day 3; postoperative (right pneumonectomy for SCC); complete left upper lobe collapse on morning CXR; increasing peak pressures.
+Procedure: Flexible bronchoscopy via 8.0 ETT; LUL mucus plug extraction and lavage.
+Findings: LUL orifice occluded with large white-tan mucus cast; extracted with suction and forceps (2 passes). Post-clearance: LUL B1, B2, B3 patent; lung re-expanded clinically (decreased peak pressure from 44 to 28 cm H2O post-procedure). patientpatient [sic] — patient tolerated well.
+BAL LUL: culture.
+Complications: Transient SpO2 dip to 88%; recovered within 60 seconds with FiO2 increase.
+Plan: Chest PT; acetylcysteine neb; repeat bronchoscopy PRN.

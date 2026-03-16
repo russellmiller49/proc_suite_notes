@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: noisy_units, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+RML nodule.
+
+PROCEDURE
+Navigational bronchoscopy.
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old-year-old. Brought to suite. Navigated to RML. Target was 20cm cm deep (wait, 2.0 cm). Transbronchial needle aspiration done. 3 passes. No bleeding.
+IMPRESSION
+RML biopsy done.

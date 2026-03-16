@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ambiguous_laterality, malformed_codes
+Indication: Left lower lobe tumor obstruction causing atelectasis.
+Consent: Obtained.
+Technique: Therapeutic bronchoscopy with Electrocautery snare. (31641:)
+Findings: Scope passed via ETT. Left lower lobe bronchus was completely obstructed by a polypoid tumor. Wait, Right lower lobe bronchus was obstructed. Electrocautery snare applied to the right lower lobe lesion. Tumor base was transected. Lumen opened to 90%.
+Specimens: Endobronchial tumor biopsy.
+Plan: Extubate, transfer to step-down unit.

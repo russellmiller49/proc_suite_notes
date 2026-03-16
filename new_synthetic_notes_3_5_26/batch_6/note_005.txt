@@ -1,0 +1,30 @@
+Indication:
+PET-avid left lower lobe nodule with hilar uptake.
+
+Procedure:
+Robotic bronchoscopy using shape-sensing navigation platform (ION), radial EBUS confirmation, fluoroscopy, cone-beam CT spin, transbronchial needle aspiration, forceps biopsy, cryobiopsy, and BAL. Linear EBUS-TBNA of 11L and 7.
+
+Consent:
+Informed consent obtained.
+
+Technique:
+Following CT-based pathway planning, robotic bronchoscopy was performed to a peripheral LLL target. Stable catheter position at the lesion was achieved. Radial EBUS showed a concentric view. Cone-beam CT confirmed tool-in-lesion. Multiple samples obtained by 21G needle, forceps, and 1.1 mm cryoprobe. BAL was performed in the same segment. Linear EBUS was then performed for nodal staging.
+
+Findings:
+LLL peripheral lesion measured approximately 2.3 cm by pre-procedure imaging. No endobronchial lesion. Station 11L enlarged; station 7 borderline. ROSE from the peripheral target showed lesional material. Elastography not used.
+
+Sampling:
+Peripheral lesion: TBNA x4, forceps x6, cryobiopsy x2
+11L: 4 passes
+7: 3 passes
+
+Specimens:
+Peripheral lesion aspirates, forceps tissue, cryobiopsy tissue, LLL BAL, EBUS-TBNA 11L and 7.
+
+Complications:
+Trace bleeding after cryobiopsy controlled with wedging and suction. No immediate pneumothorax.
+
+Plan:
+Portable chest x-ray in recovery. Await pathology and cytology.
+
+<<<END NOTE>>>

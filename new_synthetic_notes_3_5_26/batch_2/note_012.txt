@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+Indication: LLL nodule.
+Consent: Written consent obtained.
+Technique: Electromagnetic Navigational Bronchoscopy.
+Findings: Patient was under moderate sedation. The robotic scope (requires GA usually) was deployed. We navigated to the LLL basal segment. Fluoroscopy (76000-TC) utilized. Biopsy forceps used to obtain 4 samples.
+Specimens: LLL biopsies.
+Plan: Patient extubated. Wait, patient was sedated, no ETT. Discharged to home.

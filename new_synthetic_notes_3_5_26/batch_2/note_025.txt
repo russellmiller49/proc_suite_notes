@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+PLAN: Remove chest tube when output <100cc/day.
+COMPLICATIONS: None.
+
+PRE DIAGNOSIS: Complex parapneumonic effusion.
+PROCEDURE: Small-bore chest tube placement and tPA/DNase instillation.
+
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] consented. Ultrasound showed a large right effusion. Local anesthesia with 10c cc of 1% lidocaine. A 14Fr pigtail catheter was inserted via Seldinger technique. 500cc of turbid fluid drained. Instilled 10mg tPA and 5mg DNase. Clamped for 1 hour.

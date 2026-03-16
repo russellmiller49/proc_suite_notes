@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST: R91.1 RLL subpleural nodule
+Procedure: CT-guided microwave ablation
+Sedation: moderate
+Codes: 77012 / 32998-??-
+EBL minimal | Complications: none
+Post CT no PTX; discharge after obs.

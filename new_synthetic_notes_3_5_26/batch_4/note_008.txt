@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: ambiguous_laterality, conflicting_details
+PRE-DX: Severe emphysema (J43.9), lung nodule (R91.1) — *incidental on workup*
+POST-DX: Severe emphysema (J43.9)
+
+PROCEDURE(S):
+
+* Bronchoscopy with bronchial valve placement, “RUL” (later clarified below)
+* Airway clearance
+
+ANESTHESIA: GA
+EBL: Minimal
+COMPLICATIONS: None
+
+DICTATION:
+[PATIENT] is a 73-year-old male with severe heterogeneous emphysema. Bronchoscopy performed. No endobronchial lesion. Chartis performed for the right upper lobe demonstrating no collateral ventilation. Valves deployed to apical, posterior, anterior segment bronchi (3 total). Brief note: one line in the nursing flowsheet references “LUL valves”—this is a documentation artifact; procedure performed to RUL as described.
+
+PLAN:
+CXR in PACU; overnight observation; resume inhaled therapy; return precautions reviewed.

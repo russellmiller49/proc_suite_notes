@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:103
+# id: ip_procedure_prompts_batch3:52
+
+Bilateral staged thoracenteses for large pleural effusions causing dyspnea. Right side drained first for 1100 mL then left side 800 mL after reassessment. Both under ultrasound guidance. No immediate complications.

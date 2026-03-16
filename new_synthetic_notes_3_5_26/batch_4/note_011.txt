@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: missing_section, table_with_tabs
+PROCEDURE NOTE (minimal headings)
+
+58-year-old female with LLL nodule and mild mediastinal adenopathy. Robotic bronchoscopy performed with radial ultrasound and fluoroscopic confirmation.
+
+TAB (tabs):
+Target	Tool	Passes	Notes
+LLL nodule	Cryobiopsy	3	1 sample fragmented
+LLL nodule	Forceps	4	adequate
+LLL nodule	Brush	2	—
+LLL	BAL	1	20 mL return
+
+Post Dx: Lung nodule (R91.1)
+
+Specimen labels as above. No immediate complication. CXR ordered.

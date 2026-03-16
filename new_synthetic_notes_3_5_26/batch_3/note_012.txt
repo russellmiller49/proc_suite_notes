@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+Bronchoscopy Note — [PATIENT], [DOB:REDACTED], MRN [MRN:REDACTED]
+Age/Sex: 39M. Date: [REDACTED].
+
+Indication: New tracheostomy evaluation, post-tracheostomy tube change via mature tract (day 18 post-surgical trach). Hemoptysis x1 episode yesterday.
+Procedure: Flexible bronchoscopy through 8.0 Shiley tracheostomy tube.
+Findings: Trach tube well-positioned; tip 3 cm above carina. Stomal site: granulation tissue, <3 mm, at posterior wall of stoma — no active bleeding. Tracheal mucosa: mild erythema circumferential at tip level; no subglottic injury. Bilateral mainstem bronchi unremarkable. No active bleeding source.
+Plan: Granulation tissue treated with silver nitrate stick. Humidity therapy continued. Repeat exam in 1 week if bleeding recurs. Speech-language pathology Passy Muir valve trial when ready per trach weaning protocol.
+Complications: None.

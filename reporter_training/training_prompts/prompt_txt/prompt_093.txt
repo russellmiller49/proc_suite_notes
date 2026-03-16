@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:185
+# id: ip_procedure_prompts_batch3:93
+
+Rigid bronchoscopy with distal tracheal dilation and covered stent placement for extrinsic compression from thyroid malignancy. Airway diameter improved from pinhole to approximately 12 mm. No complications.

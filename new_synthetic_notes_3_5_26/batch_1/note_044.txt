@@ -1,0 +1,14 @@
+Bronchoscopy with transbronchial biopsy (ICD/CPT style lines)
+
+PRE: Interstitial lung disease (J84.9)
+POST: Same
+ProcedURES: Bronchoscopy; BAL; transbronchial biopsy (include codes: CPT 31624, 31628)
+ANESTHESIA: General anesthesia
+COMPLICATIONS: None
+EBL: Minimal
+
+Description:
+Airway inspection normal. BAL performed in right middle lobe (150 mL instilled, 65 mL return). Transbronchial biopsies obtained from right lower lobe (6) with fluoroscopy. Mild bleeding controlled with wedging and cold saline.
+
+Specimens: “RML BAL”, “RLL TBBx”.
+Plan: Post-procedure CXR; monitor; follow pathology and cultures.

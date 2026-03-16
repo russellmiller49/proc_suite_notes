@@ -1,0 +1,37 @@
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+
+PROCEDURE NOTE
+PATIENT: [PATIENT]  MRN: [MRN:REDACTED]  AGE/SEX: 59 year old male
+DATE: [REDACTED]  ATTENDING: [NAME:REDACTED]
+
+PRE-OP DIAGNOSIS: Post-intubation tracheal stenosis, subglottic, moderate-severe (J95.5)
+POST-OP DIAGNOSIS: Same; dilation performed, improved lumen
+
+PROCEDURES / CPT:
+31630-22   Balloon bronchoplasty, trachea (increased complexity modifier — concurrent laser)
+31641      Bronchoscopy w/ therapeutic intervention (laser)
+  [Note: code formatting dispute — billing queries 31630:22 vs 31630-22; see modifier addendum]
+
+ANESTHESIA: General anesthesia, TIVA, LMA #4
+
+INSTRUMENTS:
+- Olympus BF-P180 thin bronchoscope (4.9 mm OD) for initial assessment through LMA
+- Nd:YAG laser fiber, 1064 nm, 20 W, 0.5 sec pulses
+- CRE balloon, 12–14–16 mm progressive inflation
+- Karl Storz rigid bronchoscope 10 mm for final dilation (passed after LMA removal)
+
+CLINICAL SUMMARY:
+59-year-old male with history of prolonged ICU intubation (21 days) for ARDS 8 months prior; progressive exertional dyspnea and stridor. CT trachea: circumferential subglottic stenosis 1.5 cm length, estimated 35–40% luminal patency. Pulmonary function: flow-volume loop with flattened inspiratory and expiratory limbs.
+
+PROCEDURE:
+LMA placed; flexible bronchoscope introduced. Subglottic web-like circumferential stenosis visualized 2 cm below cords; lumen estimated 4–5 mm diameter. No dynamic collapse. Nd:YAG laser applied radially at 12, 3, 6, and 9 o'clock positions along the stenotic segment (20 W, contact mode, ~40 pulses total); tissue ablation and incision of fibrous web achieved. Balloon (12 mm, then 14 mm) serially inflated to 6 atm, held 60 seconds each. LMA removed; rigid bronchoscope 10 mm inserted transorally — used as final dilator, pushed through stenotic segment under direct vision. Post-dilation lumen estimated 10–11 mm. Mucosal bleeding controlled with cold saline irrigation.
+
+FINDINGS: Post-procedure airway patent, 10–11 mm estimated diameter. Grade I mucosal laceration at 6 o'clock — expected, acceptable. No cartilaginous injury. Distal airways unremarkable.
+
+PLAN:
+1. Repeat bronchoscopy 4–6 weeks; consider intralesional steroid injection at next session.
+2. Reflux precautions (PPI). Voice therapy referral.
+3. Pulmonary function testing 6 weeks post-procedure.
+4. Long-term surveillance — risk of restenosis high with this subtype.
+
+COMPLICATIONS: Grade I mucosal laceration (expected, hemostasis achieved). EBL: <5 mL.

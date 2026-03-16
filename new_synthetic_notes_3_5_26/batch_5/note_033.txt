@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: inconsistent_formatting, missing_section
+PRE/POST DIAGNOSIS: R91.8 enlarging RUL anterior segment nodule
+
+PROCEDURES:
+
+* Robotic bronchoscopy with navigation
+* Radial EBUS
+* Microwave ablation of pulmonary nodule (bronchoscopic)
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 60-year-old female. Airway survey normal. Navigation achieved to target; radial EBUS eccentric. CBCT used to confirm catheter location. Ablation performed in staged applications with minor catheter adjustment. No diagnostic biopsies obtained today (patient declined). Final bronchoscopy clear.
+
+PLAN:
+CXR in recovery; CT chest in 4–8 weeks.

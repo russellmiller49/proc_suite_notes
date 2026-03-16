@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: missing_section, noisy_units
+Patient [MRN:REDACTED] was brought to the endoscopy suite. Midazolam 20mg (wait, 2.0mg) administered. Linear EBUS scope inserted. Station 7 and 10L were sampled. 3 passes each. No acute issues. Airway inspection showed no endobronchial lesions. Scope withdrawn.

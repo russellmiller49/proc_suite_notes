@@ -1,0 +1,26 @@
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+IMPRESSION:
+Successful bronchoscopic RFA ablation of LUL apicoposterior nodule with expected post-ablation change on CBCT.
+
+PRE/POST DIAGNOSIS: R91.1 LUL apicoposterior nodule
+
+PROCEDURES:
+
+* Bronchoscopy, robotic navigation
+* Radial EBUS
+* RFA ablation
+* CBCT
+
+PARAMETERS (tabs):
+Radial EBUS	concentric
+CBCT#1	tool-in-lesion
+RFA	zones=2
+Exit spin	no PTX
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+SPECIMENS:
+
+* Prior diagnostic tissue available; no new biopsies obtained today.
+  PLAN: CXR; CT chest 6 weeks.

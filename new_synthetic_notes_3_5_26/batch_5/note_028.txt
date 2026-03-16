@@ -1,0 +1,33 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE DIAGNOSIS: R91.8 enlarging RUL apical nodule (prior SBRT field nearby)
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic bronchoscopy + navigation
+* Radial EBUS
+* Transbronchial biopsy
+* Pulsed electric field ablation (PEF)
+
+ANESTHESIA: GA
+EBL: 10 mL
+COMPLICATIONS: None
+
+WORKFLOW (tabs):
+Navigation	reached target; stable catheter
+Radial EBUS	eccentric view; adjusted to concentric
+CBCT	spin x1 confirmed near-center
+Biopsy	TBNA x2; TBBx x4
+PEF	applications=8; impedance stable
+Exit check	no PTX
+
+DETAILS:
+[PATIENT] is a 71-year-old female with a slowly enlarging RUL apical nodule. Airway exam unremarkable. Robotic navigation performed; radial EBUS initially eccentric, then repositioned to concentric. One CBCT spin confirmed catheter position. Diagnostic sampling obtained, followed by PEF applications. Mild oozing controlled with suction. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL apical nodule: TBNA x2 passes
+* RUL apical nodule: TBBx x4
+  PLAN:
+* CXR post-procedure
+* CT chest 4–8 weeks

@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN (top):
+
+* CXR after 1 hour and again if symptoms.
+* Discharge if stable; follow pathology.
+
+PRE/POST DX: Pleural-based nodule (R91.1)
+
+PROCEDURE: US-guided transthoracic biopsy (core)
+ANESTHESIA: Local only
+
+DETAIL:
+[PATIENT] 61-year-old female. Ultrasound identified superficial lesion along left lateral chest wall. Sterile prep. Local anesthesia. Three cores obtained. No immediate pneumothorax on bedside ultrasound. Dressing applied. patientpatient stable.
+
+EBL minimal; complications none.

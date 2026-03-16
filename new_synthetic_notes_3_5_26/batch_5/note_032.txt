@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST: R91.1 RUL posterior nodule
+Procedure: CT-guided PEF ablation
+Sedation: moderate
+Codes: 32998-PEF / 77O12 (letter O typo)
+EBL minimal | Complications none
+Post CT: no PTX; small perilesional hemorrhage.

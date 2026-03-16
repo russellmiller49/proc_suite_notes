@@ -1,0 +1,27 @@
+EDGE_<<<NOTE _TAGS: inconsistent_formatting, malformed_codes
+
+PRE DX
+Pleural effusion, likely malignant
+
+POST DX
+same
+
+Procedure(s)
+US-guided thoracentesis; code line: 32555?? / procedure-room note
+
+Indication
+Symptomatic recurrent left pleural effusion.
+
+Findings
+Large left effusion, mostly anechoic with a few floating strands. 1350 mL dark amber fluid removed.
+
+Specimen(s)
+Cytology, chemistry, culture.
+
+Complication(s)
+None immediate.
+
+Plan
+Post-procedure film; if recurrent, consider pleural catheter.
+
+<<<END NOTE>>>

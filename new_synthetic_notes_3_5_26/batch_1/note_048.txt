@@ -1,0 +1,16 @@
+Airway stent repositioning + balloon dilation
+
+Patient: [PATIENT], 63-year-old male with metallic stent in left mainstem for malignant compression.
+
+Procedure: Bronchoscopy with balloon dilation and stent repositioning.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Proximal stent edge abutting carina with granulation tissue and partial obstruction.
+
+Interventions:
+Balloon dilation performed within stent to 10 mm then 12 mm. Stent gently repositioned distally ~1 cm to optimize carinal clearance. Granulation tissue suctioned and lightly debrided.
+
+Specimens: None.
+Plan: Nebulized saline; airway clearance; follow-up surveillance bronchoscopy in 3–4 weeks.

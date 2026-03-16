@@ -1,0 +1,22 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+POST-PROCEDURE PLAN:
+
+* CXR in PACU to assess atelectasis/pneumothorax.
+* Prednisone taper per BLVR protocol; continue inhaled therapy.
+* Admit overnight for observation; ambulation + incentive spirometry.
+* Call if increased dyspnea, chest pain, fever.
+
+PRE-PROCEDURE DIAGNOSIS: Severe heterogeneous emphysema (J43.9), COPD (J44.9), dyspnea (R06.02)
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Bronchoscopy with bronchial valve placement, LUL (CPT: 31647-?? / 31651)
+* Bronchial balloon occlusion testing (no code listed)
+
+ANESTHESIA: General anesthesia with endotracheal tube
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL (dictated):
+After informed consent was confirmed, [PATIENT] (67-year-old male) was brought to the bronchoscopy suite for bronchoscopic lung volume reduction. Flexible bronchoscopy showed mild diffuse bronchitis and copious thin secretions suctioned clear. A Chartis assessment was performed for the left upper lobe. Airflow and pressure tracings were consistent with absence of collateral ventilation. Segmental sizing was performed and endobronchial valves were deployed to LUL segments (apicoposterior and anterior) and the lingula as appropriate. Valves seated well with immediate reduction of airflow to targeted segments. Final survey showed no bleeding and stable airway patency.

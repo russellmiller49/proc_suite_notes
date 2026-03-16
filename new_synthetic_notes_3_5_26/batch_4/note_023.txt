@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+WHOLE LUNG LAVAGE — BRIEF NOTE
+
+Patient: [PATIENT] (28-year-old male)
+Dx: J84.01 pulmonary alveolar proteinosis
+Procedure: Whole lung lavage (bilateral staged; today = right) (code line: “32997/??”)
+
+Anesthesia: GA with lung isolation
+TAB (tabs):
+Phase	Aliquots	Effluent
+Start	10	milky
+Mid	12	turbid
+End	8	lightly turbid
+
+No complications; EBL none. ICU observation.

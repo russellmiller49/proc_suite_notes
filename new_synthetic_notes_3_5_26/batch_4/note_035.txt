@@ -1,0 +1,16 @@
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+BRONCHIAL THERMOPLASTY — SESSION 2
+
+Patient: [PATIENT] (41-year-old female)
+Indication: Severe persistent asthma (J45.50) despite maximal therapy.
+
+0‌/1‌ Pre-med steroids confirmed
+0‌/1‌ Bronchoscopy performed
+0‌/1‌ RF activations delivered
+
+Anesthesia: Moderate sedation
+Procedure detail:
+Scope advanced to right lower lobe bronchi. Thermoplasty catheter used; RF activations delivered to segmental/subsegmental airways per protocol. Total activations: 42. No bleeding; mild bronchospasm treated with bronchodilator.
+
+Complications: none
+Plan: prednisone burst; inhaler regimen; next session scheduled.

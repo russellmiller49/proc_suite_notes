@@ -1,0 +1,6 @@
+EDGE_CASE_TAGS: ultra_short, inconsistent_formatting
+PRE/POST: R91.1 RLL nodule
+Procedure: CT-guided RFA
+Sedation: moderate
+EBL minimal | Complications: none
+Overlapping ablations x2; post CT no PTX; home after obs.

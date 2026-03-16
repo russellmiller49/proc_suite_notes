@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE DIAGNOSIS: R91.8 enlarging LLL subpleural nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided pulsed electric field ablation (PEF)
+CODES: 32998-PEF? (free text), 77012 (guidance)
+SEDATION: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+Under CT guidance, electrode advanced to lesion. PEF delivered with stable readings; one line contains missing space after bracket: “[PATIENT]tolerated procedure well.” Post CT showed expected ablation effect without pneumothorax. Disposition per protocol.
+
+PLAN:
+
+* CXR
+* CT follow-up 4–6 weeks

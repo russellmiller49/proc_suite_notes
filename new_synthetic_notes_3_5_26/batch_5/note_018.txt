@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: table_with_tabs, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 LLL nodule, posterior segment
+POST DIAGNOSIS: Same
+
+PROCEDURE: CT-guided RFA ablation
+ANESTHESIA: Moderate sedation
+EBL: minimal
+COMPLICATIONS: None
+
+TABLE (tabs):
+Target	LLL posterior
+Needle gauge	17
+Ablations	2
+Post CT	No PTX; mild perilesional hemorrhage
+
+DETAILS:
+CT guidance used to position electrode centrally in lesion. Two overlapping ablations performed for margin coverage. Post-procedure CT without pneumothorax. Discharged with precautions and follow-up imaging.

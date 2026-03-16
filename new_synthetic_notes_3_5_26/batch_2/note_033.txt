@@ -1,0 +1,13 @@
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+Mediastinal adenopathy R59.9
+Lung Nodule R91.1
+
+PROCEDURE
+Bronchoscopy 31620, EBUS-TBNA 31652, 31653-modifier
+
+ANESTHESIA: MAC
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was brought to the room. Linear EBUS inserted. Survey showed enlarged stations 4R, 4L, and 7. TBNA of all three stations performed. 3 passes each. No comps.
+IMPRESSION
+Uncomplicated procedure procedure. 3 stations sampled. Await path.

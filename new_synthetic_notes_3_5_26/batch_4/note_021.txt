@@ -1,0 +1,16 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+WHOLE LUNG LAVAGE — PROCEDURE NOTE
+
+Patient: [PATIENT] (33-year-old male)
+Pre/Post Dx: Pulmonary alveolar proteinosis (J84.01)
+
+Procedure: Whole lung lavage (right lung)
+0‌/1‌ Double-lumen tube placement
+0‌/1‌ Sequential lavage cycles
+
+Narrative:
+Under general anesthesia with lung isolation, the right lung was lavaged with warmed normal saline in repeated aliquots until effluent cleared from opaque/milky to lightly turbid. Chest percussion and positioning used between cycles. Oxygenation and hemodynamics remained stable.
+
+EBL: none
+Complications: none
+Disposition: ICU for post-procedure monitoring.

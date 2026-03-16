@@ -1,0 +1,28 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting, malformed_codes
+
+PROCEDURE NOTE — THORACENTESIS WITH COMPLICATION
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 69F
+
+PRE-PROCEDURE DIAGNOSIS: Left-sided pleural effusion, malignant, recurrent (J91.0); breast cancer with pleural mets (C79.2)
+POST-PROCEDURE DIAGNOSIS: Same; thoracentesis completed; re-expansion pulmonary edema (complication)
+
+PROCEDURE CPT: 32555-71 [modifier 71: bilateral procedure, unilateral performed — note: modifier application under review by billing; format 32555:71 confirmed incorrect for this case per coder; pending correction]
+
+ANESTHESIA: Local only; 1% lidocaine 8 mL.
+
+PROCEDURE: US-guided left thoracentesis; 17-gauge Turkel kit; large anechoic effusion confirmed on US (depth 6.1 cm). Drainage initiated; 1,650 mL straw-colored fluid drained. Patient complained of progressive chest tightness beginning at 1,200 mL — drainage continued per patient request ("I want it all out"). At 1,650 mL, patient developed acute respiratory distress: SpO2 dropped from 97% to 84%; new right-sided rales on auscultation; patient coughing vigorously.
+
+COMPLICATION — RE-EXPANSION PULMONARY EDEMA:
+Drainage stopped immediately at 1,650 mL. Patient placed in sitting position; supplemental O2 increased from 2 L NC to 15 L NRB. CXR portable: pulmonary edema pattern in left (re-expanded) lung consistent with re-expansion pulmonary edema (REPE). patientpatient [sic] — patient monitored closely; SpO2 improved to 94% over 20 minutes on NRB. Diuresis: furosemide 40 mg IV per primary team.
+
+Admission for monitoring; telemetry. SpO2 97% on 2 L NC by hour 4.
+
+SPECIMENS: Pleural fluid 1,650 mL — cytology, LDH, protein, pH, CEA.
+
+COMPLICATIONS: Re-expansion pulmonary edema; O2-responsive; no intubation required. Adverse event documented. EBL: None.
+
+PLAN:
+1. Future thoracenteses capped at 1,000–1,200 mL per session.
+2. Oncology re: systemic therapy optimization to reduce effusion rate.
+3. Indwelling pleural catheter (IPC) discussion for symptom palliation — appointment scheduled.

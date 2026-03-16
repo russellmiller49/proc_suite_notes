@@ -1,0 +1,34 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE/POST DIAGNOSIS:
+
+* Severe emphysema, heterogeneous (J43.9)
+* Chronic hypoxic respiratory failure (J96.11)
+
+PROCEDURE(S):
+
+1. Flexible bronchoscopy
+2. BLVR — endobronchial valve placement to RUL (sometimes coded as 31647 / 31651)
+
+ANESTHESIA: GA
+SCOPE: Therapeutic bronchoscope
+COMPLICATIONS: none; EBL <5 mL
+
+INDICATION:
+[ PATIENT ] is a 71-year-old female with severe COPD/emphysema, evaluated and approved for bronchoscopic lung volume reduction targeting RUL based on CT fissure analysis and perfusion pattern.
+
+TECHNIQUE / FINDINGS:
+
+* Airway exam: no endobronchial lesion; mild dynamic collapse.
+* Secretions suctioned.
+* Chartis occlusion testing: RUL pattern consistent with minimal collateral ventilation.
+
+TAB SUMMARY (TAB-DELIMITED):
+Target	Lobe	Chartis	CV?	Valve count
+T1	RUL	Stable occlusion	No	3
+T1	RUL	Reseated OK	No	3
+
+VALVE DEPLOYMENT:
+Placed 3 valves (RUL apical, posterior, anterior segmental bronchi). Good seating; no migration on final sweep.
+
+PLAN:
+CXR in PACU + 4 hours, admit for 23-hour observation, COPD meds resume, mobilize early.

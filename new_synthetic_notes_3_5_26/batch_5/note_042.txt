@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+PRE/POST: R91.1 LLL posterior basilar nodule
+0‌/1‌ Procedure: CT-guided PEF ablation
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+Technique: electrode placed; 10 applications; post CT no PTX.
+Plan: CT chest 4–6 wks.

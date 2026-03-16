@@ -1,0 +1,32 @@
+EDGE_<<<NOTE _TAGS: table_with_tabs, inconsistent_formatting
+
+Combined pleural procedure note
+
+Indication:
+Symptomatic right malignant pleural effusion.
+
+Ultrasound summary
+Side	Appearance	Loculations
+Right	Large anechoic to mildly complex	Minimal
+
+Procedure field list:
+
+* Prep: chlorhexidine
+* Anesthesia: local lidocaine
+* Device: tunneled pleural catheter
+* Entry: right lateral chest
+* Fluid removed initially: 1000 mL serous
+
+Narrative:
+Using ultrasound guidance, the right pleural space was entered and a tunneled pleural catheter was placed without difficulty. Catheter flushed and drained appropriately at completion.
+
+Specimens:
+Pleural fluid sent for cytology.
+
+Complications:
+None immediate.
+
+Plan:
+Home drainage teaching. Follow-up in pleural clinic.
+
+<<<END NOTE>>>

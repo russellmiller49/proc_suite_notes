@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:163
+# id: ip_procedure_prompts_batch3:82
+
+Bronchoscopy for lobar atelectasis after surgery. Mucus plug removed from LUL bronchus with suction and basket. Underlying mucosa mildly inflamed but no mass. Bronchial washings obtained.

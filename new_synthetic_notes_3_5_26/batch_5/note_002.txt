@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ultra_short, missing_section
+POST DIAGNOSIS: R91.1 pulmonary nodule
+PROCEDURE: CT-guided percutaneous cryoablation, LLL superior segment nodule
+ANESTHESIA: Moderate sedation (see MAR)
+EBL: <5 mL   COMPLICATIONS: none
+TECHNIQUE: Two cryoprobes placed under CT guidance; freeze-thaw-freeze performed; post-procedure CT without PTX.
+PLAN: CXR 2 hrs; discharge if stable; follow-up CT 1 month.

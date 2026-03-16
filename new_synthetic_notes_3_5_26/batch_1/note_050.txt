@@ -1,0 +1,23 @@
+Navigational bronchoscopy + staging in one session (Template A-ish)
+
+PRE-DX: Lung nodule; mediastinal adenopathy
+POST-DX: Same
+PROCEDURES: Bronchoscopy; navigation bronchoscopy to RUL lesion; radial EBUS; biopsies; linear EBUS-TBNA
+ANESTHESIA: General anesthesia
+COMPLICATIONS: None
+EBL: Minimal
+
+Procedure detail:
+Flexible bronchoscopy showed no endobronchial lesion. Navigation to RUL posterior segment lesion completed with radial EBUS concentric signal. TBNA x3 and forceps biopsies x8 obtained; minor bleeding controlled with wedge and cold saline. EBUS staging performed:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+11R: 3 passes (22G)
+
+Specimens:
+“RUL TBNA”, “RUL bx”, “4R TBNA”, “7 TBNA”, “11R TBNA”
+
+Plan:
+CXR in PACU; follow pathology and cytology; outpatient follow-up.

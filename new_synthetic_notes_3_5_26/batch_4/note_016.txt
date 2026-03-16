@@ -1,0 +1,24 @@
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+ENDOBRONCHIAL VALVES FOR PNEUMOTHORAX — PROCEDURE NOTE
+
+Patient: [PATIENT] (45-year-old male)
+Indication: Persistent air leak after secondary spontaneous pneumothorax with chest tube in place.
+
+Pre Dx: Pneumothorax (J93.9), persistent air leak (J95.811?)
+Post Dx: Same
+
+Procedure(s):
+
+* Flexible bronchoscopy
+* Balloon occlusion localization
+* Endobronchial valve placement for air leak control (CPT: 31647? / “valve for PAL”)
+
+Anesthesia: Moderate sedation (sometimes)
+Sedation meds: fentanyl 50 mcg + midazolam 2 mg IV (times variably documented)
+
+Technique:
+Airway inspected; no lesion. Sequential balloon occlusion performed to localize air leak based on chest tube bubbling reduction. Greatest reduction with occlusion of RUL. Two valves deployed to suspected segmental bronchi. After deployment, bubbling markedly decreased from continuous to intermittent. Hemostasis confirmed.
+
+Complications: none
+EBL: minimal
+Plan: Continue chest tube to water seal trial; CXR; reassess air leak over 24–48 hrs.

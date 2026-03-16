@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: malformed_codes, conflicting_details
+PRE-DX: Hemoptysis (R04.2)
+POST-DX: Same
+
+PROCEDURE(S):
+
+* Bronchoscopy with endobronchial blocker placement for airway protection (code line “31622 + blocker??”)
+* Therapeutic aspiration
+
+ANESTHESIA:
+Moderate sedation planned; procedure performed under GA due to ongoing bleeding (template header still lists “moderate sedation”).
+
+DETAIL:
+[PATIENT] 68-year-old male with active hemoptysis. Bronchoscopy showed blood originating from LLL. An endobronchial blocker was placed in the left lower lobe bronchus with reduction of spillover. Airway cleared with suction; no discrete lesion visualized due to clot burden. Hemodynamics stable. Blocker secured.
+
+EBL: not applicable
+COMPLICATIONS: none
+PLAN: ICU monitoring; CTA/IR consult; repeat bronchoscopy for reassessment as needed.

@@ -1,0 +1,20 @@
+PROCEDURE NOTE — Peripheral bronchoscopy (robotic)
+
+Patient: [PATIENT], 72-year-old male
+Indication: Left lower lobe 1.6 cm peripheral nodule with bronchus sign.
+
+Procedures:
+
+Robotic navigation bronchoscopy
+
+Radial EBUS confirmation
+
+Transbronchial biopsy and TBNA
+Anesthesia: General anesthesia.
+Complications: None.
+
+Description:
+Robotic platform docked and registration completed. Navigation to LLL posterior basal target performed. Radial EBUS showed eccentric signal; fluoroscopy used to confirm tool position. TBNA x3 and forceps biopsies x7 obtained. Mild bleeding controlled with wedge positioning and cold saline.
+
+Specimens: “LLL TBNA”, “LLL bx”.
+Plan: CXR in PACU; follow pathology.

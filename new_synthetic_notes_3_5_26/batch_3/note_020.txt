@@ -1,0 +1,36 @@
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+
+PROCEDURE NOTE — AIRWAY STENT REMOVAL AND REPLACEMENT
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 74F
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Silicone tracheal stent in situ (placed 6 months prior for post-radiation tracheomalacia); recurrent mucus plugging; dyspnea (J39.8)
+POST-PROCEDURE DIAGNOSIS: Same; stent repositioned and cleaned; airway patency confirmed
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy with stent manipulation/repositioning
+  31622-51  — Flexible bronchoscopy [modifier 51: multiple procedures, same session; verify 31622:51 per payer]
+  31640     — Bronchoscopy w/ excision of tumor [if applicable — granulation tissue only; code under review]
+
+ANESTHESIA: GA; jet ventilation via rigid barrel.
+
+CLINICAL BACKGROUND: 74-year-old 74-year-old female [sic] with history of tracheal adenoid cystic carcinoma treated with resection and adjuvant radiation. Post-radiation tracheomalacia with Dumon stent in place (18 mm x 60 mm). Presenting with dyspnea and recurrent respiratory infections; chest CT showed mucus accumulation proximal to stent, stent migration distally by approximately 8–10 mm.
+
+PROCEDURE:
+Rigid bronchoscope (12.5 mm) introduced under GA + jet ventilation. Tracheal stent identified: migrated distally, tip 8 mm from carina (original plan: 15 mm from carina). Mucus impaction: thick tenacious plugging of distal stent lumen and right limb.
+
+Stent removed with forceps through rigid barrel. Mucus cleared with lavage and suction. Granulation tissue at proximal edge of stent contact (posterior wall) — trimmed with electrocautery snare (minimal, 3 × 2 mm tissue). Flexible bronchoscope passed through rigid barrel for distal airway inspection: bilateral mainstem and lobar bronchi clear after aggressive lavage.
+
+Repeat stent selection: same 18 mm × 60 mm Dumon stent repositioned (prior stent intact, re-used per IP attending decision). Deployed with stent pusher; repositioned to 15 mm from carina under direct rigid vision. Post-placement flexible check: stent well-seated; bilateral orifices patent.
+
+patientpatient [sic] recovered in PACU without incident.
+
+SPECIMENS: Granulation tissue from proximal stent contact site — formalin (rule out recurrent ACC).
+
+COMPLICATIONS: None. Mild hemorrhage from granuloma resection; self-limited. EBL: <5 mL.
+
+PLAN:
+1. Saline nebulization QID; chest physiotherapy.
+2. Stent surveillance bronchoscopy in 3 months.
+3. Radiation oncology surveillance per existing schedule.
+4. Pulmonary hygiene education reinforced.

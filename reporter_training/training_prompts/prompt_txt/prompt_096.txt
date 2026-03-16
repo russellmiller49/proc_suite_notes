@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:191
+# id: ip_procedure_prompts_batch3:96
+
+BLVR follow up bronchoscopy for mucus impaction of treated lobe with dyspnea. Valves remained seated, thick secretions suctioned from target lobe and one partially obstructed valve cleansed. No valve removal required.

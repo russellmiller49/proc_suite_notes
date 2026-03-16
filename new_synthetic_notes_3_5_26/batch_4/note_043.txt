@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY — ENDOBRONCHIAL BRACHYTHERAPY CATHETER PLACEMENT (adjunct)
+
+Patient: [PATIENT] (71-year-old male)
+Indication: Symptomatic malignant airway obstruction; planned brachytherapy by radiation oncology.
+
+Pre/Post Dx: Malignant airway obstruction (C34.9), dyspnea (R06.02)
+
+Procedure:
+
+* Bronchoscopy with catheter placement to target endobronchial lesion (no standard code listed)
+  Anesthesia: GA
+
+Detail:
+Bronchoscopy performed. Endobronchial tumor visualized in left main bronchus. Under direct visualization, brachytherapy catheter positioned at lesion and secured. No bleeding. Handoff to radiation oncology.
+
+EBL minimal; complications none. Plan: per rad onc schedule.

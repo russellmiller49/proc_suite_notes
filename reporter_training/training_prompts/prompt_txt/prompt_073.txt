@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:145
+# id: ip_procedure_prompts_batch3:73
+
+Therapeutic bronchoscopy for central airway obstruction from renal cell metastasis in trachea. Highly vascular lesion debulked carefully with rigid bronchoscopy and APC, with balloon tamponade used briefly for bleeding control. Airway caliber markedly improved.

@@ -1,0 +1,5 @@
+Narrative op note
+
+The patient underwent linear EBUS-TBNA for staging of a right hilar mass. Limited bronchoscopy showed mild extrinsic narrowing of the right upper lobe bronchus but no visible endobronchial lesion. EBUS identified abnormal lymph nodes at stations 10R, 4R, and 7. Sampling was performed in the order 10R, 7, then 4R. Pass counts were 3, 4, and 5 respectively. ROSE was present and confirmed adequacy at each station, with atypical cells favored from 10R and 4R. There were no immediate complications. Plan is recovery per protocol and await final cytology.
+
+<<<END NOTE>>>

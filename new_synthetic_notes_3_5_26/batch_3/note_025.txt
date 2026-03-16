@@ -1,0 +1,89 @@
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, reordered_sections
+
+OPERATIVE REPORT — COMPLEX THERAPEUTIC BRONCHOSCOPY
+RIGID BRONCHOSCOPY + STENT PLACEMENT + BALLOON DILATION
+TRACHEOESOPHAGEAL FISTULA — COVERED STENT MANAGEMENT
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP
+FELLOW OBSERVER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 69M
+INSTITUTION: [NAME:REDACTED] Academic Medical Center
+
+ASSESSMENT AND PLAN (per operative note header convention):
+1. Large acquired TEF (tracheoesophageal fistula), mid-tracheal, post-esophagectomy radiation — covered SEMS deployed; esophageal stent placement to follow by GI endoscopy (separate procedure, same day).
+2. Airway patency restored; fistula orifice sealed on airway side.
+3. ICU admission post-procedure.
+4. Pulmonary hygiene, enteral nutrition via J-tube.
+5. Follow-up flexible bronchoscopy 4 weeks.
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Acquired tracheoesophageal fistula (TEF), mid-tracheal, post-esophagectomy, post-radiation (J86.0)
+  2. Recurrent aspiration pneumonia from TEF (J69.0)
+  3. Prior esophageal stent (placed externally, now malpositioned — GI to address)
+
+POST-PROCEDURE DIAGNOSIS: Same; covered fully deployed tracheal SEMS placed across TEF; tracheal lumen patent; fistula orifice covered.
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy with stent placement (covered SEMS)
+  31641     — Therapeutic bronchoscopy (APC, granulation tissue prior to stent)
+  31630     — Balloon bronchoplasty (pre-stent dilation)
+
+ANESTHESIA: GA; TIVA; jet ventilation via Karl Storz 12.5 mm rigid bronchoscope. Anesthesiologist: [NAME:REDACTED], MD. MAC level ≥ 0.8; neuromuscular blockade for jet ventilation.
+
+CLINICAL BACKGROUND:
+69-year-old male with esophageal squamous cell carcinoma treated with neoadjuvant chemoradiation followed by esophagectomy (Ivor-Lewis, 14 months prior). Post-operative course complicated by anastomotic leak (managed conservatively). Now presenting with new-onset persistent cough with oral intake, recurrent aspiration pneumonia (3 episodes in 2 months), weight loss 12 lbs, and dyspnea. CT chest/neck: fistulous track at mid-tracheal level (approximately 4 cm below subglottis), 1.8 cm in diameter, communicating with esophagus/neo-esophagus. Tracheal narrowing 50% at fistula site due to granulation tissue proliferation. Malpositioned esophageal stent noted (proximal flange above fistula, covering insufficiently). Multidisciplinary conference involving thoracic surgery, GI, radiation oncology, interventional pulmonology: plan for combined airway + esophageal stenting same day.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — DIAGNOSTIC RIGID BRONCHOSCOPY:
+Rigid bronchoscope introduced under GA + jet ventilation. Subglottic space: patent. Tracheal lumen: mid-tracheal level, gross fistulous orifice visualized on posterior-right lateral wall; 1.5–2.0 cm in diameter; granulation tissue fronds surrounding margins; active secretion egress from esophageal side visible during jet ventilation cycles. Mucosa proximal and distal to fistula: mild erythema, no tumor recurrence visualized. Distal trachea and carina: patent. Both mainstem bronchi: patent. No endobronchial tumor.
+
+PHASE 2 — GRANULATION TISSUE ABLATION:
+Flexible bronchoscope introduced through rigid barrel. APC applied to granulation tissue surrounding fistula margins (1.5 L/min flow, 50 W; approximately 60 pulses); tissue ablation and debulking achieved. Mucosal hemostasis confirmed. Fistula margins now clearly delineated: 1.5 cm oval defect on posterior tracheal wall.
+
+PHASE 3 — BALLOON DILATION PRE-STENT:
+Tracheal stenosis at fistula site (50% narrowing due to granuloma) dilated with 16 mm CRE balloon to 8 atm x 60 seconds. Lumen expanded to approximately 14 mm at narrowest. Mucosa laceration grade I at posterior wall (acceptable, expected). Cold saline irrigation for hemostasis.
+
+PHASE 4 — COVERED SEMS DEPLOYMENT:
+Stent selection and sizing (see table):
+
+	Stent Characteristic	Specification
+	Type	Fully covered SEMS (Micro-Tech Niti-S)
+	Diameter	18 mm
+	Length	80 mm
+	Coverage	Full silicone cover; proximal flange 22 mm
+	Target position	Mid-trachea, 3 cm below subglottis to 3 cm above carina
+
+Covered SEMS deployed via rigid delivery system under direct bronchoscopic and fluoroscopic guidance. Stent released; proximal flange positioned under laryngoscope visualization. Post-deployment inspection via flexible scope through rigid barrel:
+  - Stent proximal end: 3 cm below vocal cords, flange apposed to tracheal wall.
+  - Fistula site: covered by stent wall; no residual air/secretion egress from esophageal side visible.
+  - Stent distal end: 3 cm above carina; bilateral orifices patent.
+  - Stent lumen: patent, round, no collapse; estimated tracheal patency >90%.
+
+PHASE 5 — FLEXIBLE BRONCHOSCOPY FINAL SURVEY:
+Flexible scope passed through stent lumen: bilateral mainstem and lobar bronchi confirmed patent. Secretions cleared. Carina visible and sharp below stent.
+
+Procedure ended; jet ventilation discontinued; patient transferred to ICU intubated for observation.
+
+COORDINATION WITH GI:
+GI endoscopy team on standby; esophageal stent revision performed immediately after airway procedure in same OR suite. Airway bronchoscopist available for re-entry if airway compromise during esophageal procedure. No complications during esophageal phase per GI colleague's report.
+
+SPECIMENS:
+  Granulation tissue from fistula margins — APC-ablated fragments (small, cauterized) sent for histology to rule out recurrent SCC.
+
+POST-PROCEDURE NOTES:
+	Parameter	Pre-procedure	Post-procedure
+	Tracheal patency	~50%	>90%
+	TEF orifice coverage	Open	Covered (SEMS)
+	SpO2 on FiO2 0.4	91%	97%
+	Peak airway pressure	44 cm H2O	26 cm H2O
+
+COMPLICATIONS: Grade I tracheal mucosal laceration (expected; hemostasis achieved). Transient hypoxemia during granuloma ablation (SpO2 84% for ~45 seconds; recovered with brief pause and FiO2 increase). No airway fire. No stent migration intraoperatively. EBL: <10 mL.
+
+IMPRESSION/PLAN:
+1. Acquired TEF successfully managed with covered tracheal SEMS; airway side of fistula sealed.
+2. Esophageal stent revised by GI (separate operative report).
+3. ICU monitoring; enteral nutrition via J-tube only; strict NPO by mouth.
+4. Daily chest assessment; bronchoscopy re-entry at 4 weeks for stent check.
+5. Radiation oncology review re: reirradiation feasibility deferred — airway stabilization first priority.
+6. Palliative care consultation for goals of care discussion given disease burden.

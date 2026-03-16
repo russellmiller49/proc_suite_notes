@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, ambiguous_laterality
+Bronchoscopy for stent inspection. Right mainstem metallic stent (wait, left mainstem stent) in good position. No tissue ingrowth.

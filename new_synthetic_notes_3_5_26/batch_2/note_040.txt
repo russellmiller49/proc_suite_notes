@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+Indication: Peripheral lung nodule.
+Procedure: Navigational Bronchoscopy with rEBUS.
+Findings:
+
+Airway normal.
+
+Nav to RLL.
+Tool	Passes	Result
+Needle	2	Blood only
+Forceps	5	Tissue
+Brush	1	Smear
+
+Specimen: RLL biopsies.
+Plan: DC home. CXR negative for pneumo.

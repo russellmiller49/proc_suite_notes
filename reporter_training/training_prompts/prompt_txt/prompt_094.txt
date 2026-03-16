@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:187
+# id: ip_procedure_prompts_batch3:94
+
+Flexible bronchoscopy with BAL and protected specimen brushing for ventilator associated pneumonia. Purulent secretions noted in RLL. No biopsy. Samples sent for quantitative culture.

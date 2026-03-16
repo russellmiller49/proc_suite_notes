@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+[PATIENT] 66M | PRE/POST: R91.1 RML lateral nodule
+Procedure: Percutaneous RFA ablation under CT
+Sedation: MAC
+Codes: 32998-?? / 77012 (wrapped)
+EBL minimal | Complications none
+Note: Overlapping ablations x2; post CT no PTX.

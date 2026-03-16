@@ -1,0 +1,24 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Bronchoscopic cryoablation of LUL anterior nodule completed; exit CBCT without PTX.
+
+PRE/POST DIAGNOSIS: R91.1 LUL anterior nodule
+
+PROCEDURES:
+
+* Robotic navigation + radial EBUS
+* CBCT confirmation
+* Cryoablation (bronchoscopic)
+* BAL (left upper lobe)
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+
+DETAILS:
+[PATIENT] 54-year-old female. Airway survey normal. Navigation to LUL target. Radial EBUS concentric. CBCT confirmed. BAL performed. Cryoablation freeze/thaw cycles completed with slight catheter repositioning for margins. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* BAL LUL: 40 mL instilled, 15 mL return
+  PLAN: CXR; CT chest 4–6 weeks.

@@ -1,0 +1,38 @@
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, LLL superior segment (1.8 cm)
+* Prior lung surgery; limited reserve
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+1. Flexible bronchoscopy with airway survey
+2. Robotic navigation to LLL superior segment target
+3. Radial EBUS localization
+4. CBCT guidance (spin x2)
+5. Diagnostic sampling (TBNA + TBBx)
+6. Bronchoscopic microwave ablation of pulmonary nodule
+
+ANESTHESIA: General (ETT)
+EBL: ~25 mL
+COMPLICATIONS: None
+
+INDICATION:
+[PATIENT] is a 76-year-old male with an enlarging LLL superior segment nodule. Tumor board recommended bronchoscopic biopsy with same-session ablation if localization adequate.
+
+DETAILS:
+Airway survey without endobronchial lesion. Robotic system docked; navigation performed. Radial EBUS initially eccentric with adjacent atelectasis; catheter manipulated to improve lesion engagement. CBCT spin #1 showed edge position; catheter advanced and angulated slightly; CBCT spin #2 confirmed improved tool-in-lesion.
+
+TBNA x3 passes performed. Forceps biopsies obtained x6. Moderate bleeding occurred after the final biopsy, controlled with suction, iced saline, and brief balloon occlusion in the segment. Hemostasis confirmed.
+
+Microwave ablation catheter advanced; staged applications delivered. Small amount of airway soot/char seen at catheter tip (expected), cleared with suction; no airway injury appreciated. Final bronchoscopy clear; exit imaging without pneumothorax.
+
+SPECIMENS:
+
+* LLL SS nodule: TBNA x3
+* LLL SS nodule: TBBx x6
+  PLAN:
+* CXR in PACU
+* CT chest at 6 weeks

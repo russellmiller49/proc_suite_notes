@@ -1,0 +1,22 @@
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+PLAN:
+
+* Post-procedure CXR; admit to monitored bed.
+* If stable, discharge next day with clinic follow-up 1–2 weeks.
+
+PRE/POST DIAGNOSIS: Severe heterogeneous emphysema (J43.9)
+PROCEDURE: Bronchoscopy with BLVR valve placement — LUL
+
+ANESTHESIA: General anesthesia
+SCOPE: Therapeutic bronchoscope
+COMPLICATIONS: None
+EBL: minimal
+
+TAB LOG:
+Step	Result	Comment
+Airway survey	No lesion	Mild bronchitis
+Chartis	LUL no CV	OK to proceed
+Valves	4 placed	Seated well
+
+DETAIL:
+66-year-old female. Chartis balloon occlusion testing supported minimal collateral ventilation to LUL. Valves deployed to apicoposterior, anterior, and lingular segments. Final bronchoscopy confirmed position and hemostasis.

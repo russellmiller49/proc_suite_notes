@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:131
+# id: ip_procedure_prompts_batch3:66
+
+Bronchoscopy and linear EBUS in patient with prior granulomatous disease and enlarging hilar nodes. Elastography used and stiffest node at 11R sampled first, followed by 7 and 4R. Five passes per node. ROSE favored granulomas, cultures also sent.

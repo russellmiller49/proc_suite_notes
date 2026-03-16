@@ -1,0 +1,37 @@
+EDGE_CASE_TAGS: inconsistent_formatting
+
+PROCEDURE NOTE
+PATIENT: [PATIENT]   AGE/SEX: 61F   MRN: [MRN:REDACTED]
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+DIAGNOSIS (pre): Mucus plugging with atelectasis, right lower lobe (J98.11); ventilator-dependent respiratory failure (J96.00)
+
+DIAGNOSIS (post): Same; mucus clearance achieved, atelectasis improved
+
+PROCEDURE: Flexible bronchoscopy, diagnostic and therapeutic (CPT 31622; 31623 — BAL/culture)
+
+INDICATION: Mechanically ventilated patient, ICU day 7; right lower lobe opacification on portable CXR; increasing ventilator pressures (peak 38, plateau 29 cm H2O); suspected mucus plugging.
+
+ANESTHESIA: No additional sedation beyond baseline ICU infusions (fentanyl + propofol). Paralytic held. PEEP adjusted to 8 cm H2O during procedure.
+
+TECHNIQUE:
+Elbow adapter placed on ETT (size 8.0). Flexible bronchoscope (Olympus BF-P290, 4.9 mm OD, 2.0 mm working channel) introduced via adapter. SpO2 maintained >88% (FiO2 1.0 during procedure). PEEP 8 cm H2O.
+
+Findings:
+    RIGHT — mucus plug visualized at RLL bronchus intermedius/RLL junction. Large tan-brown mucoid cast occupying 80% of lumen. Forceps used for piecemeal extraction of plug (3 passes). Saline lavage 20 mL x3 aliquots with suctioning. Post-clearance: lumen patent; B6, B7, B8 all patent.
+    LEFT — patent throughout; no mucus plug.
+
+BAL: 60 mL instilled into RLL, 25 mL return — sent for Gram stain, culture, sensitivity, fungal.
+BAL cellular differential ordered.
+
+Post-procedure: Ventilator peak pressure improved to 27 cm H2O. SpO2 94% on FiO2 0.6 (down from 1.0 pre-procedure, over 30 min).
+
+SPECIMENS: RLL BAL — micro, cytology
+
+COMPLICATIONS: Transient SpO2 drop to 84% during plug extraction (recovered immediately with FiO2 increase). No pneumothorax. EBL: None.
+
+PLAN:
+1. Increase mucolytic therapy (acetylcysteine via ETT q8h).
+2. Elevate HOB 30–45 degrees.
+3. Repeat CXR in 4 hours.
+4. Return bronchoscopy if re-plugging suspected.

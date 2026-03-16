@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ambiguous_laterality, malformed_codes
+Indication: Right mainstem tumor obstruction.
+Consent: Obtained.
+Technique: Therapeutic bronchoscopy with APC. (31641:)
+Findings: Scope passed via mouth. Right mainstem bronchus was 90% obstructed. Wait, Left mainstem bronchus was 90% obstructed. APC applied to the left mainstem lesion at 40W. Lumen opened to 60%.
+Specimens: None.
+Plan: Extubate, transfer to ICU.

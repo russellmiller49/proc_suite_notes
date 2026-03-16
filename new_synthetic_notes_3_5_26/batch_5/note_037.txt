@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, missing_section
+PRE/POST: R91.8 enlarging RML lateral nodule
+Procedure: Bronchoscopic cryoablation via navigation + radial EBUS + CBCT
+Anesthesia: GA
+Details:
+Airways normal. Navigated to target; radial EBUS eccentric then corrected to concentric. CBCT confirmed position. Cryoablation performed freeze/thaw. No bleeding no bleeding at end.
+EBL minimal | Complications none
+Specimens: omitted
+Plan: CXR; CT follow-up.

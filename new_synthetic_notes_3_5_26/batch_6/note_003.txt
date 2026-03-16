@@ -1,0 +1,9 @@
+EDGE_<<<NOTE _TAGS: ultra_short
+
+Procedure note: bronchoscopy through tracheostomy.
+
+Indication: mucus plugging and increased airway pressures.
+A bronchoscope was passed through the mature tracheostomy tube. Thick tenacious secretions were occluding the distal tube and proximal left mainstem; these were suctioned clear. Distal tip of the tube sat 3 cm above the carina. No specimen obtained.
+Tolerated well without desaturation. Continue humidification and routine trach care.
+
+<<<END NOTE>>>

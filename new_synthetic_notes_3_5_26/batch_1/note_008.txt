@@ -1,0 +1,17 @@
+Indication: Pleural effusion, diagnostic and therapeutic drainage.
+Patient: [PATIENT], 55-year-old male with dyspnea and large right pleural effusion on ultrasound.
+
+Procedure: Ultrasound-guided right thoracentesis.
+Anesthesia: Local lidocaine.
+Estimated volume removed: 1100 mL.
+Complications: None.
+
+Details:
+Bedside ultrasound confirmed a large anechoic effusion with atelectatic lung, safe window in posterior axillary line. After sterile prep/drape and local anesthesia, a catheter-over-needle system was advanced into pleural space with free-flowing straw-colored fluid. 1100 mL removed with symptom improvement. Procedure terminated due to patient cough and near-complete drainage.
+
+Specimens:
+
+“Pleural fluid” sent for cell count/diff, protein, LDH, pH, glucose, Gram stain/culture, cytology.
+
+Plan:
+Post-procedure CXR per protocol; monitor for chest pain and dyspnea; follow-up results with primary team.

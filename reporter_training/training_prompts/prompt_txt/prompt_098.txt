@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:195
+# id: ip_procedure_prompts_batch3:98
+
+Therapeutic bronchoscopy for recurrent benign subglottic stenosis in tracheostomy dependent patient. Balloon dilation to 12 mm with radial electrocautery incisions and steroid injection. Bronchoscopy through trach afterward confirmed improved airway.

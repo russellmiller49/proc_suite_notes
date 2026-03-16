@@ -1,0 +1,32 @@
+EDGE_CASE_TAGS: inconsistent_formatting, copy_paste_artifacts
+
+TRACHEOSTOMY EXCHANGE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 62M
+
+INDICATION: Mature tracheostomy (14 days post-PDT); first trach tube exchange for smaller cuffless tube per ventilator-weaning protocol. Current tube: Shiley 8.0 cuffed (original PDT tube).
+
+PRE-PROCEDURE DIAGNOSIS: Tracheostomy in situ, mature tract (Z93.0)
+POST-PROCEDURE DIAGNOSIS: Same; tube exchanged to Shiley 6.0 cuffless
+
+PROCEDURE: Tracheostomy tube change, mature tract. Bedside ICU.
+
+ANESTHESIA: No sedation required — patient alert and cooperative. Supplemental O2 via trach mask during exchange.
+
+TECHNIQUE:
+Bedside setup: new Shiley 6.0 cuffless tube with obturator and inner cannula; 10 Fr suction catheter loaded as guide; Ambu bag and 100% O2 source at bedside. Tracheal dilators available.
+
+Existing tube: cuff deflated under suction (12 mL air withdrawn). Patient instructed to breathe slowly. Old tube removed in one controlled motion. 6.0 cuffless Shiley immediately advanced through mature stoma tract over 10 Fr suction catheter guide without resistance. Inner cannula inserted. Trach mask O2 reconnected immediately. SpO2 stable throughout (98% → 97% → 99%).
+
+Position confirmed: bronchoscope introduced through 6.0 cuffless tube; tip 4.5 cm above carina; no false passage; mucosa at stoma and subglottic space intact. 
+
+patientpatient [sic] reported mild discomfort during cuff deflation — corrected: patient reported mild discomfort which resolved after exchange was complete.
+
+Tube secured with new Velcro holder.
+
+COMPLICATIONS: None. Desaturation not observed. EBL: None.
+
+PLAN:
+1. PMV (Passy-Muir valve) trial this afternoon per SLP order.
+2. Capping trials per weaning schedule.
+3. Decannulation assessment in 1 week.

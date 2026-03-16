@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: reordered_sections, conflicting_details
+PLAN:
+
+* CXR now and repeat in 2 hours.
+* If stable, discharge with return precautions.
+* CT chest 4–6 weeks.
+
+PRE/POST DIAGNOSIS: R91.1 LLL subpleural nodule
+
+PROCEDURE: CT-guided microwave ablation
+ANESTHESIA: Moderate sedation (one line states GA)
+EBL: <10 mL
+COMPLICATIONS: Small pneumothorax, stable, no chest tube
+
+DETAILS:
+[PATIENT] 68-year-old male. Antenna positioned in lesion with CT guidance. Ablation performed, followed by pullback for second ablation. Immediate CT showed expected ablation zone and a small pneumothorax. Patient remained stable on room air.
+
+DISPOSITION: Observation per protocol.

@@ -1,0 +1,35 @@
+EDGE_CASE_TAGS: table_with_tabs, conflicting_details
+
+PROCEDURE NOTE — PDT COMPLICATED BY POSTERIOR TRACHEAL WALL INJURY
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 74M
+
+PRE-PROCEDURE DIAGNOSIS: Prolonged ventilator dependence; ICU day 21; neuromuscular weakness (J96.00)
+POST-PROCEDURE DIAGNOSIS: Percutaneous tracheostomy; posterior tracheal wall laceration (1.5 cm) — managed conservatively; trach in satisfactory position
+
+PROCEDURE: PDT (Ciaglia Blue Rhino); CPT 31600; 31622
+
+ANESTHESIA: Propofol infusion; fentanyl 100 mcg; vecuronium 6 mg.
+
+PROCEDURE:
+Blue Rhino PDT performed. At time of Blue Rhino dilator advancement (over guidewire), slight resistance noted; maintained bronchoscopic visualization — dilator tip briefly deflected posteriorly; small (1.5 cm) posterior tracheal wall laceration identified on immediate post-insertion bronchoscopy.
+
+COMPLICATION MANAGEMENT:
+
+	Finding	Description	Management
+	Posterior wall tear	1.5 cm linear; mucosa only; no full-thickness (muscularis intact on bronchoscopy)	Conservative; tube positioned distal to tear
+	Hemorrhage	Minimal ooze (<5 mL) from laceration	Cold saline; self-limited
+	Trach position	Tip 5 cm above carina; away from laceration	Satisfactory
+
+Thoracic surgery consulted urgently — reviewed bronchoscopy images; recommended conservative management given superficial laceration without pneumomediastinum or tension. CT chest: no pneumomediastinum; no subcutaneous emphysema. Laceration monitored with repeat flexible bronchoscopy at 24h, 72h, 1 week.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Posterior tracheal wall mucosa laceration (1.5 cm, superficial); managed conservatively. EBL: <5 mL. Thoracic surgery notified and in agreement with plan. [Note: prior nursing pre-procedure note documents "difficult anatomy noted" — attending was not informed pre-procedure; review of note timing confirms nurse note added to chart after procedure, not before — documentation timeline under review.]
+
+PLAN:
+1. Repeat bronchoscopy 24h, 72h, 1 week to confirm laceration healing.
+2. CT chest without contrast to exclude pneumomediastinum — obtained, negative.
+3. Keep trach cuff inflated to protect laceration from aspiration.
+4. Thoracic surgery co-management.
+5. Adverse event report filed.

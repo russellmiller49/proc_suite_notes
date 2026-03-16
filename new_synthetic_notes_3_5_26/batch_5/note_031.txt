@@ -1,0 +1,38 @@
+EDGE_CASE_TAGS: reordered_sections, extreme_length
+IMPRESSION / PLAN (front-loaded):
+
+* Bronchoscopic RFA ablation of RLL lateral basilar nodule completed with expected post-ablation CBCT changes.
+* No pneumothorax on exit spin; routine post-procedure imaging ordered.
+* Follow-up CT chest at ~6 weeks; consider repeat CT at 3 months if equivocal.
+
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, RLL lateral basilar (1.7 cm)
+* Severe COPD, high surgical risk
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+1. Flexible bronchoscopy with airway survey
+2. Robotic navigational bronchoscopy to RLL target
+3. Radial EBUS localization
+4. CBCT guidance (spin x2)
+5. Transbronchial needle aspiration + forceps biopsy
+6. Bronchoscopic radiofrequency ablation (RFA) of pulmonary nodule (non-thermal planning margins documented)
+
+ANESTHESIA: General anesthesia (ETT)
+EBL: ~20 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 74-year-old male with a growing peripheral RLL nodule. Airway exam showed mild secretions, suctioned. Robotic system docked; navigation performed along planned pathway. Radial EBUS demonstrated eccentric lesion; catheter adjusted until near-concentric. CBCT spin #1 suggested edge position; catheter advanced 5–8 mm and repeat CBCT confirmed improved tool-in-lesion.
+
+Sampling obtained prior to ablation (TBNA x3, TBBx x6). Mild bleeding after forceps biopsy controlled with suction and topical iced saline; no balloon occlusion required.
+
+RFA catheter placed centrally. Two overlapping ablations delivered with slight retraction between applications to cover expected margin. Final bronchoscopy showed no active bleeding. Exit CBCT without pneumothorax.
+
+SPECIMENS:
+
+* RLL lateral basilar nodule: TBNA x3 passes
+* RLL lateral basilar nodule: TBBx x6 fragments

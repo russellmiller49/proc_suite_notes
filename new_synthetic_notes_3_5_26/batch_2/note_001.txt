@@ -1,0 +1,25 @@
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DIAGNOSIS
+
+1. Mediastinal adenopathy (R91.8)
+2. Lung Nodule
+
+PROCEDURE
+
+* Bronchoscopy with EBUS-TBNA (31620-59, 31652, 31653-modifier)
+
+ANESTHESIA: General Anesthesia
+MONITORING: Standard ASA
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for evaluation of mediastinal lymphadenopathy. After informed consent, patient was brought to the bronchoscopy suite. A time out was performed. Under general anesthesia, a flexible bronchoscope was introduced via the ETT. Airway inspection revealed normal vocal cords, trachea, and bilateral bronchial trees. No endobronchial lesions.
+
+The linear EBUS scope (BF-UC180F) was then introduced. We surveyed stations 4R, 4L, 7, 10R, 11L.
+Station 7 measured 1.5 cm. Station 4R measured 1.2 cm.
+TBNA was performed at Station 7 x4 passes, and Station 4R x3 passes using a 22G needle. Rapid on-site evaluation (ROSE) was present.
+
+COMPLICATIONS: None
+IMPRESSION/PLAN
+
+1. Successful EBUS-TBNA of 4R and 7.
+2. Await final pathology.

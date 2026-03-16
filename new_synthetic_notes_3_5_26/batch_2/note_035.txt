@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PLAN: Extubate and transfer to PACU. Monitor for pneumothorax with post-op CXR in 2 hours.
+SPECIMENS: 1. RML nodule FNA. 2. RML nodule TBBx.
+COMPLICATIONS: None.
+
+PRE-OP DIAGNOSIS: Right middle lobe pulmonary nodule
+POST-OP DIAGNOSIS: Same.
+
+PROCEDURE:
+
+Electromagnetic navigational bronchoscopy (31627)
+
+Transbronchial biopsy (31628)
+
+Fluoroscopy guidance
+
+INDICATION: [PATIENT], [REDACTED] yr old female, with a 1.4 cm RML nodule increasing in size.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia, a flexible bronchoscope was inserted. Navigation to the RML lateral segment was successful using the pre-planned electromagnetic pathway. Fluoroscopy confirmed target location. Radial EBUS was deployed and showed a concentric view of the lesion. TBNA x3 passes performed using an aspirating needle. Subsequently, TBBx x5 using flexible forceps were obtained. The scope was removed. Patient remained hemodynamically stable throughout the procedure with no signs of bleeding.

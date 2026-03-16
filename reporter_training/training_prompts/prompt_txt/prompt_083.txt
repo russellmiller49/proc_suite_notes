@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:165
+# id: ip_procedure_prompts_batch3:83
+
+Bronchoscopy with cryobiopsy of endobronchial tumor for larger tissue acquisition after nondiagnostic forceps biopsies elsewhere. Lesion in RLL superior segment sampled with 1.1 mm cryoprobe x3 following prophylactic balloon placement. Hemostasis achieved without issue.

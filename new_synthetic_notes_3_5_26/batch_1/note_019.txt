@@ -1,0 +1,18 @@
+Bronchoscopy + EBUS with elastography mention
+
+[PATIENT] is a 70-year-old female with suspected sarcoidosis versus malignancy, with bilateral hilar and mediastinal adenopathy.
+
+Anesthesia: Moderate sedation.
+Findings: No endobronchial lesion. EBUS showed enlarged station 7 and 11R; elastography demonstrated relatively stiff pattern in station 7.
+
+Sampling:
+
+7: 6 passes (22G)
+
+11R: 4 passes (22G)
+
+Additional:
+Endobronchial biopsies from right mainstem spur x4 for granulomatous evaluation. BAL in right upper lobe.
+
+Specimens: “7 TBNA”, “11R TBNA”, “RMSB endobronchial bx”, “RUL BAL”.
+Complications: none.

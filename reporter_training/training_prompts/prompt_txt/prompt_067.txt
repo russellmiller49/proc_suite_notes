@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:133
+# id: ip_procedure_prompts_batch3:67
+
+EUS-B guided biopsy of paraesophageal mass and station 8 node after limited airway access from severe tracheal narrowing. Bronchoscopic survey performed first. Three passes from paraesophageal mass and four passes from station 8 using 22g needle. No complications.

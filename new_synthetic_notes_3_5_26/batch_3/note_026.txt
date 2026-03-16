@@ -1,0 +1,45 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+ASSESSMENT AND PLAN (dictated first per ICU rounding convention):
+1. Percutaneous dilational tracheostomy successfully completed at bedside (ICU bay 6); Shiley 8.0 cuffed trach in satisfactory position per bronchoscopic and CXR confirmation.
+2. Trach care protocol initiated; nursing education completed.
+3. Ventilator settings: return to pre-procedure baseline; PEEP 8, FiO2 0.45.
+4. Cuff pressure checks q8h; target 20–25 mmHg.
+5. Speech-language pathology (SLP) consult placed when wean criteria met.
+
+OPERATIVE NOTE — PERCUTANEOUS DILATIONAL TRACHEOSTOMY
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+FELLOW (supervised): [NAME:REDACTED], MD (PCCM Year 2)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 58M
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure (J96.00); anticipated prolonged mechanical ventilation; ARDS secondary to septic shock (J80; A41.9)
+POST-PROCEDURE DIAGNOSIS: Same; percutaneous tracheostomy placed successfully
+
+CPT: 31600 (tracheostomy, planned); 31622 (bronchoscopy for guidance, separate)
+
+ANESTHESIA: Propofol bolus 80 mg IV; fentanyl 100 mcg IV; rocuronium 40 mg IV for brief paralysis. Bedside ICU procedure.
+
+MONITORING: Continuous arterial line (right radial), SpO2, ETCO2 waveform, cardiac telemetry, noninvasive BP q2 min intraoperatively.
+
+INSTRUMENTS:
+  - Cook Ciaglia Blue Rhino percutaneous tracheostomy kit (8.0 mm)
+  - Olympus BF-P290 flexible bronchoscope (4.9 mm OD), introduced via ETT
+  - Shiley 8.0 cuffed tracheostomy tube with inner cannula
+
+CLINICAL SUMMARY:
+58-year-old male, ICU day 12 for ARDS complicating gram-negative septic shock. Intubated via orotracheal route (7.5 ETT, depth 23 cm at lip). Sedation weaning attempted; agitation and ventilator dyssynchrony precluding liberation trial. Multidisciplinary team recommendation: tracheostomy for prolonged ventilator management. Contraindications assessed: neck circumference 42 cm (large habitus, noted); cervical spine clearance confirmed. No prior neck surgery. Platelet 156k, INR 1.1.
+
+PROCEDURE NARRATIVE:
+Patient placed supine, neck extended over shoulder roll. Landmarks: thyroid cartilage, cricoid, tracheal rings palpated. Target interspaced between rings 2–3 confirmed by direct palpation and bronchoscopic illumination through the anterior tracheal wall. ETT withdrawn to 18 cm at lip under bronchoscopic guidance (carina confirmed at safe distance of 7 cm above planned entry).
+
+Skin prepared and draped in sterile fashion. Vertical 1.5 cm skin incision at ring 2–3 interspace. Blunt dissection through subcutaneous tissue to pretracheal fascia. 14-gauge introducer needle inserted under bronchoscopic visualization: needle tip visualized in tracheal lumen between rings 2–3, confirming midline entry. 0.038-inch J-tip guidewire advanced; position confirmed bronchoscopically (wire coiling distally in trachea). 14 Fr fascial dilator followed by Blue Rhino single-step dilator sequentially advanced over wire under bronchoscopic surveillance; airway lumen maintained throughout — SpO2 nadir 94%.
+
+Shiley 8.0 cuffed trach tube loaded on obturator, advanced over guidewire and dilator peel-away, seated in trachea. Obturator removed; inner cannula inserted. Ventilator circuit connected; bilateral breath sounds confirmed; ETCO2 waveform present. ETT removed. Cuff inflated to 22 mmHg (cuff manometer).
+
+Bronchoscopic check through trach tube: tube tip 4 cm above carina; midline; no posterior wall injury; no active hemorrhage. Tracheal mucosa at entry site: intact circumferentially.
+
+Trach tube secured with Velcro trach holder + suture (2-0 silk x2 to flange).
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. Transient SpO2 drop to 94% during dilation (resolved with FiO2 increase to 1.0 for 90 seconds). Estimated blood loss: <5 mL.

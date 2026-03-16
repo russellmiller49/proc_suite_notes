@@ -1,0 +1,14 @@
+Pleural ultrasound + thoracentesis (brief)
+
+Patient: [PATIENT], 61-year-old male with dyspnea and moderate left pleural effusion.
+
+Procedure: Ultrasound-guided left thoracentesis.
+Anesthesia: Local lidocaine.
+Volume removed: 850 mL, yellow fluid.
+Complications: None.
+
+Details:
+Ultrasound confirmed a dependent anechoic pocket with safe window. Sterile technique used. Catheter advanced with free flow; drainage stopped with patient cough and near-complete drainage.
+
+Specimens: “Pleural fluid” for chemistries, cell count/diff, culture, cytology.
+Plan: Post-procedure imaging per protocol; follow results.

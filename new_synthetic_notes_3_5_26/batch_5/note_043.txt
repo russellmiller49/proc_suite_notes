@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PRE DIAGNOSIS: R91.8 enlarging LUL apical nodule
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Bronchoscopy with navigation (robotic)
+* Radial EBUS
+* RFA ablation of pulmonary nodule (bronchoscopic) 32998-?? (wrapped)
+* CBCT guidance
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 62-year-old female. Airway exam normal. Navigated to LUL apical target; radial EBUS concentric. CBCT confirmed catheter. RFA performed with two overlapping zones. Final bronchoscopy clear.
+
+SPECIMENS: None (prior diagnostic).
+PLAN: CXR; CT chest 6 weeks.

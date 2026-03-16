@@ -1,0 +1,19 @@
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+PRE DIAGNOSIS: R91.1 LUL apicoposterior nodule
+POST DIAGNOSIS: Same
+
+0‌/1‌ Procedure: CT-guided RFA
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+0‌/1‌ EBL: minimal
+
+TAB SUMMARY:
+Target	LUL apicoposterior
+Electrode	placed central
+Ablations	2 (overlap)
+Post CT	no PTX
+
+DETAILS:
+Electrode advanced under CT guidance; two overlapping ablations performed. Post-procedure CT without pneumothorax. Observed then discharged.
+
+PLAN: CT follow-up 1 month.

@@ -1,0 +1,44 @@
+EDGE_CASE_TAGS: reordered_sections, ambiguous_laterality, malformed_codes
+
+INTERVENTIONAL PULMONOLOGY
+PROCEDURE NOTE — NAVIGATIONAL BRONCHOSCOPY
+FACILITY: [NAME:REDACTED] Cancer Center
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED]
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 72M
+
+PLAN (recorded at start of note per department protocol):
+1. Results to lung cancer MDC.
+2. Molecular reflex if malignant confirmed.
+3. Robotic platform procedure — if non-diagnostic, CT-guided FNA as next step.
+
+PRE-PROCEDURE DIAGNOSIS: Left lower lobe 2.4 cm mass, PET-avid (SUVmax 9.1) (R91.1 / C34.12 — provisional)
+POST-PROCEDURE DIAGNOSIS: Pending — LLL mass, biopsied
+
+PROCEDURES (billing codes):
+  31627     Bronchoscopy, navigational
+  31625     Bronchoscopy w/ biopsy (additional lobe)
+  31623-59  Brushings [modifier 59 — distinct procedural service; billing note: confirm 31623:59 vs 31623-59 format per payer]
+  99100     Anesthesia — patient age >70
+
+ANESTHESIA: GA; TIVA (propofol/remifentanil); size 7.0 ETT via direct laryngoscopy
+
+CLINICAL CONTEXT: 72-year-old male, 45 pack-year smoker, COPD GOLD 3. CT chest: 2.4 cm spiculated LLL mass; PET SUVmax 9.1; no hilar or mediastinal adenopathy. Pulmonary function: FEV1 52% predicted. Referred for bronchoscopic biopsy as surgical risk prohibitive.
+
+INSTRUMENTS: Ion Robotic Bronchoscopy System; 3.5 mm robotic catheter; 1.1 mm cryoprobe (Erbe); radial EBUS probe 20 MHz
+
+PROCEDURE IN DETAIL:
+ETT placed. Robotic bronchoscope introduced via ETT. Survey of bilateral airways: copious thick secretions cleared bilaterally (consistent with COPD). Bilateral lower lobe bronchi patent to subsegmental level. Robotic navigation plan loaded.
+
+Target: LLL (left lower lobe) — superior segment (B6), posterior inferior nodule coordinates registered from pre-op CT. Catheter navigated; shape-sensing confirmed position within 5 mm of target. Radial EBUS performed — halo sign identified (eccentric partial ring), lesion adjacent.
+
+Initial biopsy: bronchoscopic forceps biopsy x2 (marginal tissue, small fragments). Cryoprobe introduced: 3 freeze-thaw cycles (1.5 seconds each); substantial tissue core retrieved each time x3. Brushings x3. BAL LLL B6 (50 mL, 28 mL return).
+
+Note: Fluoroscopic confirmation used at LLL target — probe appeared in left [confirmed LLL, not right — ambiguity noted at real-time and corrected] lower lobe B6 on AP and lateral views.
+
+SPECIMENS:
+  A: LLL cryobiopsies x3 (cryoprobe, 1.5 sec cycles) — formalin
+  B: LLL forceps biopsy x2 — formalin
+  C: LLL brushings x3 — ThinPrep
+  D: LLL BAL (50 mL) — cytology, AFB, fungal Cx
+
+COMPLICATIONS: Mild hemorrhage post-cryobiopsy; resolved with cold saline irrigation and 1:20,000 epi 2 mL topical. No pneumothorax. EBL: ~5 mL.

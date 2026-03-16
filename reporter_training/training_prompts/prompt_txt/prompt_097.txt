@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:193
+# id: ip_procedure_prompts_batch3:97
+
+BLVR initial evaluation bronchoscopy with Chartis of RUL and RML to determine best target. Collateral ventilation present in RUL but absent in RML. Three valves placed in RML with good occlusion. Standard post valve pneumothorax observation planned.

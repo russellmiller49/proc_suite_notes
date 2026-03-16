@@ -1,0 +1,40 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes, inconsistent_formatting
+
+PLEUROSCOPY AND BIOPSY PROCEDURE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+
+INDICATION: Undiagnosed left-sided exudative effusion, recurrent x3; cytology x2 negative; suspected malignancy (J91.8)
+
+DIAGNOSES: Pre: Exudative pleural effusion, unspecified etiology. Post: Parietal pleural nodularity; biopsies obtained; pending.
+
+☑ Consent obtained and documented
+☑ Pre-procedure US: large L effusion, anechoic, 5.1 cm depth at entry point 0‌
+☑ Time-out complete
+☐ EBUS-TBNA (not performed — no mediastinal adenopathy on CT)
+☑ Lab review: INR 1.0, Plt 310k, BMP within normal limits
+
+ANESTHESIA: Moderate sedation + intercostal block (lidocaine 2% with epinephrine, 3 mL per space, levels 5/6/7 on left)
+  Midazolam 3 mg; fentanyl 125 mcg in divided doses
+
+PROCEDURE IN DETAIL:
+Patient right lateral decubitus (L side up). Entry: 7th ICS, mid-axillary line, left. Skin incision 1.5 cm; blunt digital dissection; pleural space entered; semi-rigid thoracoscope introduced (Olympus LTF-160). Effusion (approximately 600 mL pale yellow fluid) drained to improve visualization.
+
+Pleural findings:
+  Parietal: multiple 2–6 mm tan-white nodules, particularly along the posterior costal surface and mediastinal pleura; diaphragmatic surface with flat plaques.
+  Visceral: mild surface irregularity, no discrete nodules.
+  No obvious gross tumor burden; pattern suspicious for diffuse malignant process.
+
+Six biopsies taken from parietal nodules and diaphragmatic plaques using cup forceps. All specimens placed in formalin.
+
+1‌ IHC panel requested: calretinin, CK5/6, WT-1, D2-40, TTF-1, Napsin A, CEA, BAP1 (BAP1 loss suggestive of mesothelioma).
+
+Pleurodesis deferred pending pathology — if malignant, will discuss with patient.
+
+Port closed with interrupted 2-0 Vicryl sutures. Sterile dressing.
+
+SPECIMENS:
+  Pleural fluid: LDH, protein, cytology, culture
+  Biopsy x6: parietal and diaphragmatic nodules — formalin; comprehensive IHC panel
+
+COMPLICATIONS: Vasovagal response at scope insertion; atropine 0.5 mg IV given; HR improved from 42 to 68 bpm within 2 minutes. Procedure continued without further complication. EBL: <5 mL.

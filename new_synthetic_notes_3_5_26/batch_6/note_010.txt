@@ -1,0 +1,50 @@
+EDGE_<<<NOTE _TAGS: extreme_length
+
+PRE-PROCEDURE DIAGNOSIS
+Left upper lobe pulmonary nodule with mediastinal adenopathy; need for diagnosis and staging.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post computer-assisted navigational bronchoscopy (Galaxy platform), radial EBUS, fluoroscopy, cone-beam CT confirmation, transbronchial sampling, BAL, and linear EBUS staging.
+
+PROCEDURES PERFORMED
+
+1. Flexible bronchoscopy with complete airway inspection
+2. Computer-assisted navigational bronchoscopy to LUL peripheral target
+3. Radial EBUS confirmation
+4. Cone-beam CT spin with confirmation of tool-in-lesion
+5. Transbronchial needle aspiration, forceps biopsy, transbronchial biopsy, and cryobiopsy of target lesion
+6. BAL, lingula
+7. Linear EBUS-TBNA of stations 4L, 7, and 11L
+
+ANESTHESIA
+General anesthesia via endotracheal tube.
+
+INDICATION
+Enlarging spiculated LUL lesion with FDG-avid left hilar and mediastinal nodes.
+
+FINDINGS
+Airways were normal to the segmental level except for mild anthracotic change in the left upper lobe. The peripheral target was reached via an apicoposterior route based on pre-procedure planning. Radial EBUS gave an eccentric but reproducible signal. Cone-beam CT demonstrated the biopsy tool within the lesion after minor catheter adjustment. No endobronchial tumor identified. Nodal stations 4L and 11L were enlarged; station 7 mildly enlarged.
+
+PROCEDURE IN DETAIL
+After induction and timeout, flexible bronchoscopy was performed with complete airway inspection. The navigational platform was registered and advanced to the LUL target. Assisted navigation was used to align with the lesion. Radial EBUS probe was inserted through the working channel and confirmed the lesion. A cone-beam CT spin was then obtained, showing near-central tool position, after which sampling proceeded. TBNA was performed x4 passes, forceps biopsy x5, fluoroscopic transbronchial biopsy x4, and cryobiopsy x2. Minor bleeding after one cryobiopsy specimen was controlled with wedging, suction, and iced saline. BAL of the lingula was then performed with 120 mL instilled and 45 mL returned. The linear EBUS bronchoscope was introduced and systematic nodal staging performed in the sequence 11L, 4L, 7. Station 11L underwent 4 passes, station 4L 5 passes, and station 7 3 passes. ROSE was present and showed diagnostic lesional material from the peripheral target and adequate lymphoid tissue from the nodes.
+
+SPECIMENS
+LUL lesion TBNA
+LUL lesion forceps biopsies
+LUL lesion TBBx
+LUL lesion cryobiopsies
+Lingula BAL
+EBUS-TBNA 11L x4
+EBUS-TBNA 4L x5
+EBUS-TBNA 7 x3
+
+COMPLICATIONS
+Minor endobronchial bleeding resolved during the <<<NOTE . No immediate pneumothorax or hemodynamic instability.
+
+IMPRESSION
+Successful combined diagnostic and staging bronchoscopy using navigational and EBUS modalities.
+
+PLAN
+Portable chest radiograph in PACU. Follow pathology, cytology, and microbiology. Telephone discussion of results when available.
+
+<<<END NOTE>>>

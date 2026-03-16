@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, malformed_codes
+PRE DIAGNOSIS: R91.1 LLL nodule
+POST DIAGNOSIS: Same
+
+PROCEDURE:
+Bronchoscopic RFA ablation via navigation + radial EBUS + CBCT
+Codes: 32998—RFA? (em dash), 31627 (nav), 31654 (radial)
+
+ANESTHESIA: General
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 66-year-old male. Navigation successful. Radial EBUS concentric. CBCT confirmed. RFA performed with overlapping zones. Copy/paste artifact: “year old-year-old” appears once in body. Final bronchoscopy clear.
+
+SPECIMENS: None
+PLAN: CXR; CT chest 6 weeks.

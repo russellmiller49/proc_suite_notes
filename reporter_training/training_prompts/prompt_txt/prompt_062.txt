@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:123
+# id: ip_procedure_prompts_batch3:62
+
+Combined diagnostic and ablation session for RLL 1.6 cm presumed metastasis. Robotic bronchoscopy achieved concentric radial view, TBNA and forceps biopsies confirmed lesional sampling on ROSE, then microwave ablation completed in same setting with CBCT confirmation. No immediate complications.

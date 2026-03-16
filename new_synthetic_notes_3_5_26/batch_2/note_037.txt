@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+Indication: RUL nodule.
+Consent: Verbal consent obtained.
+Technique: Robotic Navigational Bronchoscopy.
+Findings: Patient was under local anesthesia. The robotic scope (requires GA) was deployed through the LMA. We navigated to the RUL anterior segment. Mobile C-Arm Fluoroscopy (76000 TC) utilized. Biopsy forceps used to obtain 5 samples.
+Specimens: RUL biopsies.
+Plan: Patient extubated. Wait, patient was sedated with local only. Discharged to home.

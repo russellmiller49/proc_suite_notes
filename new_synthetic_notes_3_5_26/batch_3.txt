@@ -1,0 +1,2048 @@
+<<<NOTE 001>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+IMPRESSION / PLAN
+1. Hilar adenopathy with 2.1 cm hypoechoic station 11R node, EBUS-TBNA performed; results pending.
+2. Mediastinal node station 4R sampled x3 passes; station 7 sampled x2 passes.
+3. Await rapid on-site cytology correlation and formal pathology; if malignant, proceed to oncology referral.
+4. Continue supplemental O2 as needed; follow up in 2 weeks or upon path return.
+
+OPERATIVE NOTE — ENDOBRONCHIAL ULTRASOUND WITH TBNA
+Date: [REDACTED]
+Physician: [NAME:REDACTED]
+Patient: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]
+Age/Sex: 67-year-old male
+
+PRE-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy, unspecified (R59.9); Right hilar mass, indeterminate (R91.8)
+
+POST-PROCEDURE DIAGNOSIS: Same, pending pathology
+
+PROCEDURES PERFORMED:
+• Flexible bronchoscopy with endobronchial ultrasound-guided TBNA (CPT 31652)
+• Rapid on-site cytologic evaluation
+
+ANESTHESIA: Moderate sedation
+  Midazolam 2 mg IV @ 09:14
+  Fentanyl 75 mcg IV @ 09:16
+  Additional fentanyl 25 mcg IV @ 09:34
+  Total procedure time under sedation: 38 minutes
+
+MONITORING: Continuous pulse oximetry, ETCO2, cardiac telemetry, noninvasive BP q5 minutes
+
+INSTRUMENT: Olympus BF-UC180F linear EBUS bronchoscope; Vizishot 2 21-gauge TBNA needles
+
+PROCEDURE IN DETAIL:
+Informed consent obtained and documented. Patient positioned supine, supplemental O2 via nasal cannula maintained SpO2 >94% throughout. Topical 4% lidocaine applied to oropharynx; additional 2 mL 1% lidocaine instilled transorally at cords. EBUS bronchoscope passed transorally without resistance. Vocal cords normal. Tracheal mucosa without lesion. Carina sharp and midline.
+
+Systematic survey performed in sequence:
+  Station 4R: 1.4 cm short axis, hypoechoic with heterogeneous internal echo; 3 passes performed, each yielding visible white core material. ROSE reviewed by cytotechnologist — atypical cells noted.
+  Station 7: 0.9 cm, homogeneous; 2 passes, adequate material.
+  Station 11R: 2.1 cm, hypoechoic, smooth border, absence of central hilar vessel sign; 4 passes. ROSE: suspicious for malignant cells. Doppler confirmed avoidance of intervening vasculature at all stations.
+
+Right and left mainstem bronchi inspected; mucosa unremarkable. B3 subsegmental airways patent. No endobronchial lesion identified.
+
+Scope withdrawn atraumatically. Patient tolerated well.
+
+SPECIMENS:
+  Label A — Station 4R TBNA (x3 passes): cytology + cell block
+  Label B — Station 7 TBNA (x2 passes): cytology
+  Label C — Station 11R TBNA (x4 passes): cytology + cell block + molecular send-out pending path
+
+COMPLICATIONS: None. Estimated blood loss: minimal (<1 mL).
+<<<END NOTE 001>>>
+
+<<<NOTE 002>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+PROCEDURE NOTE — FLEXIBLE BRONCHOSCOPY
+[PATIENT]  Age/Sex: 54F  Date: [REDACTED]
+
+Indication: Hemoptysis, recurrent; evaluate for endobronchial source.
+Procedure: Flexible bronchoscopy (CPT 31622).
+Findings: Active blood-tinged secretions in right lower lobe (B7/B8 region). No discrete endobronchial mass. Mucosa erythematous in RLL basal segments. Bilateral airways otherwise unremarkable. BAL collected from RLL for culture/cytology.
+Impression: RLL mucosal erythema with hemoptysis; etiology uncertain. BAL sent. CT chest with contrast ordered. Follow-up in 1 week.
+Complications: None.
+<<<END NOTE 002>>>
+
+<<<NOTE 003>>>
+EDGE_CASE_TAGS: table_with_tabs, ambiguous_laterality
+
+INTERVENTIONAL PULMONOLOGY PROCEDURE NOTE
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE OF PROCEDURE: [REDACTED]
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD
+FELLOW PRESENT: [NAME:REDACTED], MD (2nd year PCCM)
+PATIENT: [PATIENT]     MRN: [MRN:REDACTED]
+AGE/SEX: 71-year-old male
+
+PRE-PROCEDURE DIAGNOSIS: Left upper lobe pulmonary nodule, 2.8 cm (R91.1); mediastinal staging required
+
+POST-PROCEDURE DIAGNOSIS: Pending pathology and cytology results
+
+PROCEDURE(S):
+  31627  — Navigational bronchoscopy (electromagnetic/robotic guidance)
+  31623  — Brushings
+  31624  — BAL
+  36000  — IV access (performed separately)
+
+ANESTHESIA: General anesthesia; endotracheal intubation by anesthesia team. TIVA protocol.
+
+INSTRUMENTS: Ion Robotic Bronchoscopy System (Intuitive Surgical); radial EBUS probe (1.4 mm, 20 MHz) via working channel; fluoroscopy C-arm available.
+
+PROCEDURE IN DETAIL:
+After induction of general anesthesia and placement of 8.5 Fr ETT, the Ion robotic bronchoscope was introduced transorally. White-light inspection confirmed normal bilateral vocal cord motion [note: left cord initially reported as reduced motion — confirmed normal on repeat pass; documentation corrected]. Trachea midline; carina sharp.
+
+Robotic navigation plan loaded from preoperative CT chest (performed [REDACTED], nodule coordinates registered). Catheter navigated to right [sic] upper lobe target — operator note: target confirmed LEFT upper lobe, apical-posterior segment (LB1+2). Shape-sensing confirmation of catheter position achieved. Radial EBUS probe deployed through extended working channel (EWC): concentric ring pattern identified around target lesion, confirming probe within/adjacent to nodule. Fluoroscopic spot image confirmed position.
+
+Samples obtained:
+  Four transbronchial biopsies (cryoprobe, 1.1 mm, 3-second freeze cycles x4)
+  Bronchial brushings x2 passes
+  BAL: 60 mL instilled, 38 mL returned, from LUL (B1+2)
+
+CT-on-rails not available at this facility; C-arm fluoroscopy used for orthogonal confirmation.
+
+Nodule characteristics on radial EBUS:
+
+	Target	Size (CT)	rEBUS signal	Passes
+	LUL apical-posterior	2.8 cm	Concentric	4 cryobx + 2 brush
+	LUL anterior (incidental small GGO, 6mm)	6 mm	Not targeted	—
+
+Post-procedure chest X-ray ordered (portable, post-anesthesia recovery).
+
+SPECIMENS:
+  A1 — LUL cryobiopsies x4: formalin-fixed, routine H&E + IHC panel per pathology protocol
+  A2 — LUL brushings: ThinPrep cytology
+  A3 — LUL BAL: cell differential, AFB/fungal cultures, cytology
+
+COMPLICATIONS: None observed intraoperatively. Monitoring for pneumothorax post-procedure.
+
+IMPRESSION/PLAN:
+1. Technically successful robotic navigational bronchoscopy with rEBUS confirmation of LUL 2.8 cm target.
+2. Cryobiopsy x4 obtained; diagnostic yield anticipated high given concentric rEBUS sign.
+3. Post-procedure CXR in recovery; if pneumothorax excluded, discharge per protocol.
+4. Results to multidisciplinary lung nodule conference.
+<<<END NOTE 003>>>
+
+<<<NOTE 004>>>
+EDGE_CASE_TAGS: conflicting_details, noisy_units
+
+OPERATIVE REPORT
+PATIENT: [PATIENT]   DOB: [DOB:REDACTED]   MRN: [MRN:REDACTED]
+DATE: [REDACTED]
+SURGEON/BRONCHOSCOPIST: [NAME:REDACTED], MD, FCCP
+
+PREOPERATIVE DIAGNOSIS: Malignant central airway obstruction, right mainstem bronchus; squamous cell carcinoma (C34.11)
+POSTOPERATIVE DIAGNOSIS: Same; post-debulking airway patency restored
+
+PROCEDURES:
+1. Rigid bronchoscopy
+2. Mechanical debulking of endobronchial tumor
+3. Electrocautery/snare tumor ablation
+4. Argon plasma coagulation (APC)
+5. Balloon bronchoplasty, 14 mm
+CPT: 31641 (therapeutic bronchoscopy, tumor)
+
+ANESTHESIA: General anesthesia [note: moderate sedation listed on nursing intake form — confirmed GA by anesthesia record; intake form error]. Jet ventilation via rigid bronchoscope. Anesthesiologist: [NAME:REDACTED], MD.
+
+PROCEDURE NOTE:
+Patient brought to the bronchoscopy suite in supine position. Induction of GA and muscle relaxation achieved. Rigid bronchoscope (Karl Storz 12.5 mm) introduced transorally; ETT not placed (jet ventilation used). Supraglottic structures normal. Tracheal lumen patent, approximately 85% of predicted cross-section. At the level of the right mainstem bronchus (RMB), a large polypoid friable tumor was identified occupying approximately 70% of the lumen, extending to the right upper lobe (RUL) bronchus takeoff. Left mainstem and bilateral upper and lower lobe bronchi patent without lesion.
+
+Debulking initiated using rigid bronchoscope tip (core-out technique). Large tumor fragments extracted using optical forceps. Electrocautery snare applied to tumor stalk; power setting 40 W cut/coag. APC applied to bleeding mucosa at 2 L/min flow, 45 W; hemostasis achieved. Post-debulking, 14 mm CRE balloon inflated to 4 atm for 60 seconds at RMB; lumen re-expanded to approximately 80% predicted cross-section. Residual distal disease noted at RUL orifice; partial debulking only — discussed with patient/family pre-procedure.
+
+Flexible bronchoscope (Olympus BF-H190) passed through rigid barrel for distal inspection: RUL superior segment patent, residual tumor fronds at orifice; RML and RLL patent. Secretions cleared with suction.
+
+Estimated blood loss: 25–30 mL (suctioned and irrigated specimen). Epinephrine 1:20,000 solution 4m mg [sic] topically applied to bleeding sites — intended 4 mL of 1:20,000 solution; documented as administered by nursing.
+
+SPECIMENS: Tumor fragments (multiple) from RMB debulking — permanent pathology for margins and molecular/IHC. Previously known SCC by prior biopsy.
+
+COMPLICATIONS: Moderate hemorrhage, controlled intraoperatively with epinephrine and APC. No pneumothorax. No airway fire.
+
+IMPRESSION/PLAN:
+1. Successful debulking of RMB obstructing SCC; lumen restored to ~80%.
+2. Residual RUL orifice disease — palliative; oncology to coordinate radiation planning.
+3. Repeat bronchoscopy in 4–6 weeks; consider endobronchial stenting if restenosis.
+4. ICU monitoring overnight.
+5. Continue oncologic therapy per primary team.
+<<<END NOTE 004>>>
+
+<<<NOTE 005>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+
+BRONCHOSCOPY PROCEDURE NOTE
+DATE: [REDACTED]    PROVIDER: [NAME:REDACTED]
+PATIENT: [PATIENT]   AGE/SEX: 48-year-old 48-year-old female [sic]   MRN: [MRN:REDACTED]
+
+Indication: Evaluation of recurrent right pleural effusion; pre-thoracoscopy airway assessment; known metastatic breast carcinoma.
+
+Consent: Written informed consent obtained and documented in the electronic health record.
+
+Technique: Flexible bronchoscopy performed with the patient in the semi-recumbent position under moderate sedation (midazolam 1 mg + fentanyl 50 mcg IV). Supplemental O2 via nasal cannula; SpO2 maintained >93%. Topical lidocaine 4% spray to oropharynx; 2 mL 2% lidocaine instilled at vocal cords via working channel.
+
+Findings:
+- Vocal cords: symmetric, normal abduction/adduction
+- Trachea: patent, midline; no extrinsic compression
+- Carina: sharp, midline; no widening suggesting subcarinal adenopathy
+- Right mainstem bronchus: mild erythema of mucosa; no endobronchial lesion; patientpatient [sic] airways down to subsegmental level
+- Left mainstem: unremarkable
+- RLL posterior basal segment (B10): small whitish mucosal irregularity, <3 mm; endobronchial biopsy x2 performed
+- No active bleeding post-biopsy
+
+Specimens:
+  Specimen 1: RLL B10 endobronchial biopsy (x2 forceps passes) — formalin, permanent H&E + ER/PR/HER2 IHC
+  Specimen 2: BAL RLL (60 mL saline, 32 mL return) — cytology, culture
+
+Plan:
+1. Pathology result of RLL biopsy; if positive for endobronchial met, will change therapeutic approach.
+2. Proceed with medical thoracoscopy for pleural effusion evaluation as planned (next available OR date).
+3. Follow-up per IP clinic protocol.
+Complications: None. Estimated blood loss: <1 mL.
+<<<END NOTE 005>>>
+
+<<<NOTE 006>>>
+EDGE_CASE_TAGS: missing_section, extreme_length
+
+INTERVENTIONAL PULMONOLOGY OPERATIVE NOTE
+PROCEDURE DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD
+INSTITUTION: [NAME:REDACTED]
+PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    AGE/SEX: 63M
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Right-sided exudative pleural effusion, recurrent (J91.8)
+  2. Suspected malignant pleural mesothelioma vs metastatic disease, R/O primary
+
+POST-PROCEDURE DIAGNOSIS:
+  1. Right-sided complex exudative effusion with loculation (J90)
+  2. Pleural biopsy specimens obtained; pathology pending
+  3. Talc slurry pleurodesis performed
+
+PROCEDURES:
+  1. Diagnostic thoracentesis with ultrasound guidance (CPT 32555)
+  2. Medical thoracoscopy (pleuroscopy) under moderate sedation (CPT 32601)
+  3. Pleural biopsy x6 (CPT 32609)
+  4. Talc slurry pleurodesis (CPT 32560)
+  5. Small-bore chest tube placement, 14 Fr (CPT 32557)
+
+ANESTHESIA: Moderate sedation. Midazolam 3 mg IV; fentanyl 150 mcg IV in divided doses; additional midazolam 1 mg at 30 min. Local anesthetic: lidocaine 1% with epinephrine 1:100,000, approximately 15 mL total infiltrated at port sites.
+
+POSITIONING AND SETUP:
+Patient positioned in left lateral decubitus, right side up. Ultrasound (Sonosite Edge II, 6–13 MHz linear probe) performed pre-procedurally: confirmed large right-sided effusion, estimated volume 850–1000 mL, with internal echogenicity and fibrin stranding noted in the dependent portion. No significant lung sliding in the right base. Entry site marked in the 6th intercostal space, mid-axillary line (MAL). Skin prepared and draped in sterile fashion. Local anesthetic infiltrated in layered fashion to pleura (confirmed by aspiration of pleural fluid prior to incision).
+
+THORACENTESIS:
+Initial diagnostic aspirate obtained: 150 mL of amber-yellow, turbid fluid. Sent for: LDH, protein, glucose, pH, cytology, AFB/fungal/bacterial culture, CEA, mesothelin. Pleural/serum LDH ratio and protein ratio to follow for Light's criteria categorization.
+
+THORACOSCOPY:
+Following initial aspirate and partial drainage, a 1.5 cm skin incision made with 15-blade scalpel at the marked site. Blunt dissection through intercostal musculature to pleural space. A 9 mm semi-rigid thoracoscope (Olympus LTF-160) inserted after digital confirmation of pleural space entry. Remaining effusion drained under direct visualization.
+
+Pleural survey:
+  - Visceral pleura: diffuse nodular thickening with multiple white plaques, 2–8 mm, studding the right lower and mid parietal pleura; visceral pleura irregular with fibrin deposits.
+  - Parietal pleura: nodular deposits along posterior chest wall and diaphragm; surface appears grossly involved.
+  - Diaphragmatic pleura: papillary projections, 3–5 mm; highly suspicious for malignant involvement.
+  - No clear mass lesion; pattern consistent with diffuse pleural carcinomatosis vs mesothelioma.
+  - Loculation present in the posterior inferior compartment; blunt breakdown of loculation performed under direct thoracoscopic visualization.
+
+Biopsies: Six biopsies obtained using large-cup thoracoscopic forceps (3 from parietal plaques, 2 from diaphragmatic projections, 1 from visceral pleural nodule). Adequate tissue volume confirmed by visual inspection.
+
+PLEURODESIS:
+Following biopsy, talc slurry prepared: 4 g sterile-graded talc (Novatech) mixed with 100 mL 0.9% NaCl; slurry instilled via thoracoscope under direct vision. Distribution confirmed visually throughout accessible pleural space. Port site temporarily sealed; patient repositioned from side to side x4 to facilitate distribution.
+
+CHEST TUBE:
+14 Fr small-bore pleural catheter (Pleuracan) placed through the thoracoscope port under direct vision and secured with 0-silk suture and adhesive dressing. Connected to water-seal drainage at -20 cm H2O.
+
+POST-PROCEDURE MANAGEMENT:
+Patient transferred to recovery. CXR obtained: moderate residual right-sided effusion, tube in satisfactory position. SpO2 98% on 2 L NC. No pneumothorax on contralateral side.
+
+SPECIMENS:
+  Tube 1: Pleural fluid (150 mL) — chemistry, cytology, cultures, biomarkers
+  Jar A: Parietal pleural biopsy x3 — formalin, H&E, IHC panel (CK5/6, WT-1, calretinin, D2-40, TTF-1, Napsin A, CEA)
+  Jar B: Diaphragmatic biopsy x2 — formalin
+  Jar C: Visceral pleural biopsy x1 — formalin + additional tissue in saline for potential flow cytometry
+
+COMPLICATIONS: None significant. Mild vasovagal response at start of procedure; resolved with brief Trendelenburg position and fluid bolus (250 mL NS). Estimated blood loss: <5 mL.
+
+IMPRESSION/PLAN:
+1. Diffuse pleural nodularity highly concerning for malignant pleural disease; mesothelioma vs pleural carcinomatosis.
+2. Six biopsies obtained; expect adequate tissue for full IHC characterization and potential molecular analysis.
+3. Talc pleurodesis performed; tube to remain until drainage <150 mL/24h, then clamp trial per nursing protocol.
+4. Results to multidisciplinary thoracic oncology tumor board.
+5. Oncology and thoracic surgery co-management; if mesothelioma confirmed, discuss HIPEC/P/D vs systemic therapy.
+6. Follow-up IP clinic 2 weeks post-discharge.
+<<<END NOTE 006>>>
+
+<<<NOTE 007>>>
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+
+PLEURAL PROCEDURE CHECKLIST — ULTRASOUND-GUIDED THORACENTESIS
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 77F
+
+INDICATION: Dyspnea; right-sided transudative effusion, CHF exacerbation (J81.0)
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained (written)
+  ☑ Time-out completed
+  ☑ Coagulation reviewed: INR 1.1, Plt 188k — acceptable
+  ☑ Ultrasound survey completed
+  ☐ Sedation required — NOT required; local anesthetic only
+  ☑ Portable CXR baseline reviewed
+
+ULTRASOUND FINDINGS:
+  Probe: Sonosite S-series, phased array 1–5 MHz
+  Right side: Large anechoic effusion; estimated depth 5.2 cm at marked site; lung sliding absent in right base; no internal echogenicity (transudate morphology); diaphragm well-visualized
+  Left side: Small trace effusion; not tapped
+
+ENTRY POINT: 0‌ Right posterior, 7th ICS, posterior axillary line 1‌ [unicode artifact retained for stress testing]
+Needle: 17-gauge Turkel safety thoracentesis kit
+
+PROCEDURE:
+Local anesthetic 1% lidocaine 8 mL infiltrated. Thoracentesis needle advanced under direct real-time ultrasound guidance; pleural fluid confirmed by aspiration. Catheter advanced; 1,050 mL amber clear fluid drained without difficulty. Lung sliding returned at RLL on ultrasound at procedure conclusion. No pneumothorax on post-procedure assessment. Patient reported mild pleuritic discomfort during drainage; drainage paused briefly at 800 mL — resumed without complication.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Post-procedure US: no pneumothorax, re-expansion confirmed
+  ☑ Specimens sent to lab
+  ☑ Patient observed 30 min post-procedure
+  ☑ Discharge instructions provided
+
+SPECIMENS: Right pleural fluid 1,050 mL — LDH, protein, glucose, cytology, culture
+
+COMPLICATIONS: None. Re-expansion pulmonary edema prophylaxis: drainage capped at 1,500 mL; limit not reached.
+<<<END NOTE 007>>>
+
+<<<NOTE 008>>>
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+
+PROCEDURE NOTE
+PATIENT: [PATIENT]  MRN: [MRN:REDACTED]  AGE/SEX: 59 year old male
+DATE: [REDACTED]  ATTENDING: [NAME:REDACTED]
+
+PRE-OP DIAGNOSIS: Post-intubation tracheal stenosis, subglottic, moderate-severe (J95.5)
+POST-OP DIAGNOSIS: Same; dilation performed, improved lumen
+
+PROCEDURES / CPT:
+31630-22   Balloon bronchoplasty, trachea (increased complexity modifier — concurrent laser)
+31641      Bronchoscopy w/ therapeutic intervention (laser)
+  [Note: code formatting dispute — billing queries 31630:22 vs 31630-22; see modifier addendum]
+
+ANESTHESIA: General anesthesia, TIVA, LMA #4
+
+INSTRUMENTS:
+- Olympus BF-P180 thin bronchoscope (4.9 mm OD) for initial assessment through LMA
+- Nd:YAG laser fiber, 1064 nm, 20 W, 0.5 sec pulses
+- CRE balloon, 12–14–16 mm progressive inflation
+- Karl Storz rigid bronchoscope 10 mm for final dilation (passed after LMA removal)
+
+CLINICAL SUMMARY:
+59-year-old male with history of prolonged ICU intubation (21 days) for ARDS 8 months prior; progressive exertional dyspnea and stridor. CT trachea: circumferential subglottic stenosis 1.5 cm length, estimated 35–40% luminal patency. Pulmonary function: flow-volume loop with flattened inspiratory and expiratory limbs.
+
+PROCEDURE:
+LMA placed; flexible bronchoscope introduced. Subglottic web-like circumferential stenosis visualized 2 cm below cords; lumen estimated 4–5 mm diameter. No dynamic collapse. Nd:YAG laser applied radially at 12, 3, 6, and 9 o'clock positions along the stenotic segment (20 W, contact mode, ~40 pulses total); tissue ablation and incision of fibrous web achieved. Balloon (12 mm, then 14 mm) serially inflated to 6 atm, held 60 seconds each. LMA removed; rigid bronchoscope 10 mm inserted transorally — used as final dilator, pushed through stenotic segment under direct vision. Post-dilation lumen estimated 10–11 mm. Mucosal bleeding controlled with cold saline irrigation.
+
+FINDINGS: Post-procedure airway patent, 10–11 mm estimated diameter. Grade I mucosal laceration at 6 o'clock — expected, acceptable. No cartilaginous injury. Distal airways unremarkable.
+
+PLAN:
+1. Repeat bronchoscopy 4–6 weeks; consider intralesional steroid injection at next session.
+2. Reflux precautions (PPI). Voice therapy referral.
+3. Pulmonary function testing 6 weeks post-procedure.
+4. Long-term surveillance — risk of restenosis high with this subtype.
+
+COMPLICATIONS: Grade I mucosal laceration (expected, hemostasis achieved). EBL: <5 mL.
+<<<END NOTE 008>>>
+
+<<<NOTE 009>>>
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+
+BRONCHOSCOPY / LINEAR EBUS NOTE
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+DATE: [REDACTED]
+
+POST-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy (R59.9); endobronchial lesion right upper lobe bronchus; biopsy results pending.
+
+PLAN (stated early per template):
+- Await pathology and cytology results (5–7 business days)
+- If adenocarcinoma confirmed: molecular reflex testing (EGFR, ALK, ROS1, KRAS G12C, MET, NTRK, PD-L1) already ordered as reflex on specimen
+- Oncology referral placed
+- Repeat CT chest in 2 months if non-diagnostic
+
+PRE-PROCEDURE DIAGNOSIS: New 3.2 cm RUL mass with mediastinal adenopathy; rule out malignancy
+
+PROCEDURES: Flexible bronchoscopy with EBUS-TBNA; endobronchial biopsy
+
+ANESTHESIA: Moderate sedation (midazolam 3 mg, fentanyl 100 mcg)
+
+INSTRUMENTS: Olympus BF-UC180F EBUS scope; Olympus BF-H190 therapeutic scope (switched for endobronchial biopsy)
+
+CLINICAL BACKGROUND: 55-year-old 55-year-old [sic] female, 35 pack-year smoking history, presenting with 3.2 cm spiculated RUL mass on CT, PET-avid (SUVmax 12.4); PET also demonstrated FDG uptake in stations 4R and 7 (SUVmax 3.1 and 2.8 respectively).
+
+PROCEDURE IN DETAIL:
+EBUS introduced transorally. Survey of mediastinum:
+  Station 2R: Not clearly visualized.
+  Station 4R: 1.6 cm node, heterogeneous, TBNA x3 passes. ROSE: malignant cells, consistent with adenocarcinoma.
+  Station 7: 1.1 cm node, homogeneous; TBNA x2 passes. ROSE: atypical cells.
+  Station 10R: 0.8 cm, TBNA x2 passes. ROSE: lymphocytes only.
+
+Scope exchanged for therapeutic bronchoscope. RUL anterior segment (B3): polypoid 8 mm endobronchial lesion visualized; biopsy forceps x4 passes; moderate ooze, controlled with 1:10,000 epinephrine 2 mL topical instillation. Brushings x2.
+
+SPECIMENS:
+  A: Station 4R — 3 passes, cytology + cell block
+  B: Station 7 — 2 passes, cytology
+  C: Station 10R — 2 passes, cytology
+  D: RUL B3 endobronchial biopsy x4 — formalin
+  E: RUL B3 brushings x2 — ThinPrep
+
+COMPLICATIONS: Minor hemorrhage at endobronchial biopsy site; controlled with topical epinephrine. EBL: ~3 mL.
+<<<END NOTE 009>>>
+
+<<<NOTE 010>>>
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+OPERATIVE REPORT — AIRWAY STENT PLACEMENT
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 68M
+
+PRE-PROCEDURE DIAGNOSIS: Malignant tracheal stenosis; non-small cell lung cancer, right lung (C34.10); extrinsic airway compression
+
+POST-PROCEDURE DIAGNOSIS: Same; Y-stent placed successfully, airway patency restored
+
+PROCEDURES:
+  31631 — Bronchoscopy, rigid, with stent placement
+  CPT 31641 — Therapeutic bronchoscopy (APC, pre-stent debulking)
+
+ANESTHESIA: General anesthesia; jet ventilation
+
+PROCEDURE IN DETAIL:
+68-year-old male with known NSCLC (previously treated with chemoradiation), now with progressive dyspnea and stridor. CT: distal tracheal narrowing 60%, carina involvement with bilateral mainstem compression. Discussed in multidisciplinary conference; palliation with Y-stent recommended.
+
+Patient intubated; switched to jet ventilation via Karl Storz 12.5 mm rigid bronchoscope. Tracheal lumen at carina 40% of expected (critical stenosis). Tumor fronds at carina debrided with rigid forceps and APC (45 W). Mucosal hemostasis confirmed.
+
+Dumon Y-stent sizing:
+	Component	Inner Diameter	Length	Position
+	Tracheal limb	18 mm	40 mm	Distal trachea
+	Right bronchial limb	14 mm	25 mm	RMB
+	Left bronchial limb	12 mm	20 mm	LMB
+
+Stent deployed via stent pusher through rigid barrel; repositioned once for optimal carina coverage. Post-deployment flexible bronchoscopy through rigid barrel confirmed:
+  - Tracheal limb: well-seated, mucosa visible proximal to stent, distal opening at carina
+  - Right limb: seated in RMB, RUL orifice visible and patent
+  - Left limb: seated in LMB, LUL and LLL orifices patent
+  Immediate post-stent airway patency: >90%
+
+COMPLICATIONS: None. EBL: <10 mL.
+
+PLAN:
+1. Humidified air/O2 to prevent mucus plugging; saline nebulization TID.
+2. Stent surveillance bronchoscopy in 6 weeks.
+3. Oncology follow-up for systemic therapy options.
+4. Patient and family counseled re: palliative intent.
+<<<END NOTE 010>>>
+
+<<<NOTE 011>>>
+EDGE_CASE_TAGS: inconsistent_formatting, noisy_units
+
+PROCEDURE NOTE: ENDOBRONCHIAL ULTRASOUND AND NAVIGATIONAL BRONCHOSCOPY — COMBINED CASE
+DATE: [REDACTED]
+ATTENDING PHYSICIAN: [NAME:REDACTED], MD
+ASSISTANT: [NAME:REDACTED], PA-C
+PATIENT: [PATIENT]   AGE/SEX: 66-year-old female   MRN: [MRN:REDACTED]
+
+INDICATION: 1.9 cm LLL nodule; PET positive (SUVmax 4.3); enlarged station 7 node (1.8 cm); biopsy both targets.
+
+PRE-PROCEDURE DIAGNOSIS: LLL pulmonary nodule and mediastinal adenopathy, indeterminate (R91.1, R59.9)
+POST-PROCEDURE DIAGNOSIS: Pending
+
+PROCEDURE LIST
+  • EBUS-TBNA, stations 7, 4L (CPT 31652)
+  • Navigational bronchoscopy, peripheral — computer-assisted (CPT 31627)
+  • Radial EBUS (CPT 31625 — unlisted add-on, or bronchoscopy w/ biopsy 31628)
+  • TBBX x4 via navigational catheter
+
+ANESTHESIA: General; LMA; TIVA propofol infusion; fentanyl bolus 100 mcg, paralytic for LMA placement.
+
+INSTRUMENTS: Olympus BF-UC180F (EBUS); Medtronic superdimension 7th-gen ENB system; radial EBUS probe (2.0 mm, 20 MHz); Olympus BF-P290 used for peripheral navigation.
+
+PROCEDURE NARRATIVE:
+
+EBUS PHASE:
+Linear EBUS scope introduced. Mediastinal survey:
+  - Station 4L: 1.2 cm, hypoechoic — 3 passes; ROSE pending
+  - Station 7: 1.8 cm, heterogeneous with central necrosis pattern — 4 passes; ROSE: malignant (adenocarcinoma morphology)
+  - Station 4R: surveyed, <0.5 cm, not sampled
+
+NAVIGATIONAL PHASE (scope exchanged to thin bronchoscope + ENB):
+ENB route planned to LLL superior segment (B6). Extended working catheter advanced; fluoroscopic landmark verification at LLL target. Shape-confirmed position achieved per system readout. Radial EBUS: partial (eccentric) ring around 8 mm halo — consistent with lesion at/near probe. Four transbronchial biopsies obtained (1.8 mm forceps, fluoroscopy-guided). BAL 60 mL instilled (30 mL returned) from LLL B6.
+
+Medication log:
+  Midaz [sic — should be propofol TIVA per above] 2mg IV pre-induction
+  Fentanyl 10 0 mcg [noisy unit — 100 mcg intended]
+  Propofol infusion 80–120 mcg/kg/min
+
+SPECIMENS:
+Specimen Label | Site | Technique | Container
+4L node (3p) | Station 4L | EBUS-TBNA | Cytology + cell block
+7 node (4p) | Station 7 | EBUS-TBNA | Cytology + cell block + molecular hold
+LLL nod Bx | LLL B6 | TBBX x4 | Formalin
+LLL BAL | LLL B6 | BAL 60mL | Cytology + culture
+
+COMPLICATIONS: None. EBL: <2 mL. No pneumothorax; post-procedure CXR ordered.
+
+ASSESSMENT/PLAN:
+Station 7 ROSE positive for malignancy (adenocarcinoma); this is sufficient for staging if confirmed on formal pathology.
+LLL biopsy results pending; if discordant with station 7, will repeat vs proceed to CT-guided biopsy.
+Molecular reflex testing ordered per lung cancer protocol (PD-L1, NGS panel).
+Oncology referral placed.
+<<<END NOTE 011>>>
+
+<<<NOTE 012>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+Bronchoscopy Note — [PATIENT], [DOB:REDACTED], MRN [MRN:REDACTED]
+Age/Sex: 39M. Date: [REDACTED].
+
+Indication: New tracheostomy evaluation, post-tracheostomy tube change via mature tract (day 18 post-surgical trach). Hemoptysis x1 episode yesterday.
+Procedure: Flexible bronchoscopy through 8.0 Shiley tracheostomy tube.
+Findings: Trach tube well-positioned; tip 3 cm above carina. Stomal site: granulation tissue, <3 mm, at posterior wall of stoma — no active bleeding. Tracheal mucosa: mild erythema circumferential at tip level; no subglottic injury. Bilateral mainstem bronchi unremarkable. No active bleeding source.
+Plan: Granulation tissue treated with silver nitrate stick. Humidity therapy continued. Repeat exam in 1 week if bleeding recurs. Speech-language pathology Passy Muir valve trial when ready per trach weaning protocol.
+Complications: None.
+<<<END NOTE 012>>>
+
+<<<NOTE 013>>>
+EDGE_CASE_TAGS: reordered_sections, ambiguous_laterality, malformed_codes
+
+INTERVENTIONAL PULMONOLOGY
+PROCEDURE NOTE — NAVIGATIONAL BRONCHOSCOPY
+FACILITY: [NAME:REDACTED] Cancer Center
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED]
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 72M
+
+PLAN (recorded at start of note per department protocol):
+1. Results to lung cancer MDC.
+2. Molecular reflex if malignant confirmed.
+3. Robotic platform procedure — if non-diagnostic, CT-guided FNA as next step.
+
+PRE-PROCEDURE DIAGNOSIS: Left lower lobe 2.4 cm mass, PET-avid (SUVmax 9.1) (R91.1 / C34.12 — provisional)
+POST-PROCEDURE DIAGNOSIS: Pending — LLL mass, biopsied
+
+PROCEDURES (billing codes):
+  31627     Bronchoscopy, navigational
+  31625     Bronchoscopy w/ biopsy (additional lobe)
+  31623-59  Brushings [modifier 59 — distinct procedural service; billing note: confirm 31623:59 vs 31623-59 format per payer]
+  99100     Anesthesia — patient age >70
+
+ANESTHESIA: GA; TIVA (propofol/remifentanil); size 7.0 ETT via direct laryngoscopy
+
+CLINICAL CONTEXT: 72-year-old male, 45 pack-year smoker, COPD GOLD 3. CT chest: 2.4 cm spiculated LLL mass; PET SUVmax 9.1; no hilar or mediastinal adenopathy. Pulmonary function: FEV1 52% predicted. Referred for bronchoscopic biopsy as surgical risk prohibitive.
+
+INSTRUMENTS: Ion Robotic Bronchoscopy System; 3.5 mm robotic catheter; 1.1 mm cryoprobe (Erbe); radial EBUS probe 20 MHz
+
+PROCEDURE IN DETAIL:
+ETT placed. Robotic bronchoscope introduced via ETT. Survey of bilateral airways: copious thick secretions cleared bilaterally (consistent with COPD). Bilateral lower lobe bronchi patent to subsegmental level. Robotic navigation plan loaded.
+
+Target: LLL (left lower lobe) — superior segment (B6), posterior inferior nodule coordinates registered from pre-op CT. Catheter navigated; shape-sensing confirmed position within 5 mm of target. Radial EBUS performed — halo sign identified (eccentric partial ring), lesion adjacent.
+
+Initial biopsy: bronchoscopic forceps biopsy x2 (marginal tissue, small fragments). Cryoprobe introduced: 3 freeze-thaw cycles (1.5 seconds each); substantial tissue core retrieved each time x3. Brushings x3. BAL LLL B6 (50 mL, 28 mL return).
+
+Note: Fluoroscopic confirmation used at LLL target — probe appeared in left [confirmed LLL, not right — ambiguity noted at real-time and corrected] lower lobe B6 on AP and lateral views.
+
+SPECIMENS:
+  A: LLL cryobiopsies x3 (cryoprobe, 1.5 sec cycles) — formalin
+  B: LLL forceps biopsy x2 — formalin
+  C: LLL brushings x3 — ThinPrep
+  D: LLL BAL (50 mL) — cytology, AFB, fungal Cx
+
+COMPLICATIONS: Mild hemorrhage post-cryobiopsy; resolved with cold saline irrigation and 1:20,000 epi 2 mL topical. No pneumothorax. EBL: ~5 mL.
+<<<END NOTE 013>>>
+
+<<<NOTE 014>>>
+EDGE_CASE_TAGS: inconsistent_formatting
+
+PROCEDURE NOTE
+PATIENT: [PATIENT]   AGE/SEX: 61F   MRN: [MRN:REDACTED]
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+DIAGNOSIS (pre): Mucus plugging with atelectasis, right lower lobe (J98.11); ventilator-dependent respiratory failure (J96.00)
+
+DIAGNOSIS (post): Same; mucus clearance achieved, atelectasis improved
+
+PROCEDURE: Flexible bronchoscopy, diagnostic and therapeutic (CPT 31622; 31623 — BAL/culture)
+
+INDICATION: Mechanically ventilated patient, ICU day 7; right lower lobe opacification on portable CXR; increasing ventilator pressures (peak 38, plateau 29 cm H2O); suspected mucus plugging.
+
+ANESTHESIA: No additional sedation beyond baseline ICU infusions (fentanyl + propofol). Paralytic held. PEEP adjusted to 8 cm H2O during procedure.
+
+TECHNIQUE:
+Elbow adapter placed on ETT (size 8.0). Flexible bronchoscope (Olympus BF-P290, 4.9 mm OD, 2.0 mm working channel) introduced via adapter. SpO2 maintained >88% (FiO2 1.0 during procedure). PEEP 8 cm H2O.
+
+Findings:
+    RIGHT — mucus plug visualized at RLL bronchus intermedius/RLL junction. Large tan-brown mucoid cast occupying 80% of lumen. Forceps used for piecemeal extraction of plug (3 passes). Saline lavage 20 mL x3 aliquots with suctioning. Post-clearance: lumen patent; B6, B7, B8 all patent.
+    LEFT — patent throughout; no mucus plug.
+
+BAL: 60 mL instilled into RLL, 25 mL return — sent for Gram stain, culture, sensitivity, fungal.
+BAL cellular differential ordered.
+
+Post-procedure: Ventilator peak pressure improved to 27 cm H2O. SpO2 94% on FiO2 0.6 (down from 1.0 pre-procedure, over 30 min).
+
+SPECIMENS: RLL BAL — micro, cytology
+
+COMPLICATIONS: Transient SpO2 drop to 84% during plug extraction (recovered immediately with FiO2 increase). No pneumothorax. EBL: None.
+
+PLAN:
+1. Increase mucolytic therapy (acetylcysteine via ETT q8h).
+2. Elevate HOB 30–45 degrees.
+3. Repeat CXR in 4 hours.
+4. Return bronchoscopy if re-plugging suspected.
+<<<END NOTE 014>>>
+
+<<<NOTE 015>>>
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+
+COMPLEX COMBINED PROCEDURE OPERATIVE REPORT
+ENDOBRONCHIAL ULTRASOUND / EUS-B / NAVIGATIONAL BRONCHOSCOPY — TRIPLE MODALITY STAGING AND BIOPSY
+PROCEDURE DATE: [REDACTED]
+ATTENDING SURGEON/BRONCHOSCOPIST: [NAME:REDACTED], MD, FCCP, DAABIP
+FELLOW: [NAME:REDACTED], MD (PCCM fellow, Year 2, direct supervision)
+PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    DOB: [DOB:REDACTED]    AGE/SEX: 58-year-old male
+INSTITUTION: [NAME:REDACTED] Medical Center
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Right upper lobe 3.8 cm mass, highly PET-avid (SUVmax 16.3) (R91.1)
+  2. Mediastinal adenopathy — stations 2R, 4R, 4L, 7 enlarged on CT/PET
+  3. Left adrenal incidentaloma, PET-avid (SUVmax 4.2) (E27.40)
+  4. Suspected stage IIIB NSCLC vs stage IV disease, restaging required
+
+POST-PROCEDURE DIAGNOSES:
+  1–3: Same; tissue obtained from all targets; pending pathology
+  4. If adrenal confirmed met: cM1b (stage IV); if N3 only: cIIIB
+
+CPT CODES:
+  31652 — EBUS-TBNA, one or two mediastinal and/or hilar lymph node stations
+  31653 — EBUS-TBNA, three or more stations
+  31627 — Navigational bronchoscopy
+  31628 — TBBX, each lobe (x1)
+  43232 — EUS-B with FNA (transesophageal, EBUS scope — biopsy of adrenal)
+
+ANESTHESIA: General anesthesia; LMA #5 for EBUS/ENB phases; TIVA (propofol 120 mcg/kg/min, remifentanil 0.1 mcg/kg/min). Anesthesiologist: [NAME:REDACTED], MD. Airway exchanged to 8.0 ETT for EUS-B transesophageal phase.
+
+MONITORING: Arterial line (radial, left). Standard ASA monitors. Total procedure time: 2 hours 14 minutes.
+
+INSTRUMENTS:
+  - Olympus BF-UC180F linear EBUS (for endobronchial stations + transesophageal)
+  - Medtronic SuperDimension ENB v7 for peripheral navigation
+  - Olympus BF-P290 thin bronchoscope (4.9 mm) for peripheral phase
+  - Radial EBUS probe 20 MHz, 2.0 mm
+  - Vizishot 2, 21-gauge TBNA needle
+  - 19-gauge EUS-FNA needle (transesophageal adrenal access)
+
+CLINICAL SUMMARY:
+58-year-old male, 40 pack-year smoking history, presenting with 3-month history of progressive cough, 15-pound weight loss, and hemoptysis. CT chest/abdomen/pelvis: 3.8 cm RUL mass with spiculated margins; enlarged mediastinal nodes (2R 1.8 cm, 4R 2.2 cm, 4L 1.1 cm, station 7 2.4 cm); 2.1 cm left adrenal mass (PET SUVmax 4.2). PET-CT: hypermetabolic primary RUL mass; mediastinal and left adrenal involvement. MRI brain negative for metastases. Case presented at multidisciplinary lung cancer conference; plan for triple-modality staging bronchoscopy.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — ENDOBRONCHIAL ULTRASOUND (EBUS-TBNA):
+EBUS scope introduced via LMA. White-light survey: trachea patent, carina mildly widened (consistent with subcarinal adenopathy). Right and left mainstem bronchi patent; no endobronchial lesion identified at this phase.
+
+Systematic EBUS-TBNA sampling (see table below):
+
+	Station	Short-axis (cm)	Echogenicity	Borders	Passes	ROSE
+	2R	1.8	Hypoechoic	Regular	3	Atypical/malignant
+	4R	2.2	Hypoechoic, hetero	Irregular	4	Malignant (adenoca morphology)
+	4L	1.1	Hypoechoic	Regular	3	Lymphocytes, atypical
+	7	2.4	Hypo, central necrosis	Irregular	4	Malignant
+	10R	0.7	Not sampled	—	0	—
+	11L	Not visualized	—	—	0	—
+
+Total TBNA passes: 14 passes across 4 stations.
+
+Doppler confirmed: no intervening vessels at any sampled station.
+
+PHASE 2 — EUS-B (TRANSESOPHAGEAL — LEFT ADRENAL):
+LMA removed; 8.0 ETT placed by anesthesia. EBUS scope introduced transorally into esophagus (EUS-B technique). Left adrenal gland identified in transesophageal window posterior to left lobe of liver/gastroesophageal junction region. Adrenal gland: 2.1 cm heterogeneous mass with preserved adrenal architecture on periphery. 19-gauge FNA needle introduced through working channel; adrenal mass accessed under real-time EUS guidance x3 passes. ROSE: malignant cells, morphology consistent with adenocarcinoma metastasis.
+
+PHASE 3 — NAVIGATIONAL BRONCHOSCOPY (PERIPHERAL LUNG MASS):
+ETT retained. Scope exchanged to thin bronchoscope + ENB catheter. RUL posterior segment (B2) target registered from pre-operative CT (3.8 cm mass). Navigational guidance confirmed catheter position at target. Radial EBUS deployed: concentric ring, within lesion confirmed. CXR-equivalent fluoroscopy spot obtained.
+
+Samples: 4 transbronchial biopsies (1.8 mm cup forceps); brushings x2; BAL 50 mL (30 mL return).
+
+Post-procedure flexible bronchoscopy: RUL B2 minimal ooze, self-limited. No endobronchial lesion visible. Distal airways clear.
+
+SPECIMENS:
+	Label	Station/Site	Technique	Container/Destination
+	A1	Station 2R	EBUS-TBNA x3	Cytology + cell block
+	A2	Station 4R	EBUS-TBNA x4	Cytology + cell block + mol hold
+	A3	Station 4L	EBUS-TBNA x3	Cytology + cell block
+	A4	Station 7	EBUS-TBNA x4	Cytology + cell block + mol hold
+	B1	Left adrenal	EUS-B FNA x3	Cytology + IHC (TTF-1, NapsinA, CK7, CK20)
+	C1	RUL B2 mass	TBBX x4	Formalin, H&E + IHC
+	C2	RUL B2 brushings	2 passes	ThinPrep cytology
+	C3	RUL B2 BAL	50 mL	Cytology + culture
+
+COMPLICATIONS: None significant. Estimated blood loss: <5 mL total. Post-procedure SpO2 97% on 2 L NC.
+
+POST-PROCEDURE PLAN:
+1. ROSE indicates malignancy at 4R, 7, and adrenal — highly suggestive of stage IV NSCLC with adrenal metastasis.
+2. Await formal pathology and molecular profiling (NGS — EGFR/ALK/ROS1/KRAS/MET/NTRK/BRAF; PD-L1 22C3).
+3. Present at next multidisciplinary thoracic oncology conference.
+4. If adenocarcinoma confirmed: initiate work-up for targeted therapy vs immunotherapy based on molecular results.
+5. Bone scan if PD-L1 high or if bone pain develops.
+6. Palliative care consultation given stage IV provisional diagnosis.
+7. Patient and family counseling regarding preliminary findings performed pre-discharge.
+<<<END NOTE 015>>>
+
+<<<NOTE 016>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+
+SMALL-BORE CHEST TUBE / PLEURAL DRAINAGE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 65M
+
+INDICATION: Right-sided parapneumonic effusion, complicated (pH 7.18, LDH 2,400, glucose 42); empyema suspected (J86.9)
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained
+  ☑ Coags reviewed: INR 1.2, Plt 210k
+  ☑ Ultrasound: moderate loculated R effusion confirmed 0‌ posterior location 1‌
+  ☐ CT chest: available but not repeated (reviewed previous from 2 days prior)
+  ☑ Time-out completed
+
+PROCEDURE:
+Patient positioned right side up, left lateral decubitus. US survey: loculated right effusion, septated, estimated 400 mL; best window 7th ICS posterior axillary line. Site marked, prepped, draped. Local anesthetic: lidocaine 1% 10 mL. Seldinger technique used; 0.035-inch guidewire placed into pleural space under real-time US guidance; serial dilation; 14 Fr Seldinger-type chest tube (Rocket Medical) placed and secured with 2-0 nylon suture + adhesive dressing. Connected to Pleur-evac water-seal drainage at -20 cm H2O.
+
+Initial output: 80 mL thick turbid yellow-green fluid (consistent with empyema). Tube flushed with 20 mL NS. Position confirmed on portable CXR: tube coursing posterolaterally, tip at right apex.
+
+INTRAPLEURAL FIBRINOLYTIC THERAPY PLAN (to begin tomorrow morning):
+  t-PA 10 mg in 30 mL NS + DNase 5 mg in 30 mL NS, instilled sequentially, dwell time 1 hour, BID x3 days per MIST2-based protocol.
+
+SPECIMENS: Initial pleural aspirate 80 mL — Gram stain, culture, AFB, pH 7.18 (confirmed), LDH, protein, cytology
+
+COMPLICATIONS: None. Mild pleuritic pain during insertion (expected); analgesic (ketorolac 15 mg IV) administered.
+
+PLAN:
+1. Monitor tube output; goal drainage >250 mL/day.
+2. Begin fibrinolytic protocol AM.
+3. CT chest in 48–72 h to assess loculation resolution.
+4. ID consult for antibiotic guidance.
+5. Surgery consult if fails to drain adequately at 72h.
+<<<END NOTE 016>>>
+
+<<<NOTE 017>>>
+EDGE_CASE_TAGS: conflicting_details, copy_paste_artifacts
+
+BRONCHOSCOPY NOTE — THERAPEUTIC
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 44F
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Bronchopleural fistula post-lobectomy (J86.0); persistent air leak, right chest tube day 14
+
+POST-PROCEDURE DIAGNOSIS: Same; endobronchial valve placement performed
+
+PROCEDURES: Flexible bronchoscopy with endobronchial valve placement, Spiration IBV (CPT 31647)
+
+ANESTHESIA: Moderate sedation. Midazolam 2 mg + fentanyl 75 mcg IV [Note: anesthesia intake form lists "general anesthesia" — review of record confirms moderate sedation used in IP suite; intake form error as with prior cases].
+
+CLINICAL SUMMARY:
+44-year-old female s/p right upper lobectomy for T1bN0 NSCLC 14 days prior; persistent air leak via right apical chest tube (continuous bubbling at rest). CT chest fistulogram: air leak localized to right upper lobe bronchial stump region (B2 stump). Balloon occlusion test: occlusion of RUL bronchus (anterior and posterior segments) confirmed cessation of bubbling.
+
+PROCEDURE: Flexible bronchoscope introduced orally. RUL bronchus assessed: stump intact at surgical anastomosis; B1 and B3 patent; B2 posterior orifice with small communication — air egress confirmed by saline-bubble test. Three Spiration IBV valves (6 mm, 7 mm, 5.5 mm) placed under fluoroscopic guidance into RUL B1 (6mm), RUL B3 (7mm), RUL B2 (5.5mm). Post-placement inspection: valves well-seated, Heimlich-flutter mechanism patent. Bubble test post-placement: cessation of air leak confirmed.
+
+Note: patientpatient [sic] was repositioned during procedure — corrected documentation: patient repositioned to right lateral decubitus briefly for fluoroscopic valve placement in B3.
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. EBL: None. Air leak cessation confirmed intraoperatively.
+
+PLAN:
+1. Chest tube to water seal; if output <200 mL/24h and no air leak, clamp trial and remove within 24h.
+2. Repeat CXR in 12h.
+3. If valve not tolerated (cough, infection): removal planned at 6 weeks if fistula sealed, or earlier if symptomatic.
+4. Thoracic surgery follow-up.
+<<<END NOTE 017>>>
+
+<<<NOTE 018>>>
+EDGE_CASE_TAGS: reordered_sections
+
+INTERVENTIONAL PULMONOLOGY NOTE
+PROCEDURE: EBUS-TBNA
+PATIENT: [PATIENT]   DOB: [DOB:REDACTED]   MRN: [MRN:REDACTED]   AGE/SEX: 49M
+
+PRELIMINARY RESULTS / ROSE FINDINGS (documented first per ICU handoff protocol):
+  - Station 7: malignant cells, large cell morphology. ROSE performed by cytotechnologist. Cell block and molecular hold placed.
+  - Station 4R: insufficient sample on first pass; 3 additional passes performed; final ROSE: atypical cells.
+  - Station 11L: benign lymphocytes.
+
+PRE-PROCEDURE DIAGNOSIS: Newly detected hilar and mediastinal adenopathy; PET-avid nodal disease; no known primary (R59.9)
+
+POST-PROCEDURE DIAGNOSIS: Station 7: malignant neoplasm of mediastinum, histology pending (pending C38.3 vs metastatic)
+
+PROCEDURE: Linear EBUS-TBNA (CPT 31652)
+
+ANESTHESIA: Moderate sedation. Midazolam 4 mg + fentanyl 100 mcg IV. Topical 4% lidocaine 6 mL total.
+
+PROCEDURE NARRATIVE:
+Informed consent reviewed and confirmed. Time-out completed. EBUS bronchoscope (BF-UC180F) introduced transorally. Trachea patent, carina midline without widening. Survey performed:
+
+  Station 2R: Node 0.6 cm — not sampled (below threshold).
+  Station 4R: Node 1.4 cm, hypoechoic — 4 passes total (1st pass insufficient per ROSE; 3 additional). Final: atypical cells.
+  Station 7: Node 2.8 cm — 4 passes; ROSE: malignant.
+  Station 11L: Node 1.0 cm — 2 passes; benign lymphocytes.
+  Station 4L: Not identified at this session.
+
+Bilateral mainstem and lobar bronchi inspected — no endobronchial lesion.
+
+SPECIMENS:
+  Label 1 — Station 4R, 4 passes: cytology + cell block
+  Label 2 — Station 7, 4 passes: cytology + cell block + molecular hold (NGS, PD-L1)
+  Label 3 — Station 11L, 2 passes: cytology
+
+COMPLICATIONS: None. EBL: <1 mL.
+
+PLAN:
+1. Formal pathology 5–7 days.
+2. PET/CT body map if not already done — order placed.
+3. If large cell carcinoma confirmed: hematology/oncology referral; consider immunotherapy.
+4. Pulmonary hypertension workup deferred pending oncology priorities.
+<<<END NOTE 018>>>
+
+<<<NOTE 019>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes, inconsistent_formatting
+
+PLEUROSCOPY AND BIOPSY PROCEDURE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+
+INDICATION: Undiagnosed left-sided exudative effusion, recurrent x3; cytology x2 negative; suspected malignancy (J91.8)
+
+DIAGNOSES: Pre: Exudative pleural effusion, unspecified etiology. Post: Parietal pleural nodularity; biopsies obtained; pending.
+
+☑ Consent obtained and documented
+☑ Pre-procedure US: large L effusion, anechoic, 5.1 cm depth at entry point 0‌
+☑ Time-out complete
+☐ EBUS-TBNA (not performed — no mediastinal adenopathy on CT)
+☑ Lab review: INR 1.0, Plt 310k, BMP within normal limits
+
+ANESTHESIA: Moderate sedation + intercostal block (lidocaine 2% with epinephrine, 3 mL per space, levels 5/6/7 on left)
+  Midazolam 3 mg; fentanyl 125 mcg in divided doses
+
+PROCEDURE IN DETAIL:
+Patient right lateral decubitus (L side up). Entry: 7th ICS, mid-axillary line, left. Skin incision 1.5 cm; blunt digital dissection; pleural space entered; semi-rigid thoracoscope introduced (Olympus LTF-160). Effusion (approximately 600 mL pale yellow fluid) drained to improve visualization.
+
+Pleural findings:
+  Parietal: multiple 2–6 mm tan-white nodules, particularly along the posterior costal surface and mediastinal pleura; diaphragmatic surface with flat plaques.
+  Visceral: mild surface irregularity, no discrete nodules.
+  No obvious gross tumor burden; pattern suspicious for diffuse malignant process.
+
+Six biopsies taken from parietal nodules and diaphragmatic plaques using cup forceps. All specimens placed in formalin.
+
+1‌ IHC panel requested: calretinin, CK5/6, WT-1, D2-40, TTF-1, Napsin A, CEA, BAP1 (BAP1 loss suggestive of mesothelioma).
+
+Pleurodesis deferred pending pathology — if malignant, will discuss with patient.
+
+Port closed with interrupted 2-0 Vicryl sutures. Sterile dressing.
+
+SPECIMENS:
+  Pleural fluid: LDH, protein, cytology, culture
+  Biopsy x6: parietal and diaphragmatic nodules — formalin; comprehensive IHC panel
+
+COMPLICATIONS: Vasovagal response at scope insertion; atropine 0.5 mg IV given; HR improved from 42 to 68 bpm within 2 minutes. Procedure continued without further complication. EBL: <5 mL.
+<<<END NOTE 019>>>
+
+<<<NOTE 020>>>
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+
+PROCEDURE NOTE — AIRWAY STENT REMOVAL AND REPLACEMENT
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 74F
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Silicone tracheal stent in situ (placed 6 months prior for post-radiation tracheomalacia); recurrent mucus plugging; dyspnea (J39.8)
+POST-PROCEDURE DIAGNOSIS: Same; stent repositioned and cleaned; airway patency confirmed
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy with stent manipulation/repositioning
+  31622-51  — Flexible bronchoscopy [modifier 51: multiple procedures, same session; verify 31622:51 per payer]
+  31640     — Bronchoscopy w/ excision of tumor [if applicable — granulation tissue only; code under review]
+
+ANESTHESIA: GA; jet ventilation via rigid barrel.
+
+CLINICAL BACKGROUND: 74-year-old 74-year-old female [sic] with history of tracheal adenoid cystic carcinoma treated with resection and adjuvant radiation. Post-radiation tracheomalacia with Dumon stent in place (18 mm x 60 mm). Presenting with dyspnea and recurrent respiratory infections; chest CT showed mucus accumulation proximal to stent, stent migration distally by approximately 8–10 mm.
+
+PROCEDURE:
+Rigid bronchoscope (12.5 mm) introduced under GA + jet ventilation. Tracheal stent identified: migrated distally, tip 8 mm from carina (original plan: 15 mm from carina). Mucus impaction: thick tenacious plugging of distal stent lumen and right limb.
+
+Stent removed with forceps through rigid barrel. Mucus cleared with lavage and suction. Granulation tissue at proximal edge of stent contact (posterior wall) — trimmed with electrocautery snare (minimal, 3 × 2 mm tissue). Flexible bronchoscope passed through rigid barrel for distal airway inspection: bilateral mainstem and lobar bronchi clear after aggressive lavage.
+
+Repeat stent selection: same 18 mm × 60 mm Dumon stent repositioned (prior stent intact, re-used per IP attending decision). Deployed with stent pusher; repositioned to 15 mm from carina under direct rigid vision. Post-placement flexible check: stent well-seated; bilateral orifices patent.
+
+patientpatient [sic] recovered in PACU without incident.
+
+SPECIMENS: Granulation tissue from proximal stent contact site — formalin (rule out recurrent ACC).
+
+COMPLICATIONS: None. Mild hemorrhage from granuloma resection; self-limited. EBL: <5 mL.
+
+PLAN:
+1. Saline nebulization QID; chest physiotherapy.
+2. Stent surveillance bronchoscopy in 3 months.
+3. Radiation oncology surveillance per existing schedule.
+4. Pulmonary hygiene education reinforced.
+<<<END NOTE 020>>>
+
+<<<NOTE 021>>>
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+PROCEDURE NOTE: EBUS-TBNA — SARCOIDOSIS STAGING
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 38F
+
+INDICATION: Bilateral hilar and mediastinal adenopathy on CT, stage uncertain; ACE elevated; non-caseating granulomas suspected (R59.9; D86.0 provisional)
+
+PRE-PROCEDURE DIAGNOSIS: Bilateral hilar and mediastinal adenopathy, etiology indeterminate
+POST-PROCEDURE DIAGNOSIS: Pending (granulomatous disease vs lymphoma vs malignancy)
+
+PROCEDURE: Linear EBUS-TBNA (CPT 31652); BAL (CPT 31624)
+
+ANESTHESIA: Moderate sedation per IP protocol.
+
+EBUS NODAL MAP:
+
+	Station	Short axis	Echogenicity	Internal echo	Passes	ROSE result
+	4R	2.0 cm	Hypoechoic	Heterogeneous	3	Granulomatous inflammation (non-necrotizing)
+	7	2.6 cm	Hypoechoic	Homogeneous	4	Granulomatous inflammation
+	10R	1.4 cm	Hypoechoic	—	3	Granulomatous inflammation
+	10L	1.1 cm	Hypoechoic	—	2	Lymphocytes + granuloma fragments
+	4L	1.0 cm	Hypoechoic	—	2	Insufficient on ROSE
+
+Additional passes station 4L: 2 more passes after initial insufficiency → total 4 passes; repeat ROSE: granulomatous tissue.
+
+BAL performed from right middle lobe (B4): 100 mL instilled, 62 mL return. Sent for CD4:CD8 ratio, AFB culture, fungal culture, cytology.
+
+SPECIMENS:
+  A — Station 4R x3 passes: cytology + cell block + AFB/fungal stains + flow cytometry hold
+  B — Station 7 x4 passes: cytology + cell block
+  C — Station 10R x3 passes: cytology
+  D — Station 10L x2+2 passes: cytology
+  E — Station 4L x4 passes: cytology + cell block
+  F — RML BAL: CD4:CD8 ratio, AFB, fungal Cx, cytology
+
+COMPLICATIONS: None. EBL: <1 mL.
+
+PLAN:
+1. ROSE consistent with non-caseating granulomatous inflammation at 4 of 5 sampled stations — highly suggestive of sarcoidosis.
+2. Formal pathology, AFB cultures, and BAL CD4:CD8 ratio to follow.
+3. Rheumatology and pulmonology co-management; ophthalmology evaluation for uveitis.
+4. 24h urine calcium; serum calcium and ACE if not recently obtained.
+5. Await tissue confirmation before initiating systemic corticosteroid therapy.
+<<<END NOTE 021>>>
+
+<<<NOTE 022>>>
+EDGE_CASE_TAGS: ultra_short
+
+PROCEDURE: Flexible bronchoscopy, evaluation and BAL (CPT 31624)
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 52M
+INDICATION: Immunocompromised host (s/p allogeneic SCT, Day +85); new bilateral ground-glass opacities; PJP/CMV/fungal pneumonia on differential.
+FINDINGS: No endobronchial abnormality. Bilateral lower lobe secretions, mild. BAL performed bilaterally: RLL and LLL.
+SPECIMENS: BAL RLL and LLL — PJP PCR, CMV PCR, galactomannan, beta-D-glucan, bacterial/AFB/fungal culture, cytology.
+COMPLICATIONS: None. Patient tolerated well. Supplemental O2 maintained throughout.
+PLAN: Results within 24–48h; infectious disease co-management; empiric treatment decisions pending.
+<<<END NOTE 022>>>
+
+<<<NOTE 023>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting, ambiguous_laterality
+
+OPERATIVE NOTE — CRYOBIOPSY / NAVIGATIONAL BRONCHOSCOPY
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD, DAABIP
+FELLOW (supervised): [NAME:REDACTED], MD
+DATE: [REDACTED]    PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    AGE/SEX: 61F
+
+COMPLICATIONS (per resident pre-op note — listed first as template artifact):
+Anticipated: pneumothorax risk ~10–15% with cryobiopsy; bleeding risk low.
+Actual: [see end of note]
+
+PLAN (pre-documented):
+1. Post-procedure CXR.
+2. Observe 2h in recovery; if no pneumothorax, discharge.
+3. Pathology results in 5–7 days; follow-up lung nodule clinic.
+
+PRE-PROCEDURE DIAGNOSIS: Right middle lobe 1.6 cm solid nodule, PET-equivocal (SUVmax 2.1) (R91.1)
+POST-PROCEDURE DIAGNOSIS: Same; biopsy obtained; pending pathology
+
+PROCEDURE: Robotic navigational bronchoscopy with cryobiopsy (CPT 31627; 31628)
+
+ANESTHESIA: General anesthesia; TIVA; size 7.5 ETT
+
+CLINICAL CONTEXT: 61-year-old female, never-smoker, incidentally detected RML nodule (solid, 1.6 cm) on surveillance CT; PET mildly avid (SUV 2.1 vs background 1.4); growth on 6-month interval CT from 1.1 to 1.6 cm; referred for tissue diagnosis.
+
+INSTRUMENTS: Ion Robotic Bronchoscope; 1.1 mm cryoprobe (Erbe); radial EBUS 20 MHz.
+
+PROCEDURE:
+Robotic bronchoscope introduced via ETT. Survey of bilateral airways: right [correction: confirmed RIGHT side — RML target throughout] upper, middle, lower airways inspected. No endobronchial lesion. Navigation plan to RML medial segment (B5). Catheter advanced under robotic guidance; shape-sensing confirmation within 3 mm. rEBUS deployed: concentric ring with central vessel artifact — consistent with within-lesion probe position. Fluoroscopic AP and lateral confirmed probe adjacent to RML opacity.
+
+Cryoprobe introduced: 5 freeze-thaw cycles, 2.0 seconds each; adequate tissue cores retrieved (2–4 mm diameter each). Visual: tissue appeared fibrotic/solid. Bleeding post-biopsy: minimal, self-limited. Bronchial blocker pre-positioned in RML bronchus as precaution — released after hemostasis confirmed.
+
+SPECIMENS:
+  A: RML cryobiopsies x5 (2.0 sec cycles) — formalin; H&E + molecular hold
+  B: RML brushings x2 — ThinPrep
+  C: RML BAL 50 mL — culture, cytology
+
+ACTUAL COMPLICATIONS: Post-procedure CXR: no pneumothorax. Mild hemoptysis (~5 mL, self-limited, resolved before discharge). EBL: ~5 mL.
+
+FOLLOW-UP: Results to lung nodule program; oncology referral if malignant.
+<<<END NOTE 023>>>
+
+<<<NOTE 024>>>
+EDGE_CASE_TAGS: noisy_units, conflicting_details, missing_section
+
+BRONCHOSCOPY PROCEDURE NOTE — FLEXIBLE DIAGNOSTIC
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 57M
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Suspected pulmonary tuberculosis; AFB smear positive x1 (A15.0 provisional)
+POST-PROCEDURE DIAGNOSIS: Same; BAL and TBBX obtained for cultures and pathology
+
+PROCEDURE: Flexible bronchoscopy, BAL (CPT 31624), transbronchial biopsy (CPT 31628)
+
+ANESTHESIA: Moderate sedation. Midazolam 1 mg + fentanyl 5 0 mcg [noisy unit — intended 50 mcg] IV. Topical lidocaine 4%, 6 mL total.
+
+CLINICAL NOTE: Procedure performed in negative-pressure bronchoscopy suite. All staff in N95 respirators and full airborne precautions (TB protocol). [Nursing note cross-reference lists "positive pressure room" — confirmed via OR scheduler as negative pressure; documentation error in nursing note.]
+
+AIRWAY FINDINGS:
+Patient positioned supine. Bronchoscope introduced via nostril (nasal approach — patient preference). Vocal cords visualized; normal movement. Trachea: erythematous mucosa, mild, diffuse. Carina sharp. Right upper lobe: mucosal erythema and mild friability at RUL posterior segment (B2); no discrete mass; no caseous material visible. Left mainstem and lower lobe airways: mild diffuse mucosal erythema; no discrete lesion.
+
+Concentrated sampling from RUL B2 (highest suspicion based on CT and sputum smear localization):
+  BAL: 60 mL saline, 25 mL return — sent for AFB smear and culture (MGIT liquid culture), fungal culture, cytology, Legionella/pneumococcal PCR.
+  TBBX: 4 transbronchial biopsies from RUL B2 under fluoroscopic guidance — formalin; AFB stain on tissue, PCR for MTB.
+
+SPECIMENS:
+  A: RUL B2 BAL — AFB (smear + MGIT), fungal, bacterial Cx, cytology, Legionella/pneumococcal PCR
+  B: RUL B2 TBBX x4 — formalin; H&E, AFB stain, MTB PCR
+
+COMPLICATIONS: Mild diffuse mucosal hemorrhage post-biopsy; controlled with cold saline lavage. EBL: ~3 mL.
+
+PLAN:
+1. Strict AFB isolation continued.
+2. Initiate 4-drug RIPE therapy empirically pending culture results (ID co-management).
+3. Public health notification completed per protocol.
+4. Results in 48h (rapid PCR) and 6–8 weeks (culture).
+<<<END NOTE 024>>>
+
+<<<NOTE 025>>>
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, reordered_sections
+
+OPERATIVE REPORT — COMPLEX THERAPEUTIC BRONCHOSCOPY
+RIGID BRONCHOSCOPY + STENT PLACEMENT + BALLOON DILATION
+TRACHEOESOPHAGEAL FISTULA — COVERED STENT MANAGEMENT
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP
+FELLOW OBSERVER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 69M
+INSTITUTION: [NAME:REDACTED] Academic Medical Center
+
+ASSESSMENT AND PLAN (per operative note header convention):
+1. Large acquired TEF (tracheoesophageal fistula), mid-tracheal, post-esophagectomy radiation — covered SEMS deployed; esophageal stent placement to follow by GI endoscopy (separate procedure, same day).
+2. Airway patency restored; fistula orifice sealed on airway side.
+3. ICU admission post-procedure.
+4. Pulmonary hygiene, enteral nutrition via J-tube.
+5. Follow-up flexible bronchoscopy 4 weeks.
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Acquired tracheoesophageal fistula (TEF), mid-tracheal, post-esophagectomy, post-radiation (J86.0)
+  2. Recurrent aspiration pneumonia from TEF (J69.0)
+  3. Prior esophageal stent (placed externally, now malpositioned — GI to address)
+
+POST-PROCEDURE DIAGNOSIS: Same; covered fully deployed tracheal SEMS placed across TEF; tracheal lumen patent; fistula orifice covered.
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy with stent placement (covered SEMS)
+  31641     — Therapeutic bronchoscopy (APC, granulation tissue prior to stent)
+  31630     — Balloon bronchoplasty (pre-stent dilation)
+
+ANESTHESIA: GA; TIVA; jet ventilation via Karl Storz 12.5 mm rigid bronchoscope. Anesthesiologist: [NAME:REDACTED], MD. MAC level ≥ 0.8; neuromuscular blockade for jet ventilation.
+
+CLINICAL BACKGROUND:
+69-year-old male with esophageal squamous cell carcinoma treated with neoadjuvant chemoradiation followed by esophagectomy (Ivor-Lewis, 14 months prior). Post-operative course complicated by anastomotic leak (managed conservatively). Now presenting with new-onset persistent cough with oral intake, recurrent aspiration pneumonia (3 episodes in 2 months), weight loss 12 lbs, and dyspnea. CT chest/neck: fistulous track at mid-tracheal level (approximately 4 cm below subglottis), 1.8 cm in diameter, communicating with esophagus/neo-esophagus. Tracheal narrowing 50% at fistula site due to granulation tissue proliferation. Malpositioned esophageal stent noted (proximal flange above fistula, covering insufficiently). Multidisciplinary conference involving thoracic surgery, GI, radiation oncology, interventional pulmonology: plan for combined airway + esophageal stenting same day.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — DIAGNOSTIC RIGID BRONCHOSCOPY:
+Rigid bronchoscope introduced under GA + jet ventilation. Subglottic space: patent. Tracheal lumen: mid-tracheal level, gross fistulous orifice visualized on posterior-right lateral wall; 1.5–2.0 cm in diameter; granulation tissue fronds surrounding margins; active secretion egress from esophageal side visible during jet ventilation cycles. Mucosa proximal and distal to fistula: mild erythema, no tumor recurrence visualized. Distal trachea and carina: patent. Both mainstem bronchi: patent. No endobronchial tumor.
+
+PHASE 2 — GRANULATION TISSUE ABLATION:
+Flexible bronchoscope introduced through rigid barrel. APC applied to granulation tissue surrounding fistula margins (1.5 L/min flow, 50 W; approximately 60 pulses); tissue ablation and debulking achieved. Mucosal hemostasis confirmed. Fistula margins now clearly delineated: 1.5 cm oval defect on posterior tracheal wall.
+
+PHASE 3 — BALLOON DILATION PRE-STENT:
+Tracheal stenosis at fistula site (50% narrowing due to granuloma) dilated with 16 mm CRE balloon to 8 atm x 60 seconds. Lumen expanded to approximately 14 mm at narrowest. Mucosa laceration grade I at posterior wall (acceptable, expected). Cold saline irrigation for hemostasis.
+
+PHASE 4 — COVERED SEMS DEPLOYMENT:
+Stent selection and sizing (see table):
+
+	Stent Characteristic	Specification
+	Type	Fully covered SEMS (Micro-Tech Niti-S)
+	Diameter	18 mm
+	Length	80 mm
+	Coverage	Full silicone cover; proximal flange 22 mm
+	Target position	Mid-trachea, 3 cm below subglottis to 3 cm above carina
+
+Covered SEMS deployed via rigid delivery system under direct bronchoscopic and fluoroscopic guidance. Stent released; proximal flange positioned under laryngoscope visualization. Post-deployment inspection via flexible scope through rigid barrel:
+  - Stent proximal end: 3 cm below vocal cords, flange apposed to tracheal wall.
+  - Fistula site: covered by stent wall; no residual air/secretion egress from esophageal side visible.
+  - Stent distal end: 3 cm above carina; bilateral orifices patent.
+  - Stent lumen: patent, round, no collapse; estimated tracheal patency >90%.
+
+PHASE 5 — FLEXIBLE BRONCHOSCOPY FINAL SURVEY:
+Flexible scope passed through stent lumen: bilateral mainstem and lobar bronchi confirmed patent. Secretions cleared. Carina visible and sharp below stent.
+
+Procedure ended; jet ventilation discontinued; patient transferred to ICU intubated for observation.
+
+COORDINATION WITH GI:
+GI endoscopy team on standby; esophageal stent revision performed immediately after airway procedure in same OR suite. Airway bronchoscopist available for re-entry if airway compromise during esophageal procedure. No complications during esophageal phase per GI colleague's report.
+
+SPECIMENS:
+  Granulation tissue from fistula margins — APC-ablated fragments (small, cauterized) sent for histology to rule out recurrent SCC.
+
+POST-PROCEDURE NOTES:
+	Parameter	Pre-procedure	Post-procedure
+	Tracheal patency	~50%	>90%
+	TEF orifice coverage	Open	Covered (SEMS)
+	SpO2 on FiO2 0.4	91%	97%
+	Peak airway pressure	44 cm H2O	26 cm H2O
+
+COMPLICATIONS: Grade I tracheal mucosal laceration (expected; hemostasis achieved). Transient hypoxemia during granuloma ablation (SpO2 84% for ~45 seconds; recovered with brief pause and FiO2 increase). No airway fire. No stent migration intraoperatively. EBL: <10 mL.
+
+IMPRESSION/PLAN:
+1. Acquired TEF successfully managed with covered tracheal SEMS; airway side of fistula sealed.
+2. Esophageal stent revised by GI (separate operative report).
+3. ICU monitoring; enteral nutrition via J-tube only; strict NPO by mouth.
+4. Daily chest assessment; bronchoscopy re-entry at 4 weeks for stent check.
+5. Radiation oncology review re: reirradiation feasibility deferred — airway stabilization first priority.
+6. Palliative care consultation for goals of care discussion given disease burden.
+<<<END NOTE 025>>>
+
+<<<NOTE 026>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+ASSESSMENT AND PLAN (dictated first per ICU rounding convention):
+1. Percutaneous dilational tracheostomy successfully completed at bedside (ICU bay 6); Shiley 8.0 cuffed trach in satisfactory position per bronchoscopic and CXR confirmation.
+2. Trach care protocol initiated; nursing education completed.
+3. Ventilator settings: return to pre-procedure baseline; PEEP 8, FiO2 0.45.
+4. Cuff pressure checks q8h; target 20–25 mmHg.
+5. Speech-language pathology (SLP) consult placed when wean criteria met.
+
+OPERATIVE NOTE — PERCUTANEOUS DILATIONAL TRACHEOSTOMY
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+FELLOW (supervised): [NAME:REDACTED], MD (PCCM Year 2)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 58M
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure (J96.00); anticipated prolonged mechanical ventilation; ARDS secondary to septic shock (J80; A41.9)
+POST-PROCEDURE DIAGNOSIS: Same; percutaneous tracheostomy placed successfully
+
+CPT: 31600 (tracheostomy, planned); 31622 (bronchoscopy for guidance, separate)
+
+ANESTHESIA: Propofol bolus 80 mg IV; fentanyl 100 mcg IV; rocuronium 40 mg IV for brief paralysis. Bedside ICU procedure.
+
+MONITORING: Continuous arterial line (right radial), SpO2, ETCO2 waveform, cardiac telemetry, noninvasive BP q2 min intraoperatively.
+
+INSTRUMENTS:
+  - Cook Ciaglia Blue Rhino percutaneous tracheostomy kit (8.0 mm)
+  - Olympus BF-P290 flexible bronchoscope (4.9 mm OD), introduced via ETT
+  - Shiley 8.0 cuffed tracheostomy tube with inner cannula
+
+CLINICAL SUMMARY:
+58-year-old male, ICU day 12 for ARDS complicating gram-negative septic shock. Intubated via orotracheal route (7.5 ETT, depth 23 cm at lip). Sedation weaning attempted; agitation and ventilator dyssynchrony precluding liberation trial. Multidisciplinary team recommendation: tracheostomy for prolonged ventilator management. Contraindications assessed: neck circumference 42 cm (large habitus, noted); cervical spine clearance confirmed. No prior neck surgery. Platelet 156k, INR 1.1.
+
+PROCEDURE NARRATIVE:
+Patient placed supine, neck extended over shoulder roll. Landmarks: thyroid cartilage, cricoid, tracheal rings palpated. Target interspaced between rings 2–3 confirmed by direct palpation and bronchoscopic illumination through the anterior tracheal wall. ETT withdrawn to 18 cm at lip under bronchoscopic guidance (carina confirmed at safe distance of 7 cm above planned entry).
+
+Skin prepared and draped in sterile fashion. Vertical 1.5 cm skin incision at ring 2–3 interspace. Blunt dissection through subcutaneous tissue to pretracheal fascia. 14-gauge introducer needle inserted under bronchoscopic visualization: needle tip visualized in tracheal lumen between rings 2–3, confirming midline entry. 0.038-inch J-tip guidewire advanced; position confirmed bronchoscopically (wire coiling distally in trachea). 14 Fr fascial dilator followed by Blue Rhino single-step dilator sequentially advanced over wire under bronchoscopic surveillance; airway lumen maintained throughout — SpO2 nadir 94%.
+
+Shiley 8.0 cuffed trach tube loaded on obturator, advanced over guidewire and dilator peel-away, seated in trachea. Obturator removed; inner cannula inserted. Ventilator circuit connected; bilateral breath sounds confirmed; ETCO2 waveform present. ETT removed. Cuff inflated to 22 mmHg (cuff manometer).
+
+Bronchoscopic check through trach tube: tube tip 4 cm above carina; midline; no posterior wall injury; no active hemorrhage. Tracheal mucosa at entry site: intact circumferentially.
+
+Trach tube secured with Velcro trach holder + suture (2-0 silk x2 to flange).
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. Transient SpO2 drop to 94% during dilation (resolved with FiO2 increase to 1.0 for 90 seconds). Estimated blood loss: <5 mL.
+<<<END NOTE 026>>>
+
+<<<NOTE 027>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+BEDSIDE PROCEDURE NOTE — PERCUTANEOUS DILATIONAL TRACHEOSTOMY
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 71F
+
+Indication: Prolonged MV, ICU day 16; failure to wean due to severe ICU-acquired weakness; anticipated tracheostomy-dependent ventilation.
+Anesthesia: Propofol 100 mg + fentanyl 75 mcg + succinylcholine 100 mg IV bolus; bedside ICU.
+Procedure: Percutaneous dilational tracheostomy (PDT), Ciaglia Blue Rhino technique, ring 2–3 interspace, bronchoscopic guidance throughout. Shiley 6.0 cuffed XLT (extended-length) trach placed due to large neck habitus. Bronchoscopic confirmation: tube tip 5 cm above carina, midline, no posterior wall injury.
+Findings: Tracheal entry confirmed between rings 2 and 3; blue-lit needle visible bronchoscopically; clean single-pass dilation; good hemostasis.
+Complications: None. EBL: minimal.
+Plan: Standard PDT care bundle; SLP consult; ventilator weaning protocol in AM.
+<<<END NOTE 027>>>
+
+<<<NOTE 028>>>
+EDGE_CASE_TAGS: conflicting_details, table_with_tabs, noisy_units
+
+OPERATIVE REPORT
+PERCUTANEOUS DILATIONAL TRACHEOSTOMY WITH BRONCHOSCOPIC GUIDANCE
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 64M
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure, prolonged (J96.00); guillain-barré syndrome ascending paralysis (G61.0); failed extubation x2
+POST-PROCEDURE DIAGNOSIS: Same; Shiley 8.0 cuffed tracheostomy tube in place, confirmed
+
+PROCEDURES: CPT 31600; 31622 (bronchoscopic guidance)
+
+ANESTHESIA: Moderate sedation [CONFLICT: anesthesia record documents "bedside general anesthesia with propofol infusion"; OR intake form lists "moderate sedation" — confirmed via medication MAR: propofol 150 mcg/kg/min infusion + fentanyl 10 0 mcg [noisy—intended 100 mcg] IV bolus; paralytic: cisatracurium 15 mg IV; bedside ICU procedure, no anesthesiologist present; attending performed own sedation per ICU credentialing].
+
+PRE-PROCEDURE ASSESSMENT:
+
+	Parameter	Value	Acceptable?
+	INR	1.3	Yes
+	Platelets	89k	Marginal — discussed, proceeded with caution
+	Neck circumference	38 cm	Moderate habitus
+	ETT depth	22 cm at lip (7.5 ETT)	Confirmed
+	PEEP	10 cm H2O	Pre-procedure
+	FiO2	0.55	Pre-procedure SpO2 95%
+
+PROCEDURE:
+Patient supine, neck extended. Landmarks: thyroid notch, cricoid, tracheal rings. ETT withdrawn to 17 cm under bronchoscopic guidance; carina identified 8 cm distal to planned entry (ring 2–3 interspace). 14-gauge introducer needle entered skin vertically at ring 2–3; bronchoscope confirmed midline entry and needle tip position in tracheal lumen. J-tip guidewire advanced. Fascial dilator, then Blue Rhino single-step dilator deployed under continuous bronchoscopic surveillance — tracheal back wall never endangered. Peel-away sheath placed; Shiley 8.0 loaded on obturator and advanced. Tube seated, cuff inflated to 21 mmHg.
+
+Post-insertion bronchoscopy: tube tip 4.5 cm above carina; posterior tracheal wall intact; mild ooze at entry site, controlled with direct pressure.
+
+Platelets: 1 unit random-donor platelets transfused intraoperatively (due to Plt 89k and ooze at site).
+
+SPECIMENS: None.
+
+COMPLICATIONS: Minor procedural hemorrhage at trach entry site (platelet-related); controlled with compression and platelet transfusion. EBL: approximately 15–20 mL. No pneumothorax. No posterior tracheal wall perforation.
+
+PLAN:
+1. Trach site: dry dressing; daily site care per protocol.
+2. Hematology notified re: thrombocytopenia (suspected GBS-related; also on IVIG).
+3. PMV (Passy-Muir valve) candidacy reassess as GBS improves.
+4. Repeat bedside bronchoscopy in 48h if any concerns.
+<<<END NOTE 028>>>
+
+<<<NOTE 029>>>
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting, copy_paste_artifacts
+
+INTERVENTIONAL PULMONOLOGY — OPERATIVE REPORT
+PERCUTANEOUS DILATIONAL TRACHEOSTOMY (MODIFIED GRIGGS TECHNIQUE)
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD   RESIDENT: [NAME:REDACTED], MD (PGY-4, surgery)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 48M   DOB: [DOB:REDACTED]
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Anoxic brain injury following out-of-hospital cardiac arrest (G93.1); ICU day 11
+  2. Ventilator-dependent respiratory failure (J96.00)
+  3. Failed percutaneous tracheostomy attempt x1 (two days prior, separate team — abandoned due to difficult anatomy; documented separately)
+
+POST-PROCEDURE DIAGNOSES:
+  Same; Portex 8.0 cuffed low-profile trach placed; bronchoscopic confirmation satisfactory
+
+CPT: 31600; 31622
+
+ANESTHESIA: Propofol infusion 100–140 mcg/kg/min; fentanyl 150 mcg IV in divided doses; vecuronium 10 mg IV for paralysis. No anesthesiologist; attending performed procedural sedation per ICU protocol. Certified CRNA available in adjacent bay.
+
+CLINICAL BACKGROUND:
+48-year-old male 48-year-old [sic] admitted after OHCA, ROSC achieved after 18 min CPR. Cooled to 33°C for 24h (TTM protocol complete). Neurological assessment: no purposeful movement; MRI brain: diffuse cortical/subcortical anoxic injury; multidisciplinary goals-of-care conference with family ongoing; decision to proceed with tracheostomy for ongoing airway management pending prognosis clarification. Prior PDT attempt (day 9): abandoned — neck circumference 48 cm, high-riding innominate artery identified on ultrasound, team elected to abort.
+
+ULTRASOUND PLANNING SESSION (performed morning of procedure):
+Attending performed dedicated cervical/tracheal ultrasound (pre-procedure):
+  - High-frequency linear probe (7–13 MHz)
+  - Tracheal rings identified: ring 2–3 interspace marked (1.8 cm below cricoid)
+  - Vasculature mapping: thyroid gland midline, no isthmus at ring 2–3; innominate artery loop identified on prior attempt (day 9) now assessed — artery lies 2.2 cm below ring 3 (safe margin); paratracheal vessels mapped; no midline vessel at entry point
+  - Skin-to-trachea depth: 4.1 cm (deep — large habitus)
+  - Entry site confirmed with confidence; no contraindication to proceed at ring 2–3
+
+EQUIPMENT MODIFICATION (per difficult anatomy plan):
+  - Griggs guidewire dilating forceps (GWDF) technique selected (over Blue Rhino) for better tactile control in deep-tissue anatomy
+  - Portex PDT kit with GWDF
+  - Extended-length Shiley 8.0 cuffed XLT (length 105 mm vs standard 80 mm) selected given 4.1 cm tissue depth
+  - Olympus BF-P290 bronchoscope; extra-length working channel for depth
+
+PROCEDURE IN DETAIL:
+Patient supine, neck extended on folded blanket (shoulder roll). Neck circumference 48 cm — significant subcutaneous tissue present. Pre-procedure SpO2 97% on FiO2 0.70, PEEP 8. Skin prepared; sterile drape. ETT position: 7.5 ETT at 22 cm; withdrawn to 17 cm under bronchoscopic guidance; carina 9 cm distal.
+
+Under direct bronchoscopic illumination: transillumination of anterior tracheal wall confirmed at ring 2–3 level (faint but adequate given depth of tissue). Real-time ultrasound probe manned by assisting resident — confirmed needle in midline at ring 2–3 on ultrasound B-mode simultaneously.
+
+14-gauge introducer needle advanced under combined US + bronchoscopic guidance. Needle tip confirmed in tracheal lumen at ring 2–3, midline. J-wire advanced without resistance; wire in tracheal lumen confirmed. Small longitudinal fascial dilator (12 Fr). Griggs GWDF forceps loaded on wire; forceps advanced closed, then opened under bronchoscopic visualization — tracheal lumen widened step-wise to accommodate tube. One additional GWDF pass required (total 2 passes; adequate dilation confirmed on bronchoscopy). Extended Portex 8.0 XLT tube (length 105 mm) loaded on obturator, advanced over wire, seated; obturator removed; cuff inflated 24 mmHg (manometer).
+
+Ventilator circuit connected. ETCO2 present. Bilateral breath sounds on auscultation. Bronchoscopic check through trach: tube tip 5 cm above carina (satisfactory for XLT tube), midline, posterior wall intact, no hemorrhage, no false passage.
+
+Site secured: 2-0 silk suture x2 to flange; Velcro holder. Trach dressing applied.
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. SpO2 nadir 92% at dilation — brief; FiO2 increased to 1.0 x2 minutes; recovered to 97%. EBL: approximately 8 mL. No pneumothorax. No posterior wall injury. No arterial injury.
+
+POST-PROCEDURE ORDERS:
+1. CXR portable — confirm trach position.
+2. FiO2 wean per protocol after post-procedure CXR reviewed.
+3. Trach site dressing: daily; inner cannula q8h cleaning.
+4. Cuff pressure q8h; target 20–25 mmHg.
+5. Neurology and palliative care co-management ongoing — trach does not constitute a terminal or curative decision; family meeting scheduled.
+6. PMV assessment deferred (GCS 3T).
+<<<END NOTE 029>>>
+
+<<<NOTE 030>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+
+PDT PROCEDURE CHECKLIST AND NOTE
+FACILITY: [NAME:REDACTED] MICU   DATE: [REDACTED]
+PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+
+INDICATION: Prolonged intubation (ICU day 19), COPD exacerbation, failed SBT x3 due to respiratory muscle weakness.
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent: surrogate decision-maker (spouse) consented; patient unable to consent (sedated)
+  ☑ Time-out performed
+  ☑ Coagulation: INR 1.0, Plt 224k — acceptable
+  ☑ Pre-procedure tracheal ultrasound: ring 2–3 identified; no midline vasculature; depth 2.9 cm
+  ☑ ETT size and depth confirmed: 7.0 ETT at 21 cm
+  ☐ Anesthesia presence: not required; attending credentialed for ICU procedural sedation
+  ☑ Equipment: Ciaglia Blue Rhino kit, 8.0 cuffed Shiley confirmed at bedside 0‌
+  ☑ Emergency surgical airway kit: at bedside 1‌
+
+PROCEDURE: Ciaglia Blue Rhino single-step PDT. Ring 2–3 interspace. Bronchoscopic guidance throughout. ETT withdrawn to 16 cm. Introducer needle: tracheal entry confirmed in lumen on bronchoscopy. Guidewire placed. Blue Rhino dilator advanced; trachea dilated to 8.0 mm. Shiley 8.0 cuffed tube placed and secured. Cuff: 22 mmHg.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Bronchoscopy through trach: tip 4 cm above carina; posterior wall intact; no bleed
+  ☑ CXR ordered
+  ☑ Ventilator reconnected; ETCO2 confirmed
+  ☑ Dressing applied; flange secured
+
+COMPLICATIONS: None. EBL: <5 mL. SpO2 maintained >93% throughout.
+PLAN: Standard PDT care bundle; weaning protocol resumed.
+<<<END NOTE 030>>>
+
+<<<NOTE 031>>>
+EDGE_CASE_TAGS: reordered_sections, ambiguous_laterality
+
+INTERVENTIONAL PULMONOLOGY
+PERCUTANEOUS TRACHEOSTOMY WITH REAL-TIME ULTRASOUND + BRONCHOSCOPIC CO-GUIDANCE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 83M
+
+PLAN:
+1. Portex 6.0 cuffed trach placed; position confirmed.
+2. Initiated trach care bundle; RN education in progress.
+3. ENT notified of trach placement as requested by family.
+4. Goals-of-care discussion to follow placement; palliative medicine consultation requested.
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure; ischemic stroke with aspiration pneumonia (I63.9; J69.0); prolonged course anticipated.
+POST-PROCEDURE DIAGNOSIS: Same; percutaneous trach placed.
+
+PROCEDURE: PDT (CPT 31600; 31622)
+
+ANESTHESIA: Propofol 60 mg + fentanyl 50 mcg IV; midazolam 1 mg IV. Bedside ICU.
+
+PROCEDURE NOTE:
+Landmarks identified; pre-procedure US confirmed trachea midline and needle entry point between rings 2 and 3 [initial marking inadvertently placed between rings 1 and 2 (suboptimal) — corrected to 2–3 after US review before incision; no entry attempted at incorrect site]. Introducer needle entered under bronchoscopic guidance; midline position in trachea confirmed. Guidewire placed. Blue Rhino dilation. Portex 6.0 cuffed trach seated at ring 2–3; tip 4 cm above carina on bronchoscopy.
+
+Site hemostasis: minimal ooze controlled with direct pressure. Dressing applied. SpO2 nadir 95%.
+
+COMPLICATIONS: None. EBL: <3 mL.
+<<<END NOTE 031>>>
+
+<<<NOTE 032>>>
+EDGE_CASE_TAGS: inconsistent_formatting, copy_paste_artifacts
+
+TRACHEOSTOMY EXCHANGE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 62M
+
+INDICATION: Mature tracheostomy (14 days post-PDT); first trach tube exchange for smaller cuffless tube per ventilator-weaning protocol. Current tube: Shiley 8.0 cuffed (original PDT tube).
+
+PRE-PROCEDURE DIAGNOSIS: Tracheostomy in situ, mature tract (Z93.0)
+POST-PROCEDURE DIAGNOSIS: Same; tube exchanged to Shiley 6.0 cuffless
+
+PROCEDURE: Tracheostomy tube change, mature tract. Bedside ICU.
+
+ANESTHESIA: No sedation required — patient alert and cooperative. Supplemental O2 via trach mask during exchange.
+
+TECHNIQUE:
+Bedside setup: new Shiley 6.0 cuffless tube with obturator and inner cannula; 10 Fr suction catheter loaded as guide; Ambu bag and 100% O2 source at bedside. Tracheal dilators available.
+
+Existing tube: cuff deflated under suction (12 mL air withdrawn). Patient instructed to breathe slowly. Old tube removed in one controlled motion. 6.0 cuffless Shiley immediately advanced through mature stoma tract over 10 Fr suction catheter guide without resistance. Inner cannula inserted. Trach mask O2 reconnected immediately. SpO2 stable throughout (98% → 97% → 99%).
+
+Position confirmed: bronchoscope introduced through 6.0 cuffless tube; tip 4.5 cm above carina; no false passage; mucosa at stoma and subglottic space intact. 
+
+patientpatient [sic] reported mild discomfort during cuff deflation — corrected: patient reported mild discomfort which resolved after exchange was complete.
+
+Tube secured with new Velcro holder.
+
+COMPLICATIONS: None. Desaturation not observed. EBL: None.
+
+PLAN:
+1. PMV (Passy-Muir valve) trial this afternoon per SLP order.
+2. Capping trials per weaning schedule.
+3. Decannulation assessment in 1 week.
+<<<END NOTE 032>>>
+
+<<<NOTE 033>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+TRACH CHANGE NOTE — OUTPATIENT IP CLINIC
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 57F
+
+Reason: Routine quarterly tracheostomy tube exchange; non-healing granulation tissue at stoma; complaint of blood-tinged secretions x2 days.
+Current tube: Bivona 7.0 TTS (tight-to-shaft) cuffed, in place 3 months.
+Procedure: Cuff deflated; tube removed (slight resistance, resolved with rotation). 10 Fr red rubber catheter guide placed through stoma into trachea. New Bivona 7.0 TTS tube advanced over guide; inner cannula locked. Position confirmed clinically (breath sounds, SpO2 stable, phonation with finger occlusion).
+Granulation tissue at superior stoma margin: 2 × 3 mm; treated with silver nitrate stick x2 applications. Hemostasis achieved.
+Complications: None. EBL: <1 mL.
+Plan: Next exchange in 3 months. Otolaryngology referral placed for persistent stomal granulation; consider electrocautery at next IP visit if not resolved.
+<<<END NOTE 033>>>
+
+<<<NOTE 034>>>
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+
+TRACHEOSTOMY TUBE EXCHANGE — DIFFICULT (IMMATURE TRACT)
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 39F
+INSTITUTION: [NAME:REDACTED] MICU
+
+PRE-PROCEDURE DIAGNOSIS: Tracheostomy in situ, day 6 (early/immature tract); accidental decannulation overnight; nursing requested urgent tube reinsertion (J95.04)
+POST-PROCEDURE DIAGNOSIS: Same; trach tube reinserted, position confirmed
+
+PROCEDURES / CPT:
+  31502    — Tracheostomy tube change (immature tract) [billing note: 31502:U1 vs 31502-U1 per payer format — modifier for immature tract designation, confirm with coder]
+  31622    — Flexible bronchoscopy for confirmation
+
+ANESTHESIA: Midazolam 1 mg IV (anxiolysis only); local 1% lidocaine 2 mL at stoma margins topically.
+
+CLINICAL NOTE:
+39-year-old female, day 6 post-PDT (performed for respiratory failure complicating status asthmaticus). Overnight nursing note: patient self-decannulated at approximately 0300. Nurse re-attempted bedside insertion with 7.5 Shiley — resistance encountered, tube not inserted; patient placed on bag-valve-mask via stoma orifice (adequate ventilation maintained per nursing note). IP fellow called STAT; attending arrived with kit.
+
+PROCEDURE:
+Stoma examined: tract partially closed (day 6 — immature, not yet epithelialized). Hemostats passed gently through stoma to re-dilate tract. 5.0 Shiley cuffed (smaller than prior 7.5) advanced through stoma with obturator under direct bronchoscopic visualization — scope introduced simultaneously via ETT (orotracheal ETT placed emergently by anesthesia team as backup airway prior to IP arrival; cords visualized, 7.0 ETT in trachea). Trach stoma approached from anterior; scope light visible through stoma confirmed intratracheal position; 5.0 Shiley guided into lumen without false passage.
+
+Cuff inflated. Patient ventilated via trach. Orotracheal ETT removed.
+
+Bronchoscopy through Shiley: tip 5 cm above carina; posterior wall intact; no false passage confirmed.
+
+Tube exchanged 30 min later (after patient stabilized): 7.0 Shiley inserted over Aintree catheter (airway exchange catheter) under bronchoscopic guidance; position re-confirmed.
+
+COMPLICATIONS: Accidental decannulation event (nursing occurrence report filed). False passage not created. Hypoxemia during event (SpO2 nadir 81% per nursing, resolved with BVM ventilation pre-IP arrival). EBL: None.
+
+PLAN:
+1. Trach holder changed to suture (2-0 silk x2); strict "no trach tie removal without physician at bedside" order.
+2. Daily neck and stoma inspection.
+3. Incident review per quality process.
+<<<END NOTE 034>>>
+
+<<<NOTE 035>>>
+EDGE_CASE_TAGS: reordered_sections, extreme_length
+
+OPERATIVE REPORT — MONTGOMERY T-TUBE INSERTION
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+CO-ATTENDING: [NAME:REDACTED], MD (ENT/Head & Neck Surgery)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 44F
+
+PLAN AND CLINICAL DECISION SUMMARY (predocumented per case conference note):
+Multidisciplinary airway conference (IP + ENT + anesthesia) concluded: patient is not a surgical candidate for tracheal resection-reconstruction at this time (BMI 47, FEV1 38% predicted, significant medical comorbidities). Montgomery T-tube insertion selected as definitive long-term airway stent for post-intubation complex subglottic-tracheal stenosis. Patient counseled extensively. Consent obtained. Plan: T-tube insertion via rigid bronchoscopy + direct laryngoscopy under GA. Long-term management with IP and ENT co-follow-up. Decannulation goal deferred until weight loss and lung function optimized.
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Post-intubation subglottic tracheal stenosis, complex, grade III (Cotton-Myer) (J95.5)
+  2. Tracheomalacia, coexisting, distal to stenotic segment
+  3. Morbid obesity (BMI 47) with obesity hypoventilation syndrome
+
+POST-PROCEDURE DIAGNOSIS: Same; Montgomery T-tube (13 mm × 70 mm × 30 mm sidearm) in satisfactory position; airway patent.
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy
+  31630     — Balloon dilation (pre-T-tube)
+  31641     — Therapeutic bronchoscopy (Nd:YAG laser, web incision)
+  [T-tube insertion — unlisted airway procedure with CPT to be confirmed with coding team; T-tube-specific stenting CPT per coder recommendation]
+
+ANESTHESIA: GA; TIVA (propofol/remifentanil infusion). Spontaneous ventilation maintained via rigid bronchoscope — no paralytic (required for voice assessment post-procedure). Anesthesiologist: [NAME:REDACTED], MD.
+
+CLINICAL BACKGROUND:
+44-year-old female intubated for 22 days (4 months prior) for ARDS complicating influenza pneumonia. Extubated; noted dyspnea and biphasic stridor 6 weeks post-extubation. CT trachea: circumferential subglottic stenosis beginning 1.5 cm below cords; length 3.2 cm; estimated lumen 4–5 mm. Cotton-Myer grade III (>70% narrowing). Flexible bronchoscopy confirmed mature fibrous web with distal tracheomalacia segment (3 cm, >50% dynamic expiratory collapse at RMB takeoff). Pulmonary function: severe mixed obstructive/restrictive pattern; FEV1 38%. Multiple balloon dilations in the past 3 months (x3 sessions); restenosis each time within 4–6 weeks. Decision for T-tube as bridge.
+
+INSTRUMENTS:
+  - Karl Storz rigid bronchoscopes (8.5, 10.5, 12.5 mm, sequential)
+  - Olympus BF-P180 flexible bronchoscope (for distal survey and post-placement check)
+  - Montgomery T-tube (Boston Medical Products): selected size 13 mm inner diameter (tracheal limb), 70 mm tracheal limb length, 30 mm sidearm — sizing based on pre-procedure CT tracheal measurements
+  - Nd:YAG laser (1064 nm)
+  - CRE balloon (10–12–14 mm)
+  - T-tube introducer (dedicated Montgomery T-tube forceps)
+
+PROCEDURE IN DETAIL:
+
+PHASE 1 — RIGID BRONCHOSCOPY, ASSESSMENT, AND DILATION:
+Rigid bronchoscope (8.5 mm) introduced transorally under direct laryngoscopy. Stenotic segment engaged at 1.5 cm below cords; lumen 4–5 mm (just accommodated 8.5 mm scope passage with tactile resistance). Web appeared mature, fibrous, white. Distal trachea post-stenosis: mild tracheomalacia confirmed. Carina and bilateral mainstem bronchi patent; no distal disease.
+
+Nd:YAG laser (20 W, 0.3 sec pulses) applied at 12, 3, 6, and 9 o'clock radially within the stenotic web (total ~50 pulses). Radial incisions made through fibrous tissue; lumen progressively opened. Scope exchanged to 10.5 mm; passed through dilated lumen. Balloon (10 mm, then 12 mm, then 14 mm) serially inflated: each inflation 45–60 seconds at 6–8 atm. Grade I mucosal lacerations at all four radial incision sites (expected). Post-dilation lumen estimated 13 mm — adequate for T-tube placement.
+
+PHASE 2 — T-TUBE SIZING AND SELECTION:
+T-tube selected (13 mm × 70 mm × 30 mm sidearm, per pre-procedure planning). Upper limb (proximal) length confirmed to extend to level of vocal cords without contact. Sidearm length: accommodates anterior tracheal stoma (marked at ring 3–4 interspace for sidearm exit). Stoma creation: small stab incision (1.5 cm) at ring 3–4 interspace made with 15-blade, guided by rigid bronchoscope transillumination.
+
+PHASE 3 — T-TUBE INSERTION:
+T-tube folded using dedicated forceps (Montgomery T-tube insertion forceps). Tube folded in a U-configuration; loaded into barrel of 12.5 mm rigid scope. T-tube advanced distally through rigid barrel into trachea; positioned below stenotic segment. Upper limb unfolded and maneuvered proximally past the vocal cord level using grasping forceps under direct laryngoscopic visualization. Sidearm delivered through anterior stoma incision under bronchoscopic transillumination guidance. Tube alignment confirmed:
+  - Upper limb (proximal): extends 1.0 cm above cords, no contact with arytenoids
+  - Tracheal limb (distal): 3.5 cm above carina; spans entire stenotic and malacic segment
+  - Sidearm: exits anteriorly at ring 3–4; plugged with provided stopper
+
+Flexible bronchoscopy through T-tube lumen (sidearm plugged): lumen patent throughout; no kinking; posterior wall intact; bilateral mainstem bronchi confirmed patent distally.
+
+Phonation test: sidearm uncapped; patient asked to vocalize — intelligible phonation confirmed (patient conscious, GA lightened briefly for vocal test; anesthesiologist confirmed adequate depth otherwise). Sidearm re-plugged.
+
+T-tube secured to skin: 2-0 silk suture around sidearm and sutured to anterior skin margin x2; adhesive dressing.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Grade I mucosal lacerations at laser/dilation sites (expected); hemostasis achieved. Transient SpO2 83% during forceps maneuver of proximal limb past cords — FiO2 increased; recovered to 96% within 90 seconds. EBL: ~12 mL. No arrhythmia. No airway fire.
+
+POST-PROCEDURE PLAN:
+1. T-tube care: sidearm cleaning BID; saline nebulization QID.
+2. ENT/IP co-follow-up in 2 weeks; flexible bronchoscopy through sidearm to confirm position.
+3. Speech therapy and swallowing assessment — T-tube allows voicing when sidearm plugged.
+4. Sidearm left plugged unless acute respiratory distress; emergency protocol reviewed with patient and family.
+5. Target duration: 12–18 months (or until surgical candidacy improves).
+6. Weight loss program referral; bariatric surgery consultation.
+<<<END NOTE 035>>>
+
+<<<NOTE 036>>>
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+MONTGOMERY T-TUBE INSERTION — OPERATIVE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD / CO-SURGEON: [NAME:REDACTED], MD (ENT)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 52M
+
+PRE-PROCEDURE DIAGNOSIS: Post-cricoid and upper tracheal stenosis, grade II (Cotton-Myer), idiopathic (J95.5)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube placed, airway patent
+
+PROCEDURE: Rigid bronchoscopy + Nd:YAG laser + balloon dilation + Montgomery T-tube insertion
+
+ANESTHESIA: GA, TIVA, spontaneous respiration maintained via rigid bronchoscope.
+
+STENT SELECTION TABLE:
+
+	Parameter	Measurement	T-tube Selection
+	CT tracheal lumen at stenosis	7 mm	13 mm inner diameter
+	Stenosis length	2.4 cm	70 mm tracheal limb
+	Subglottis to stenosis	1.5 cm	Proximal limb: 20 mm (above cords)
+	Planned stoma level	Ring 3–4	30 mm sidearm, right-angle exit
+
+PROCEDURE SUMMARY:
+Rigid bronchoscopy confirmed grade II circumferential upper tracheal stenosis. Nd:YAG laser web radial incisions (12/3/6/9 o'clock). Serial balloon dilation to 13 mm. Stoma created at ring 3–4. T-tube (13 × 70 × 30 mm) folded and introduced via rigid barrel; upper limb seated above cords under laryngoscopic guidance; sidearm exteriorized through stoma. Position confirmed on flexible bronchoscopy: lumen patent, carina 4 cm below distal end. Phonation test: intelligible voice with sidearm plugged.
+
+COMPLICATIONS: Minor hemorrhage at stoma incision site; controlled with direct pressure. Grade I mucosal laceration (radial laser sites). EBL: 8 mL.
+
+PLAN: T-tube care protocol; ENT/IP co-follow-up; SLP evaluation. Planned duration 12 months minimum.
+<<<END NOTE 036>>>
+
+<<<NOTE 037>>>
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+
+T-TUBE INSERTION NOTE
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 61F
+
+Indication: Recurrent post-radiation tracheal stenosis (adenoid cystic carcinoma, s/p resection and XRT); three prior balloon dilations with restenosis at 4–8 weeks; not candidate for re-resection.
+Anesthesia: GA, TIVA, spontaneous ventilation via rigid bronchoscope.
+Procedure: Rigid bronchoscopy; Nd:YAG laser (radial incisions); balloon dilation 14 mm; Montgomery T-tube 14 mm × 80 mm × 35 mm placed via rigid barrel. Sidearm exteriorized at ring 3 stoma (pre-existing from prior trach, epithelialized). Upper limb 1.5 cm above vocal cords. Flexible bronchoscopy confirmed lumen patent, distal end 3 cm above carina. patientpatient [sic] — patient tolerated procedure without hemodynamic instability.
+Complications: Grade I mucosal lacerations (expected). EBL: 10 mL.
+Plan: T-tube care; IP/ENT co-follow-up in 2 weeks; flexible bronchoscopy through sidearm.
+<<<END NOTE 037>>>
+
+<<<NOTE 038>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+
+MONTGOMERY T-TUBE INSERTION — POST-INTUBATION TRACHEAL STENOSIS
+OPERATIVE REPORT
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+ENT CO-SURGEON: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 38M
+
+PLAN (documented at top per department template):
+1. IP clinic follow-up 2 weeks.
+2. T-tube bronchoscopy check (flexible via sidearm) at 4 weeks.
+3. SLP for Passy-Muir trial (T-tube capped state allows voicing).
+4. Surgical candidacy for tracheal resection reassessment at 12 months.
+
+PRE-PROCEDURE DIAGNOSIS: Post-intubation tracheal stenosis, subglottic, grade III (J95.5)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube in satisfactory position
+
+PROCEDURE CODES:
+  31631-22     — Rigid bronchoscopy, complex (increased complexity for T-tube placement with laser)
+  31641        — Therapeutic bronchoscopy (laser ablation)
+  [T-tube code: unlisted — 31899; billing: confirm 31899:22 modifier vs 31631-22 per payer; coding addendum to follow]
+
+ANESTHESIA: GA; TIVA; spontaneous ventilation.
+
+PROCEDURE: Rigid bronchoscopy (8.5 → 10.5 → 12.5 mm scopes sequential) confirmed subglottic grade III stenosis at 1.2 cm below vocal cords; fibrous mature web; 4 mm residual lumen. Nd:YAG radial incisions (4 positions). Balloon dilation: 10 → 12 → 14 mm. Post-dilation lumen 13 mm. Stoma created at ring 2–3 under transillumination. T-tube (13 × 60 × 30 mm) introduced; upper limb seated above cords; sidearm exteriorized. Flexible scope confirmed position. Voice test: clear phonation with sidearm plugged.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Grade I mucosal lacerations. Transient SpO2 dip to 88% during proximal limb placement — spontaneous ventilation maintained; FiO2 increased; recovered within 60 seconds. EBL: 15 mL.
+<<<END NOTE 038>>>
+
+<<<NOTE 039>>>
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+
+MONTGOMERY T-TUBE MANAGEMENT — TUBE EXCHANGE (ROUTINE)
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 67M
+
+INDICATION: Routine T-tube exchange; T-tube in situ 14 months; encrustation and partial inner surface obstruction on prior bronchoscopy.
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained
+  ☑ ENT co-present for upper limb manipulation
+  ☑ New T-tube (same size: 14 mm × 80 mm × 35 mm) confirmed at bedside
+  ☑ Rigid bronchoscope and laser on standby 0‌
+  ☑ GA/anesthesia team present 1‌
+  ☐ Tracheoplasty not planned — ENT evaluation completed, no structural change
+
+PROCEDURE:
+GA induced. Rigid bronchoscope introduced through existing stoma. T-tube identified; tracheal limb patent but inner surface with thick mucoid encrustation. Sidearm sutures released. Flexible bronchoscope passed via sidearm — granulation tissue at proximal stoma margin (3 × 4 mm); trimmed with forceps/cold instrument; sent to pathology (r/o malignant transformation). Old T-tube removed via rigid barrel after folding with T-tube forceps — sidearm withdrawn through stoma simultaneously with assistant coordination.
+
+Stoma and tracheal lumen inspected: mucosa pink, no significant injury at old tube site. New T-tube (14 × 80 × 35 mm) folded and inserted via rigid barrel; repositioned identically; sidearm exteriorized. Position confirmed.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Flexible bronchoscopy via sidearm: lumen patent; upper limb 1.5 cm above cords; distal end 3 cm above carina
+  ☑ Phonation confirmed (sidearm plugged)
+  ☑ New sutures placed; dressing applied
+
+SPECIMENS: Stoma granulation tissue — formalin; H&E (r/o recurrent ACC or squamous metaplasia).
+COMPLICATIONS: None. EBL: <5 mL.
+<<<END NOTE 039>>>
+
+<<<NOTE 040>>>
+EDGE_CASE_TAGS: noisy_units, conflicting_details
+
+MONTGOMERY T-TUBE INSERTION — IDIOPATHIC SUBGLOTTIC STENOSIS
+OPERATIVE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+CO-SURGEON: [NAME:REDACTED], MD (Laryngology / ENT)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 34F
+
+PRE-PROCEDURE DIAGNOSIS: Idiopathic subglottic stenosis (iSGS), recurrent, grade III; failed serial balloon dilation x4 (J38.6)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube inserted; phonation preserved
+
+PROCEDURE: Rigid bronchoscopy, Nd:YAG laser, balloon dilation, Montgomery T-tube insertion
+
+ANESTHESIA: GA, TIVA, spontaneous. [Nursing intake documents "supraglottic airway" — confirmed with anesthesia: LMA Fastrach #4 placed initially; removed when rigid bronchoscope passed transorally, per standard T-tube procedure; notation in nursing form is partially incorrect — rigid bronchoscope served as ventilation device, not LMA throughout the operative phase. Anesthesia record addendum pending.]
+
+MEDICATION LOG:
+  Propofol infusion: 100–130 mcg/kg/min
+  Remifentanil: 0.08 mcg/kg/min
+  Topical lidocaine 4%, 3m mL [noisy — intended 3 mL] via rigid scope
+
+PROCEDURE:
+Rigid bronchoscope (8.5 mm → 10.5 mm). Subglottic web: grade III, fibrous, 1.0 cm below cords, 2.8 cm length, 3 mm residual lumen. Nd:YAG laser: radial incisions x4 (15 W, 0.3 sec pulses, contact mode, ~35 pulses). Serial dilation: 10 → 12 mm CRE balloon. Post-dilation lumen 12 mm. Stoma (ring 3, 2 cm below cricoid): 1.5 cm incision. T-tube selected: 11 mm × 60 mm × 25 mm sidearm (smaller tube given female anatomy and smaller tracheal diameter). T-tube folded, introduced via rigid barrel; upper limb maneuvered above cords (laryngoscope view confirmed — no arytenoid contact); sidearm exteriorized through stoma. Flexible scope via sidearm: lumen patent; upper limb visible above cords; distal end 4 cm above carina. Phonation with sidearm plugged: good vocal quality.
+
+COMPLICATIONS: SpO2 dip to 86% during proximal limb seating — self-limited; ventilation via rigid scope maintained; SpO2 recovered to 97% within 2 minutes. EBL: ~10 mL. Grade I mucosal lacerations at laser sites.
+
+PLAN: T-tube care protocol. SLP. IP/ENT co-follow-up 2 weeks. Autoimmune workup (GPA, anti-PR3) to confirm idiopathic vs vasculitic etiology — ordered.
+<<<END NOTE 040>>>
+
+<<<NOTE 041>>>
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting, conflicting_details
+
+OPERATIVE REPORT — PROCEDURE WITH SIGNIFICANT COMPLICATION
+EBUS-TBNA COMPLICATED BY MASSIVE HEMOPTYSIS AND EMERGENT AIRWAY INTERVENTION
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 67M
+
+PRE-PROCEDURE DIAGNOSIS: Right hilar mass (3.8 cm), highly PET-avid; mediastinal adenopathy; suspected NSCLC (R91.1; R59.9)
+POST-PROCEDURE DIAGNOSIS: EBUS-TBNA performed; massive hemoptysis post-biopsy requiring emergent rigid bronchoscopy and airway tamponade; NSCLC suspected (cytology pending)
+
+PROCEDURES:
+  31652 — EBUS-TBNA, 2 stations
+  31641 — Emergent rigid bronchoscopy, therapeutic (hemorrhage control)
+  31620 — Endobronchial ultrasound (guidance)
+
+ANESTHESIA: Moderate sedation → converted to GA (emergent). Moderate sedation initiated: midazolam 4 mg + fentanyl 125 mcg IV. Emergent GA: propofol 150 mg IV bolus + succinylcholine 120 mg IV for intubation.
+
+CLINICAL BACKGROUND:
+67-year-old male, anticoagulated on apixaban (held 48h pre-procedure — patient self-reported; pharmacy verification: last dose confirmed 36 hours prior, not 48h [CONFLICT: intake form documents "48h hold" confirmed; medication reconciliation shows 36h — subtherapeutic wash-out; noted retrospectively]). Known NSCLC suspicion. INR 1.0, platelets 198k (labs drawn morning of procedure).
+
+PROCEDURE (Antecedent to Complication):
+EBUS bronchoscope introduced. Station 4R: 1.9 cm node; 3 passes; ROSE: malignant (adenocarcinoma). Station 10R: 2.2 cm hilar node; 4 passes (needle advanced into friable vascular-appearing node). On fourth pass at station 10R, brisk red blood appeared in suction tubing followed by patient cough spike. Assessment: vigorous suction — blood visible pooling in right mainstem bronchus via EBUS scope.
+
+COMPLICATION — MASSIVE HEMOPTYSIS:
+Volume assessment: approximately 150–200 mL bright red blood suctioned within 3 minutes; continued active hemorrhage from RMB. SpO2 fell from 97% to 78% over 90 seconds. Decision: emergent conversion to general anesthesia.
+
+EMERGENT MANAGEMENT SEQUENCE:
+  T+0:00 — Hemorrhage recognized; suction maximized; patient repositioned right lateral decubitus (bleeding side down) to protect left lung
+  T+0:45 — Code airway called; anesthesia to bedside
+  T+1:30 — Propofol 150 mg IV + succinylcholine 120 mg IV; direct laryngoscopy; 8.0 ETT placed; intubated. SpO2 82%.
+  T+2:00 — Rigid bronchoscope (Karl Storz 12.5 mm) brought to room emergently. ETT removed; rigid scope introduced.
+  T+3:00 — Rigid scope in RMB: blood clot and active hemorrhage from RMB/station 10R region visualized. Clot partially extracted with suction and rigid forceps. Active vessel not visualized (submucosal).
+  T+4:00 — Fogarty balloon catheter (14 Fr) introduced through rigid scope into RMB; balloon inflated 3 mL to tamponade RMB. Contralateral (left) lung ventilated via rigid barrel/jet ventilation. SpO2 improved to 89%.
+  T+6:00 — Epinephrine 1:10,000 solution 4 mL instilled through working channel alongside Fogarty.
+  T+8:00 — Fogarty balloon deflated under direct vision: active hemorrhage diminished to slow ooze. Cold saline irrigation 20 mL x3. APC applied (2 L/min flow, 35 W) to hemorrhagic submucosal area at RMB medial wall (site of station 10R TBNA).
+  T+12:00 — Hemostasis achieved; minimal ooze only. Fogarty removed. Flexible bronchoscope through rigid barrel: bilateral airways inspected; left lung clear; RML, RLL bronchi patent; residual blood-tinged secretions only.
+  T+15:00 — 8.0 ETT placed through rigid barrel under bronchoscopic guidance; rigid scope removed; patient ventilated via ETT. Transferred to ICU intubated.
+
+TOTAL BLOOD LOSS: Estimated 250–300 mL (suction collection measured 270 mL).
+
+POST-PROCEDURE COURSE (documented in this note for continuity):
+Patient transferred to ICU intubated. CT angiography chest performed post-stabilization: no active contrast extravasation; no pseudoaneurysm; RMB mucosal irregularity consistent with biopsy site. Interventional radiology placed on standby (not required). Apixaban not restarted. Patient extubated at ICU hour 14 after stabilization. CXR: mild RML/RLL haziness (aspiration of blood); improved at 24h.
+
+FORMAL COMPLICATION CLASSIFICATION: Severe procedural complication (massive hemoptysis requiring emergent airway intervention and ICU admission). Adverse event report filed.
+
+SPECIMENS: Station 4R (3 passes) — cytology + cell block. Station 10R specimens contaminated with blood — cytospin sent; pathology notified of hemorrhagic specimen.
+
+PLAN:
+1. Repeat EBUS-TBNA deferred minimum 4 weeks; if station 4R ROSE is diagnostic (adenocarcinoma), may not be needed.
+2. Apixaban discussion with cardiology re: restart timing.
+3. CT-guided biopsy of station 10R hilar node as alternative if tissue required.
+4. Oncology referral with available cytology results.
+5. Formal M&M case review scheduled.
+<<<END NOTE 041>>>
+
+<<<NOTE 042>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+PROCEDURE NOTE — NAVIGATIONAL BRONCHOSCOPY WITH COMPLICATION
+TENSION PNEUMOTHORAX POST-CRYOBIOPSY — EMERGENT MANAGEMENT
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 54F
+
+FINAL DISPOSITION: Patient recovered, chest tube placed, pneumothorax resolved, admitted overnight for observation. Biopsy results pending.
+
+PRE-PROCEDURE DIAGNOSIS: Right lower lobe 2.1 cm solid nodule, PET-positive (SUVmax 6.1), newly detected (R91.1)
+POST-PROCEDURE DIAGNOSIS: Same; post-procedural tension pneumothorax (complication of cryobiopsy) managed; 14 Fr chest tube placed
+
+PROCEDURES:
+  31627 — Navigational bronchoscopy
+  31628 — Transbronchial biopsy (cryoprobe)
+  [Needle aspiration/chest tube: 32551 — tube thoracostomy, emergent]
+
+ANESTHESIA: GA; ETT; TIVA.
+
+PROCEDURE IN DETAIL:
+Robotic navigational bronchoscopy to RLL posterior basal segment (B10); shape-sensing confirmed; rEBUS: eccentric ring (adjacent to lesion). Cryoprobe deployed: 3 freeze-thaw cycles, 2 seconds each. Tissue cores adequate x3. Brushings x2. BAL 50 mL.
+
+COMPLICATION — TENSION PNEUMOTHORAX:
+During scope withdrawal, SpO2 acutely declined from 99% to 74% with rising peak airway pressures (peak 52 cm H2O, plateau 47 cm H2O). Tracheal deviation noted on clinical inspection (toward left). Breath sounds absent on right. Diagnosis: right tension pneumothorax.
+
+EMERGENT DECOMPRESSION:
+  T+0 — Tension pneumothorax recognized.
+  T+1:00 — 14-gauge angiocath inserted at right 2nd ICS, MCL (needle decompression); rush of air confirmed; SpO2 improved to 88%; airway pressures fell to peak 36.
+  T+2:00 — 14 Fr small-bore chest tube placed (Seldinger) at right 5th ICS, anterior axillary line; connected to water-seal drainage.
+  T+3:00 — SpO2 99%; airway pressures normalized (peak 26, plateau 20).
+  CXR: right lung re-expanded; chest tube in satisfactory position.
+
+Patient extubated uneventfully 45 minutes post-chest tube placement. Admitted to step-down unit.
+
+SPECIMENS: RLL cryobiopsies x3 — formalin. Brushings — ThinPrep. BAL — cytology, culture.
+
+COMPLICATIONS: Right tension pneumothorax — managed emergently as above. EBL: <5 mL (separate from pneumothorax event). Adverse event report filed.
+
+PLAN:
+1. Chest tube to water seal; remove when output <100 mL/24h and no air leak x24h.
+2. Repeat CXR q12h.
+3. Pathology results in 5–7 days.
+4. Oncology referral if malignant.
+5. Case to be presented at IP quality review.
+<<<END NOTE 042>>>
+
+<<<NOTE 043>>>
+EDGE_CASE_TAGS: table_with_tabs, conflicting_details
+
+PROCEDURE NOTE — PDT COMPLICATED BY POSTERIOR TRACHEAL WALL INJURY
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 74M
+
+PRE-PROCEDURE DIAGNOSIS: Prolonged ventilator dependence; ICU day 21; neuromuscular weakness (J96.00)
+POST-PROCEDURE DIAGNOSIS: Percutaneous tracheostomy; posterior tracheal wall laceration (1.5 cm) — managed conservatively; trach in satisfactory position
+
+PROCEDURE: PDT (Ciaglia Blue Rhino); CPT 31600; 31622
+
+ANESTHESIA: Propofol infusion; fentanyl 100 mcg; vecuronium 6 mg.
+
+PROCEDURE:
+Blue Rhino PDT performed. At time of Blue Rhino dilator advancement (over guidewire), slight resistance noted; maintained bronchoscopic visualization — dilator tip briefly deflected posteriorly; small (1.5 cm) posterior tracheal wall laceration identified on immediate post-insertion bronchoscopy.
+
+COMPLICATION MANAGEMENT:
+
+	Finding	Description	Management
+	Posterior wall tear	1.5 cm linear; mucosa only; no full-thickness (muscularis intact on bronchoscopy)	Conservative; tube positioned distal to tear
+	Hemorrhage	Minimal ooze (<5 mL) from laceration	Cold saline; self-limited
+	Trach position	Tip 5 cm above carina; away from laceration	Satisfactory
+
+Thoracic surgery consulted urgently — reviewed bronchoscopy images; recommended conservative management given superficial laceration without pneumomediastinum or tension. CT chest: no pneumomediastinum; no subcutaneous emphysema. Laceration monitored with repeat flexible bronchoscopy at 24h, 72h, 1 week.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Posterior tracheal wall mucosa laceration (1.5 cm, superficial); managed conservatively. EBL: <5 mL. Thoracic surgery notified and in agreement with plan. [Note: prior nursing pre-procedure note documents "difficult anatomy noted" — attending was not informed pre-procedure; review of note timing confirms nurse note added to chart after procedure, not before — documentation timeline under review.]
+
+PLAN:
+1. Repeat bronchoscopy 24h, 72h, 1 week to confirm laceration healing.
+2. CT chest without contrast to exclude pneumomediastinum — obtained, negative.
+3. Keep trach cuff inflated to protect laceration from aspiration.
+4. Thoracic surgery co-management.
+5. Adverse event report filed.
+<<<END NOTE 043>>>
+
+<<<NOTE 044>>>
+EDGE_CASE_TAGS: ultra_short, missing_section
+
+EMERGENCY PROCEDURE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 48M
+
+EMERGENCY BRONCHOSCOPY — DISLODGED AIRWAY STENT WITH ACUTE OBSTRUCTION
+Indication: Known tracheal Dumon stent (placed 8 weeks prior); acute stridor, dyspnea, SpO2 72% on arrival.
+Procedure: Emergency rigid bronchoscopy; stent retrieval; balloon bronchoplasty; repeat stent placement.
+Findings: Dumon stent migrated distally into LMB; near-complete obstruction of LMB orifice; RMB patent. Stent grasped with rigid forceps; extracted. Post-removal: LMB open. Balloon (12 mm) to LMB for residual stenosis. New Dumon stent placed in trachea (18 mm × 40 mm).
+Complications: Hypoxic cardiac arrest (PEA) during induction — ACLS initiated; ROSC in 2 minutes; amiodarone 300 mg IV; rhythm: sinus tachycardia post-ROSC. Patient stabilized; airway secured. Admitted to ICU intubated. Cardiology consult placed.
+Outcome: Patient extubated ICU day 2. Tracheal stent in position. Adverse event report filed.
+<<<END NOTE 044>>>
+
+<<<NOTE 045>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting, malformed_codes
+
+PROCEDURE NOTE — THORACENTESIS WITH COMPLICATION
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 69F
+
+PRE-PROCEDURE DIAGNOSIS: Left-sided pleural effusion, malignant, recurrent (J91.0); breast cancer with pleural mets (C79.2)
+POST-PROCEDURE DIAGNOSIS: Same; thoracentesis completed; re-expansion pulmonary edema (complication)
+
+PROCEDURE CPT: 32555-71 [modifier 71: bilateral procedure, unilateral performed — note: modifier application under review by billing; format 32555:71 confirmed incorrect for this case per coder; pending correction]
+
+ANESTHESIA: Local only; 1% lidocaine 8 mL.
+
+PROCEDURE: US-guided left thoracentesis; 17-gauge Turkel kit; large anechoic effusion confirmed on US (depth 6.1 cm). Drainage initiated; 1,650 mL straw-colored fluid drained. Patient complained of progressive chest tightness beginning at 1,200 mL — drainage continued per patient request ("I want it all out"). At 1,650 mL, patient developed acute respiratory distress: SpO2 dropped from 97% to 84%; new right-sided rales on auscultation; patient coughing vigorously.
+
+COMPLICATION — RE-EXPANSION PULMONARY EDEMA:
+Drainage stopped immediately at 1,650 mL. Patient placed in sitting position; supplemental O2 increased from 2 L NC to 15 L NRB. CXR portable: pulmonary edema pattern in left (re-expanded) lung consistent with re-expansion pulmonary edema (REPE). patientpatient [sic] — patient monitored closely; SpO2 improved to 94% over 20 minutes on NRB. Diuresis: furosemide 40 mg IV per primary team.
+
+Admission for monitoring; telemetry. SpO2 97% on 2 L NC by hour 4.
+
+SPECIMENS: Pleural fluid 1,650 mL — cytology, LDH, protein, pH, CEA.
+
+COMPLICATIONS: Re-expansion pulmonary edema; O2-responsive; no intubation required. Adverse event documented. EBL: None.
+
+PLAN:
+1. Future thoracenteses capped at 1,000–1,200 mL per session.
+2. Oncology re: systemic therapy optimization to reduce effusion rate.
+3. Indwelling pleural catheter (IPC) discussion for symptom palliation — appointment scheduled.
+<<<END NOTE 045>>>
+
+<<<NOTE 046>>>
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+
+PROCEDURE NOTE — T-TUBE COMPLICATED BY VALVE MIGRATION AND ACUTE OBSTRUCTION
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55M
+
+COMPLICATIONS DOCUMENTATION (per institutional reporting protocol, listed at top):
+Complication type: Mucus impaction with acute obstruction of Montgomery T-tube; emergent bronchoscopic clearance required. Grade: Moderate (Clavien-Dindo III equivalent). Outcome: Resolved; patient discharged. No intubation required. Adverse event report filed.
+
+PRE-PROCEDURE DIAGNOSIS: Montgomery T-tube in situ (placed 4 months prior, post-intubation subglottic stenosis); acute dyspnea and stridor (J95.5; J98.01)
+
+POST-PROCEDURE DIAGNOSIS: T-tube mucus impaction cleared; tube position intact and satisfactory
+
+PROCEDURE: Flexible bronchoscopy through T-tube sidearm; mechanical clearance (CPT 31622)
+
+ANESTHESIA: Moderate sedation (midazolam 2 mg, fentanyl 75 mcg IV); supplemental O2 via face mask.
+
+Medication note: Patient had taken prescribed mucolytic (guaifenesin) 6 0 0mg [noisy — intended 600 mg] TID; compliance reported as poor over preceding week.
+
+PROCEDURE:
+Patient presented to IP clinic in moderate distress; SpO2 90% on room air; audible stridor. T-tube sidearm examined externally: sidearm plug in place (patient had not removed per instructions). Sidearm plug removed: immediate partial relief of symptoms. Flexible bronchoscope (4.9 mm) introduced via sidearm. Tracheal limb: near-complete occlusion with thick, tenacious dark green mucoid material and hardened mucoid cast extending from mid-tracheal limb to distal end. Upper limb (above cords) also partially occluded. Mechanical debridement: suction catheter + forceps piecemeal extraction; warm saline lavage (0.9% NaCl, 10 mL aliquots x6) instilled via sidearm. After 15 minutes of lavage and suction: T-tube lumen fully patent; SpO2 97%.
+
+T-tube structural integrity: intact; no fracture; sidearm joint intact.
+
+SPECIMENS: Mucus sent for culture.
+
+POST-PROCEDURE PLAN:
+1. Mucolytic compliance counseling; prescribe N-acetylcysteine nebulized 20% solution BID.
+2. Saline nebulization QID mandatory.
+3. T-tube inner surface hygiene: daily brushing protocol with pipe cleaner reinstructed.
+4. IP clinic in 2 weeks; repeat flexible bronchoscopy via sidearm to confirm patency.
+5. Pulmonary hygiene program referral.
+<<<END NOTE 046>>>
+
+<<<NOTE 047>>>
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+ICU BRONCHOSCOPY NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   FELLOW: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 63M
+
+INDICATION: Ventilated patient; bilateral opacities; R/O diffuse alveolar hemorrhage (DAH) vs pneumonia; ANCA-associated vasculitis (M31.31) on treatment.
+
+PRE-PROCEDURE DIAGNOSIS: New bilateral infiltrates, mechanically ventilated patient; suspected DAH (D69.0 provisional)
+POST-PROCEDURE DIAGNOSIS: Same; serial BAL consistent with DAH (progressively bloodier aliquots); awaiting pathology/cytology
+
+PROCEDURE: Flexible bronchoscopy, BAL bilateral (CPT 31624)
+
+ANESTHESIA: No additional sedation; patient on propofol 35 mcg/kg/min + fentanyl drip (baseline ICU). Paralytic held during procedure for cough assessment.
+
+MONITORING: Continuous arterial line, SpO2, ETCO2, invasive BP.
+
+PROCEDURE:
+
+EBUS scope not used; standard Olympus BF-P290 via ETT (8.0 ETT). Airways inspected:
+
+	Location	Mucosal Appearance	BAL Aliquot Results
+	Trachea	Diffuse erythema; blood-tinged secretions	—
+	Right upper lobe B1	Erythematous; no discrete lesion	Aliquot 1: pink-tinged
+	Right lower lobe B10	Erythematous	Aliquot 2: bright red
+	Left lower lobe B9	Diffuse erythema	Aliquots 1–3: progressively bloodier (serial DAH pattern confirmed)
+
+Serial BAL protocol (LLL B9, primary site): 3 × 60 mL aliquots, each progressively bloodier — diagnostic for DAH.
+
+BAL fluid analysis ordered:
+  Hemosiderin-laden macrophages (Prussian Blue stain)
+  Cytology and cell differential
+  BAL Golde score (hemosiderin index)
+  AFB, fungal, bacterial culture
+  Urinalysis + anti-GBM, ANCA re-check (concurrent with BAL)
+
+COMPLICATIONS: Transient SpO2 drop to 86% during RLL BAL; FiO2 increased to 1.0 for 3 minutes; recovery to 95% on FiO2 0.7. No pneumothorax. EBL: moderate (BAL return heavily blood-tinged but consistent with DAH, not iatrogenic).
+
+PLAN:
+1. DAH pattern confirmed bronchoscopically; pulse-dose methylprednisolone 1 g IV x3 days initiated.
+2. Cyclophosphamide vs rituximab decision pending rheumatology.
+3. Plasmapheresis consult for severe DAH with ANCA.
+4. Repeat bronchoscopy in 48–72h if clinical worsening.
+<<<END NOTE 047>>>
+
+<<<NOTE 048>>>
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+
+ICU BRONCHOSCOPY — MUCUS PLUGGING / LOBAR ATELECTASIS
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 49F
+
+Indication: ICU day 3; postoperative (right pneumonectomy for SCC); complete left upper lobe collapse on morning CXR; increasing peak pressures.
+Procedure: Flexible bronchoscopy via 8.0 ETT; LUL mucus plug extraction and lavage.
+Findings: LUL orifice occluded with large white-tan mucus cast; extracted with suction and forceps (2 passes). Post-clearance: LUL B1, B2, B3 patent; lung re-expanded clinically (decreased peak pressure from 44 to 28 cm H2O post-procedure). patientpatient [sic] — patient tolerated well.
+BAL LUL: culture.
+Complications: Transient SpO2 dip to 88%; recovered within 60 seconds with FiO2 increase.
+Plan: Chest PT; acetylcysteine neb; repeat bronchoscopy PRN.
+<<<END NOTE 048>>>
+
+<<<NOTE 049>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting, table_with_tabs
+
+ICU BRONCHOSCOPY — HEMOPTYSIS EVALUATION IN VENTILATED PATIENT
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+FELLOW: [NAME:REDACTED], MD (PCCM Year 1, supervised)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 71M
+
+PRELIMINARY FINDINGS AND CLINICAL IMPRESSION (per MICU rounding handoff, documented first):
+Active endobronchial hemorrhage localized to right upper lobe B2 (posterior segment); no endobronchial mass identified; clot extracted; hemorrhage controlled with topical epinephrine; etiology unclear (consider ulcerated pulmonary artery catheter injury vs aspergillus angioinvasion given profound neutropenia); bronchoscopy tolerated; additional workup as below.
+
+PRE-PROCEDURE DIAGNOSIS: Hemoptysis in ventilated patient; MICU day 5; AML induction chemotherapy (profound neutropenia, ANC 0.0) (D70.1); suspected invasive pulmonary aspergillosis (IPA) vs pulmonary artery catheter-related injury (R04.2)
+POST-PROCEDURE DIAGNOSIS: RUL B2 active hemorrhage; clot; etiology pending (PA catheter wedge position in B2 confirmed on CXR retrospectively)
+
+PROCEDURE: Flexible bronchoscopy, diagnostic and therapeutic (CPT 31622; 31623)
+
+ANESTHESIA: Propofol 40 mg bolus + fentanyl 50 mcg bolus (addition to baseline ICU infusions). No paralytic.
+
+BRONCHOSCOPIC FINDINGS:
+
+	Location	Appearance	Action Taken
+	Trachea	Blood-streaked secretions throughout	Suctioned
+	Carina	Sharp; blood emanating from RMB	—
+	RUL B2 (posterior)	Active ooze; 1.2 cm adherent clot	Clot extracted with suction; epinephrine instilled
+	RUL B1, B3	Patent; mild blood staining	Suctioned
+	RLL, RML	Patent; blood-stained secretions	BAL obtained RML
+	Left-sided airways	Clear; no blood	—
+
+Epinephrine 1:10,000 solution, 3 mL, instilled at RUL B2 site; hemorrhage reduced to minimal ooze. Cold saline lavage 10 mL x2.
+
+BAL (RML B4) — sent for:
+  Galactomannan (BAL galactomannan threshold >1.0 for IPA)
+  Beta-D-glucan, Aspergillus PCR
+  Bacterial/AFB/fungal culture
+  Cytology
+
+PA catheter position reviewed on CXR post-bronchoscopy: tip confirmed in RUL B2 position — balloon likely over-wedged. PA catheter withdrawn 3 cm by ICU team; tip repositioned to main PA.
+
+SPECIMENS: RML BAL — galactomannan, culture, cytology; RUL B2 clot — sent in saline to pathology (fungal hyphae/GMS stain).
+
+COMPLICATIONS: None new. Transient SpO2 drop 91% during clot extraction; recovered with FiO2 increase. EBL: 10–15 mL total suctioned.
+
+PLAN:
+1. PA catheter repositioned — monitor for recurrent hemoptysis.
+2. Serum galactomannan + BAL galactomannan; if positive: escalate to voriconazole (currently on prophylactic micafungin).
+3. CT chest (high-res) if patient stable enough — halo sign, angioinvasion pattern.
+4. Interventional radiology bronchial artery embolization on standby if hemorrhage recurs and patient survives to transportation.
+5. Infectious disease co-management.
+<<<END NOTE 049>>>
+
+<<<NOTE 050>>>
+EDGE_CASE_TAGS: extreme_length, conflicting_details, unicode_checkboxes
+
+ICU BRONCHOSCOPY — COMPLEX VENTILATED PATIENT
+POST-LUNG TRANSPLANT AIRWAY COMPLICATIONS EVALUATION
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+TRANSPLANT PULMONOLOGY CO-ATTENDING: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 56F
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Bilateral lung transplantation, day 21; acute cellular rejection suspected (T86.819)
+  2. New left anastomotic dehiscence, suspected on CT (J98.09)
+  3. Ventilator-dependent, post-transplant (J96.00)
+  4. New rise in BAL galactomannan — invasive aspergillosis vs colonization
+
+POST-PROCEDURE DIAGNOSES:
+  1. Left anastomotic dehiscence confirmed (1.0 cm defect at LMB anastomosis — grade II per ISHLT classification)
+  2. Bilateral airway mucosal changes consistent with ischemia/ischemia-reperfusion injury
+  3. BAL samples obtained; galactomannan result pending
+  4. No endobronchial lesion
+
+PROCEDURE: Flexible bronchoscopy with BAL and endobronchial biopsies (CPT 31622; 31623; 31628)
+
+ANESTHESIA: No additional sedation; patient deeply sedated on baseline propofol + fentanyl infusion; paralytic (cisatracurium) held for 30 minutes pre-procedure. [Nursing MAR documents: "cisatracurium infusion ongoing during procedure" — conflict with attending plan; MAR reviewed in real time; infusion was running at 0.1 mcg/kg/min (minimal) vs full-dose; attending confirmed acceptable level of neuromuscular recovery; MAR annotation error: infusion not stopped, titrated to minimum.]
+
+PRE-PROCEDURE CHECKLIST (transplant bronchoscopy protocol):
+  ☑ Consent: surrogate (spouse) — patient unable to consent; documented
+  ☑ Time-out completed
+  ☑ CMV viral load reviewed (ordered; result pending at time of procedure)
+  ☑ Immunosuppression levels reviewed: tacrolimus trough 8.2 ng/mL (therapeutic)
+  ☑ Coags: INR 1.5 (elevated — acceptable per transplant attending decision) 0‌
+  ☑ Bronchoscopy kit: 4.9 mm scope compatible with 8.0 ETT
+  ☐ Bronchial brush: not used — replaced by BAL + forceps biopsy per protocol 1‌
+
+INSTRUMENTS: Olympus BF-P290 (4.9 mm OD); 2.0 mm cup forceps biopsy; BAL catheter.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — SURVEY:
+Bronchoscope introduced via 8.0 ETT. Scope passed to carina. Survey findings:
+
+RIGHT ANASTOMOSIS (at RMB — 3 cm distal to carina):
+  Anastomosis appearance: circumferential mild edema; suture line intact; no dehiscence; mucosa mildly pale/ischemic at suture margins. No granulation tissue (day 21 — early). ISHLT grade: 0 (intact anastomosis, mild ischemia).
+  Right donor airways (RMB, RUL, RML, RLL): diffuse mucosal pallor and mild friability — consistent with ischemia-reperfusion; no hemorrhage; no fungal plaques.
+
+LEFT ANASTOMOSIS (LMB — 3.5 cm distal to carina):
+  Critical finding: 1.0 cm defect at posterior wall of LMB anastomosis; edges with necrotic appearance; suture line disrupted along 270-degree arc posteriorly; extraluminal tissue visible through defect. Consistent with grade II anastomotic dehiscence (ISHLT classification: partial dehiscence with necrosis but without full circumferential disruption).
+  No air leak audible at this phase (cuff inflated).
+  Left donor airways: mucosal pallor; LUL B1+2, LLL patent; no fungal plaques visible; mucosal friability moderate.
+
+PHASE 2 — SAMPLING:
+Transbronchial biopsies:
+  Right lower lobe (B9) — 4 cup-forceps biopsies (rejection protocol; adequate cores on inspection; mild ooze, self-limited).
+  Left lower lobe (B9) — 4 cup-forceps biopsies (cautious given anastomotic dehiscence; forceps did not approach anastomosis).
+
+BAL: Right lower lobe (B9) — 60 mL instilled, 38 mL returned. Left lower lobe (B8) — 60 mL instilled, 41 mL returned.
+
+PHASE 3 — ANASTOMOTIC ASSESSMENT AND INTERVENTION:
+Left anastomotic dehiscence discussed emergently with transplant surgery. Decision: conservative management initially. Covered stent evaluated — deferred (anastomosis only day 21; stent at LMB risks occlusion of LUL orifice; surgical revision discussed). Air leak confirmed by brief cuff deflation: audible air leak on left; cuff reinflated to seal. Plan: maintain positive-pressure ventilation with cuff inflated; aggressive immunosuppression adjustment; CT surveillance.
+
+SPECIMENS:
+  A1: RLL B9 TBBx x4 — formalin; H&E (acute cellular rejection grading per Lung Rejection Study Group classification); GMS/PAS stain
+  A2: LLL B9 TBBx x4 — formalin; same protocol
+  B1: RLL BAL (60 mL) — galactomannan, Aspergillus PCR, CMV PCR, HSV PCR, bacterial/AFB/fungal culture, cytology, lymphocyte subsets
+  B2: LLL BAL (60 mL) — same protocol
+
+COMPLICATIONS: Mild hemorrhage at TBBX sites (both sides); controlled with cold saline. INR 1.5 — no significant coagulopathic bleeding. SpO2 maintained >92% throughout (FiO2 0.60 baseline). EBL: <10 mL.
+
+POST-PROCEDURE PLAN:
+1. Left anastomotic dehiscence grade II: emergent transplant surgery notification complete; plan for CT chest in AM; surgical revision vs covered stent to be determined at multidisciplinary conference tomorrow.
+2. Maintain cuffed ventilation; do not deflate cuff until surgical plan determined.
+3. Galactomannan result (BAL) expected within 24h; if >1.0, add voriconazole; current prophylaxis: micafungin.
+4. Rejection protocol biopsies to pathology — result expected 48h; if A2 or greater rejection: pulse steroids.
+5. CMV PCR result pending; if positive: ganciclovir.
+6. Tacrolimus level rechecked in AM.
+7. Transplant surgery, transplant pulmonology, and IP co-management ongoing.
+8. Family updated; goals of care reviewed — aggressive treatment plan confirmed by surrogate.
+<<<END NOTE 050>>>

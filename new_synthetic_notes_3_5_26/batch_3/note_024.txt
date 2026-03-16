@@ -1,0 +1,33 @@
+EDGE_CASE_TAGS: noisy_units, conflicting_details, missing_section
+
+BRONCHOSCOPY PROCEDURE NOTE — FLEXIBLE DIAGNOSTIC
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 57M
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Suspected pulmonary tuberculosis; AFB smear positive x1 (A15.0 provisional)
+POST-PROCEDURE DIAGNOSIS: Same; BAL and TBBX obtained for cultures and pathology
+
+PROCEDURE: Flexible bronchoscopy, BAL (CPT 31624), transbronchial biopsy (CPT 31628)
+
+ANESTHESIA: Moderate sedation. Midazolam 1 mg + fentanyl 5 0 mcg [noisy unit — intended 50 mcg] IV. Topical lidocaine 4%, 6 mL total.
+
+CLINICAL NOTE: Procedure performed in negative-pressure bronchoscopy suite. All staff in N95 respirators and full airborne precautions (TB protocol). [Nursing note cross-reference lists "positive pressure room" — confirmed via OR scheduler as negative pressure; documentation error in nursing note.]
+
+AIRWAY FINDINGS:
+Patient positioned supine. Bronchoscope introduced via nostril (nasal approach — patient preference). Vocal cords visualized; normal movement. Trachea: erythematous mucosa, mild, diffuse. Carina sharp. Right upper lobe: mucosal erythema and mild friability at RUL posterior segment (B2); no discrete mass; no caseous material visible. Left mainstem and lower lobe airways: mild diffuse mucosal erythema; no discrete lesion.
+
+Concentrated sampling from RUL B2 (highest suspicion based on CT and sputum smear localization):
+  BAL: 60 mL saline, 25 mL return — sent for AFB smear and culture (MGIT liquid culture), fungal culture, cytology, Legionella/pneumococcal PCR.
+  TBBX: 4 transbronchial biopsies from RUL B2 under fluoroscopic guidance — formalin; AFB stain on tissue, PCR for MTB.
+
+SPECIMENS:
+  A: RUL B2 BAL — AFB (smear + MGIT), fungal, bacterial Cx, cytology, Legionella/pneumococcal PCR
+  B: RUL B2 TBBX x4 — formalin; H&E, AFB stain, MTB PCR
+
+COMPLICATIONS: Mild diffuse mucosal hemorrhage post-biopsy; controlled with cold saline lavage. EBL: ~3 mL.
+
+PLAN:
+1. Strict AFB isolation continued.
+2. Initiate 4-drug RIPE therapy empirically pending culture results (ID co-management).
+3. Public health notification completed per protocol.
+4. Results in 48h (rapid PCR) and 6–8 weeks (culture).

@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* Post-procedure CXR
+* CT chest 6 weeks
+* Clinic follow-up to review pathology if obtained
+
+PRE DIAGNOSIS: R91.1 peripheral nodule, RUL anterior segment
+POST DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigation + radial EBUS
+* TBNA/TBBx
+* Bronchoscopic microwave ablation 32998:RT (colon used)
+
+ANESTHESIA: General
+EBL: 15 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] 70-year-old male. Navigation to target achieved; radial EBUS eccentric. Biopsies obtained. Microwave ablation delivered in staged applications with minor catheter adjustments. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* RUL nodule: TBNA x2
+* RUL nodule: TBBx x5

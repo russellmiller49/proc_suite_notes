@@ -1,0 +1,23 @@
+EDGE_<<<NOTE _TAGS: unicode_checkboxes, reordered_sections
+
+PLAN
+0 Stable for return to floor.
+1 Follow pleural cultures and output.
+
+PROCEDURE
+0 Chest ultrasound
+1 Right thoracentesis
+
+INDICATION
+Dyspnea with moderate right pleural effusion.
+
+FINDINGS
+Ultrasound showed free-flowing anechoic right effusion with underlying atelectatic lung. 780 mL clear yellow fluid removed.
+
+SPECIMENS
+Fluid sent for chemistry and culture.
+
+COMPLICATIONS
+None immediate.
+
+<<<END NOTE>>>

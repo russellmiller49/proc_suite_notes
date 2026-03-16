@@ -1,0 +1,29 @@
+EDGE_CASE_TAGS: table_with_tabs, reordered_sections
+IMPRESSION:
+Successful PEF ablation of RLL superior segment nodule without immediate complication.
+
+PRE/POST DIAGNOSIS: R91.1 RLL superior segment nodule
+
+PROCEDURES:
+
+* Robotic bronchoscopy with navigation
+* Radial EBUS
+* CBCT
+* PEF ablation
+
+ANESTHESIA: GA
+EBL: minimal
+COMPLICATIONS: none
+
+PARAMETERS (tabs):
+Radial EBUS	concentric
+CBCT#1	edge position; adjusted
+CBCT#2	tool-in-lesion
+PEF	applications=10
+Exit	spin no PTX
+
+DETAILS:
+[PATIENT] 65-year-old male. Airway exam normal. Navigation performed; radial EBUS concentric. Two CBCT spins used to optimize catheter position. PEF delivered. Minimal oozing self-resolved.
+
+SPECIMENS: None.
+PLAN: CXR; CT chest 4–8 weeks.

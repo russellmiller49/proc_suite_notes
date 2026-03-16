@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:135
+# id: ip_procedure_prompts_batch3:68
+
+Flexible bronchoscopy with transbronchial biopsies for suspected organizing pneumonia. BAL from lingula and six transbronchial biopsies from LLL under fluoroscopy. Mild bleeding controlled with wedging and cold saline.

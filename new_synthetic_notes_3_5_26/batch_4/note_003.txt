@@ -1,0 +1,12 @@
+EDGE_CASE_TAGS: missing_section, copy_paste_artifacts
+PRE-PROCEDURE DX: Severe emphysema, upper lobe predominant (J43.9); lung hyperinflation (R06.89)
+POST-PROCEDURE DX: Same
+
+PROCEDURE: Bronchoscopy with bronchial valves (BLVR), LLL target
+ANESTHESIA: General anesthesia
+
+NOTE:
+[PATIENT] is a 64-year-old male with severe COPD referred for BLVR. Flexible bronchoscopy performed. Airways inspected to subsegmental level with no endobronchial mass. Chartis assessment suggested minimal collateral ventilation to LLL. Sizing and valve placement performed with deployment to LLL segmental bronchi. Hemostasis confirmed. patientpatient transported to recovery in stable condition.
+
+EBL: minimal
+COMPLICATIONS: none

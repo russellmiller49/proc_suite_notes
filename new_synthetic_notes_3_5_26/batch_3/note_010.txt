@@ -1,0 +1,40 @@
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+OPERATIVE REPORT — AIRWAY STENT PLACEMENT
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 68M
+
+PRE-PROCEDURE DIAGNOSIS: Malignant tracheal stenosis; non-small cell lung cancer, right lung (C34.10); extrinsic airway compression
+
+POST-PROCEDURE DIAGNOSIS: Same; Y-stent placed successfully, airway patency restored
+
+PROCEDURES:
+  31631 — Bronchoscopy, rigid, with stent placement
+  CPT 31641 — Therapeutic bronchoscopy (APC, pre-stent debulking)
+
+ANESTHESIA: General anesthesia; jet ventilation
+
+PROCEDURE IN DETAIL:
+68-year-old male with known NSCLC (previously treated with chemoradiation), now with progressive dyspnea and stridor. CT: distal tracheal narrowing 60%, carina involvement with bilateral mainstem compression. Discussed in multidisciplinary conference; palliation with Y-stent recommended.
+
+Patient intubated; switched to jet ventilation via Karl Storz 12.5 mm rigid bronchoscope. Tracheal lumen at carina 40% of expected (critical stenosis). Tumor fronds at carina debrided with rigid forceps and APC (45 W). Mucosal hemostasis confirmed.
+
+Dumon Y-stent sizing:
+	Component	Inner Diameter	Length	Position
+	Tracheal limb	18 mm	40 mm	Distal trachea
+	Right bronchial limb	14 mm	25 mm	RMB
+	Left bronchial limb	12 mm	20 mm	LMB
+
+Stent deployed via stent pusher through rigid barrel; repositioned once for optimal carina coverage. Post-deployment flexible bronchoscopy through rigid barrel confirmed:
+  - Tracheal limb: well-seated, mucosa visible proximal to stent, distal opening at carina
+  - Right limb: seated in RMB, RUL orifice visible and patent
+  - Left limb: seated in LMB, LUL and LLL orifices patent
+  Immediate post-stent airway patency: >90%
+
+COMPLICATIONS: None. EBL: <10 mL.
+
+PLAN:
+1. Humidified air/O2 to prevent mucus plugging; saline nebulization TID.
+2. Stent surveillance bronchoscopy in 6 weeks.
+3. Oncology follow-up for systemic therapy options.
+4. Patient and family counseled re: palliative intent.

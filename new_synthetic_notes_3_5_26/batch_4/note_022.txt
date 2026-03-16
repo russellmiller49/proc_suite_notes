@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+OPERATIVE NOTE — WHOLE LUNG LAVAGE (Left Lung)
+
+Patient: [PATIENT], 46-year-old female
+Indication: Symptomatic pulmonary alveolar proteinosis with progressive dyspnea and imaging consistent with PAP.
+
+Pre-op Dx: Pulmonary alveolar proteinosis (J84.01)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Bronchoscopy for airway inspection
+* Whole lung lavage (left)
+
+Anesthesia: General anesthesia with double-lumen ETT
+Monitoring: Standard ASA + arterial line
+EBL: 0 mL
+Complications: None
+
+Technique:
+Time-out performed. Flexible bronchoscopy first: no endobronchial obstruction; moderate proteinaceous secretions suctioned. Double-lumen tube confirmed with bronchoscopy. Left lung isolated and lavaged with warmed saline in sequential aliquots. Effluent initially thick and opaque, gradually clearing over the course of lavage. Intermittent chest physiotherapy and positional changes used to mobilize material. Periodic recruitment maneuvers performed to the ventilated lung as tolerated. Final effluent was lightly turbid and no longer thick. Tube position reconfirmed. Patient transported to ICU intubated for planned short-term ventilatory support and diuresis as needed.
+
+Plan:
+
+* ICU monitoring, ABG and CXR
+* Extubate when criteria met
+* Continue PAP workup/therapy planning.

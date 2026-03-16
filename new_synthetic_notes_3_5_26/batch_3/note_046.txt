@@ -1,0 +1,32 @@
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+
+PROCEDURE NOTE — T-TUBE COMPLICATED BY VALVE MIGRATION AND ACUTE OBSTRUCTION
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55M
+
+COMPLICATIONS DOCUMENTATION (per institutional reporting protocol, listed at top):
+Complication type: Mucus impaction with acute obstruction of Montgomery T-tube; emergent bronchoscopic clearance required. Grade: Moderate (Clavien-Dindo III equivalent). Outcome: Resolved; patient discharged. No intubation required. Adverse event report filed.
+
+PRE-PROCEDURE DIAGNOSIS: Montgomery T-tube in situ (placed 4 months prior, post-intubation subglottic stenosis); acute dyspnea and stridor (J95.5; J98.01)
+
+POST-PROCEDURE DIAGNOSIS: T-tube mucus impaction cleared; tube position intact and satisfactory
+
+PROCEDURE: Flexible bronchoscopy through T-tube sidearm; mechanical clearance (CPT 31622)
+
+ANESTHESIA: Moderate sedation (midazolam 2 mg, fentanyl 75 mcg IV); supplemental O2 via face mask.
+
+Medication note: Patient had taken prescribed mucolytic (guaifenesin) 6 0 0mg [noisy — intended 600 mg] TID; compliance reported as poor over preceding week.
+
+PROCEDURE:
+Patient presented to IP clinic in moderate distress; SpO2 90% on room air; audible stridor. T-tube sidearm examined externally: sidearm plug in place (patient had not removed per instructions). Sidearm plug removed: immediate partial relief of symptoms. Flexible bronchoscope (4.9 mm) introduced via sidearm. Tracheal limb: near-complete occlusion with thick, tenacious dark green mucoid material and hardened mucoid cast extending from mid-tracheal limb to distal end. Upper limb (above cords) also partially occluded. Mechanical debridement: suction catheter + forceps piecemeal extraction; warm saline lavage (0.9% NaCl, 10 mL aliquots x6) instilled via sidearm. After 15 minutes of lavage and suction: T-tube lumen fully patent; SpO2 97%.
+
+T-tube structural integrity: intact; no fracture; sidearm joint intact.
+
+SPECIMENS: Mucus sent for culture.
+
+POST-PROCEDURE PLAN:
+1. Mucolytic compliance counseling; prescribe N-acetylcysteine nebulized 20% solution BID.
+2. Saline nebulization QID mandatory.
+3. T-tube inner surface hygiene: daily brushing protocol with pipe cleaner reinstructed.
+4. IP clinic in 2 weeks; repeat flexible bronchoscopy via sidearm to confirm patency.
+5. Pulmonary hygiene program referral.

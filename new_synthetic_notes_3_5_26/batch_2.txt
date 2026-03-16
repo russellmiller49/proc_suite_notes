@@ -1,0 +1,689 @@
+<<<NOTE 001>>>
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DIAGNOSIS
+
+1. Mediastinal adenopathy (R91.8)
+2. Lung Nodule
+
+PROCEDURE
+
+* Bronchoscopy with EBUS-TBNA (31620-59, 31652, 31653-modifier)
+
+ANESTHESIA: General Anesthesia
+MONITORING: Standard ASA
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for evaluation of mediastinal lymphadenopathy. After informed consent, patient was brought to the bronchoscopy suite. A time out was performed. Under general anesthesia, a flexible bronchoscope was introduced via the ETT. Airway inspection revealed normal vocal cords, trachea, and bilateral bronchial trees. No endobronchial lesions.
+
+The linear EBUS scope (BF-UC180F) was then introduced. We surveyed stations 4R, 4L, 7, 10R, 11L.
+Station 7 measured 1.5 cm. Station 4R measured 1.2 cm.
+TBNA was performed at Station 7 x4 passes, and Station 4R x3 passes using a 22G needle. Rapid on-site evaluation (ROSE) was present.
+
+COMPLICATIONS: None
+IMPRESSION/PLAN
+
+1. Successful EBUS-TBNA of 4R and 7.
+2. Await final pathology.
+<<<END NOTE 001>>>
+
+<<<NOTE 002>>>
+EDGE_CASE_TAGS: ambiguous_laterality, noisy_units
+Indication: Evaluation of subcarinal and right hilar nodes.
+Consent: Obtained and documented.
+Technique: EBUS-TBNA
+Findings: Patient [NAME:REDACTED] was sedated with Midazolam 4m mg and Fentanyl 100mcg. A linear EBUS bronchoscope was introduced through the mouth. The right hilar node (11R) was enlarged. Wait, left hilar node (11L) was identified and sampled. TBNA of 11L was performed. TBNA of station 7 was also performed. Airway was otherwise patent.
+Specimens: 11R lymph node (wait, 11L lymph node), Station 7 lymph node.
+Plan: Patient tolerated the procedure well. Discharged to recovery.
+<<<END NOTE 002>>>
+
+<<<NOTE 003>>>
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+Patient [REDACTED] [REDACTED] underwent EBUS-TBNA of station 4R. 4 passes made. No comps comps. Patient discharged.
+<<<END NOTE 003>>>
+
+<<<NOTE 004>>>
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS: Bilateral hilar adenopathy, suspected sarcoidosis. (ICD: D86.0)
+POST-PROCEDURE DIAGNOSIS: Same.
+
+PROCEDURE:
+
+1. Flexible bronchoscopy
+2. Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA)
+3. Radial EBUS (rEBUS)
+4. Transbronchial lung biopsy (TBLB)
+
+* INDICATION: [PATIENT] is a [DOB:REDACTED] male with progressive shortness of breath and bilateral hilar fullness on recent CT chest.
+
+** ANESTHESIA: General
+** INSTRUMENTS: Olympus BF-H190, Olympus BF-UC190F, UM-S20-17S radial probe.
+
+PROCEDURE IN DETAIL:
+The patient was placed supine. Time out completed. Following induction of GA, an i-gel was placed. The standard therapeutic bronchoscope was passed. Airway exam showed mildly edematous mucosa but no mass. The scope was exchanged for the linear EBUS.
+Ultrasound survey:
+Station	Size	Appearance
+4R	12mm	Homogeneous
+7	18mm	Hypoechoic
+11L	15mm	Round
+11R	14mm	Oval
+
+We sampled Station 7 (4 passes, 21G needle). Then Station 11L (3 passes). Then Station 11R (3 passes).
+We then switched back to the standard scope and advanced a radial EBUS probe into the RB3 segment where a small subsolid density was noted. Concentric signal achieved. Transbronchial forceps biopsies were obtained x5.
+
+SPECIMENS:
+
+* EBUS TBNA Station 7
+* EBUS TBNA Station 11L
+* EBUS TBNA Station 11R
+* TBLB RB3
+
+COMPLICATIONS: None. Minimal EBL. Fluoro time 0.5 mins.
+
+PLAN: Follow up in clinic in 1 week.
+<<<END NOTE 004>>>
+
+<<<NOTE 005>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Uncomplicated EBUS-TBNA of station 4L. Await path.
+
+PRE DIAGNOSIS: Lung mass.
+PROCEDURE: EBUS-TBNA of mediastinal lymph node.
+
+* Findings: Airway normal. 4L measured 1.1 cm.
+
+* 3 passes with 22g needle.
+
+* Anesthesia: Mod sedation.
+SPECIMENS: Station 4L FNA.
+
+[PATIENT] is a [REDACTED] female. Informed consent was obtained. Procedure was performed without issue.
+<<<END NOTE 005>>>
+
+<<<NOTE 006>>>
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+Indication: Left lower lobe lung mass and enlarged 7 node.
+Anesthesia: General Anesthesia
+Technique: The patient received moderate sedation (fentanyl/versed). EBUS scope inserted.
+Findings:
+☑‌ Vocal cords normal.
+☐‌ Trachea normal (mild erythema noted).
+☑‌ Station 7 sampled x4 passes.
+Specimens: Station 7.
+Plan: Recover in PACU.
+<<<END NOTE 006>>>
+
+<<<NOTE 007>>>
+EDGE_CASE_TAGS: missing_section, noisy_units
+Patient [MRN:REDACTED] was brought to the endoscopy suite. Propofol 1500mg (wait, 150mg) administered. Linear EBUS scope inserted. Station 4R and 10R were sampled. 3 passes each. No acute issues. Plan to follow up with oncology.
+<<<END NOTE 007>>>
+
+<<<NOTE 008>>>
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+Lung nodule R91.1-
+Mediastinal node R59:90
+
+PROCEDURE
+Bronchoscopy 31620,, 31652-
+
+ANESTHESIA: MAC
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was brought to the room. Linear EBUS inserted. Survey showed an enlarged station 7. TBNA of station 7 performed. 4 passes. No comps.
+IMPRESSION
+Uncomplicated procedure procedure. Await path.
+<<<END NOTE 008>>>
+
+<<<NOTE 009>>>
+EDGE_CASE_TAGS: ambiguous_laterality
+Indication: RUL mass.
+Technique: EBUS-TBNA
+Findings: Scope passed via ETT. Airway exam unremarkable. EBUS scope used to examine the left upper lobe mass. TBNA performed on the RUL mass.
+Specimens: RUL mass TBNA.
+Plan: Discharge home.
+<<<END NOTE 009>>>
+
+<<<NOTE 010>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PLAN: Extubate and transfer to PACU. Monitor for pneumothorax with post-op CXR.
+SPECIMENS: 1. RLL nodule BAL. 2. RLL nodule FNA. 3. RLL nodule core biopsy.
+COMPLICATIONS: None.
+
+PRE-OP DIAGNOSIS: Right lower lobe pulmonary nodule (ICD-10 R91.1)
+POST-OP DIAGNOSIS: Same.
+
+PROCEDURE:
+
+1. Robotic-assisted navigational bronchoscopy (31627)
+2. Transbronchial biopsy (31628)
+3. Fluoroscopy
+
+INDICATION: [PATIENT], [REDACTED] yr old, with a 1.8 cm RLL nodule.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia, the robotic bronchoscope was calibrated and inserted. Navigation to the RLL superior segment (RB6) was successful using pre-planned pathways. Fluoroscopy confirmed target. Radial EBUS showed an eccentric view, adjusted to concentric. TBNA x3 passes performed. Then, TBBx x4 using flexible forceps. Finally, a small BAL was performed in the segment. The robotic scope was removed. Patient remained hemodynamically stable.
+<<<END NOTE 010>>>
+
+<<<NOTE 011>>>
+EDGE_CASE_TAGS: missing_section
+PRE/POST DIAGNOSIS
+Lung Nodule (R91.1)
+PROCEDURE
+Navigational Bronchoscopy with biopsy (31627, 31628)
+ANESTHESIA: General Anesthesia
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for biopsy of a LUL nodule. Using electromagnetic navigation, the sensor probe was driven into the apicoposterior segment of the LUL. Radial EBUS confirmed concentric signal. Transbronchial biopsy was performed x5 passes.
+IMPRESSION/PLAN
+
+1. Successful nav bronch of LUL nodule.
+2. Obtain post-procedure CXR.
+<<<END NOTE 011>>>
+
+<<<NOTE 012>>>
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+Indication: LLL nodule.
+Consent: Written consent obtained.
+Technique: Electromagnetic Navigational Bronchoscopy.
+Findings: Patient was under moderate sedation. The robotic scope (requires GA usually) was deployed. We navigated to the LLL basal segment. Fluoroscopy (76000-TC) utilized. Biopsy forceps used to obtain 4 samples.
+Specimens: LLL biopsies.
+Plan: Patient extubated. Wait, patient was sedated, no ETT. Discharged to home.
+<<<END NOTE 012>>>
+
+<<<NOTE 013>>>
+EDGE_CASE_TAGS: ultra_short
+Nav bronch to RUL. Target reached. TBBx x4. No pneumo on fluoro. Pt stable.
+<<<END NOTE 013>>>
+
+<<<NOTE 014>>>
+EDGE_CASE_TAGS: noisy_units, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+RML nodule.
+
+PROCEDURE
+Navigational bronchoscopy.
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old-year-old. Brought to suite. Navigated to RML. Target was 20cm cm deep (wait, 2.0 cm). Transbronchial needle aspiration done. 3 passes. No bleeding.
+IMPRESSION
+RML biopsy done.
+<<<END NOTE 014>>>
+
+<<<NOTE 015>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+Indication: Lung nodule.
+Procedure: Robotic Bronchoscopy.
+Findings:
+
+* Airway normal.
+* Nav to LUL.
+Modality	Passes	Result
+TBNA	3	Adequate
+Forceps	4	Tissue
+Brush	1	Smear
+
+Specimen: LUL.
+Plan: DC home.
+<<<END NOTE 015>>>
+
+<<<NOTE 016>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+PRE DIAGNOSIS: Tracheal stenosis.
+PROCEDURE: Rigid bronchoscopy, mechanical dilation, balloon dilation.
+ANESTHESIA: General.
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] intubated with rigid bronchoscope.
+☑‌ Complex web-like stricture seen in upper third of trachea.
+☐‌ Bleeding noted.
+Balloon dilation performed to 12mm. Mucosa stretched. No significant mucosal tearing.
+IMPRESSION/PLAN:
+Tracheal stenosis improved. F/u 4 weeks.
+<<<END NOTE 016>>>
+
+<<<NOTE 017>>>
+EDGE_CASE_TAGS: ambiguous_laterality, malformed_codes
+Indication: Right mainstem tumor obstruction.
+Consent: Obtained.
+Technique: Therapeutic bronchoscopy with APC. (31641:)
+Findings: Scope passed via mouth. Right mainstem bronchus was 90% obstructed. Wait, Left mainstem bronchus was 90% obstructed. APC applied to the left mainstem lesion at 40W. Lumen opened to 60%.
+Specimens: None.
+Plan: Extubate, transfer to ICU.
+<<<END NOTE 017>>>
+
+<<<NOTE 018>>>
+EDGE_CASE_TAGS: ultra_short
+Therapeutic bronch. Cryo-debulking of LLL tumor. Bleeding controlled. Airway patent.
+<<<END NOTE 018>>>
+
+<<<NOTE 019>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION: Successful recanalization of the right intermediate bronchus using laser and mechanical coring.
+SPECIMENS: Endobronchial biopsies of the right intermediate bronchus tumor.
+COMPLICATIONS: Minimal bleeding, controlled with cold saline.
+
+PRE-PROCEDURE DIAGNOSIS: Malignant airway obstruction (ICD J98.09, C34.31)
+PROCEDURE: Rigid bronchoscopy, Nd:YAG laser ablation, mechanical debulking.
+
+INDICATION: [PATIENT], [REDACTED] male, squamous cell ca with post-obstructive pneumonia.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia with total intravenous anesthesia (TIVA), a size 12.0 Dumon rigid bronchoscope was passed into the trachea. The carina was sharp. The right mainstem was patent. The bronchus intermedius was completely occluded by an exophytic, fleshy tumor. We applied Nd:YAG laser at 20W continuous mode to coagulate the tumor base. Mechanical coring was then performed using the bevel of the rigid scope. Large tumor fragments were removed with rigid forceps. Airway patency was restored to approximately 80%, allowing visualization of the middle and lower lobe orifices. Copious purulent secretions were suctioned from the RLL. Hemostasis achieved. Scope withdrawn.
+<<<END NOTE 019>>>
+
+<<<NOTE 020>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, noisy_units
+PRE/POST DIAGNOSIS
+Airway stenosis.
+
+PROCEDURE
+Balloon dilation.
+
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was sedated. Flex bronchoscope inserted. Left mainstem had a tight stricture. Balloon dilated to 10m mm (10mm) for 60 seconds seconds. Airway opened nicely.
+IMPRESSION
+Successful dilation.
+<<<END NOTE 020>>>
+
+<<<NOTE 021>>>
+EDGE_CASE_TAGS: conflicting_details, missing_section
+Indication: Tracheomalacia.
+Technique: Airway stent placement.
+Findings: Patient sedated with propofol. Wait, patient under general anesthesia with paralysis. A fully covered self-expanding metallic stent (18mm x 40mm) was deployed in the trachea under direct bronchoscopic visualization. Stent expanded well. No migration.
+Plan: Observe overnight.
+<<<END NOTE 021>>>
+
+<<<NOTE 022>>>
+EDGE_CASE_TAGS: malformed_codes
+PRE/POST DIAGNOSIS
+Tracheobronchial malacia. (J98-09)
+PROCEDURE
+Airway stent removal (31631- )
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old. Brought to OR. Rigid bronchoscopy performed. Silicone Y-stent in the carina was grasped with rigid forceps, folded, and removed en bloc. Airway inspected, moderate granulation tissue present. APC applied.
+IMPRESSION/PLAN
+Stent removed. Start inhaled steroids.
+<<<END NOTE 022>>>
+
+<<<NOTE 023>>>
+EDGE_CASE_TAGS: ultra_short, ambiguous_laterality
+Bronchoscopy for stent check. LLL silicone stent (wait, RLL silicone stent) in good position. Mucus plug suctioned.
+<<<END NOTE 023>>>
+
+<<<NOTE 024>>>
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+Pleural Procedure Note
+Indication: Right pleural effusion.
+Procedure: Thoracentesis with Ultrasound guidance.
+☑‌ Timeout completed.
+☑‌ US performed.
+☐‌ Loculations seen.
+Volume	Fluid Color	Comps
+1.2L	Yellow	None
+Plan: Post-op CXR.
+<<<END NOTE 024>>>
+
+<<<NOTE 025>>>
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+PLAN: Remove chest tube when output <100cc/day.
+COMPLICATIONS: None.
+
+PRE DIAGNOSIS: Complex parapneumonic effusion.
+PROCEDURE: Small-bore chest tube placement and tPA/DNase instillation.
+
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] consented. Ultrasound showed a large right effusion. Local anesthesia with 10c cc of 1% lidocaine. A 14Fr pigtail catheter was inserted via Seldinger technique. 500cc of turbid fluid drained. Instilled 10mg tPA and 5mg DNase. Clamped for 1 hour.
+<<<END NOTE 025>>>
+
+<<<NOTE 026>>>
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DIAGNOSIS
+
+Mediastinal adenopathy (R59.0)
+
+Suspected lung cancer
+
+PROCEDURE
+
+Bronchoscopy with EBUS-TBNA (31620-59, 31652-)
+
+ANESTHESIA: Moderate Sedation
+MONITORING: Standard ASA
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for evaluation of mediastinal lymphadenopathy. After informed consent, patient was brought to the bronchoscopy suite. A time out was performed. Under moderate sedation, a flexible bronchoscope was introduced via the mouth. Airway inspection revealed normal vocal cords, trachea, and bilateral bronchial trees. No endobronchial lesions.
+
+The linear EBUS scope was then introduced. We surveyed stations 4R, 7, and 10R.
+Station 7 measured 1.8 cm. Station 4R measured 1.4 cm.
+TBNA was performed at Station 7 x3 passes, and Station 4R x3 passes using a 22G needle. Rapid on-site evaluation (ROSE) was present and showed lymphocytes.
+
+COMPLICATIONS: None
+IMPRESSION/PLAN
+
+Successful EBUS-TBNA of 4R and 7 (two stations sampled).
+
+Await final pathology.
+<<<END NOTE 026>>>
+
+<<<NOTE 027>>>
+EDGE_CASE_TAGS: ambiguous_laterality, noisy_units
+Indication: Evaluation of subcarinal and right paratracheal nodes.
+Consent: Obtained and documented.
+Technique: EBUS-TBNA
+Findings: Patient [NAME:REDACTED] was sedated with Fentanyl 100m mcg and Midazolam 2mg. A linear EBUS bronchoscope was introduced through the ETT. The right paratracheal node (4R) was enlarged. Wait, left paratracheal node (4L) was identified and sampled. TBNA of 4L was performed. TBNA of station 7 was also performed. Airway was otherwise patent.
+Specimens: 4R lymph node (wait, 4L lymph node), Station 7 lymph node.
+Plan: Patient tolerated the procedure well. Discharged to recovery.
+<<<END NOTE 027>>>
+
+<<<NOTE 028>>>
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+Patient [REDACTED] underwent EBUS-TBNA of station 11L. 3 passes made. Nodesnodes were small. No comps. Patient discharged.
+<<<END NOTE 028>>>
+
+<<<NOTE 029>>>
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS: RUL lung nodule, mediastinal lymphadenopathy.
+POST-PROCEDURE DIAGNOSIS: Same.
+
+PROCEDURE:
+
+Flexible bronchoscopy
+
+Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA)
+
+Robotic-assisted navigational bronchoscopy
+
+Mobile C-Arm Fluoroscopy
+
+INDICATION: [PATIENT] is a [DOB:REDACTED] male with a 2.2 cm RUL nodule and enlarged station 7 node.
+
+** ANESTHESIA: General Anesthesia with endotracheal intubation.
+** INSTRUMENTS: Robotic bronchoscopy system, Linear EBUS, Mobile C-Arm.
+
+PROCEDURE IN DETAIL:
+The patient was placed supine. Time out completed. Following induction of GA, an 8.0 ETT was placed. The linear EBUS scope was introduced first for mediastinal staging.
+Station	Size	Passes
+4R	8mm	0
+7	19mm	4
+11R	10mm	0
+
+Station 7 was sampled x4 passes with a 21G needle. ROSE showed malignant cells.
+The EBUS scope was removed. The robotic bronchoscope was then calibrated and introduced. We navigated to the RUL apical segment. Mobile C-Arm fluoroscopy was utilized to confirm the target in 3D space. The lesion was localized.
+We obtained the following from the RUL target:
+
+Needle aspiration x 3
+
+Forceps biopsy x 5
+
+Bronchial washing x 1
+
+SPECIMENS:
+
+EBUS TBNA Station 7
+
+RUL TBNA
+
+RUL Forceps Biopsies
+
+RUL Washings
+
+COMPLICATIONS: None. Minimal EBL. Fluoro time 1.2 mins.
+
+PLAN: Extubated successfully. Transfer to PACU.
+<<<END NOTE 029>>>
+
+<<<NOTE 030>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Uncomplicated EBUS-TBNA of stations 4R, 4L, and 7. (3 stations sampled). Await path.
+
+PRE DIAGNOSIS: Sarcoidosis vs Lymphoma.
+PROCEDURE: EBUS-TBNA of mediastinal lymph nodes (31653).
+
+Findings: Airway normal. 4R measured 1.5 cm. 4L measured 1.2 cm. 7 measured 2.0 cm.
+
+3 passes with 22g needle at each station.
+
+Anesthesia: Mod sedation.
+SPECIMENS: Station 4R FNA, 4L FNA, 7 FNA.
+
+[PATIENT] is a [REDACTED] male. Informed consent was obtained in the pre-op holding area. Procedure was performed without issue.
+<<<END NOTE 030>>>
+
+<<<NOTE 031>>>
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+Indication: Right hilar mass.
+Anesthesia: Local Anesthesia Only
+Technique: The patient received general anesthesia with LMA. EBUS scope inserted.
+Findings:
+☑‌ Vocal cords normal.
+☐‌ Trachea normal.
+☑‌ Station 11R sampled x4 passes.
+☑‌ Station 10R sampled x3 passes.
+Specimens: 11R, 10R.
+Plan: Recover in PACU.
+<<<END NOTE 031>>>
+
+<<<NOTE 032>>>
+EDGE_CASE_TAGS: missing_section, noisy_units
+Patient [MRN:REDACTED] was brought to the endoscopy suite. Midazolam 20mg (wait, 2.0mg) administered. Linear EBUS scope inserted. Station 7 and 10L were sampled. 3 passes each. No acute issues. Airway inspection showed no endobronchial lesions. Scope withdrawn.
+<<<END NOTE 032>>>
+
+<<<NOTE 033>>>
+EDGE_CASE_TAGS: malformed_codes, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+Mediastinal adenopathy R59.9
+Lung Nodule R91.1
+
+PROCEDURE
+Bronchoscopy 31620, EBUS-TBNA 31652, 31653-modifier
+
+ANESTHESIA: MAC
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was brought to the room. Linear EBUS inserted. Survey showed enlarged stations 4R, 4L, and 7. TBNA of all three stations performed. 3 passes each. No comps.
+IMPRESSION
+Uncomplicated procedure procedure. 3 stations sampled. Await path.
+<<<END NOTE 033>>>
+
+<<<NOTE 034>>>
+EDGE_CASE_TAGS: ambiguous_laterality
+Indication: LUL lung mass.
+Technique: EBUS-TBNA
+Findings: Scope passed via ETT. Airway exam unremarkable. EBUS scope used to examine the right upper lobe mass. TBNA performed on the LUL mass.
+Specimens: LUL mass TBNA.
+Plan: Discharge home.
+<<<END NOTE 034>>>
+
+<<<NOTE 035>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PLAN: Extubate and transfer to PACU. Monitor for pneumothorax with post-op CXR in 2 hours.
+SPECIMENS: 1. RML nodule FNA. 2. RML nodule TBBx.
+COMPLICATIONS: None.
+
+PRE-OP DIAGNOSIS: Right middle lobe pulmonary nodule
+POST-OP DIAGNOSIS: Same.
+
+PROCEDURE:
+
+Electromagnetic navigational bronchoscopy (31627)
+
+Transbronchial biopsy (31628)
+
+Fluoroscopy guidance
+
+INDICATION: [PATIENT], [REDACTED] yr old female, with a 1.4 cm RML nodule increasing in size.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia, a flexible bronchoscope was inserted. Navigation to the RML lateral segment was successful using the pre-planned electromagnetic pathway. Fluoroscopy confirmed target location. Radial EBUS was deployed and showed a concentric view of the lesion. TBNA x3 passes performed using an aspirating needle. Subsequently, TBBx x5 using flexible forceps were obtained. The scope was removed. Patient remained hemodynamically stable throughout the procedure with no signs of bleeding.
+<<<END NOTE 035>>>
+
+<<<NOTE 036>>>
+EDGE_CASE_TAGS: missing_section
+PRE/POST DIAGNOSIS
+Lung Nodule
+PROCEDURE
+Navigational Bronchoscopy with biopsy
+ANESTHESIA: General Anesthesia
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for biopsy of a LLL nodule. Using a robotic-assisted platform, the scope was driven into the posterior basal segment of the LLL. Radial EBUS confirmed eccentric signal, adjusted to concentric. Transbronchial biopsy was performed x4 passes. Needle aspiration x2 passes.
+IMPRESSION/PLAN
+
+Successful nav bronch of LLL nodule.
+
+Obtain post-procedure CXR.
+<<<END NOTE 036>>>
+
+<<<NOTE 037>>>
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+Indication: RUL nodule.
+Consent: Verbal consent obtained.
+Technique: Robotic Navigational Bronchoscopy.
+Findings: Patient was under local anesthesia. The robotic scope (requires GA) was deployed through the LMA. We navigated to the RUL anterior segment. Mobile C-Arm Fluoroscopy (76000 TC) utilized. Biopsy forceps used to obtain 5 samples.
+Specimens: RUL biopsies.
+Plan: Patient extubated. Wait, patient was sedated with local only. Discharged to home.
+<<<END NOTE 037>>>
+
+<<<NOTE 038>>>
+EDGE_CASE_TAGS: ultra_short
+Nav bronch to LUL apicoposterior segment. Target reached. rEBUS concentric. TBBx x5. Pt stable.
+<<<END NOTE 038>>>
+
+<<<NOTE 039>>>
+EDGE_CASE_TAGS: noisy_units, copy_paste_artifacts
+PRE/POST DIAGNOSIS
+LLL nodule.
+
+PROCEDURE
+Robotic navigational bronchoscopy.
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old-year-old. Brought to suite. Navigated to LLL. Target was 15cm cm deep (wait, 1.5 cm). Transbronchial needle aspiration done. 4 passes. No bleeding. Forceps biopsy done x4.
+IMPRESSION
+LLL biopsy done.
+<<<END NOTE 039>>>
+
+<<<NOTE 040>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+Indication: Peripheral lung nodule.
+Procedure: Navigational Bronchoscopy with rEBUS.
+Findings:
+
+Airway normal.
+
+Nav to RLL.
+Tool	Passes	Result
+Needle	2	Blood only
+Forceps	5	Tissue
+Brush	1	Smear
+
+Specimen: RLL biopsies.
+Plan: DC home. CXR negative for pneumo.
+<<<END NOTE 040>>>
+
+<<<NOTE 041>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+PRE DIAGNOSIS: Subglottic stenosis.
+PROCEDURE: Rigid bronchoscopy, balloon dilation.
+ANESTHESIA: General, Jet Ventilation.
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] intubated with rigid bronchoscope.
+☑‌ Stricture seen in subglottic space.
+☐‌ Active bleeding noted.
+CRE Balloon dilation performed to 15mm for 2 minutes. Mucosa stretched. Minimal mucosal tearing.
+IMPRESSION/PLAN:
+Stenosis improved. F/u in clinic.
+<<<END NOTE 041>>>
+
+<<<NOTE 042>>>
+EDGE_CASE_TAGS: ambiguous_laterality, malformed_codes
+Indication: Left lower lobe tumor obstruction causing atelectasis.
+Consent: Obtained.
+Technique: Therapeutic bronchoscopy with Electrocautery snare. (31641:)
+Findings: Scope passed via ETT. Left lower lobe bronchus was completely obstructed by a polypoid tumor. Wait, Right lower lobe bronchus was obstructed. Electrocautery snare applied to the right lower lobe lesion. Tumor base was transected. Lumen opened to 90%.
+Specimens: Endobronchial tumor biopsy.
+Plan: Extubate, transfer to step-down unit.
+<<<END NOTE 042>>>
+
+<<<NOTE 043>>>
+EDGE_CASE_TAGS: ultra_short
+Therapeutic bronchoscopy. Rigid. Cryo-extraction of large mucus plug in right mainstem. Airway patent.
+<<<END NOTE 043>>>
+
+<<<NOTE 044>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION: Successful recanalization of the left mainstem bronchus using Nd:YAG laser.
+SPECIMENS: None.
+COMPLICATIONS: None.
+
+PRE-PROCEDURE DIAGNOSIS: Malignant airway obstruction (ICD C34.90)
+PROCEDURE: Rigid bronchoscopy, Laser ablation.
+
+INDICATION: [PATIENT], [REDACTED] female, metastatic breast cancer with left mainstem obstruction.
+
+PROCEDURE IN DETAIL:
+Under general anesthesia with jet ventilation, a rigid bronchoscope was passed. The trachea and carina were normal. The left mainstem was 80% occluded by an exophytic, highly vascular tumor. We applied Nd:YAG laser at 30W pulsed mode to coagulate and vaporize the tumor. Carbonized debris was removed with rigid forceps. Airway patency was restored to approximately 100%. Hemostasis was excellent. No signs of perforation. Scope withdrawn safely.
+<<<END NOTE 044>>>
+
+<<<NOTE 045>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, noisy_units
+PRE/POST DIAGNOSIS
+Tracheal stenosis.
+
+PROCEDURE
+Bronchoscopy with balloon dilation.
+
+PROCEDURE IN DETAIL
+Patientpatient [REDACTED] was under general anesthesia. Flex bronchoscope inserted. Trachea had a web-like stricture. Balloon dilated to 12m mm (12mm) for 120 seconds seconds. Airway opened nicely. No major mucosal tears.
+IMPRESSION
+Successful balloon dilation of trachea.
+<<<END NOTE 045>>>
+
+<<<NOTE 046>>>
+EDGE_CASE_TAGS: conflicting_details, missing_section
+Indication: Malignant tracheoesophageal fistula.
+Technique: Airway stent placement.
+Findings: Patient sedated with midazolam. Wait, patient under general anesthesia with rigid bronchoscopy. A fully covered self-expanding metallic stent (Y-stent, wait, straight stent 16mm x 40mm) was deployed in the right mainstem bronchus. Stent expanded well. Fistula covered.
+Plan: Observe overnight. Start prophylactic antibiotics.
+<<<END NOTE 046>>>
+
+<<<NOTE 047>>>
+EDGE_CASE_TAGS: malformed_codes
+PRE/POST DIAGNOSIS
+Airway obstruction due to granulation tissue. (J98-09)
+PROCEDURE
+Airway stent removal, flexible bronchoscopy (31631- )
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old. Brought to suite. Flexible bronchoscopy performed through LMA. A previously placed metallic stent in the LLL was heavily burdened with granulation tissue. Forceps used to grasp the stent removal string. Stent collapsed and removed through the vocal cords. Airway inspected, moderate bleeding, controlled with cold saline.
+IMPRESSION/PLAN
+Metallic stent removed successfully.
+<<<END NOTE 047>>>
+
+<<<NOTE 048>>>
+EDGE_CASE_TAGS: ultra_short, ambiguous_laterality
+Bronchoscopy for stent inspection. Right mainstem metallic stent (wait, left mainstem stent) in good position. No tissue ingrowth.
+<<<END NOTE 048>>>
+
+<<<NOTE 049>>>
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+Pleural Procedure Note
+Indication: Left pleural effusion.
+Procedure: Diagnostic and Therapeutic Thoracentesis with Ultrasound guidance.
+☑‌ Timeout completed.
+☑‌ US performed.
+☑‌ Diaphragm identified.
+Volume	Fluid Color	Comps
+800cc	Serosanguinous	None
+Plan: Send fluid for cytology, cell count, chemistry. Post-op CXR.
+<<<END NOTE 049>>>
+
+<<<NOTE 050>>>
+EDGE_CASE_TAGS: reordered_sections, noisy_units
+PLAN: Keep chest tube to suction -20cmH2O.
+COMPLICATIONS: None.
+
+PRE DIAGNOSIS: Right empyema.
+PROCEDURE: Small-bore chest tube placement.
+
+PROCEDURE IN DETAIL:
+Patient [MRN:REDACTED] consented. Ultrasound showed a large complex right effusion with septations. Local anesthesia with 15c cc of 1% lidocaine. A 14Fr pigtail catheter was inserted via Seldinger technique. 600cc of purulent fluid drained. Secured to skin with silk suture.
+<<<END NOTE 050>>>

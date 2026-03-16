@@ -1,0 +1,42 @@
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, LUL anterior segment
+* High surgical risk (poor reserve)
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES PERFORMED:
+A. Robotic bronchoscopy with computer-assisted navigation
+B. Radial EBUS localization
+C. Cone-beam CT confirmation (pre and post ablation)
+D. Transbronchial needle aspiration + forceps biopsy
+E. Bronchoscopic microwave ablation of pulmonary nodule
+F. BAL (left upper lobe)
+
+ANESTHESIA: General anesthesia
+EBL: ~15 mL
+COMPLICATIONS: None
+
+INDICATION / HISTORY:
+[PATIENT] is a 69-year-old male with emphysema and a growing LUL anterior segment nodule. Multidisciplinary tumor board recommended bronchoscopic diagnosis with the option for same-session ablation.
+
+FINDINGS:
+
+* Airways: mild anthracosis; no endobronchial lesion.
+* Radial EBUS: concentric lesion, surrounding aerated lung.
+
+PROCEDURE IN DETAIL:
+After consent and time-out, bronchoscopy performed. Robotic system docked and pathway followed to the LUL target. Radial EBUS demonstrated concentric view; CBCT confirmed tool-in-lesion. TBNA x3 performed followed by forceps biopsy. BAL performed.
+
+Microwave ablation catheter advanced and energy delivered with a central application followed by a slight anterior reposition to cover the expected margin. Intermittent suctioning performed; minor oozing resolved spontaneously. Exit CBCT showed expected ablation halo without pneumothorax. Patient extubated and transported to PACU stable.
+
+SPECIMENS:
+
+* LUL nodule: TBNA x3
+* LUL nodule: TBBx x6
+* BAL: LUL (50 mL instilled; 18 mL return)
+  PLAN:
+* CXR in PACU
+* CT chest at 6 weeks
+* Pathology follow-up and oncology referral if indicated

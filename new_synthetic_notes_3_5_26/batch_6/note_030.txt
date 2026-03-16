@@ -1,0 +1,23 @@
+Indication:
+PET-avid left upper lobe peripheral lesion.
+
+Procedure:
+Computer-assisted guided bronchoscopy using Galaxy platform, radial EBUS, fluoroscopy, fiducial placement, and TBNA/forceps biopsy.
+
+Findings:
+Target in the apicoposterior LUL was reached with guided bronchoscopy. Radial EBUS gave an eccentric signal. Fiducials were placed adjacent to the lesion after tissue sampling. No endobronchial disease.
+
+Sampling:
+TBNA x3
+Forceps biopsy x5
+
+Specimens:
+LUL lesion aspirates and biopsies.
+
+Complications:
+Trace bleeding at biopsy site, controlled with wedging. No immediate pneumothorax.
+
+Plan:
+Chest x-ray post-procedure. Fiducials in expected region on fluoroscopy.
+
+<<<END NOTE>>>

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:111
+# id: ip_procedure_prompts_batch3:56
+
+Whole lung lavage of left lung for pulmonary alveolar proteinosis. Double lumen tube position confirmed bronchoscopically. Repeated warmed saline aliquots instilled and drained until effluent progressively clearer. Total instilled 18 L, returned 17.2 L. Brief hypoxemia during lavage resolved with pause and recruitment.

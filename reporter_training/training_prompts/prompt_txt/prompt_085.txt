@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:169
+# id: ip_procedure_prompts_batch3:85
+
+EBUS for isolated PET avid 10L hilar node in patient with prior treated malignancy. Sampling included 11L and 10L with 4 passes each. ROSE adequate with lymphoid tissue only. Bronchoscopic survey otherwise normal.

@@ -1,0 +1,1368 @@
+<<<NOTE 1>>>
+EDGE_<<<NOTE _TAGS: reordered_sections, inconsistent_formatting
+
+PLAN
+Post-procedure chest radiograph. Follow BAL and TBBBx pathology/culture results. Discharge from bronchoscopy recovery if stable on room air.
+
+POST-PROCEDURE DIAGNOSIS
+RUL peripheral opacity; mediastinal adenopathy.
+
+PRE-PROCEDURE DIAGNOSIS
+Abnormal chest CT with persistent cough and PET-avid RUL lesion.
+
+PROCEDURES PERFORMED
+Flexible bronchoscopy with airway inspection
+BAL, right upper lobe
+Transbronchial biopsy, right upper lobe
+Linear EBUS-TBNA stations 4R and 7
+
+ANESTHESIA
+General anesthesia with LMA.
+
+FINDINGS
+Trachea midline. Main carina sharp. No endobronchial tumor seen. Mild friable mucosa in the anterior segment of the RUL. Station 4R enlarged and hypoechoic. Station 7 mildly enlarged.
+
+PROCEDURE IN DETAIL
+After timeout and induction, flexible bronchoscope was advanced through the LMA. Complete airway inspection was performed to the segmental level. BAL was obtained from the RUL with 120 mL instilled and 42 mL returned, lightly blood-tinged. Fluoroscopically guided transbronchial biopsies were then obtained from the RUL lesion. Linear EBUS scope was introduced and nodal sampling performed in the sequence 4R then 7. Station 4R underwent 5 passes, station 7 underwent 3 passes. ROSE was available and showed lymphoid tissue at both sites.
+
+SPECIMENS
+
+1. RUL BAL
+2. RUL transbronchial biopsy
+3. EBUS-TBNA station 4R x5 passes
+4. EBUS-TBNA station 7 x3 passes
+
+COMPLICATIONS
+None immediate.
+
+IMPRESSION
+Diagnostic bronchoscopy with combined parenchymal and mediastinal sampling completed without immediate complication.
+
+<<<END NOTE>>>
+
+<<<NOTE 2>>>
+
+PRE-PROCEDURE DIAGNOSIS: Left pleural effusion
+POST-PROCEDURE DIAGNOSIS: Same
+
+Procedure: Ultrasound-guided left thoracentesis
+
+Indication:
+Progressive dyspnea with recurrent unilateral pleural effusion.
+
+Consent:
+Obtained from patient after discussion of bleeding, infection, pneumothorax, and re-expansion pulmonary edema.
+
+Technique:
+Left posterior chest evaluated with ultrasound in sitting position. Moderate free-flowing anechoic effusion identified with adjacent compressed lung. Skin marked, prepped, draped. Local anesthesia with lidocaine. One-step thoracentesis catheter advanced over rib into pleural space with immediate return of clear yellow fluid.
+
+Findings:
+900 mL straw-colored fluid removed. No septations seen. Pleural pressure not formally monitored. Patient reported symptomatic improvement during drainage.
+
+Specimens:
+Pleural fluid sent for cell count, chemistry, culture, and cytology.
+
+Complications:
+None immediate.
+
+Plan:
+Post-procedure chest x-ray. Resume diet. Follow pleural studies.
+
+<<<END NOTE>>>
+
+<<<NOTE 3>>>
+EDGE_<<<NOTE _TAGS: ultra_short
+
+Procedure note: bronchoscopy through tracheostomy.
+
+Indication: mucus plugging and increased airway pressures.
+A bronchoscope was passed through the mature tracheostomy tube. Thick tenacious secretions were occluding the distal tube and proximal left mainstem; these were suctioned clear. Distal tip of the tube sat 3 cm above the carina. No specimen obtained.
+Tolerated well without desaturation. Continue humidification and routine trach care.
+
+<<<END NOTE>>>
+
+<<<NOTE 4>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Malignant central airway obstruction involving the distal trachea and right mainstem bronchus.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post rigid bronchoscopy with tumor debulking and stent placement.
+
+PROCEDURES PERFORMED
+Rigid bronchoscopy
+Mechanical tumor debulking
+APC ablation
+Balloon dilation of right mainstem bronchus
+Airway stent placement
+
+ANESTHESIA
+General anesthesia with jet ventilation.
+
+FINDINGS
+Exophytic friable tumor involved the distal trachea and extended into the proximal right mainstem bronchus causing approximately 80% luminal obstruction. Distal right bronchial tree visible after debulking with patent bronchus intermedius. Left mainstem bronchus patent.
+
+PROCEDURE IN DETAIL
+Rigid bronchoscope was introduced after induction. Mechanical coring and forceps debulking were performed to reduce intraluminal tumor burden. APC was applied to residual bleeding tumor surfaces. A CRE balloon was used to dilate the right mainstem to 10 mm. Given persistent extrinsic compression and residual narrowing, a covered self-expanding metallic airway stent was deployed across the distal trachea into the right mainstem with satisfactory position under bronchoscopic visualization. Final inspection showed marked improvement in lumen caliber and hemostasis.
+
+SPECIMENS
+Endobronchial tumor debris/tissue sent to pathology.
+
+COMPLICATIONS
+Minor oozing controlled endoscopically.
+
+IMPRESSION
+Severe malignant central airway obstruction successfully palliated with multimodality therapy and stent placement.
+
+PLAN
+Nebulized saline, aggressive pulmonary toilet, chest radiograph, and surveillance bronchoscopy as indicated.
+
+<<<END NOTE>>>
+
+<<<NOTE 5>>>
+
+Indication:
+PET-avid left lower lobe nodule with hilar uptake.
+
+Procedure:
+Robotic bronchoscopy using shape-sensing navigation platform (ION), radial EBUS confirmation, fluoroscopy, cone-beam CT spin, transbronchial needle aspiration, forceps biopsy, cryobiopsy, and BAL. Linear EBUS-TBNA of 11L and 7.
+
+Consent:
+Informed consent obtained.
+
+Technique:
+Following CT-based pathway planning, robotic bronchoscopy was performed to a peripheral LLL target. Stable catheter position at the lesion was achieved. Radial EBUS showed a concentric view. Cone-beam CT confirmed tool-in-lesion. Multiple samples obtained by 21G needle, forceps, and 1.1 mm cryoprobe. BAL was performed in the same segment. Linear EBUS was then performed for nodal staging.
+
+Findings:
+LLL peripheral lesion measured approximately 2.3 cm by pre-procedure imaging. No endobronchial lesion. Station 11L enlarged; station 7 borderline. ROSE from the peripheral target showed lesional material. Elastography not used.
+
+Sampling:
+Peripheral lesion: TBNA x4, forceps x6, cryobiopsy x2
+11L: 4 passes
+7: 3 passes
+
+Specimens:
+Peripheral lesion aspirates, forceps tissue, cryobiopsy tissue, LLL BAL, EBUS-TBNA 11L and 7.
+
+Complications:
+Trace bleeding after cryobiopsy controlled with wedging and suction. No immediate pneumothorax.
+
+Plan:
+Portable chest x-ray in recovery. Await pathology and cytology.
+
+<<<END NOTE>>>
+
+<<<NOTE 6>>>
+EDGE_<<<NOTE _TAGS: checklist_style, unicode_checkboxes
+
+PLEURAL PROCEDURE CHECKLIST
+□ Indication: complicated parapneumonic effusion, right side
+□ Ultrasound: loculated pleural fluid with internal echoes, safe posterolateral pocket marked
+□ Consent: yes
+□ Prep/drape: sterile
+□ Local anesthetic: 1% lidocaine
+□ Procedure: small-bore chest tube placement, 14 Fr pigtail
+□ Return: cloudy yellow fluid immediately obtained
+□ Drain position: posterior/inferior pleural space
+□ Specimens: pleural fluid to culture, pH, glucose, LDH
+□ Suction: -20 cm H2O
+
+Procedure details:
+Using ultrasound guidance, a wire was advanced into the right pleural space and tract dilated. A 14 Fr pigtail catheter was placed over the wire and secured. Tube connected to atrium with tidaling present.
+
+Findings:
+Complex right pleural effusion. Initial drainage 320 mL turbid fluid.
+
+Complications:
+None immediate.
+
+Plan:
+Intrapleural fibrinolytic therapy to be considered. Daily chest x-ray and monitor output.
+
+<<<END NOTE>>>
+
+<<<NOTE 7>>>
+
+PREPROCEDURE DIAGNOSIS
+Need for surveillance bronchoscopy after silicone Y stent placement.
+
+POSTPROCEDURE DIAGNOSIS
+Granulation tissue at proximal right limb; retained secretions cleared; stent remains in satisfactory position.
+
+PROCEDURE
+Flexible bronchoscopy with airway inspection, secretion clearance, granulation tissue cryotherapy, and stent revision not required.
+
+INDICATION
+History of malignant carinal involvement treated with silicone Y stent. Increased cough and wheeze.
+
+FINDINGS
+Silicone Y stent seated appropriately. Moderate inspissated secretions within tracheal limb and right bronchial limb. Small rim of granulation tissue at proximal right mainstem end causing mild focal narrowing. No migration. Left limb widely patent.
+
+DESCRIPTION
+Bronchoscope was introduced through the ETT. Secretions were suctioned from all stent limbs. Granulation tissue was treated with short freeze-thaw cryotherapy applications. Final inspection showed improved patency. No repositioning was necessary.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None.
+
+PLAN
+Continue airway clearance regimen. Repeat surveillance bronchoscopy in 6-8 weeks or earlier for symptoms.
+
+<<<END NOTE>>>
+
+<<<NOTE 8>>>
+EDGE_<<<NOTE _TAGS: table_with_tabs
+
+Indication: Staging of suspected lung cancer with subcarinal and right paratracheal adenopathy.
+
+Procedure: Linear EBUS-TBNA with ROSE
+
+Node table
+Station	Size impression	Passes	Result on ROSE
+4R	Enlarged, round	5	Lymphoid tissue, atypical cells
+7	Enlarged	4	Lymphoid tissue
+11R	Small/intermediate	3	Adequate lymphoid sample
+
+Findings:
+No endobronchial lesion on limited airway survey. 4R was the most suspicious node with heterogeneous echotexture. Doppler used to avoid vascular structures. Sampling order 11R, 4R, 7.
+
+Specimens:
+EBUS-TBNA station 11R x3, 4R x5, 7 x4.
+
+Complications:
+None immediate.
+
+Plan:
+Await final cytology. Recovery per protocol.
+
+<<<END NOTE>>>
+
+<<<NOTE 9>>>
+
+Procedure note
+
+Indication:
+Persistent RML infiltrate in immunocompromised host.
+
+A flexible bronchoscopy was performed under moderate sedation. Vocal cords were not assessed due to transnasal route intolerance and immediate advancement through the oral bite block after conversion. Tracheobronchial tree inspected to segmental bronchi. Mild diffuse erythema without focal endobronchial lesion. BAL performed in the right middle lobe with 100 mL instilled, 36 mL returned, slightly cloudy. Cytology brushings and endobronchial biopsies were not obtained. No specimen other than BAL.
+
+Impression:
+No obstructing lesion. Diagnostic BAL completed.
+
+Complications:
+Brief cough and transient oxygen desaturation to 88%, corrected with increased supplemental oxygen.
+
+Plan:
+Send BAL for bacterial, fungal, AFB, viral, and cytology studies. Discharge from procedure unit when back to baseline.
+
+<<<END NOTE>>>
+
+<<<NOTE 10>>>
+EDGE_<<<NOTE _TAGS: extreme_length
+
+PRE-PROCEDURE DIAGNOSIS
+Left upper lobe pulmonary nodule with mediastinal adenopathy; need for diagnosis and staging.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post computer-assisted navigational bronchoscopy (Galaxy platform), radial EBUS, fluoroscopy, cone-beam CT confirmation, transbronchial sampling, BAL, and linear EBUS staging.
+
+PROCEDURES PERFORMED
+
+1. Flexible bronchoscopy with complete airway inspection
+2. Computer-assisted navigational bronchoscopy to LUL peripheral target
+3. Radial EBUS confirmation
+4. Cone-beam CT spin with confirmation of tool-in-lesion
+5. Transbronchial needle aspiration, forceps biopsy, transbronchial biopsy, and cryobiopsy of target lesion
+6. BAL, lingula
+7. Linear EBUS-TBNA of stations 4L, 7, and 11L
+
+ANESTHESIA
+General anesthesia via endotracheal tube.
+
+INDICATION
+Enlarging spiculated LUL lesion with FDG-avid left hilar and mediastinal nodes.
+
+FINDINGS
+Airways were normal to the segmental level except for mild anthracotic change in the left upper lobe. The peripheral target was reached via an apicoposterior route based on pre-procedure planning. Radial EBUS gave an eccentric but reproducible signal. Cone-beam CT demonstrated the biopsy tool within the lesion after minor catheter adjustment. No endobronchial tumor identified. Nodal stations 4L and 11L were enlarged; station 7 mildly enlarged.
+
+PROCEDURE IN DETAIL
+After induction and timeout, flexible bronchoscopy was performed with complete airway inspection. The navigational platform was registered and advanced to the LUL target. Assisted navigation was used to align with the lesion. Radial EBUS probe was inserted through the working channel and confirmed the lesion. A cone-beam CT spin was then obtained, showing near-central tool position, after which sampling proceeded. TBNA was performed x4 passes, forceps biopsy x5, fluoroscopic transbronchial biopsy x4, and cryobiopsy x2. Minor bleeding after one cryobiopsy specimen was controlled with wedging, suction, and iced saline. BAL of the lingula was then performed with 120 mL instilled and 45 mL returned. The linear EBUS bronchoscope was introduced and systematic nodal staging performed in the sequence 11L, 4L, 7. Station 11L underwent 4 passes, station 4L 5 passes, and station 7 3 passes. ROSE was present and showed diagnostic lesional material from the peripheral target and adequate lymphoid tissue from the nodes.
+
+SPECIMENS
+LUL lesion TBNA
+LUL lesion forceps biopsies
+LUL lesion TBBx
+LUL lesion cryobiopsies
+Lingula BAL
+EBUS-TBNA 11L x4
+EBUS-TBNA 4L x5
+EBUS-TBNA 7 x3
+
+COMPLICATIONS
+Minor endobronchial bleeding resolved during the <<<NOTE . No immediate pneumothorax or hemodynamic instability.
+
+IMPRESSION
+Successful combined diagnostic and staging bronchoscopy using navigational and EBUS modalities.
+
+PLAN
+Portable chest radiograph in PACU. Follow pathology, cytology, and microbiology. Telephone discussion of results when available.
+
+<<<END NOTE>>>
+
+<<<NOTE 11>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Severe left mainstem bronchial stenosis after prior intubation injury.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post balloon dilation and electrocautery incisions.
+
+PROCEDURES
+Flexible bronchoscopy
+Electrocautery radial incisions
+Balloon dilation of left mainstem bronchus
+
+FINDINGS
+Short fibrotic stenosis in proximal left mainstem bronchus, approximately 4 mm residual lumen over 8-10 mm segment. Distal left-sided airways patent. No active infection or tumor.
+
+DETAILS
+Under general anesthesia, bronchoscopy showed concentric benign-appearing scar stenosis. Electrocautery knife used to create several radial incisions. Controlled balloon dilation then performed serially to 8 mm and 10 mm with improved lumen caliber. Final bronchoscopy showed approximately 9-10 mm lumen with easy passage of scope.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Observe overnight for airway symptoms. Repeat bronchoscopy as clinically indicated.
+
+<<<END NOTE>>>
+
+<<<NOTE 12>>>
+EDGE_<<<NOTE _TAGS: missing_section, copy_paste_artifacts
+
+PROCEDURE: Mature trach exchange + bronchoscopy through trach
+
+INDICATION:
+Difficulty passing suction catheter and cuff leak. Difficulty passing suction catheter and cuff leak.
+
+FINDINGS:
+Existing tracheostomy tube partially obstructed by dried secretions. Mature tract present. Distal trachea and main carina visualized. New tube tip approximately 2.5 cm above carina. Mild tracheal irritation, no false passage.
+
+DETAILS:
+The existing cuffed tube was removed over a bougie and replaced with a new cuffed tracheostomy tube of the same size. Flexible bronchoscope was advanced through the new tube to confirm intratracheal position and evaluate the distal airway. Secretions were suctioned from the lower trachea and right mainstem.
+
+SPECIMENS:
+None.
+
+COMPLICATIONS:
+None immediate.
+
+PLAN:
+Routine trach care, humidification, monitor cuff pressures.
+
+<<<END NOTE>>>
+
+<<<NOTE 13>>>
+
+Indication:
+Recurrent left pleural effusion and pleural nodularity on CT.
+
+Procedure:
+Medical pleuroscopy with pleural biopsies and talc pleurodesis.
+
+Consent:
+Obtained.
+
+Technique:
+Under monitored anesthesia care, patient positioned right lateral decubitus. Ultrasound confirmed moderate left pleural effusion. Entry made in the left midaxillary line and pleural space accessed. Pleuroscope introduced after drainage of serosanguinous fluid.
+
+Findings:
+Multiple pleural nodules and diffuse pleural studding over parietal pleura and diaphragm. No frank empyema. Lung partially expandable. Approximately 1.1 L fluid drained.
+
+Specimens:
+Multiple parietal pleural biopsies submitted to pathology. Pleural fluid sent for cytology.
+
+Additional intervention:
+Sterile talc poudrage performed at conclusion of <<<NOTE .
+
+Complications:
+None immediate.
+
+Plan:
+Chest tube to suction overnight. Daily chest radiograph. Follow pathology/cytology.
+
+<<<END NOTE>>>
+
+<<<NOTE 14>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Severe emphysema with hyperinflation, planned BLVR.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post endobronchial valve placement to the left upper lobe.
+
+PROCEDURES PERFORMED
+Flexible bronchoscopy
+Collateral ventilation assessment
+Endobronchial valve deployment x4, left upper lobe
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+No endobronchial lesions. Airway anatomy suitable for valve therapy. Collateral ventilation assessment of the left upper lobe was negative. Left upper lobe segments were sized and treated with four valves.
+
+PROCEDURE IN DETAIL
+Bronchoscopy performed with inspection of both lungs. Collateral ventilation assessment catheter used at the left upper lobe with results consistent with absent collateral ventilation. Sequential valve deployment was performed to occlude the target lobe. Final inspection demonstrated satisfactory valve position and occlusion.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None immediate.
+
+IMPRESSION
+Successful BLVR to target lobe.
+
+PLAN
+Admit for pneumothorax monitoring with serial chest radiographs. Activity restrictions and inpatient observation per valve pathway.
+
+<<<END NOTE>>>
+
+<<<NOTE 15>>>
+EDGE_<<<NOTE _TAGS: ambiguous_laterality
+
+Procedure:
+Ultrasound-guided chest tube placement for pleural infection.
+
+Indication:
+Loculated left pleural effusion with fever and pleuritic pain.
+
+Findings:
+Bedside ultrasound initially documented a right-sided pocket in error; final site confirmation and procedure were performed on the left. Complex septated pleural fluid was present.
+
+Technique:
+Patient placed sitting upright. Under sterile technique and ultrasound guidance, a 12 Fr pigtail chest tube was inserted into the left pleural space using Seldinger technique. Immediate return of thick cloudy fluid. Tube secured and connected to suction.
+
+Specimens:
+Pleural fluid sent for Gram stain, culture, pH, glucose, LDH.
+
+Complications:
+None immediate.
+
+Plan:
+Maintain suction. Consider intrapleural fibrinolytic therapy depending on drainage and imaging.
+
+<<<END NOTE>>>
+
+<<<NOTE 16>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Right lower lobe cavitary lesion.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURES
+Flexible bronchoscopy with BAL, protected brushings, endobronchial biopsy, and transbronchial biopsy.
+
+INDICATION
+Hemoptysis and persistent cavitary RLL abnormality.
+
+FINDINGS
+Mild mucosal edema and hyperemia in the bronchus intermedius and basilar segmental bronchi. No frank endobronchial mass. Purulent secretions noted from the superior segment of the right lower lobe.
+
+DESCRIPTION
+Complete airway inspection performed. BAL obtained from the superior segment of the RLL with 140 mL instilled and 50 mL returned. Protected brushings obtained from the same subsegment. Subtle friable mucosa at the segmental takeoff underwent endobronchial biopsy. Fluoroscopically guided transbronchial biopsies were also obtained.
+
+SPECIMENS
+RLL BAL
+RLL brushings
+Endobronchial biopsy, RLL
+Transbronchial biopsies, RLL
+
+COMPLICATIONS
+Small self-limited bleed after transbronchial biopsy, controlled with wedging and suction.
+
+PLAN
+Follow pathology and cultures. Chest radiograph post-procedure.
+
+<<<END NOTE>>>
+
+<<<NOTE 17>>>
+EDGE_<<<NOTE _TAGS: malformed_codes
+
+PRE-PROCEDURE DX: Tracheal stenosis after prolonged intubation
+POST-PROCEDURE DX: Same
+
+Procedure(s):
+Rigid bronchoscopy, balloon dilation, cryotherapy to granulation tissue
+CPT-ish: [31630]; [31641?]
+
+Indication:
+Progressive stridor and dyspnea.
+
+Findings:
+Subglottic/proximal tracheal stenosis with granulation tissue, residual lumen approximately 5 mm. Distal trachea normal.
+
+Technique:
+Under general anesthesia with jet ventilation, rigid bronchoscopy performed. Granulation tissue treated with cryotherapy. Balloon dilation carried out gradually to 12 mm with improved airway caliber.
+
+Specimens:
+None.
+
+Complications:
+Transient desaturation during dilation, resolved with ventilation pause and re-oxygenation.
+
+Plan:
+Observe overnight. Continue reflux precautions and follow-up airway evaluation.
+
+<<<END NOTE>>>
+
+<<<NOTE 18>>>
+
+Narrative op note
+
+A therapeutic flexible bronchoscopy was performed for mucus plugging and left lower lobe atelectasis. Under general anesthesia via endotracheal tube, the bronchoscope was advanced and found copious thick yellow-white secretions filling the left mainstem and left lower lobe bronchi. Therapeutic aspiration was performed with repeated saline aliquots and suctioning until the left-sided airways were patent. Mild underlying bronchomalacia of the left lower lobe bronchi was present. No tumor or foreign body identified. No specimen was sent because the purpose of the procedure was clearance rather than diagnosis. The patient tolerated the procedure well. Post-procedure plan is continued aggressive pulmonary hygiene and ventilator weaning as able.
+
+<<<END NOTE>>>
+
+<<<NOTE 19>>>
+
+Indication:
+Need for diagnosis of right middle lobe nodule and staging of mediastinum.
+
+Procedure:
+Electromagnetic navigational bronchoscopy (SuperD platform), radial EBUS, fluoroscopy, TBNA and forceps biopsy of RML target, followed by EBUS-TBNA 4R/7/11R.
+
+Findings:
+CT-planned route used to RML lesion. Registration completed without difficulty. Locatable guide advanced through extended working channel to target. Radial EBUS provided eccentric lesion view. Fluoroscopy used during sampling. No endobronchial lesion. Nodes 4R and 11R enlarged.
+
+Sampling:
+RML TBNA x3
+RML forceps x6
+4R x5 passes
+7 x3 passes
+11R x4 passes
+
+ROSE:
+Available from the peripheral lesion and 4R, showing lesional cells in target and adequate nodal sampling.
+
+Complications:
+None immediate.
+
+Plan:
+Chest x-ray after procedure and follow final pathology.
+
+<<<END NOTE>>>
+
+<<<NOTE 20>>>
+EDGE_<<<NOTE _TAGS: noisy_units, missing_section
+
+Procedure:
+Intrapleural fibrinolytic instillation via existing right pleural catheter.
+
+Indication:
+Loculated empyema with poor drainage.
+
+Technique:
+Existing 14 Fr catheter inspected and flushed. Alteplase 10 mg in 30 mL saline followed by DNase 5 mg in 30 cc saline instilled through the pleural tube; tube clamped for 60 mins. Dressing clean and intact.
+
+Findings:
+Catheter patent. Prior drainage thick yellow fluid. No resistance to instillation.
+
+Specimens:
+None newly obtained.
+
+Complications:
+Mild pleuritic discomfort during instillation.
+
+Plan:
+Unclamp after dwell time, return to suction, monitor output and pain.
+
+<<<END NOTE>>>
+
+<<<NOTE 21>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Peripheral left lower lobe lesion.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post robotic bronchoscopy on Monarch platform with radial EBUS and transbronchial sampling.
+
+PROCEDURES PERFORMED
+Robotic bronchoscopy platform navigation
+Radial EBUS
+Fluoroscopy
+TBNA
+Forceps biopsy
+BAL
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+Monarch robotic bronchoscopy platform used to reach a left lower lobe posterior basal target. Outer sheath and inner scope positioning allowed stable access. Radial EBUS demonstrated an eccentric view. Airways otherwise without endobronchial abnormality.
+
+PROCEDURE IN DETAIL
+After planning and bronchoscopy inspection, the robotic scope was navigated to the lesion. Sampling included TBNA x4 and forceps biopsy x7 under fluoroscopic guidance. BAL performed in the left lower lobe after tissue sampling. Hemostasis was adequate.
+
+SPECIMENS
+LLL lesion TBNA
+LLL forceps biopsies
+LLL BAL
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Chest radiograph in PACU. Follow pathology and microbiology results.
+
+<<<END NOTE>>>
+
+<<<NOTE 22>>>
+
+Procedure note:
+Linear EBUS with EUS-B added for inaccessible station.
+
+Indication:
+Need for mediastinal staging of left hilar mass.
+
+Findings:
+Stations 11L, 7, and 4L were sampled bronchoscopically. EUS-B was then used to sample station 8 because of favorable esophageal window. Limited airway exam showed extrinsic compression of the left upper lobe bronchus without endobronchial lesion.
+
+Sampling order:
+11L x4 passes
+7 x4 passes
+4L x5 passes
+8 via EUS-B x3 passes
+
+ROSE:
+Adequate lymphoid tissue from all stations; atypical cells noted from 4L.
+
+Complications:
+None immediate.
+
+Plan:
+Await final cytology. Resume diet after recovery.
+
+<<<END NOTE>>>
+
+<<<NOTE 23>>>
+EDGE_<<<NOTE _TAGS: conflicting_details
+
+PRE-PROCEDURE DIAGNOSIS
+Right mainstem stent migration.
+
+POST-PROCEDURE DIAGNOSIS
+Right mainstem stent migration, revised.
+
+PROCEDURE
+Flexible bronchoscopy with stent repositioning and secretion clearance.
+
+FINDINGS
+A silicone stent was seen partially prolapsed proximally into the distal trachea. Later in the note the stent is described as covered metallic; the intended device was the previously placed silicone right mainstem stent. Moderate secretions distal to the stent were suctioned. After repositioning, the stent sat appropriately within the right mainstem with good opening of the bronchus intermedius.
+
+DETAILS
+Under general anesthesia, rigid intervention was not required. Using forceps through flexible bronchoscopy, the migrated stent was repositioned distally. Final inspection showed good apposition and no major granulation tissue.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None.
+
+PLAN
+Repeat surveillance bronchoscopy if symptoms recur.
+
+<<<END NOTE>>>
+
+<<<NOTE 24>>>
+
+INDICATION
+Whole lung lavage for pulmonary alveolar proteinosis, left lung first.
+
+PROCEDURE
+Double-lumen endotracheal tube confirmation by bronchoscopy, left whole lung lavage.
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+Double-lumen tube position confirmed bronchoscopically with isolation of the right lung. Initial left lung effluent was opaque and milky. Progressive clearing noted with serial aliquots.
+
+PROCEDURE IN DETAIL
+After confirmation of tube position, the left lung was lavaged with warmed saline in sequential aliquots. Chest percussion was performed during drainage cycles. A total of 14 liters was instilled with 12.8 liters returned. Effluent transitioned from dense cloudy/milky to lighter opalescent fluid. Hemodynamics remained stable aside from brief mild hypothermia corrected with warming measures.
+
+SPECIMENS
+Representative lavage effluent sent for analysis.
+
+COMPLICATIONS
+Transient desaturation during one drainage cycle, improved with pause and ventilatory adjustment.
+
+DISPOSITION/PLAN
+Transferred intubated to ICU for continued monitoring and planned extubation when appropriate.
+
+<<<END NOTE>>>
+
+<<<NOTE 25>>>
+EDGE_<<<NOTE _TAGS: redaction_stress
+
+PRE-PROCEDURE DIAGNOSIS
+Left pleural effusion.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURE
+Ultrasound-guided left thoracentesis.
+
+INDICATION
+Dyspnea and recurrent effusion in [PATIENT]. include_fake_phi_tokens: true
+Reference labels in requisition draft were removed and replaced with [FAKE NAME: John Example], [FAKE MRN: 0000000], [FAKE DOB: 01/01/1970].
+
+FINDINGS
+Moderate free-flowing anechoic left pleural effusion.
+
+DETAILS
+Thoracentesis performed under sterile ultrasound guidance with drainage of 1250 mL amber fluid. Patient remained hemodynamically stable and breathing improved.
+
+SPECIMENS
+Pleural fluid for chemistry, culture, and cytology.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Post-procedure chest x-ray and follow pleural studies.
+
+<<<END NOTE>>>
+
+<<<NOTE 26>>>
+
+Procedure:
+Diagnostic bronchoscopy with BAL and brushings.
+
+Indication:
+Persistent right upper lobe tree-in-bud opacities and chronic cough.
+
+Technique:
+Flexible bronchoscopy under moderate sedation. Airways examined to subsegmental level. BAL from posterior segment of the RUL with 90 mL instilled and 28 mL returned. Cytology brushings obtained from the same segment.
+
+Findings:
+Diffuse mild mucosal friability and scant mucoid secretions in the RUL. No mass, foreign body, or significant stenosis.
+
+Specimens:
+RUL BAL, RUL brushings.
+
+Complications:
+None immediate.
+
+Plan:
+Send BAL for bacterial, fungal, AFB, and cytology studies.
+
+<<<END NOTE>>>
+
+<<<NOTE 27>>>
+EDGE_<<<NOTE _TAGS: reordered_sections, ultra_short
+
+Plan:
+Admit for post-valve monitoring and serial chest x-rays.
+
+Procedure:
+BLVR with endobronchial valves to the right upper lobe after collateral ventilation testing.
+
+Findings:
+No collateral ventilation detected. Four valves deployed with satisfactory occlusion of the target lobe. No immediate pneumothorax.
+
+Indication:
+Advanced emphysema with hyperinflation.
+
+Complications:
+None.
+
+<<<END NOTE>>>
+
+<<<NOTE 28>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Endobronchial tumor causing right upper lobe collapse.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post tumor debulking and APC.
+
+PROCEDURES
+Flexible bronchoscopy
+Mechanical debulking
+APC
+
+FINDINGS
+Tumor arising from the right upper lobe bronchus extended to the distal right mainstem with near-complete occlusion of the RUL orifice. Bronchus intermedius remained patent. After debulking and APC, the RUL takeoff was partially recanalized though distal segmental patency remained limited by tumor.
+
+DETAILS
+Under general anesthesia, forceps debulking was used to remove friable tumor from the right upper lobe bronchus. APC was applied for tumor devitalization and hemostasis. Large clot and debris were suctioned clear.
+
+SPECIMENS
+Endobronchial tumor tissue.
+
+COMPLICATIONS
+Minor bleeding controlled with APC and iced saline.
+
+PLAN
+Chest radiograph. Oncology and radiation oncology follow-up per inpatient team.
+
+<<<END NOTE>>>
+
+<<<NOTE 29>>>
+EDGE_<<<NOTE _TAGS: table_with_tabs, inconsistent_formatting
+
+Combined pleural procedure note
+
+Indication:
+Symptomatic right malignant pleural effusion.
+
+Ultrasound summary
+Side	Appearance	Loculations
+Right	Large anechoic to mildly complex	Minimal
+
+Procedure field list:
+
+* Prep: chlorhexidine
+* Anesthesia: local lidocaine
+* Device: tunneled pleural catheter
+* Entry: right lateral chest
+* Fluid removed initially: 1000 mL serous
+
+Narrative:
+Using ultrasound guidance, the right pleural space was entered and a tunneled pleural catheter was placed without difficulty. Catheter flushed and drained appropriately at completion.
+
+Specimens:
+Pleural fluid sent for cytology.
+
+Complications:
+None immediate.
+
+Plan:
+Home drainage teaching. Follow-up in pleural clinic.
+
+<<<END NOTE>>>
+
+<<<NOTE 30>>>
+
+Indication:
+PET-avid left upper lobe peripheral lesion.
+
+Procedure:
+Computer-assisted guided bronchoscopy using Galaxy platform, radial EBUS, fluoroscopy, fiducial placement, and TBNA/forceps biopsy.
+
+Findings:
+Target in the apicoposterior LUL was reached with guided bronchoscopy. Radial EBUS gave an eccentric signal. Fiducials were placed adjacent to the lesion after tissue sampling. No endobronchial disease.
+
+Sampling:
+TBNA x3
+Forceps biopsy x5
+
+Specimens:
+LUL lesion aspirates and biopsies.
+
+Complications:
+Trace bleeding at biopsy site, controlled with wedging. No immediate pneumothorax.
+
+Plan:
+Chest x-ray post-procedure. Fiducials in expected region on fluoroscopy.
+
+<<<END NOTE>>>
+
+<<<NOTE 31>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Need for mediastinal staging in suspected lung cancer.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURE
+Linear EBUS-TBNA with elastography.
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+Limited airway survey without endobronchial lesion. Elastography used selectively; station 4R appeared relatively stiff and was prioritized. Stations sampled included 4R, 7, and 11R. Doppler confirmed avascular window before each pass.
+
+PROCEDURE IN DETAIL
+EBUS bronchoscope advanced and systematic nodal survey performed. Sampling order was 11R, 4R, then 7. Passes: 11R x3, 4R x5, 7 x4. ROSE was not available.
+
+SPECIMENS
+EBUS-TBNA 11R, 4R, 7.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Await final cytology. Recovery per anesthesia.
+
+<<<END NOTE>>>
+
+<<<NOTE 32>>>
+EDGE_<<<NOTE _TAGS: missing_truth
+
+Procedure:
+Bronchoscopic ablation of peripheral pulmonary lesion.
+
+Indication:
+Growing peripheral pulmonary nodule in a poor surgical candidate.
+
+Findings:
+Lesion located in the right lower lobe by pre-procedure imaging. Navigation and imaging confirmation were used. Immediate post-treatment inspection showed no active airway bleeding. One key truth state, specifically exact lesion size, is not documented anywhere in this note.
+
+Technique:
+After guided bronchoscopy to the target, ablation catheter was positioned and treatment delivered. Cone-beam CT confirmed target engagement before ablation and post-ablation changes afterward. Track ablation was performed during device withdrawal.
+
+Ablation modality:
+Microwave ablation.
+
+Specimens:
+None obtained in this session.
+
+Complications:
+No immediate pneumothorax or major bleeding.
+
+Plan:
+Post-procedure chest radiograph and observation.
+
+<<<END NOTE>>>
+
+<<<NOTE 33>>>
+
+Procedure note:
+Robotic bronchoscopy with PEF ablation.
+
+Indication:
+Biopsy-proven peripheral adenocarcinoma in the left lower lobe, treatment session.
+
+Technique:
+Robotic bronchoscopy performed to a left lower lobe lesion using ION platform. Cone-beam CT used for confirmation of catheter position within the target. Pulsed electric field ablation delivered per planned treatment cycle. Post-treatment CT spin showed expected peri-lesional change. Track treatment performed on withdrawal.
+
+Findings:
+No central endobronchial lesion. Stable target access achieved. No major bleeding.
+
+Specimens:
+None, diagnosis previously established.
+
+Complications:
+Small left pneumothorax was not seen immediately after treatment but a trace apical pneumothorax was noted on recovery film without symptoms.
+
+Plan:
+Observation with repeat chest radiograph; discharge if stable.
+
+<<<END NOTE>>>
+
+<<<NOTE 34>>>
+EDGE_<<<NOTE _TAGS: copy_paste_artifacts, inconsistent_formatting
+
+PRE-PROCEDURE DIAGNOSIS
+Mucus plugging, right lower lobe atelectasis
+
+PROCEDURE
+Flexible bronchoscopy with therapeutic aspiration and BAL BAL
+
+Findings
+Copious thick secretions in bronchus intermedius and right lower lobe basilar segments. Underlying mucosa mildly erythematous. No endobronchial mass.
+
+Details
+Bronchoscope advanced through ETT. Repeated suctioning and saline lavage used to clear plugging. After therapeutic clearance, BAL was obtained from the right lower lobe for culture because of concern for pneumonia.
+
+Specimens
+RLL BAL.
+
+Complications
+Transient bronchospasm responded to bronchodilator therapy.
+
+Plan
+Continue pulmonary hygiene, antibiotics per primary team, follow BAL.
+
+<<<END NOTE>>>
+
+<<<NOTE 35>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Central airway obstruction from benign tracheal granulation tissue around tracheostomy site.
+
+POST-PROCEDURE DIAGNOSIS
+Same, improved after intervention.
+
+PROCEDURES PERFORMED
+Rigid bronchoscopy
+Mechanical debridement
+Cryotherapy
+Bronchoscopy through tracheostomy stoma
+
+ANESTHESIA
+General anesthesia with jet ventilation.
+
+FINDINGS
+Granulation tissue arising from anterior tracheal wall near prior tracheostomy site, producing approximately 60% tracheal narrowing. Distal trachea and main bronchi patent.
+
+PROCEDURE IN DETAIL
+Rigid bronchoscope inserted orally. Granulation tissue removed with forceps and treated with cryotherapy. Bronchoscope then passed through the tracheostomy stoma to inspect tract and confirm no posterior wall injury. Final airway caliber significantly improved.
+
+SPECIMENS
+Granulation tissue.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Humidification, trach care, and follow-up airway surveillance.
+
+<<<END NOTE>>>
+
+<<<NOTE 36>>>
+EDGE_<<<NOTE _TAGS: unicode_checkboxes, reordered_sections
+
+PLAN
+0 Stable for return to floor.
+1 Follow pleural cultures and output.
+
+PROCEDURE
+0 Chest ultrasound
+1 Right thoracentesis
+
+INDICATION
+Dyspnea with moderate right pleural effusion.
+
+FINDINGS
+Ultrasound showed free-flowing anechoic right effusion with underlying atelectatic lung. 780 mL clear yellow fluid removed.
+
+SPECIMENS
+Fluid sent for chemistry and culture.
+
+COMPLICATIONS
+None immediate.
+
+<<<END NOTE>>>
+
+<<<NOTE 37>>>
+
+Narrative op note
+
+The patient underwent linear EBUS-TBNA for staging of a right hilar mass. Limited bronchoscopy showed mild extrinsic narrowing of the right upper lobe bronchus but no visible endobronchial lesion. EBUS identified abnormal lymph nodes at stations 10R, 4R, and 7. Sampling was performed in the order 10R, 7, then 4R. Pass counts were 3, 4, and 5 respectively. ROSE was present and confirmed adequacy at each station, with atypical cells favored from 10R and 4R. There were no immediate complications. Plan is recovery per protocol and await final cytology.
+
+<<<END NOTE>>>
+
+<<<NOTE 38>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Right middle lobe peripheral lesion, previously diagnosed, planned bronchoscopic cryoablation.
+
+POST-PROCEDURE DIAGNOSIS
+Same, status post cryoablation.
+
+PROCEDURES
+Navigational bronchoscopy with Galaxy-assisted guidance
+Cone-beam CT confirmation
+Cryoablation of peripheral lesion
+Track ablation
+
+FINDINGS
+Guided access achieved to right middle lobe target. Imaging confirmed treatment catheter position within the lesion. Expected ice-ball related treatment effect visualized on intraprocedural imaging. No significant endobronchial bleeding.
+
+DETAILS
+Following guided bronchoscopy to the lesion, cryoablation treatment was delivered. Catheter position was confirmed before treatment and reassessed after ablation. Track ablation performed during withdrawal.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Post-procedure chest x-ray and short observation period.
+
+<<<END NOTE>>>
+
+<<<NOTE 39>>>
+EDGE_<<<NOTE _TAGS: missing_section, ultra_short
+
+Indication: retained secretions after stent placement.
+Flexible bronchoscopy showed a patent left mainstem covered metallic stent with moderate retained secretions and a small amount of granulation tissue at the proximal edge. Secretions were cleared and the granulation tissue was treated with APC.
+No specimen. No immediate complication. Continue airway clearance and outpatient follow-up.
+
+<<<END NOTE>>>
+
+<<<NOTE 40>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Pulmonary alveolar proteinosis, second-stage lavage of right lung.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURE
+Bronchoscopic confirmation of double-lumen tube followed by right whole lung lavage.
+
+ANESTHESIA
+General anesthesia.
+
+FINDINGS
+Double-lumen tube position satisfactory. Initial right lung return was cloudy white with particulate material, gradually clearing after serial cycles.
+
+PROCEDURE IN DETAIL
+Right lung isolated. Warmed saline was instilled in 500-1000 mL aliquots with chest percussion during drainage. Total instilled volume 16 liters; total return volume 14.9 liters. Effluent progressively less opaque by end of procedure. One brief episode of hypotension responded to vasopressor adjustment.
+
+SPECIMENS
+Lavage fluid sample retained.
+
+COMPLICATIONS
+Transient hypotension, resolved.
+
+DISPOSITION
+Transferred to ICU intubated for post-procedure monitoring.
+
+<<<END NOTE>>>
+
+<<<NOTE 41>>>
+EDGE_<<<NOTE _TAGS: inconsistent_formatting, malformed_codes
+
+PRE DX
+Pleural effusion, likely malignant
+
+POST DX
+same
+
+Procedure(s)
+US-guided thoracentesis; code line: 32555?? / procedure-room note
+
+Indication
+Symptomatic recurrent left pleural effusion.
+
+Findings
+Large left effusion, mostly anechoic with a few floating strands. 1350 mL dark amber fluid removed.
+
+Specimen(s)
+Cytology, chemistry, culture.
+
+Complication(s)
+None immediate.
+
+Plan
+Post-procedure film; if recurrent, consider pleural catheter.
+
+<<<END NOTE>>>
+
+<<<NOTE 42>>>
+
+Procedure:
+Linear EBUS-TBNA and endobronchial biopsy.
+
+Indication:
+Left hilar fullness with mild hemoptysis.
+
+Findings:
+A friable endobronchial lesion partially narrowed the lingular bronchus. Enlarged nodes at station 7 and 11L.
+
+Technique:
+Flexible bronchoscopy first identified the lingular lesion, which underwent forceps endobronchial biopsy. Linear EBUS then performed. Station 11L sampled x4 passes and station 7 x4 passes. ROSE showed lesional cells from the endobronchial lesion and adequate lymphoid tissue from both nodes.
+
+Specimens:
+Lingular endobronchial biopsy, EBUS-TBNA 11L and 7.
+
+Complications:
+Minimal bleeding from endobronchial biopsy controlled with topical epinephrine.
+
+Plan:
+Await pathology and cytology. Recovery uneventful.
+
+<<<END NOTE>>>
+
+<<<NOTE 43>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Need for evaluation of tracheostomy position after difficult exchange at bedside.
+
+POST-PROCEDURE DIAGNOSIS
+New tube in appropriate position.
+
+PROCEDURE
+Flexible bronchoscopy through tracheostomy.
+
+FINDINGS
+Cuffed tracheostomy tube centered within tracheal lumen, distal tip 2 cm above carina. Mild posterior wall irritation without laceration. Both main bronchi patent with scant secretions suctioned clear.
+
+PROCEDURE IN DETAIL
+Bronchoscope was inserted through the tracheostomy tube for confirmation of placement and inspection after recent exchange. No false passage seen.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Routine trach care and wean FiO2 as tolerated.
+
+<<<END NOTE>>>
+
+<<<NOTE 44>>>
+EDGE_<<<NOTE _TAGS: no_y_heading_style, ultra_short
+
+Indication: subcarinal adenopathy.
+Linear EBUS performed under general anesthesia. Station 7 sampled with 6 passes and station 4R with 4 passes; ROSE showed lymphoid tissue and atypical cells from station 7. Limited airway survey otherwise unremarkable.
+No complications. Follow cytology.
+
+<<<END NOTE>>>
+
+<<<NOTE 45>>>
+
+Procedure:
+Electromagnetic navigational bronchoscopy (SuperDimension) to a left upper lobe lesion with radial EBUS, fluoroscopy, and BAL.
+
+Indication:
+Persistent PET-avid LUL nodule in a patient with prior nondiagnostic transthoracic biopsy.
+
+Findings:
+Registration completed. Locatable guide advanced to target through extended working channel. Radial EBUS gave a concentric image. No visible endobronchial lesion.
+
+Sampling:
+TBNA x4
+Forceps biopsy x5
+BAL x1
+
+Specimens:
+LUL aspirates, biopsies, BAL.
+
+Complications:
+None immediate.
+
+Plan:
+Chest x-ray in recovery. Await final results.
+
+<<<END NOTE>>>
+
+<<<NOTE 46>>>
+EDGE_<<<NOTE _TAGS: extreme_length, reordered_sections, conflicting_details
+
+PLAN
+Admit to monitored bed, serial chest radiographs, and bronchodilator therapy.
+
+PROCEDURE
+Robotic bronchoscopy on Monarch platform to right upper lobe lesion with radial EBUS, fluoroscopy, cone-beam CT, transbronchial needle aspiration, forceps biopsy, cryobiopsy, fiducial placement, and EBUS staging.
+
+POST-PROCEDURE DIAGNOSIS
+RUL lesion with mediastinal adenopathy; diagnosis and staging completed.
+
+INDICATION
+Enlarging right upper lobe lesion with PET-avid 4R node.
+
+FINDINGS
+No central endobronchial tumor. Robotic scope articulation allowed access to the posterior segment target. Radial EBUS showed an eccentric lesion view that became near concentric after slight repositioning. Cone-beam CT confirmed the biopsy tool within the lesion. Three fiducials were deployed after tissue acquisition. Linear EBUS identified enlarged 4R and 7 nodes. One line in the auto-import states LUL lesion, but the intended and repeatedly documented target throughout the note is RUL.
+
+DETAILS
+After airway inspection, robotic bronchoscopy was used to access the lesion. Samples obtained included TBNA x4, forceps biopsy x6, and cryobiopsy x2. Minor bleeding after cryobiopsy resolved with tamponade and suction. EBUS-TBNA then performed at 4R x5 and 7 x3. ROSE from peripheral and nodal samples suggested adequacy.
+
+SPECIMENS
+RUL lesion aspirates, forceps biopsies, cryobiopsies
+4R and 7 nodal aspirates
+
+COMPLICATIONS
+Minor bleeding controlled bronchoscopically; no immediate pneumothorax.
+
+<<<END NOTE>>>
+
+<<<NOTE 47>>>
+
+PRE-PROCEDURE DIAGNOSIS
+Loculated left empyema with incomplete drainage from existing pigtail catheter.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURE
+Pleural ultrasound and fibrinolytic instillation through existing tube.
+
+FINDINGS
+Residual loculated left basilar collection with internal septations. Existing catheter remained intrapleural and patent after saline flush.
+
+DETAILS
+After confirming tube patency, alteplase and DNase were instilled via the left pleural catheter. Tube was clamped for dwell period. Patient had mild transient chest discomfort but remained stable.
+
+SPECIMENS
+None.
+
+COMPLICATIONS
+No immediate bleeding or respiratory decompensation.
+
+PLAN
+Return tube to suction after dwell. Repeat imaging and monitor drainage.
+
+<<<END NOTE>>>
+
+<<<NOTE 48>>>
+EDGE_<<<NOTE _TAGS: table_with_tabs, noisy_units
+
+ABLATlON NOTE
+
+Indication:
+Known peripheral NSCLC, medically inoperable, planned RFA.
+
+Target summary
+Lobe	Segment	Approx size
+RLL	Superior segment	1.9 cm
+
+Procedure:
+Navigational bronchoscopy using ION robotic platform with cone-beam CT confirmation and radiofrequency ablation.
+
+Findings:
+Shape-sensing navigation provided stable access. CT spin confirmed catheter traversing the target. Expected post-ablation change present. No active airway bleeding.
+
+Specimens:
+None.
+
+Complications:
+Tiny trace PTX on immediate film, clinically stable.
+
+Plan:
+Observation with repeat chest radiograph in 2 hrs.
+
+<<<END NOTE>>>
+
+<<<NOTE 49>>>
+
+Procedure Note
+
+Indication:
+Benign bronchial stenosis of bronchus intermedius with recurrent post-obstructive symptoms.
+
+Procedure:
+Flexible bronchoscopy, balloon dilation, and covered metallic stent placement.
+
+Findings:
+Bronchus intermedius narrowed to approximately 3-4 mm by mixed cicatricial change and extrinsic distortion. Right upper lobe already surgically absent. Distal middle and lower lobe airways patent after intervention.
+
+Technique:
+Under general anesthesia the stenotic segment was traversed with difficulty. Balloon dilation performed serially to 10 mm. Because of elastic recoil, a short covered metallic stent was deployed in the bronchus intermedius with good expansion and preserved distal airway patency.
+
+Specimens:
+None.
+
+Complications:
+None immediate.
+
+Plan:
+Nebulized saline, secretion clearance, follow-up bronchoscopy for stent check.
+
+<<<END NOTE>>>
+
+<<<NOTE 50>>>
+EDGE_<<<NOTE _TAGS: missing_section, copy_paste_artifacts, ultra_short
+
+Flexible bronchoscopy for hemoptysis and left lower lobe infiltrate. Airways inspected to segmental level; no active bleeding seen, but old blood staining was present in the left lower lobe. BAL performed in the LLL with 100 mL instilled and 34 mL returned.
+Specimen: LLL BAL for culture/cytology. No endobronchial biopsy biopsy performed.
+Stable after procedure. Follow results and continue observation.
+<<<END NOTE>>>
+

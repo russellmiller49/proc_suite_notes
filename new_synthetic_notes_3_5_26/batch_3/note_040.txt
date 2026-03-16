@@ -1,0 +1,26 @@
+EDGE_CASE_TAGS: noisy_units, conflicting_details
+
+MONTGOMERY T-TUBE INSERTION — IDIOPATHIC SUBGLOTTIC STENOSIS
+OPERATIVE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+CO-SURGEON: [NAME:REDACTED], MD (Laryngology / ENT)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 34F
+
+PRE-PROCEDURE DIAGNOSIS: Idiopathic subglottic stenosis (iSGS), recurrent, grade III; failed serial balloon dilation x4 (J38.6)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube inserted; phonation preserved
+
+PROCEDURE: Rigid bronchoscopy, Nd:YAG laser, balloon dilation, Montgomery T-tube insertion
+
+ANESTHESIA: GA, TIVA, spontaneous. [Nursing intake documents "supraglottic airway" — confirmed with anesthesia: LMA Fastrach #4 placed initially; removed when rigid bronchoscope passed transorally, per standard T-tube procedure; notation in nursing form is partially incorrect — rigid bronchoscope served as ventilation device, not LMA throughout the operative phase. Anesthesia record addendum pending.]
+
+MEDICATION LOG:
+  Propofol infusion: 100–130 mcg/kg/min
+  Remifentanil: 0.08 mcg/kg/min
+  Topical lidocaine 4%, 3m mL [noisy — intended 3 mL] via rigid scope
+
+PROCEDURE:
+Rigid bronchoscope (8.5 mm → 10.5 mm). Subglottic web: grade III, fibrous, 1.0 cm below cords, 2.8 cm length, 3 mm residual lumen. Nd:YAG laser: radial incisions x4 (15 W, 0.3 sec pulses, contact mode, ~35 pulses). Serial dilation: 10 → 12 mm CRE balloon. Post-dilation lumen 12 mm. Stoma (ring 3, 2 cm below cricoid): 1.5 cm incision. T-tube selected: 11 mm × 60 mm × 25 mm sidearm (smaller tube given female anatomy and smaller tracheal diameter). T-tube folded, introduced via rigid barrel; upper limb maneuvered above cords (laryngoscope view confirmed — no arytenoid contact); sidearm exteriorized through stoma. Flexible scope via sidearm: lumen patent; upper limb visible above cords; distal end 4 cm above carina. Phonation with sidearm plugged: good vocal quality.
+
+COMPLICATIONS: SpO2 dip to 86% during proximal limb seating — self-limited; ventilation via rigid scope maintained; SpO2 recovered to 97% within 2 minutes. EBL: ~10 mL. Grade I mucosal lacerations at laser sites.
+
+PLAN: T-tube care protocol. SLP. IP/ENT co-follow-up 2 weeks. Autoimmune workup (GPA, anti-PR3) to confirm idiopathic vs vasculitic etiology — ordered.

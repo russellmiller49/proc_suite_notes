@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:199
+# id: ip_procedure_prompts_batch3:100
+
+Complex combined case with robotic bronchoscopy for RUL nodule, fiducial placement, and staging EBUS. Radial EBUS concentric and cone-beam CT confirmed tool-in-lesion. Four needle biopsies, 5 forceps biopsies, 3 cryobiopsies, fiducial x2, BAL from RUL. EBUS sampled 4L, 7, 4R, and 11R with 4 to 5 passes each, ROSE malignant at 4R and adequate elsewhere. No immediate complications.

@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+MONTGOMERY T-TUBE INSERTION — OPERATIVE NOTE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD / CO-SURGEON: [NAME:REDACTED], MD (ENT)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 52M
+
+PRE-PROCEDURE DIAGNOSIS: Post-cricoid and upper tracheal stenosis, grade II (Cotton-Myer), idiopathic (J95.5)
+POST-PROCEDURE DIAGNOSIS: Same; T-tube placed, airway patent
+
+PROCEDURE: Rigid bronchoscopy + Nd:YAG laser + balloon dilation + Montgomery T-tube insertion
+
+ANESTHESIA: GA, TIVA, spontaneous respiration maintained via rigid bronchoscope.
+
+STENT SELECTION TABLE:
+
+	Parameter	Measurement	T-tube Selection
+	CT tracheal lumen at stenosis	7 mm	13 mm inner diameter
+	Stenosis length	2.4 cm	70 mm tracheal limb
+	Subglottis to stenosis	1.5 cm	Proximal limb: 20 mm (above cords)
+	Planned stoma level	Ring 3–4	30 mm sidearm, right-angle exit
+
+PROCEDURE SUMMARY:
+Rigid bronchoscopy confirmed grade II circumferential upper tracheal stenosis. Nd:YAG laser web radial incisions (12/3/6/9 o'clock). Serial balloon dilation to 13 mm. Stoma created at ring 3–4. T-tube (13 × 70 × 30 mm) folded and introduced via rigid barrel; upper limb seated above cords under laryngoscopic guidance; sidearm exteriorized through stoma. Position confirmed on flexible bronchoscopy: lumen patent, carina 4 cm below distal end. Phonation test: intelligible voice with sidearm plugged.
+
+COMPLICATIONS: Minor hemorrhage at stoma incision site; controlled with direct pressure. Grade I mucosal laceration (radial laser sites). EBL: 8 mL.
+
+PLAN: T-tube care protocol; ENT/IP co-follow-up; SLP evaluation. Planned duration 12 months minimum.

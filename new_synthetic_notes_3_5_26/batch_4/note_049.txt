@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PLEUROSCOPY (MEDICAL THORACOSCOPY) — PLEURAL BIOPSY
+
+Patient: [PATIENT] (72-year-old female)
+Indication: Exudative pleural effusion with pleural thickening.
+
+Pre Dx: Pleural effusion (J90)
+Post Dx: Same
+
+Procedure(s):
+
+* Chest ultrasound localization
+* Medical thoracoscopy with pleural biopsies
+* Pleural drain placement
+
+Anesthesia: Moderate sedation
+Findings:
+Diffuse pleural nodularity and thickening. Biopsies obtained x6. Hemostasis achieved.
+
+Specimens:
+A: Pleural biopsies
+
+EBL minimal; complications none. Plan: chest tube to suction; follow pathology.

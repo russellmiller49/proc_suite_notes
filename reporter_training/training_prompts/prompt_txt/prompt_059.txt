@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:117
+# id: ip_procedure_prompts_batch3:59
+
+Robotic bronchoscopy with pulsed electric field ablation of LLL pulmonary nodule after diagnostic confirmation on prior biopsy. Navigation confirmed by radial EBUS and CT spin. Ablation catheter positioned within lesion and treatment completed, followed by immediate imaging confirmation. No pneumothorax seen.

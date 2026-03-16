@@ -1,0 +1,6 @@
+EDGE_CASE_TAGS: ambiguous_laterality
+Indication: RUL mass.
+Technique: EBUS-TBNA
+Findings: Scope passed via ETT. Airway exam unremarkable. EBUS scope used to examine the left upper lobe mass. TBNA performed on the RUL mass.
+Specimens: RUL mass TBNA.
+Plan: Discharge home.

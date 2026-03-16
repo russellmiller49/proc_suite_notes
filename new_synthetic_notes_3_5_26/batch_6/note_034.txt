@@ -1,0 +1,24 @@
+EDGE_<<<NOTE _TAGS: copy_paste_artifacts, inconsistent_formatting
+
+PRE-PROCEDURE DIAGNOSIS
+Mucus plugging, right lower lobe atelectasis
+
+PROCEDURE
+Flexible bronchoscopy with therapeutic aspiration and BAL BAL
+
+Findings
+Copious thick secretions in bronchus intermedius and right lower lobe basilar segments. Underlying mucosa mildly erythematous. No endobronchial mass.
+
+Details
+Bronchoscope advanced through ETT. Repeated suctioning and saline lavage used to clear plugging. After therapeutic clearance, BAL was obtained from the right lower lobe for culture because of concern for pneumonia.
+
+Specimens
+RLL BAL.
+
+Complications
+Transient bronchospasm responded to bronchodilator therapy.
+
+Plan
+Continue pulmonary hygiene, antibiotics per primary team, follow BAL.
+
+<<<END NOTE>>>

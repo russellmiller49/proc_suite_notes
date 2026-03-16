@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+PRE/POST: R91.1 RUL anterior nodule
+0‌/1‌ Procedure: CT-guided cryoablation
+0‌/1‌ Sedation: “local only” / MAC
+0‌/1‌ Complications: none
+Technique: two probes; freeze-thaw-freeze; post CT no PTX.
+Plan: CT chest 4–6 wks.

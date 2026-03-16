@@ -1,0 +1,14 @@
+Peripheral bronchoscopy — cryobiopsy included
+
+Patient: [PATIENT], 56-year-old female
+Indication: Diffuse peripheral nodularity and suspected organizing pneumonia; need tissue.
+
+Procedure: Navigation bronchoscopy to right lower lobe target; transbronchial cryobiopsy x3; BAL.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation to RLL lateral basal region. Radial EBUS showed eccentric signal. Cryobiopsy performed with 1.1 mm probe x3 with brief freeze cycles, retrieved without significant bleeding. Hemostasis with wedging and cold saline. BAL performed in RLL (150 mL in, 62 mL out).
+
+Specimens: “RLL cryobiopsy”, “RLL BAL”.
+Plan: CXR in PACU; monitor for delayed bleeding; follow pathology/cultures.

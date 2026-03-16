@@ -1,0 +1,51 @@
+PROCEDURE NOTE (COMPLEX)
+Patient: [PATIENT], 71-year-old male
+Indication: Right lower lobe peripheral nodule 1.9 cm with intermediate PET uptake; staging requested.
+Post-procedure diagnosis: Same.
+
+Procedures performed:
+
+Robotic navigational bronchoscopy to right lower lobe target
+
+Radial EBUS confirmation
+
+Transbronchial needle aspiration, transbronchial biopsy, cryobiopsy (peripheral)
+
+BAL (right lower lobe)
+
+Linear EBUS-TBNA of station 7 and station 11R
+
+Anesthesia: General anesthesia with ETT.
+Fluoroscopy: Used.
+Complications: None.
+EBL: Minimal.
+
+Technique:
+After consent and time-out, robotic platform was docked. Registration completed to pre-procedure CT. Navigation was performed to the RLL superior segment target. Radial EBUS demonstrated an eccentric signal with adjacent vessel excluded by Doppler. Tool position was confirmed with fluoroscopy.
+
+Sampling at RLL target:
+
+TBNA: 3 passes (19G)
+
+Transbronchial biopsy: 6 forceps biopsies
+
+Cryobiopsy: 2 samples (1.1 mm probe), thaw and retrieval without significant bleeding
+Hemostasis achieved with wedge positioning and cold saline. BAL performed in RLL with 120 mL instilled, 52 mL return.
+
+Staging:
+Linear EBUS performed next.
+
+Station 7: 4 passes (22G)
+
+Station 11R: 3 passes (22G)
+
+Specimens:
+A) “RLL target TBNA”
+B) “RLL forceps bx”
+C) “RLL cryobiopsy”
+D) “RLL BAL”
+E) “7 TBNA”
+F) “11R TBNA”
+
+Plan:
+Routine recovery; post-procedure CXR in PACU; follow-up pathology and cytology; resume anticoagulation per referring team when appropriate.

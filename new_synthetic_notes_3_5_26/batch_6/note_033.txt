@@ -1,0 +1,22 @@
+Procedure note:
+Robotic bronchoscopy with PEF ablation.
+
+Indication:
+Biopsy-proven peripheral adenocarcinoma in the left lower lobe, treatment session.
+
+Technique:
+Robotic bronchoscopy performed to a left lower lobe lesion using ION platform. Cone-beam CT used for confirmation of catheter position within the target. Pulsed electric field ablation delivered per planned treatment cycle. Post-treatment CT spin showed expected peri-lesional change. Track treatment performed on withdrawal.
+
+Findings:
+No central endobronchial lesion. Stable target access achieved. No major bleeding.
+
+Specimens:
+None, diagnosis previously established.
+
+Complications:
+Small left pneumothorax was not seen immediately after treatment but a trace apical pneumothorax was noted on recovery film without symptoms.
+
+Plan:
+Observation with repeat chest radiograph; discharge if stable.
+
+<<<END NOTE>>>

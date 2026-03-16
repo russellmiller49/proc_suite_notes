@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:167
+# id: ip_procedure_prompts_batch3:84
+
+EBUS-TBNA for restaging after neoadjuvant therapy in right upper lobe lung cancer. Stations 4R, 7, and 10R sampled with 5 passes each. Nodes smaller than prior and ROSE showed treatment effect with scant atypical cells at 4R. No complications.

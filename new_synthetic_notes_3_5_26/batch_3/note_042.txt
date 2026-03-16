@@ -1,0 +1,44 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+PROCEDURE NOTE — NAVIGATIONAL BRONCHOSCOPY WITH COMPLICATION
+TENSION PNEUMOTHORAX POST-CRYOBIOPSY — EMERGENT MANAGEMENT
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 54F
+
+FINAL DISPOSITION: Patient recovered, chest tube placed, pneumothorax resolved, admitted overnight for observation. Biopsy results pending.
+
+PRE-PROCEDURE DIAGNOSIS: Right lower lobe 2.1 cm solid nodule, PET-positive (SUVmax 6.1), newly detected (R91.1)
+POST-PROCEDURE DIAGNOSIS: Same; post-procedural tension pneumothorax (complication of cryobiopsy) managed; 14 Fr chest tube placed
+
+PROCEDURES:
+  31627 — Navigational bronchoscopy
+  31628 — Transbronchial biopsy (cryoprobe)
+  [Needle aspiration/chest tube: 32551 — tube thoracostomy, emergent]
+
+ANESTHESIA: GA; ETT; TIVA.
+
+PROCEDURE IN DETAIL:
+Robotic navigational bronchoscopy to RLL posterior basal segment (B10); shape-sensing confirmed; rEBUS: eccentric ring (adjacent to lesion). Cryoprobe deployed: 3 freeze-thaw cycles, 2 seconds each. Tissue cores adequate x3. Brushings x2. BAL 50 mL.
+
+COMPLICATION — TENSION PNEUMOTHORAX:
+During scope withdrawal, SpO2 acutely declined from 99% to 74% with rising peak airway pressures (peak 52 cm H2O, plateau 47 cm H2O). Tracheal deviation noted on clinical inspection (toward left). Breath sounds absent on right. Diagnosis: right tension pneumothorax.
+
+EMERGENT DECOMPRESSION:
+  T+0 — Tension pneumothorax recognized.
+  T+1:00 — 14-gauge angiocath inserted at right 2nd ICS, MCL (needle decompression); rush of air confirmed; SpO2 improved to 88%; airway pressures fell to peak 36.
+  T+2:00 — 14 Fr small-bore chest tube placed (Seldinger) at right 5th ICS, anterior axillary line; connected to water-seal drainage.
+  T+3:00 — SpO2 99%; airway pressures normalized (peak 26, plateau 20).
+  CXR: right lung re-expanded; chest tube in satisfactory position.
+
+Patient extubated uneventfully 45 minutes post-chest tube placement. Admitted to step-down unit.
+
+SPECIMENS: RLL cryobiopsies x3 — formalin. Brushings — ThinPrep. BAL — cytology, culture.
+
+COMPLICATIONS: Right tension pneumothorax — managed emergently as above. EBL: <5 mL (separate from pneumothorax event). Adverse event report filed.
+
+PLAN:
+1. Chest tube to water seal; remove when output <100 mL/24h and no air leak x24h.
+2. Repeat CXR q12h.
+3. Pathology results in 5–7 days.
+4. Oncology referral if malignant.
+5. Case to be presented at IP quality review.

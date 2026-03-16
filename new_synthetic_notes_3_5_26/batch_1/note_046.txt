@@ -1,0 +1,25 @@
+EBUS-TBNA + endobronchial biopsies (sarcoid evaluation)
+
+Patient: [PATIENT], 44-year-old male
+Indication: Bilateral hilar and mediastinal adenopathy, suspected sarcoidosis.
+
+Sedation: Moderate sedation.
+Findings: No endobronchial mass.
+
+Procedures:
+
+EBUS-TBNA:
+
+11R: 4 passes (22G)
+
+7: 5 passes (22G)
+
+11L: 3 passes (22G)
+
+Endobronchial biopsies from right middle lobe carina x4
+
+BAL in right upper lobe
+
+Specimens: “11R TBNA”, “7 TBNA”, “11L TBNA”, “Endobronchial bx”, “RUL BAL”.
+Complications: None.
+Plan: Follow pathology; consider PFTs and outpatient follow-up.

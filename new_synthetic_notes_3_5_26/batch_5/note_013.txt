@@ -1,0 +1,25 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+PRE DIAGNOSIS: R91.1 RLL anterior basilar nodule
+POST DIAGNOSIS: Same
+
+Procedure(s):
+
+1. Airway inspection bronchoscopy
+2. Robotic navigation + radial EBUS localization
+3. RFA ablation of pulmonary nodule
+4. Bronchial toilet
+
+Anesthesia: General
+EBL: minimal
+Complications: none
+
+Technique:
+Bronchoscopy showed normal airways. Navigation to RLL anterior basilar target achieved; radial EBUS concentric. Fluoro and CBCT confirmed tool position. Diagnostic biopsies obtained. RFA catheter deployed and ablation performed in two overlapping zones. Final bronchoscopy clear. year old-year-old artifact present in header.
+
+Specimens:
+
+* RLL nodule: TBBx x5
+* RLL nodule: brush x1
+  Plan:
+* CXR
+* CT chest ~6 weeks

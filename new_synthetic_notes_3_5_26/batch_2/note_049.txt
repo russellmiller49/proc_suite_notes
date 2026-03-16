@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+Pleural Procedure Note
+Indication: Left pleural effusion.
+Procedure: Diagnostic and Therapeutic Thoracentesis with Ultrasound guidance.
+☑‌ Timeout completed.
+☑‌ US performed.
+☑‌ Diaphragm identified.
+Volume	Fluid Color	Comps
+800cc	Serosanguinous	None
+Plan: Send fluid for cytology, cell count, chemistry. Post-op CXR.

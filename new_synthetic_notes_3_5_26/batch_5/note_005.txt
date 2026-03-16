@@ -1,0 +1,38 @@
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+PATIENT CONTEXT:
+[PATIENT] is a 64-year-old female with COPD and a peripheral RLL basilar segment nodule (1.6 cm) with interval growth and PET avidity. She is not an ideal surgical candidate. Plan: same-session diagnostic sampling and cryoablation if safe localization achieved.
+
+PLAN / RECOMMENDATIONS (placed first intentionally):
+
+1. Observe in PACU with CXR at 0 and 3 hours.
+2. Resume usual inhalers; hold anticoagulation x24h if applicable.
+3. CT chest in 4–6 weeks, then 3 months to evaluate involution of ablation zone.
+4. Pathology follow-up; oncology referral if malignancy confirmed.
+
+PRE-PROCEDURE DX: R91.1; suspected early-stage NSCLC
+POST-PROCEDURE DX: Same
+
+PROCEDURES:
+
+* Robotic bronchoscopy with peripheral navigation
+* Radial EBUS localization
+* Cone-beam CT confirmation x2
+* Transbronchial cryobiopsy (diagnostic)
+* Bronchoscopic cryoablation of pulmonary nodule (non-resectional therapy)
+
+ANESTHESIA: General anesthesia (ETT)
+AIRWAY DEVICE: 8.0 ETT
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL:
+After consent and time-out, flexible bronchoscopy demonstrated normal tracheobronchial anatomy without endobronchial mass. A robotic system was docked. Navigation was performed to the RLL basilar segment target. Radial EBUS showed an eccentric lesion with adjacent vessel excluded by Doppler on linear EBUS from a segmental takeoff.
+
+CBCT spin #1 confirmed near-lesion position; catheter adjusted. CBCT spin #2 confirmed tool-in-lesion. Diagnostic sampling performed first: TBNA from within the lesion, followed by transbronchial cryobiopsy using a 1.1 mm cryoprobe with balloon occlusion in the segment for hemostasis readiness.
+
+Following diagnostic sampling, cryoablation catheter was positioned centrally within the target. A freeze-thaw-freeze sequence was performed with slight catheter retraction between cycles to broaden coverage. Final CBCT demonstrated expected perilesional ground-glass change. No pneumothorax seen on exit imaging. Airway toileting performed; no active bleeding at conclusion.
+
+SPECIMENS:
+
+* RLL basilar segment nodule: TBNA x4 passes
+* RLL basilar segment nodule: cryobiopsy x3

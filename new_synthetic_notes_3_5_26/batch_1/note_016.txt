@@ -1,0 +1,24 @@
+EBUS procedure (checklist style)
+
+Patient: [PATIENT] 59-year-old male
+Indication: PET-avid mediastinal nodes
+Anesthesia: GA
+
+Airway survey:
+
+Trachea: normal
+
+R bronchial tree: normal
+
+L bronchial tree: normal
+
+EBUS nodes sampled:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+10L: 3 passes (22G)
+
+Specimens sent: station-labeled TBNA.
+Complications: none.

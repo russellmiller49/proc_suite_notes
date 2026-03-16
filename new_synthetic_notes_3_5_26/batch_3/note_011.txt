@@ -1,0 +1,53 @@
+EDGE_CASE_TAGS: inconsistent_formatting, noisy_units
+
+PROCEDURE NOTE: ENDOBRONCHIAL ULTRASOUND AND NAVIGATIONAL BRONCHOSCOPY — COMBINED CASE
+DATE: [REDACTED]
+ATTENDING PHYSICIAN: [NAME:REDACTED], MD
+ASSISTANT: [NAME:REDACTED], PA-C
+PATIENT: [PATIENT]   AGE/SEX: 66-year-old female   MRN: [MRN:REDACTED]
+
+INDICATION: 1.9 cm LLL nodule; PET positive (SUVmax 4.3); enlarged station 7 node (1.8 cm); biopsy both targets.
+
+PRE-PROCEDURE DIAGNOSIS: LLL pulmonary nodule and mediastinal adenopathy, indeterminate (R91.1, R59.9)
+POST-PROCEDURE DIAGNOSIS: Pending
+
+PROCEDURE LIST
+  • EBUS-TBNA, stations 7, 4L (CPT 31652)
+  • Navigational bronchoscopy, peripheral — computer-assisted (CPT 31627)
+  • Radial EBUS (CPT 31625 — unlisted add-on, or bronchoscopy w/ biopsy 31628)
+  • TBBX x4 via navigational catheter
+
+ANESTHESIA: General; LMA; TIVA propofol infusion; fentanyl bolus 100 mcg, paralytic for LMA placement.
+
+INSTRUMENTS: Olympus BF-UC180F (EBUS); Medtronic superdimension 7th-gen ENB system; radial EBUS probe (2.0 mm, 20 MHz); Olympus BF-P290 used for peripheral navigation.
+
+PROCEDURE NARRATIVE:
+
+EBUS PHASE:
+Linear EBUS scope introduced. Mediastinal survey:
+  - Station 4L: 1.2 cm, hypoechoic — 3 passes; ROSE pending
+  - Station 7: 1.8 cm, heterogeneous with central necrosis pattern — 4 passes; ROSE: malignant (adenocarcinoma morphology)
+  - Station 4R: surveyed, <0.5 cm, not sampled
+
+NAVIGATIONAL PHASE (scope exchanged to thin bronchoscope + ENB):
+ENB route planned to LLL superior segment (B6). Extended working catheter advanced; fluoroscopic landmark verification at LLL target. Shape-confirmed position achieved per system readout. Radial EBUS: partial (eccentric) ring around 8 mm halo — consistent with lesion at/near probe. Four transbronchial biopsies obtained (1.8 mm forceps, fluoroscopy-guided). BAL 60 mL instilled (30 mL returned) from LLL B6.
+
+Medication log:
+  Midaz [sic — should be propofol TIVA per above] 2mg IV pre-induction
+  Fentanyl 10 0 mcg [noisy unit — 100 mcg intended]
+  Propofol infusion 80–120 mcg/kg/min
+
+SPECIMENS:
+Specimen Label | Site | Technique | Container
+4L node (3p) | Station 4L | EBUS-TBNA | Cytology + cell block
+7 node (4p) | Station 7 | EBUS-TBNA | Cytology + cell block + molecular hold
+LLL nod Bx | LLL B6 | TBBX x4 | Formalin
+LLL BAL | LLL B6 | BAL 60mL | Cytology + culture
+
+COMPLICATIONS: None. EBL: <2 mL. No pneumothorax; post-procedure CXR ordered.
+
+ASSESSMENT/PLAN:
+Station 7 ROSE positive for malignancy (adenocarcinoma); this is sufficient for staging if confirmed on formal pathology.
+LLL biopsy results pending; if discordant with station 7, will repeat vs proceed to CT-guided biopsy.
+Molecular reflex testing ordered per lung cancer protocol (PD-L1, NGS panel).
+Oncology referral placed.

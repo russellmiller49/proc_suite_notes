@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: ultra_short, copy_paste_artifacts
+
+T-TUBE INSERTION NOTE
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 61F
+
+Indication: Recurrent post-radiation tracheal stenosis (adenoid cystic carcinoma, s/p resection and XRT); three prior balloon dilations with restenosis at 4–8 weeks; not candidate for re-resection.
+Anesthesia: GA, TIVA, spontaneous ventilation via rigid bronchoscope.
+Procedure: Rigid bronchoscopy; Nd:YAG laser (radial incisions); balloon dilation 14 mm; Montgomery T-tube 14 mm × 80 mm × 35 mm placed via rigid barrel. Sidearm exteriorized at ring 3 stoma (pre-existing from prior trach, epithelialized). Upper limb 1.5 cm above vocal cords. Flexible bronchoscopy confirmed lumen patent, distal end 3 cm above carina. patientpatient [sic] — patient tolerated procedure without hemodynamic instability.
+Complications: Grade I mucosal lacerations (expected). EBL: 10 mL.
+Plan: T-tube care; IP/ENT co-follow-up in 2 weeks; flexible bronchoscopy through sidearm.

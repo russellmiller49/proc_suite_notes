@@ -1,0 +1,14 @@
+EDGE_CASE_TAGS: malformed_codes, missing_section
+PRE/POST DX: Vocal cord dysfunction vs subglottic stenosis (R49.9/J38.6)
+
+PROCEDURE:
+
+* Bronchoscopy with laryngoscopy view (limited)
+* Vocal cord motion assessment during respiration/phonation
+
+ANESTHESIA: Moderate sedation
+
+DETAIL:
+[PATIENT] 35-year-old female. Scope positioned to visualize vocal cords. Paradoxical adduction noted during inspiration, improving with coached breathing. No significant subglottic stenosis seen. No specimens.
+
+Complications none. Plan: speech therapy referral.

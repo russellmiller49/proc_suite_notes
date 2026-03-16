@@ -1,0 +1,40 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting, ambiguous_laterality
+
+OPERATIVE NOTE — CRYOBIOPSY / NAVIGATIONAL BRONCHOSCOPY
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD, DAABIP
+FELLOW (supervised): [NAME:REDACTED], MD
+DATE: [REDACTED]    PATIENT: [PATIENT]    MRN: [MRN:REDACTED]    AGE/SEX: 61F
+
+COMPLICATIONS (per resident pre-op note — listed first as template artifact):
+Anticipated: pneumothorax risk ~10–15% with cryobiopsy; bleeding risk low.
+Actual: [see end of note]
+
+PLAN (pre-documented):
+1. Post-procedure CXR.
+2. Observe 2h in recovery; if no pneumothorax, discharge.
+3. Pathology results in 5–7 days; follow-up lung nodule clinic.
+
+PRE-PROCEDURE DIAGNOSIS: Right middle lobe 1.6 cm solid nodule, PET-equivocal (SUVmax 2.1) (R91.1)
+POST-PROCEDURE DIAGNOSIS: Same; biopsy obtained; pending pathology
+
+PROCEDURE: Robotic navigational bronchoscopy with cryobiopsy (CPT 31627; 31628)
+
+ANESTHESIA: General anesthesia; TIVA; size 7.5 ETT
+
+CLINICAL CONTEXT: 61-year-old female, never-smoker, incidentally detected RML nodule (solid, 1.6 cm) on surveillance CT; PET mildly avid (SUV 2.1 vs background 1.4); growth on 6-month interval CT from 1.1 to 1.6 cm; referred for tissue diagnosis.
+
+INSTRUMENTS: Ion Robotic Bronchoscope; 1.1 mm cryoprobe (Erbe); radial EBUS 20 MHz.
+
+PROCEDURE:
+Robotic bronchoscope introduced via ETT. Survey of bilateral airways: right [correction: confirmed RIGHT side — RML target throughout] upper, middle, lower airways inspected. No endobronchial lesion. Navigation plan to RML medial segment (B5). Catheter advanced under robotic guidance; shape-sensing confirmation within 3 mm. rEBUS deployed: concentric ring with central vessel artifact — consistent with within-lesion probe position. Fluoroscopic AP and lateral confirmed probe adjacent to RML opacity.
+
+Cryoprobe introduced: 5 freeze-thaw cycles, 2.0 seconds each; adequate tissue cores retrieved (2–4 mm diameter each). Visual: tissue appeared fibrotic/solid. Bleeding post-biopsy: minimal, self-limited. Bronchial blocker pre-positioned in RML bronchus as precaution — released after hemostasis confirmed.
+
+SPECIMENS:
+  A: RML cryobiopsies x5 (2.0 sec cycles) — formalin; H&E + molecular hold
+  B: RML brushings x2 — ThinPrep
+  C: RML BAL 50 mL — culture, cytology
+
+ACTUAL COMPLICATIONS: Post-procedure CXR: no pneumothorax. Mild hemoptysis (~5 mL, self-limited, resolved before discharge). EBL: ~5 mL.
+
+FOLLOW-UP: Results to lung nodule program; oncology referral if malignant.

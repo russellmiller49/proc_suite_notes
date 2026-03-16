@@ -1,0 +1,28 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+
+PDT PROCEDURE CHECKLIST AND NOTE
+FACILITY: [NAME:REDACTED] MICU   DATE: [REDACTED]
+PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 55F
+
+INDICATION: Prolonged intubation (ICU day 19), COPD exacerbation, failed SBT x3 due to respiratory muscle weakness.
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent: surrogate decision-maker (spouse) consented; patient unable to consent (sedated)
+  ☑ Time-out performed
+  ☑ Coagulation: INR 1.0, Plt 224k — acceptable
+  ☑ Pre-procedure tracheal ultrasound: ring 2–3 identified; no midline vasculature; depth 2.9 cm
+  ☑ ETT size and depth confirmed: 7.0 ETT at 21 cm
+  ☐ Anesthesia presence: not required; attending credentialed for ICU procedural sedation
+  ☑ Equipment: Ciaglia Blue Rhino kit, 8.0 cuffed Shiley confirmed at bedside 0‌
+  ☑ Emergency surgical airway kit: at bedside 1‌
+
+PROCEDURE: Ciaglia Blue Rhino single-step PDT. Ring 2–3 interspace. Bronchoscopic guidance throughout. ETT withdrawn to 16 cm. Introducer needle: tracheal entry confirmed in lumen on bronchoscopy. Guidewire placed. Blue Rhino dilator advanced; trachea dilated to 8.0 mm. Shiley 8.0 cuffed tube placed and secured. Cuff: 22 mmHg.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Bronchoscopy through trach: tip 4 cm above carina; posterior wall intact; no bleed
+  ☑ CXR ordered
+  ☑ Ventilator reconnected; ETCO2 confirmed
+  ☑ Dressing applied; flange secured
+
+COMPLICATIONS: None. EBL: <5 mL. SpO2 maintained >93% throughout.
+PLAN: Standard PDT care bundle; weaning protocol resumed.

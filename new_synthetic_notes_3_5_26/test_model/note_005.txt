@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Uncomplicated EBUS-TBNA of station 4L. Await path.
+
+PRE DIAGNOSIS: Lung mass.
+PROCEDURE: EBUS-TBNA of mediastinal lymph node.
+
+* Findings: Airway normal. 4L measured 1.1 cm.
+
+* 3 passes with 22g needle.
+
+* Anesthesia: Mod sedation.
+SPECIMENS: Station 4L FNA.
+
+[PATIENT] is a [REDACTED] female. Informed consent was obtained. Procedure was performed without issue.

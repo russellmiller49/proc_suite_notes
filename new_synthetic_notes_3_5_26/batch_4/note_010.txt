@@ -1,0 +1,35 @@
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+ROBOTIC BRONCHOSCOPY OPERATIVE NOTE
+
+Patient: [PATIENT] (58-year-old male)
+Indication: Peripheral RUL nodule (R91.1) requiring tissue diagnosis
+
+Pre-op Dx: Lung nodule (R91.1)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Robotic-assisted navigational bronchoscopy to RUL lesion
+* Radial ultrasound confirmation
+* Transbronchial biopsy + brush + BAL
+* Linear EBUS-TBNA of station 7 (staging) (31652??)
+
+Anesthesia: GA with ETT
+EBL: <10 mL
+Complications: none
+
+Technique:
+Robotic platform docked. Registration performed. Path planned to RUL posterior segment lesion. Advanced to target, then radial ultrasound showed eccentric view; adjusted one airway more distal with improved concentric signal. Fluoroscopy used for confirmation. Biopsies obtained:
+• TBBx x6 (RUL lesion)
+• Brush x2
+• BAL 60 mL instilled, 22 mL returned
+Then linear EBUS performed; station 7 sampled, 3 passes.
+
+Specimens:
+A: RUL lesion TBBx
+B: RUL brush
+C: BAL RUL
+D: Station 7 TBNA
+
+Plan:
+CXR in PACU; routine post-bronchoscopy care; follow cytology/pathology.

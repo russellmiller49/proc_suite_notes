@@ -1,0 +1,8 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST DX: Severe emphysema (J43.9), chronic respiratory failure (J96.10)
+PROCEDURE: Bronchoscopy + BLVR valves to RUL (31647-RT?)
+ANESTHESIA: GA
+FINDINGS: no mass; secretions suctioned; Chartis “no CV” pattern.
+INTERVENTION: 3 valves deployed RUL; seated well.
+EBL: minimal; COMPLICATIONS: none.
+PLAN: CXR x2; overnight obs.

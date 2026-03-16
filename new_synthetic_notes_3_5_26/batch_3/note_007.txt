@@ -1,0 +1,36 @@
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+
+PLEURAL PROCEDURE CHECKLIST — ULTRASOUND-GUIDED THORACENTESIS
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 77F
+
+INDICATION: Dyspnea; right-sided transudative effusion, CHF exacerbation (J81.0)
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained (written)
+  ☑ Time-out completed
+  ☑ Coagulation reviewed: INR 1.1, Plt 188k — acceptable
+  ☑ Ultrasound survey completed
+  ☐ Sedation required — NOT required; local anesthetic only
+  ☑ Portable CXR baseline reviewed
+
+ULTRASOUND FINDINGS:
+  Probe: Sonosite S-series, phased array 1–5 MHz
+  Right side: Large anechoic effusion; estimated depth 5.2 cm at marked site; lung sliding absent in right base; no internal echogenicity (transudate morphology); diaphragm well-visualized
+  Left side: Small trace effusion; not tapped
+
+ENTRY POINT: 0‌ Right posterior, 7th ICS, posterior axillary line 1‌ [unicode artifact retained for stress testing]
+Needle: 17-gauge Turkel safety thoracentesis kit
+
+PROCEDURE:
+Local anesthetic 1% lidocaine 8 mL infiltrated. Thoracentesis needle advanced under direct real-time ultrasound guidance; pleural fluid confirmed by aspiration. Catheter advanced; 1,050 mL amber clear fluid drained without difficulty. Lung sliding returned at RLL on ultrasound at procedure conclusion. No pneumothorax on post-procedure assessment. Patient reported mild pleuritic discomfort during drainage; drainage paused briefly at 800 mL — resumed without complication.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Post-procedure US: no pneumothorax, re-expansion confirmed
+  ☑ Specimens sent to lab
+  ☑ Patient observed 30 min post-procedure
+  ☑ Discharge instructions provided
+
+SPECIMENS: Right pleural fluid 1,050 mL — LDH, protein, glucose, cytology, culture
+
+COMPLICATIONS: None. Re-expansion pulmonary edema prophylaxis: drainage capped at 1,500 mL; limit not reached.

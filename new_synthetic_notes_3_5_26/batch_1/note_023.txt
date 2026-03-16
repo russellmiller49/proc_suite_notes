@@ -1,0 +1,20 @@
+Navigational bronchoscopy — mixed sampling strategy
+
+Patient: [PATIENT], 68-year-old male
+Indication: Left upper lobe peripheral lesion with bronchus sign.
+
+Procedures:
+
+Computer-assisted navigation to LUL target
+
+Radial EBUS
+
+TBNA, transbronchial biopsy, BAL
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation reached target in LUL anterior segment. Radial EBUS showed eccentric signal; fluoroscopy used. TBNA x4 and forceps biopsies x6 obtained. BAL performed in LUL with 100 mL instilled, 38 mL returned. Mild bleeding after biopsy controlled with wedge and cold saline.
+
+Specimens: “LUL TBNA”, “LUL bx”, “LUL BAL”.
+Plan: CXR in PACU; follow pathology/cultures.

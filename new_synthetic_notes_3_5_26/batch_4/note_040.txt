@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+EUS-B (via esophagus) staging: [PATIENT] 64-year-old male with lung cancer staging. GA. EUS-B performed; nodes sampled: station 7 and 4L (3 passes each). Doppler negative. No complications. Specimens labeled. Plan: follow pathology. (Code line: “432xx/31652??”)

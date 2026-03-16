@@ -1,0 +1,17 @@
+EDGE_CASE_TAGS: malformed_codes, missing_section
+PRE DX: R91.8 multiple pulmonary nodules; enlarging RUL anterior segment nodule
+POST DX: Same
+
+PROCEDURE:
+CT-guided microwave ablation of RUL nodule
+CPT (as documented): 32998:26 - 59 (line break)
+EBL: minimal
+COMPLICATIONS: Small apical PTX, stable, no chest tube
+
+TECHNIQUE:
+Under CT guidance, antenna positioned within RUL anterior segment lesion; ablation performed with two overlapping positions. Immediate CT showed expected ablation halo and a small apical pneumothorax. Patient remained hemodynamically stable with no increased O2 requirement.
+
+PLAN:
+
+* Observation + repeat CXR
+* Return precautions; CT follow-up per protocol

@@ -1,0 +1,42 @@
+EDGE_CASE_TAGS: reordered_sections
+
+INTERVENTIONAL PULMONOLOGY NOTE
+PROCEDURE: EBUS-TBNA
+PATIENT: [PATIENT]   DOB: [DOB:REDACTED]   MRN: [MRN:REDACTED]   AGE/SEX: 49M
+
+PRELIMINARY RESULTS / ROSE FINDINGS (documented first per ICU handoff protocol):
+  - Station 7: malignant cells, large cell morphology. ROSE performed by cytotechnologist. Cell block and molecular hold placed.
+  - Station 4R: insufficient sample on first pass; 3 additional passes performed; final ROSE: atypical cells.
+  - Station 11L: benign lymphocytes.
+
+PRE-PROCEDURE DIAGNOSIS: Newly detected hilar and mediastinal adenopathy; PET-avid nodal disease; no known primary (R59.9)
+
+POST-PROCEDURE DIAGNOSIS: Station 7: malignant neoplasm of mediastinum, histology pending (pending C38.3 vs metastatic)
+
+PROCEDURE: Linear EBUS-TBNA (CPT 31652)
+
+ANESTHESIA: Moderate sedation. Midazolam 4 mg + fentanyl 100 mcg IV. Topical 4% lidocaine 6 mL total.
+
+PROCEDURE NARRATIVE:
+Informed consent reviewed and confirmed. Time-out completed. EBUS bronchoscope (BF-UC180F) introduced transorally. Trachea patent, carina midline without widening. Survey performed:
+
+  Station 2R: Node 0.6 cm — not sampled (below threshold).
+  Station 4R: Node 1.4 cm, hypoechoic — 4 passes total (1st pass insufficient per ROSE; 3 additional). Final: atypical cells.
+  Station 7: Node 2.8 cm — 4 passes; ROSE: malignant.
+  Station 11L: Node 1.0 cm — 2 passes; benign lymphocytes.
+  Station 4L: Not identified at this session.
+
+Bilateral mainstem and lobar bronchi inspected — no endobronchial lesion.
+
+SPECIMENS:
+  Label 1 — Station 4R, 4 passes: cytology + cell block
+  Label 2 — Station 7, 4 passes: cytology + cell block + molecular hold (NGS, PD-L1)
+  Label 3 — Station 11L, 2 passes: cytology
+
+COMPLICATIONS: None. EBL: <1 mL.
+
+PLAN:
+1. Formal pathology 5–7 days.
+2. PET/CT body map if not already done — order placed.
+3. If large cell carcinoma confirmed: hematology/oncology referral; consider immunotherapy.
+4. Pulmonary hypertension workup deferred pending oncology priorities.

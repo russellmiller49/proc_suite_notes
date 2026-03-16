@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, conflicting_details
+PRE/POST DIAGNOSIS: R91.1 solitary pulmonary nodule, RML medial segment
+
+PROCEDURES PERFORMED:
+
+1. Bronchoscopy with airway survey
+2. Computer-assisted navigation to RML lesion
+3. RFA ablation of pulmonary nodule (bronchoscopic)
+4. Endobronchial ultrasound (radial) confirmation
+5. Transbronchial biopsy
+
+SEDATION / ANESTHESIA:
+Moderate sedation with midazolam and fentanyl. Time-out complete. (Later: Patient under GA with LMA.)
+
+FINDINGS:
+
+* No endobronchial lesion.
+* RML medial segment lesion localized with radial EBUS (eccentric).
+
+PROCEDURE IN DETAIL:
+[PATIENT] (72-year-old male) underwent bronchoscopy. After airway survey, the navigation catheter was advanced to the RML medial segment target. Radial EBUS demonstrated eccentric lesion. Biopsies obtained. RFA catheter advanced to target; ablation performed with repositioning to cover margins. Minimal oozing controlled with suction and iced saline. Final airway inspection clear.
+
+EBL: 10 mL
+COMPLICATIONS: None (no PTX on fluoroscopy)
+SPECIMENS:
+
+* RML lesion TBBx x7
+* RML lesion TBNA x2
+  PLAN:
+* CXR in recovery
+* Follow-up CT chest in ~6 weeks

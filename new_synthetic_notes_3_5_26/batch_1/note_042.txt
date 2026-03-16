@@ -1,0 +1,16 @@
+Airway stent removal + BAL
+
+Patient: [PATIENT], 65-year-old male with prior right mainstem stent for malignant compression, now improved after therapy.
+
+Procedure: Bronchoscopy with stent removal and BAL.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Silicone stent in right mainstem with mild secretions. Airway distal to stent patent.
+
+Interventions:
+Stent grasped and removed en bloc. Mild mucosal irritation without bleeding. BAL performed in right lower lobe (100 mL in, 40 mL out).
+
+Specimens: “RLL BAL”.
+Plan: Airway clearance; follow cultures; follow-up as outpatient.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:101
+# id: ip_procedure_prompts_batch3:51
+
+Pleuroscopy for trapped lung and chronic pleural thickening. Pleural inspection showed dense adhesions limiting full examination. Limited biopsies obtained from accessible abnormal parietal pleura. Chest tube placed, no pleurodesis due nonexpandable lung.

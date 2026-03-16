@@ -1,0 +1,26 @@
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+PLAN:
+
+* Observe in PACU; avoid oral intake until fully awake.
+* ENT + IP follow-up for stenosis management; consider repeat dilation in 4–6 weeks.
+
+PRE/POST DX: Subglottic stenosis (J38.6), stridor (R06.1)
+
+PROCEDURES:
+
+* Rigid bronchoscopy
+* Balloon dilation of subglottic stenosis
+* Intralesional steroid injection
+
+ANESTHESIA: GA with jet ventilation
+EBL: minimal
+COMPLICATIONS: none
+
+TAB SUMMARY (tabs):
+Step	Device	Result
+Rigid scope	—	grade II stenosis visualized
+Balloon	12–15 mm	airway improved
+Steroid	Kenalog	4 quadrant injection
+
+DETAIL:
+[PATIENT] 44-year-old female with symptomatic subglottic stenosis. Rigid bronchoscopy performed; concentric stenosis ~40–50% narrowing. Sequential balloon dilation performed with improved caliber. Kenalog injected into stenotic segment in 4 quadrants. Final inspection showed patent airway without bleeding.

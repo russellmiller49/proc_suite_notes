@@ -1,0 +1,17 @@
+THERAPEUTIC BRONCHOSCOPY — AIRWAY OBSTRUCTION
+
+PRE: Central airway obstruction due to tumor (J98.09)
+POST: Improved airway patency
+Procedure: Rigid bronchoscopy; mechanical debulking; APC
+Anesthesia: General anesthesia with jet ventilation
+EBL: 20 mL
+Complications: None
+
+Indication:
+[PATIENT] is a 66-year-old male with severe dyspnea and right mainstem obstruction on imaging.
+
+Findings/Interventions:
+Rigid bronchoscopy demonstrated friable endoluminal tumor in right mainstem with ~80% obstruction. Mechanical debulking performed, followed by APC for hemostasis. Flexible bronchoscopy confirmed right upper lobe bronchus patent and right lower lobe segments patent. Residual secretions cleared.
+
+Specimens: None today.
+Plan: Admit for airway observation; humidification and airway clearance; coordinate oncology.

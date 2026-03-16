@@ -1,0 +1,17 @@
+Procedure note: Bronchoscopy, BAL, transbronchial biopsy
+Patient: [PATIENT], 52-year-old female with new bilateral ground-glass opacities and hypoxemia.
+
+Anesthesia: General anesthesia with ETT.
+Pre/Post dx: Diffuse parenchymal lung disease.
+
+Description:
+Flexible bronchoscopy performed. Airway exam normal. BAL performed in right middle lobe with 150 mL instilled, 60 mL return. Transbronchial biopsies obtained from right lower lobe lateral basal segment (6 biopsies) with fluoroscopic guidance. Mild bleeding controlled with wedging and cold saline.
+
+Specimens:
+
+“RML BAL”
+
+“RLL TBBx”
+
+Complications: None. EBL minimal.
+Plan: CXR in PACU; monitor for delayed bleeding; follow pathology and cultures.

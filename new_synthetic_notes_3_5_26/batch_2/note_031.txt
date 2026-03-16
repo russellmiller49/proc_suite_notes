@@ -1,0 +1,11 @@
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+Indication: Right hilar mass.
+Anesthesia: Local Anesthesia Only
+Technique: The patient received general anesthesia with LMA. EBUS scope inserted.
+Findings:
+☑‌ Vocal cords normal.
+☐‌ Trachea normal.
+☑‌ Station 11R sampled x4 passes.
+☑‌ Station 10R sampled x3 passes.
+Specimens: 11R, 10R.
+Plan: Recover in PACU.

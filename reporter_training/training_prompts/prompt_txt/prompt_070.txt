@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:139
+# id: ip_procedure_prompts_batch3:70
+
+Rigid bronchoscopy with silicone stent placement for benign post transplant left mainstem stenosis refractory to repeated dilation. Airway dilated then straight silicone stent deployed. Distal placement confirmed bronchoscopically with good expansion.

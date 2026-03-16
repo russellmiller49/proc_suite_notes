@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:183
+# id: ip_procedure_prompts_batch3:92
+
+Bronchoscopy for recurrent post obstructive secretions behind tracheal stent. Large burden of thick secretions cleared, granulation at distal edge treated with APC. Stent remained in good position.

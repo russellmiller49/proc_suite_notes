@@ -1,0 +1,1093 @@
+<<<NOTE 001>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+POST-PROCEDURE PLAN:
+
+* CXR in PACU to assess atelectasis/pneumothorax.
+* Prednisone taper per BLVR protocol; continue inhaled therapy.
+* Admit overnight for observation; ambulation + incentive spirometry.
+* Call if increased dyspnea, chest pain, fever.
+
+PRE-PROCEDURE DIAGNOSIS: Severe heterogeneous emphysema (J43.9), COPD (J44.9), dyspnea (R06.02)
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Bronchoscopy with bronchial valve placement, LUL (CPT: 31647-?? / 31651)
+* Bronchial balloon occlusion testing (no code listed)
+
+ANESTHESIA: General anesthesia with endotracheal tube
+EBL: Minimal
+COMPLICATIONS: None
+
+PROCEDURE IN DETAIL (dictated):
+After informed consent was confirmed, [PATIENT] (67-year-old male) was brought to the bronchoscopy suite for bronchoscopic lung volume reduction. Flexible bronchoscopy showed mild diffuse bronchitis and copious thin secretions suctioned clear. A Chartis assessment was performed for the left upper lobe. Airflow and pressure tracings were consistent with absence of collateral ventilation. Segmental sizing was performed and endobronchial valves were deployed to LUL segments (apicoposterior and anterior) and the lingula as appropriate. Valves seated well with immediate reduction of airflow to targeted segments. Final survey showed no bleeding and stable airway patency.
+<<<END NOTE 001>>>
+
+<<<NOTE 002>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE/POST DIAGNOSIS:
+
+* Severe emphysema, heterogeneous (J43.9)
+* Chronic hypoxic respiratory failure (J96.11)
+
+PROCEDURE(S):
+
+1. Flexible bronchoscopy
+2. BLVR — endobronchial valve placement to RUL (sometimes coded as 31647 / 31651)
+
+ANESTHESIA: GA
+SCOPE: Therapeutic bronchoscope
+COMPLICATIONS: none; EBL <5 mL
+
+INDICATION:
+[ PATIENT ] is a 71-year-old female with severe COPD/emphysema, evaluated and approved for bronchoscopic lung volume reduction targeting RUL based on CT fissure analysis and perfusion pattern.
+
+TECHNIQUE / FINDINGS:
+
+* Airway exam: no endobronchial lesion; mild dynamic collapse.
+* Secretions suctioned.
+* Chartis occlusion testing: RUL pattern consistent with minimal collateral ventilation.
+
+TAB SUMMARY (TAB-DELIMITED):
+Target	Lobe	Chartis	CV?	Valve count
+T1	RUL	Stable occlusion	No	3
+T1	RUL	Reseated OK	No	3
+
+VALVE DEPLOYMENT:
+Placed 3 valves (RUL apical, posterior, anterior segmental bronchi). Good seating; no migration on final sweep.
+
+PLAN:
+CXR in PACU + 4 hours, admit for 23-hour observation, COPD meds resume, mobilize early.
+<<<END NOTE 002>>>
+
+<<<NOTE 003>>>
+EDGE_CASE_TAGS: missing_section, copy_paste_artifacts
+PRE-PROCEDURE DX: Severe emphysema, upper lobe predominant (J43.9); lung hyperinflation (R06.89)
+POST-PROCEDURE DX: Same
+
+PROCEDURE: Bronchoscopy with bronchial valves (BLVR), LLL target
+ANESTHESIA: General anesthesia
+
+NOTE:
+[PATIENT] is a 64-year-old male with severe COPD referred for BLVR. Flexible bronchoscopy performed. Airways inspected to subsegmental level with no endobronchial mass. Chartis assessment suggested minimal collateral ventilation to LLL. Sizing and valve placement performed with deployment to LLL segmental bronchi. Hemostasis confirmed. patientpatient transported to recovery in stable condition.
+
+EBL: minimal
+COMPLICATIONS: none
+<<<END NOTE 003>>>
+
+<<<NOTE 004>>>
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+TITLE: BRONCHOSCOPIC LUNG VOLUME REDUCTION — ENDOBRONCHIAL VALVES
+
+Indication:
+72-year-old female with severe COPD/emphysema, significant hyperinflation and dyspnea despite maximal therapy.
+
+Pre-op Dx: Emphysema (J43.9), dyspnea (R06.00)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Bronchoscopy with endobronchial valve placement to LUL (CPT 31647; modifier -22??)
+* Airway toilet
+
+Sedation/Anesthesia:
+Moderate sedation listed on nursing sheet; procedure performed under GA with LMA noted once in anesthesia record. Patient tolerated without hemodynamic instability.
+
+Procedure in detail:
+Flexible bronchoscope introduced. Tracheobronchial tree examined. No tumor. Secretions suctioned. Chartis balloon occlusion testing of LUL demonstrated pattern consistent with no collateral ventilation. Segmental measurements performed; valves deployed to apicoposterior and anterior segments and lingula (total 4 valves). Valves seated well. No bleeding.
+
+EBL: <10 mL
+Complications: None
+Disposition/Plan: Observe overnight; CXR in PACU; continue bronchodilators; avoid strenuous activity x 48 hrs; follow-up in IP clinic.
+<<<END NOTE 004>>>
+
+<<<NOTE 005>>>
+EDGE_CASE_TAGS: extreme_length, reordered_sections
+IMPRESSION/PLAN (first, per operator preference):
+
+* Target: RLL for BLVR. Successful valve placement.
+* Post-procedure: CXR now and in 4 hours; admit overnight for pneumothorax monitoring.
+* Continue COPD regimen; prednisone burst x 3 days then taper.
+* Encourage pulmonary hygiene; monitor for hemoptysis/fever/chest pain.
+
+PATIENT: [PATIENT], 69-year-old male
+INDICATION: Severe heterogeneous emphysema with hyperinflation; candidate for bronchoscopic lung volume reduction.
+
+PRE-DX: Emphysema (J43.9), COPD (J44.9), dyspnea (R06.02)
+POST-DX: Same
+
+PROCEDURES PERFORMED:
+
+* Flexible bronchoscopy with airway clearance
+* Chartis collateral ventilation assessment (RLL)
+* Endobronchial valve placement (RLL)
+
+ANESTHESIA: General anesthesia with ETT
+MONITORING: Standard ASA monitors
+INSTRUMENTS: Therapeutic bronchoscope; Chartis catheter; sizing kit; valves (multiple sizes)
+
+PROCEDURE IN DETAIL:
+Time-out performed. Bronchoscope advanced via ETT. Airway survey demonstrated moderate tracheobronchomalacia and scattered mucous plugging, suctioned. No endobronchial lesion. Balloon occlusion testing of RLL performed with stable tracings suggesting absence of collateral ventilation. Segmental sizing performed sequentially. Valves deployed to RLL superior segment and basal segments (total 5). One valve was repositioned for improved seating. Final inspection showed no active bleeding, no valve dislodgement, and improved occlusion of targeted segments.
+
+SPECIMENS: None
+EBL: Minimal
+COMPLICATIONS: None
+DISPOSITION: PACU then inpatient observation.
+<<<END NOTE 005>>>
+
+<<<NOTE 006>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+PRE/POST DX: Severe emphysema (J43.9), chronic respiratory failure (J96.10)
+PROCEDURE: Bronchoscopy + BLVR valves to RUL (31647-RT?)
+ANESTHESIA: GA
+FINDINGS: no mass; secretions suctioned; Chartis “no CV” pattern.
+INTERVENTION: 3 valves deployed RUL; seated well.
+EBL: minimal; COMPLICATIONS: none.
+PLAN: CXR x2; overnight obs.
+<<<END NOTE 006>>>
+
+<<<NOTE 007>>>
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+TEMPLATE D (checkbox-ish) — IP PROCEDURE NOTE
+
+Patient: [PATIENT] (66-year-old female)
+Indication: Severe emphysema, upper lobe predominant → BLVR evaluation/therapy
+
+Dx:
+0‌/1‌ J43.9 emphysema
+0‌/1‌ R06.02 dyspnea
+
+Procedure:
+0‌/1‌ Flexible bronchoscopy
+0‌/1‌ Chartis assessment (LUL)
+0‌/1‌ Endobronchial valves placed (LUL)
+
+Anesthesia: General anesthesia
+Findings:
+
+* Airway: mild erythema, no lesion
+* Secretions: minimal, suctioned
+* Chartis: consistent with no collateral ventilation
+
+Valves:
+
+* LUL apicoposterior: 1
+* LUL anterior: 1
+* Lingula: 2
+
+EBL: <5 mL
+Complications: none
+Plan: PACU CXR; admit overnight; COPD meds resume.
+<<<END NOTE 007>>>
+
+<<<NOTE 008>>>
+EDGE_CASE_TAGS: ambiguous_laterality, conflicting_details
+PRE-DX: Severe emphysema (J43.9), lung nodule (R91.1) — *incidental on workup*
+POST-DX: Severe emphysema (J43.9)
+
+PROCEDURE(S):
+
+* Bronchoscopy with bronchial valve placement, “RUL” (later clarified below)
+* Airway clearance
+
+ANESTHESIA: GA
+EBL: Minimal
+COMPLICATIONS: None
+
+DICTATION:
+[PATIENT] is a 73-year-old male with severe heterogeneous emphysema. Bronchoscopy performed. No endobronchial lesion. Chartis performed for the right upper lobe demonstrating no collateral ventilation. Valves deployed to apical, posterior, anterior segment bronchi (3 total). Brief note: one line in the nursing flowsheet references “LUL valves”—this is a documentation artifact; procedure performed to RUL as described.
+
+PLAN:
+CXR in PACU; overnight observation; resume inhaled therapy; return precautions reviewed.
+<<<END NOTE 008>>>
+
+<<<NOTE 009>>>
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+PLAN:
+
+* Post-procedure CXR; admit to monitored bed.
+* If stable, discharge next day with clinic follow-up 1–2 weeks.
+
+PRE/POST DIAGNOSIS: Severe heterogeneous emphysema (J43.9)
+PROCEDURE: Bronchoscopy with BLVR valve placement — LUL
+
+ANESTHESIA: General anesthesia
+SCOPE: Therapeutic bronchoscope
+COMPLICATIONS: None
+EBL: minimal
+
+TAB LOG:
+Step	Result	Comment
+Airway survey	No lesion	Mild bronchitis
+Chartis	LUL no CV	OK to proceed
+Valves	4 placed	Seated well
+
+DETAIL:
+66-year-old female. Chartis balloon occlusion testing supported minimal collateral ventilation to LUL. Valves deployed to apicoposterior, anterior, and lingular segments. Final bronchoscopy confirmed position and hemostasis.
+<<<END NOTE 009>>>
+
+<<<NOTE 010>>>
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+ROBOTIC BRONCHOSCOPY OPERATIVE NOTE
+
+Patient: [PATIENT] (58-year-old male)
+Indication: Peripheral RUL nodule (R91.1) requiring tissue diagnosis
+
+Pre-op Dx: Lung nodule (R91.1)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Robotic-assisted navigational bronchoscopy to RUL lesion
+* Radial ultrasound confirmation
+* Transbronchial biopsy + brush + BAL
+* Linear EBUS-TBNA of station 7 (staging) (31652??)
+
+Anesthesia: GA with ETT
+EBL: <10 mL
+Complications: none
+
+Technique:
+Robotic platform docked. Registration performed. Path planned to RUL posterior segment lesion. Advanced to target, then radial ultrasound showed eccentric view; adjusted one airway more distal with improved concentric signal. Fluoroscopy used for confirmation. Biopsies obtained:
+• TBBx x6 (RUL lesion)
+• Brush x2
+• BAL 60 mL instilled, 22 mL returned
+Then linear EBUS performed; station 7 sampled, 3 passes.
+
+Specimens:
+A: RUL lesion TBBx
+B: RUL brush
+C: BAL RUL
+D: Station 7 TBNA
+
+Plan:
+CXR in PACU; routine post-bronchoscopy care; follow cytology/pathology.
+<<<END NOTE 010>>>
+
+<<<NOTE 011>>>
+EDGE_CASE_TAGS: missing_section, table_with_tabs
+PROCEDURE NOTE (minimal headings)
+
+58-year-old female with LLL nodule and mild mediastinal adenopathy. Robotic bronchoscopy performed with radial ultrasound and fluoroscopic confirmation.
+
+TAB (tabs):
+Target	Tool	Passes	Notes
+LLL nodule	Cryobiopsy	3	1 sample fragmented
+LLL nodule	Forceps	4	adequate
+LLL nodule	Brush	2	—
+LLL	BAL	1	20 mL return
+
+Post Dx: Lung nodule (R91.1)
+
+Specimen labels as above. No immediate complication. CXR ordered.
+<<<END NOTE 011>>>
+
+<<<NOTE 012>>>
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN (placed early):
+
+* Post-procedure CXR to evaluate pneumothorax.
+* Discharge home if imaging stable; call for hemoptysis, fever, worsening dyspnea.
+
+PRE/POST DIAGNOSIS: Pulmonary nodule, LUL (R91.1)
+
+PROCEDURE(S):
+Robotic bronchoscopy with peripheral sampling + EBUS staging
+
+ANESTHESIA: General anesthesia
+
+DETAIL:
+[PATIENT] is a 62-year-old male with a LUL peripheral nodule. Robotic platform used for navigation. Registration completed; pathway planned. Advanced to target. Radial ultrasound showed eccentric then improved to near-concentric after minor withdrawal and rotation. Biopsies performed (TBBx x5, brush x2) and BAL obtained. Linear EBUS then performed with TBNA of station 4L and 7 (3 passes each). Hemostasis confirmed; no active bleeding. patientpatient recovered in stable condition.
+
+EBL: minimal
+COMPLICATIONS: none
+<<<END NOTE 012>>>
+
+<<<NOTE 013>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+INTERVENTIONAL PULMONOLOGY — ROBOTIC BRONCHOSCOPY
+
+Indication: 54-year-old female, RML nodule (R91.1), PET-avid.
+
+PRE DX: R91.1
+POST DX: R91.1
+
+Procedures:
+
+* Robotic bronchoscopy (navigational)
+* Radial ultrasound
+* Transbronchial needle aspiration (peripheral) (CPT 31629??)
+* Transbronchial biopsies
+* BAL
+
+Anesthesia: GA
+Findings:
+
+1. Normal central airways.
+2. Radial ultrasound: concentric signal at target after tool-in-lesion adjustments.
+
+Specimens:
+
+* RML lesion: TBNA x4; forceps x4; brush x1; BAL.
+
+Complications: none; EBL <5 mL
+Disposition: PACU; CXR ordered.
+<<<END NOTE 013>>>
+
+<<<NOTE 014>>>
+EDGE_CASE_TAGS: extreme_length, table_with_tabs
+COMBINED COMPLEX CASE (Template E)
+
+Patient: [PATIENT], 70-year-old male
+Indication: Two peripheral nodules (RUL + RLL) and mediastinal staging prior to definitive therapy.
+
+Pre-op Dx:
+
+* Multiple pulmonary nodules (R91.8)
+* Mediastinal adenopathy (R59.0)
+
+Post-op Dx: Same
+
+Procedures:
+
+* Robotic bronchoscopy to RUL target + sampling
+* Robotic bronchoscopy to RLL target + sampling
+* Linear EBUS-TBNA stations 4R, 7, 11R
+* BAL (RLL)
+
+Anesthesia: General anesthesia with ETT
+Monitoring: Standard ASA
+EBL: ~15 mL
+Complications: none
+
+Workflow:
+
+1. Registration and navigation to RUL target. Radial ultrasound initially eccentric; repositioned one generation distally with improved signal. Fluoroscopy used. TBNA x3, forceps biopsies x5, brush x1.
+2. Navigation to RLL target. Concentric radial signal achieved. Cryobiopsy performed x3 with balloon occlusion in segment for hemostasis; no significant bleeding.
+3. Linear EBUS performed. Stations sampled in order: 11R (2 passes), 4R (3 passes), 7 (3 passes). Doppler negative at needle paths.
+
+TAB SUMMARY (tabs):
+Site	Modality	Samples	Comment
+RUL	Forceps+TBNA	9	adequate
+RLL	Cryo+BAL	4+1	balloon used
+4R	EBUS-TBNA	3	—
+7	EBUS-TBNA	3	—
+11R	EBUS-TBNA	2	—
+
+Specimens:
+A: RUL TBNA
+B: RUL TBBx
+C: RUL brush
+D: RLL cryobiopsy
+E: RLL BAL
+F: 11R TBNA
+G: 4R TBNA
+H: 7 TBNA
+
+Plan:
+CXR in PACU; routine post-bronchoscopy monitoring; follow cytology/pathology; consider CT chest in 2–4 weeks if non-diagnostic.
+<<<END NOTE 014>>>
+
+<<<NOTE 015>>>
+EDGE_CASE_TAGS: ultra_short, noisy_units
+Robotic bronchoscopy note: [PATIENT] 59-year-old female, LLL nodule (R91.1). GA. Radial ultrasound concentric at target; fluoro used. TBNA x4; forceps x5; BAL 50 mL in / 18 mL out. One med line typo in nursing note “4m mg midazolam” (not administered under GA). EBL minimal, no complications. CXR ordered.
+<<<END NOTE 015>>>
+
+<<<NOTE 016>>>
+EDGE_CASE_TAGS: malformed_codes, inconsistent_formatting
+ENDOBRONCHIAL VALVES FOR PNEUMOTHORAX — PROCEDURE NOTE
+
+Patient: [PATIENT] (45-year-old male)
+Indication: Persistent air leak after secondary spontaneous pneumothorax with chest tube in place.
+
+Pre Dx: Pneumothorax (J93.9), persistent air leak (J95.811?)
+Post Dx: Same
+
+Procedure(s):
+
+* Flexible bronchoscopy
+* Balloon occlusion localization
+* Endobronchial valve placement for air leak control (CPT: 31647? / “valve for PAL”)
+
+Anesthesia: Moderate sedation (sometimes)
+Sedation meds: fentanyl 50 mcg + midazolam 2 mg IV (times variably documented)
+
+Technique:
+Airway inspected; no lesion. Sequential balloon occlusion performed to localize air leak based on chest tube bubbling reduction. Greatest reduction with occlusion of RUL. Two valves deployed to suspected segmental bronchi. After deployment, bubbling markedly decreased from continuous to intermittent. Hemostasis confirmed.
+
+Complications: none
+EBL: minimal
+Plan: Continue chest tube to water seal trial; CXR; reassess air leak over 24–48 hrs.
+<<<END NOTE 016>>>
+
+<<<NOTE 017>>>
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN:
+
+* Maintain chest tube; reassess air leak trend.
+* If stable, consider clamp trial per primary team.
+* Follow-up bronchoscopy only if leak persists.
+
+PRE/POST DX: Persistent air leak after pneumothorax (J93.9 / J95.811)
+
+PROCEDURE: Bronchoscopy with endobronchial valve placement (air leak control)
+
+DETAIL:
+[PATIENT] 52-year-old female with persistent air leak. Flexible bronchoscopy performed under GA. Balloon occlusion used for localization. Occlusion of LUL segments resulted in near-complete cessation of bubbling. Valves deployed to LUL segmental bronchi (3 valves). Immediate improvement in air leak noted.
+
+EBL minimal; complications none. patientpatient to recovery stable.
+<<<END NOTE 017>>>
+
+<<<NOTE 018>>>
+EDGE_CASE_TAGS: conflicting_details, malformed_codes
+PRE-DX: Pneumothorax with persistent air leak (J93.9)
+POST-DX: Same
+
+PROCEDURES:
+
+* Flexible bronchoscopy
+* Endobronchial valves placed for PAL (31647-LT?; line wrap artifact)
+
+ANESTHESIA:
+Moderate sedation documented; a single line says “General” in header (template artifact). Patient breathing spontaneously throughout with topical lidocaine.
+
+FINDINGS/TECHNIQUE:
+48-year-old male. Airway normal. Balloon occlusion testing performed with stepwise lobar then segmental occlusion. Leak reduction localized to RLL superior segment. One valve deployed, then a second to adjacent segment due to residual bubbling. Post placement: bubbling decreased to rare with cough only.
+
+EBL: none
+Complications: none
+Plan: water seal trial, CXR, monitor.
+<<<END NOTE 018>>>
+
+<<<NOTE 019>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+ENDOBRONCHIAL VALVES FOR PERSISTENT AIR LEAK (Checklist + mini table)
+
+Patient: [PATIENT] (60-year-old female)
+Indication: PAL x 7 days post pneumothorax with chest tube.
+
+Dx: J93.9; persistent air leak
+
+Procedure: Flexible bronchoscopy + balloon occlusion + valve placement
+Anesthesia: GA
+
+TAB (tabs):
+Occlusion site	Effect on bubbling	Action
+RLL	partial	—
+RUL	near stop	valves placed
+RUL anterior seg	stop	confirm
+
+Valves:
+
+* RUL anterior segment: 1
+* RUL apical segment: 1
+
+EBL minimal; complications none. Plan: CXR, water seal, reassess in AM.
+<<<END NOTE 019>>>
+
+<<<NOTE 020>>>
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+Plan first: keep chest tube, daily CXR, assess for removal once leak resolved.
+[PATIENT] 41-year-old male with PAL after pneumothorax. Bronchoscopy under moderate sedation. Balloon occlusion localized leak to LUL; 2 valves deployed; bubbling decreased significantly. No bleeding. EBL minimal.
+<<<END NOTE 020>>>
+
+<<<NOTE 021>>>
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+WHOLE LUNG LAVAGE — PROCEDURE NOTE
+
+Patient: [PATIENT] (33-year-old male)
+Pre/Post Dx: Pulmonary alveolar proteinosis (J84.01)
+
+Procedure: Whole lung lavage (right lung)
+0‌/1‌ Double-lumen tube placement
+0‌/1‌ Sequential lavage cycles
+
+Narrative:
+Under general anesthesia with lung isolation, the right lung was lavaged with warmed normal saline in repeated aliquots until effluent cleared from opaque/milky to lightly turbid. Chest percussion and positioning used between cycles. Oxygenation and hemodynamics remained stable.
+
+EBL: none
+Complications: none
+Disposition: ICU for post-procedure monitoring.
+<<<END NOTE 021>>>
+
+<<<NOTE 022>>>
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting
+OPERATIVE NOTE — WHOLE LUNG LAVAGE (Left Lung)
+
+Patient: [PATIENT], 46-year-old female
+Indication: Symptomatic pulmonary alveolar proteinosis with progressive dyspnea and imaging consistent with PAP.
+
+Pre-op Dx: Pulmonary alveolar proteinosis (J84.01)
+Post-op Dx: Same
+
+Procedure(s):
+
+* Bronchoscopy for airway inspection
+* Whole lung lavage (left)
+
+Anesthesia: General anesthesia with double-lumen ETT
+Monitoring: Standard ASA + arterial line
+EBL: 0 mL
+Complications: None
+
+Technique:
+Time-out performed. Flexible bronchoscopy first: no endobronchial obstruction; moderate proteinaceous secretions suctioned. Double-lumen tube confirmed with bronchoscopy. Left lung isolated and lavaged with warmed saline in sequential aliquots. Effluent initially thick and opaque, gradually clearing over the course of lavage. Intermittent chest physiotherapy and positional changes used to mobilize material. Periodic recruitment maneuvers performed to the ventilated lung as tolerated. Final effluent was lightly turbid and no longer thick. Tube position reconfirmed. Patient transported to ICU intubated for planned short-term ventilatory support and diuresis as needed.
+
+Plan:
+
+* ICU monitoring, ABG and CXR
+* Extubate when criteria met
+* Continue PAP workup/therapy planning.
+  <<<END NOTE 022>>>
+
+<<<NOTE 023>>>
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+WHOLE LUNG LAVAGE — BRIEF NOTE
+
+Patient: [PATIENT] (28-year-old male)
+Dx: J84.01 pulmonary alveolar proteinosis
+Procedure: Whole lung lavage (bilateral staged; today = right) (code line: “32997/??”)
+
+Anesthesia: GA with lung isolation
+TAB (tabs):
+Phase	Aliquots	Effluent
+Start	10	milky
+Mid	12	turbid
+End	8	lightly turbid
+
+No complications; EBL none. ICU observation.
+<<<END NOTE 023>>>
+
+<<<NOTE 024>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+ULTRASOUND-GUIDED TRANSTHORACIC NEEDLE BIOPSY — PROCEDURE NOTE
+
+Patient: [PATIENT] (74-year-old male)
+Indication: Pleural-based RLL mass abutting chest wall; tissue diagnosis required.
+
+Pre Dx: Lung mass (R91.8)
+Post Dx: Same
+
+Procedure(s):
+
+* Ultrasound-guided transthoracic core needle biopsy (CPT 32408? + 76942?)
+* Local anesthesia only (sometimes with minimal anxiolysis)
+
+Technique:
+Time-out performed. Ultrasound used to identify pleural-based lesion and avoid intercostal vessels. Skin prepped and draped sterile. Local lidocaine infiltrated. Using real-time ultrasound guidance, coaxial technique used to obtain 4 core samples. Minimal tract bleeding; hemostasis with manual pressure and dressing.
+
+Specimens:
+A–D: Core biopsies, RLL pleural-based lesion
+
+EBL: minimal
+Complications: none immediate
+Plan: Post-procedure CXR in 1–2 hours; return precautions for chest pain/shortness of breath; follow pathology.
+<<<END NOTE 024>>>
+
+<<<NOTE 025>>>
+EDGE_CASE_TAGS: reordered_sections, copy_paste_artifacts
+PLAN (top):
+
+* CXR after 1 hour and again if symptoms.
+* Discharge if stable; follow pathology.
+
+PRE/POST DX: Pleural-based nodule (R91.1)
+
+PROCEDURE: US-guided transthoracic biopsy (core)
+ANESTHESIA: Local only
+
+DETAIL:
+[PATIENT] 61-year-old female. Ultrasound identified superficial lesion along left lateral chest wall. Sterile prep. Local anesthesia. Three cores obtained. No immediate pneumothorax on bedside ultrasound. Dressing applied. patientpatient stable.
+
+EBL minimal; complications none.
+<<<END NOTE 025>>>
+
+<<<NOTE 026>>>
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE-DX: Tracheobronchomalacia (J39.8), dyspnea (R06.02)
+POST-DX: Same
+
+PROCEDURE(S):
+
+* Dynamic bronchoscopy with forced expiratory maneuver
+* CPAP titration during bronchoscopy (no code listed; template line “31622-CPAP??”)
+
+ANESTHESIA: Moderate sedation
+MEDS (variably documented): midazolam 1 mg IV + fentanyl 50 mcg IV; topical lidocaine
+
+FINDINGS/DETAIL:
+[PATIENT] is a 63-year-old male with suspected airway collapse. Bronchoscopy performed with dynamic assessment at baseline and during forced exhalation. Severe posterior membrane invagination noted in distal trachea and bilateral main bronchi with >80% expiratory collapse. CPAP applied via mask and titrated; collapse improved substantially at higher CPAP settings. No endobronchial lesion. Secretions suctioned.
+
+EBL: none
+COMPLICATIONS: none
+PLAN: Refer for airway stabilization options; consider stent trial vs surgical tracheobronchoplasty evaluation.
+<<<END NOTE 026>>>
+
+<<<NOTE 027>>>
+EDGE_CASE_TAGS: reordered_sections, table_with_tabs
+PLAN:
+
+* Observe in PACU; avoid oral intake until fully awake.
+* ENT + IP follow-up for stenosis management; consider repeat dilation in 4–6 weeks.
+
+PRE/POST DX: Subglottic stenosis (J38.6), stridor (R06.1)
+
+PROCEDURES:
+
+* Rigid bronchoscopy
+* Balloon dilation of subglottic stenosis
+* Intralesional steroid injection
+
+ANESTHESIA: GA with jet ventilation
+EBL: minimal
+COMPLICATIONS: none
+
+TAB SUMMARY (tabs):
+Step	Device	Result
+Rigid scope	—	grade II stenosis visualized
+Balloon	12–15 mm	airway improved
+Steroid	Kenalog	4 quadrant injection
+
+DETAIL:
+[PATIENT] 44-year-old female with symptomatic subglottic stenosis. Rigid bronchoscopy performed; concentric stenosis ~40–50% narrowing. Sequential balloon dilation performed with improved caliber. Kenalog injected into stenotic segment in 4 quadrants. Final inspection showed patent airway without bleeding.
+<<<END NOTE 027>>>
+
+<<<NOTE 028>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY — FOREIGN BODY REMOVAL
+
+Indication: 29-year-old male with suspected aspirated dental fragment; persistent cough and focal wheeze.
+
+Pre Dx: Foreign body in bronchus (T17.5xxA), cough (R05)
+Post Dx: Same, foreign body removed
+
+Procedure(s):
+
+* Flexible bronchoscopy
+* Foreign body retrieval (CPT 31635??)
+* BAL (optional)
+
+Anesthesia: GA
+Findings:
+
+* Metallic fragment visualized in RLL basal segment.
+  Technique:
+  Scope advanced; retrieval basket used. Fragment captured and removed en bloc. Minimal mucosal abrasion; hemostasis confirmed.
+
+Specimens:
+A: Foreign body (sent to pathology per protocol)
+
+Complications: none; EBL <5 mL
+Plan: CXR in PACU; discharge if stable; antibiotics not routinely indicated.
+<<<END NOTE 028>>>
+
+<<<NOTE 029>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, ultra_short
+[PATIENT] 57-year-old female with mucus plugging and lobar atelectasis. Bronchoscopy under moderate sedation. Large tenacious plug extracted from LLL with suction + forceps. Airways otherwise clear. EBL none. No complications. Post Dx: Atelectasis (J98.11). Plan: aggressive airway clearance; CXR tomorrow. patientpatient stable.
+<<<END NOTE 029>>>
+
+<<<NOTE 030>>>
+EDGE_CASE_TAGS: malformed_codes, conflicting_details
+PRE-DX: Hemoptysis (R04.2)
+POST-DX: Same
+
+PROCEDURE(S):
+
+* Bronchoscopy with endobronchial blocker placement for airway protection (code line “31622 + blocker??”)
+* Therapeutic aspiration
+
+ANESTHESIA:
+Moderate sedation planned; procedure performed under GA due to ongoing bleeding (template header still lists “moderate sedation”).
+
+DETAIL:
+[PATIENT] 68-year-old male with active hemoptysis. Bronchoscopy showed blood originating from LLL. An endobronchial blocker was placed in the left lower lobe bronchus with reduction of spillover. Airway cleared with suction; no discrete lesion visualized due to clot burden. Hemodynamics stable. Blocker secured.
+
+EBL: not applicable
+COMPLICATIONS: none
+PLAN: ICU monitoring; CTA/IR consult; repeat bronchoscopy for reassessment as needed.
+<<<END NOTE 030>>>
+
+<<<NOTE 031>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+ENDOBRONCHIAL WATANABE SPIGOT (EWS) PLACEMENT — PAL
+
+Patient: [PATIENT] (62-year-old male)
+Indication: Persistent air leak after lung resection; chest tube with continuous bubbling.
+
+Dx: Persistent air leak (J95.811), postoperative state (Z98.89)
+
+Procedure:
+
+* Flexible bronchoscopy
+* Balloon occlusion localization
+* Endobronchial Watanabe spigot placement (sizes varied)
+
+Anesthesia: GA
+TAB (tabs):
+Occlusion	Leak change	Action
+RUL	stop	EWS placed
+RUL ant seg	stop	confirm size
+
+Technique:
+Airway survey normal. Balloon occlusion localized to RUL anterior segment. An EWS was placed into segmental bronchus with secure fit. Post placement: bubbling decreased from continuous to rare. No bleeding.
+
+Complications: none; EBL minimal
+Plan: water seal trial; daily CXR; consider removal once leak resolved.
+<<<END NOTE 031>>>
+
+<<<NOTE 032>>>
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DX: Tracheal stenosis (J39.8)
+
+PROCEDURE:
+
+* Bronchoscopy with laser ablation of tracheal granulation tissue (CPT “31641?? laser”)
+* Balloon dilation
+
+ANESTHESIA: GA
+
+DETAIL:
+[PATIENT] 36-year-old female with post-intubation tracheal stenosis and granulation. Bronchoscopy showed focal stenosis with granulation tissue. Laser applied in controlled fashion to granulation, followed by balloon dilation to improve airway diameter. Final inspection showed improved patency and minimal oozing.
+
+EBL: <10 mL
+COMPLICATIONS: none
+PLAN: PPI, inhaled steroid course, repeat evaluation in 4–8 weeks.
+<<<END NOTE 032>>>
+
+<<<NOTE 033>>>
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+PLAN:
+
+* Stent surveillance bronchoscopy in 4–6 weeks.
+* Nebulized saline + airway clearance.
+
+PRE/POST DX: Malignant central airway obstruction (C34.9), tracheal stenosis (J39.8)
+
+PROCEDURES:
+
+* Rigid bronchoscopy
+* Silicone Y-stent placement (size documented below)
+
+ANESTHESIA: GA with jet ventilation
+EBL: ~20 mL
+COMPLICATIONS: none
+
+DETAIL:
+[PATIENT] 59-year-old male with distal tracheal obstruction extending to carina. Rigid bronchoscopy performed; mechanical debulking completed. A silicone Y-stent was deployed (tracheal limb 16 mm; right 12 mm; left 12 mm; lengths per sizing) with improved airway caliber and ventilation. Minor oozing controlled with topical measures. Final airway patent.
+
+SPECIMENS: none
+<<<END NOTE 033>>>
+
+<<<NOTE 034>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+Cryospray airway ablation note: [PATIENT] 52-year-old female with recurrent airway papillomatosis. GA. Flexible bronchoscopy with cryospray applied to supraglottic/tracheal lesions (code line “31641??”). Lesions treated in short bursts; airway patent at end. EBL minimal. No complications. Plan: repeat surveillance in 6–8 weeks.
+<<<END NOTE 034>>>
+
+<<<NOTE 035>>>
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+BRONCHIAL THERMOPLASTY — SESSION 2
+
+Patient: [PATIENT] (41-year-old female)
+Indication: Severe persistent asthma (J45.50) despite maximal therapy.
+
+0‌/1‌ Pre-med steroids confirmed
+0‌/1‌ Bronchoscopy performed
+0‌/1‌ RF activations delivered
+
+Anesthesia: Moderate sedation
+Procedure detail:
+Scope advanced to right lower lobe bronchi. Thermoplasty catheter used; RF activations delivered to segmental/subsegmental airways per protocol. Total activations: 42. No bleeding; mild bronchospasm treated with bronchodilator.
+
+Complications: none
+Plan: prednisone burst; inhaler regimen; next session scheduled.
+<<<END NOTE 035>>>
+
+<<<NOTE 036>>>
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+BRONCHIAL THERMOPLASTY — SESSION 3 (LUL)
+
+Pre/Post Dx: Severe asthma (J45.50)
+Anesthesia: Moderate sedation
+
+TAB (tabs):
+Lobe	Activations	Notes
+LUL	38	mild cough
+Lingula	12	transient wheeze
+
+Procedure:
+Flexible bronchoscopy performed. Thermoplasty catheter used to deliver activations as above. Airways inspected; no complication.
+
+EBL none; complications none. Plan: steroid burst + follow-up.
+<<<END NOTE 036>>>
+
+<<<NOTE 037>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY WITH ENDOBRONCHIAL TAMPONADE — MASSIVE HEMOPTYSIS
+
+Indication: 65-year-old male with brisk hemoptysis and respiratory compromise.
+
+Pre Dx: Massive hemoptysis (R04.2)
+Post Dx: Same; temporary control achieved
+
+Procedure(s):
+
+* Emergency bronchoscopy
+* Selective intubation / endobronchial tamponade (no clear code; template “31622 + 0??”)
+
+Anesthesia: GA
+Findings: Active bleeding from RUL; large clot burden.
+Technique:
+Airway suctioned; clot extracted. Bronchial blocker positioned to isolate RUL with cessation of spillover. Topical vasoconstrictor applied.
+
+Complications: none procedural
+Plan: ICU; IR bronchial artery embolization evaluation; repeat bronchoscopy PRN.
+<<<END NOTE 037>>>
+
+<<<NOTE 038>>>
+EDGE_CASE_TAGS: missing_section, copy_paste_artifacts
+PRE/POST DX: Tracheoesophageal fistula (J39.2), aspiration (T17.9xxA)
+
+PROCEDURE:
+
+* Bronchoscopy with methylene blue evaluation for TEF
+* Esophagoscopy by GI noted in separate note
+
+ANESTHESIA: GA
+
+DETAIL:
+[PATIENT] 61-year-old male with suspected TEF. Bronchoscopy performed. Methylene blue instilled via esophagus (coordinated with GI) and blue dye visualized entering posterior tracheal wall at mid-trachea, consistent with fistula. Airway suctioned. No intervention performed in this setting. patientpatient to recovery stable.
+
+Plan: multidisciplinary discussion for stent vs surgical management.
+<<<END NOTE 038>>>
+
+<<<NOTE 039>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+ENDOBRONCHIAL ULTRASOUND — ELASTOGRAPHY (diagnostic adjunct)
+
+Patient: [PATIENT] (56-year-old female)
+Indication: Mediastinal adenopathy with need for targeted sampling.
+
+Pre Dx: Mediastinal LAD (R59.0)
+Post Dx: Same
+
+Procedure(s):
+
+* Linear EBUS with elastography mapping
+* EBUS-TBNA stations 4R and 7 (3 passes each)
+
+Anesthesia: GA
+Findings:
+Elastography: station 4R predominantly “stiff” pattern; station 7 mixed.
+Technique:
+EBUS performed; Doppler negative. TBNA performed as above. Minimal bleeding.
+
+Specimens:
+A: 4R TBNA
+B: 7 TBNA
+
+EBL minimal; complications none. Plan: follow cytology/flow as indicated.
+<<<END NOTE 039>>>
+
+<<<NOTE 040>>>
+EDGE_CASE_TAGS: ultra_short, malformed_codes
+EUS-B (via esophagus) staging: [PATIENT] 64-year-old male with lung cancer staging. GA. EUS-B performed; nodes sampled: station 7 and 4L (3 passes each). Doppler negative. No complications. Specimens labeled. Plan: follow pathology. (Code line: “432xx/31652??”)
+<<<END NOTE 040>>>
+
+<<<NOTE 041>>>
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+BRONCHOSCOPY FOR BRONCHIAL CAST (plastic bronchitis)
+
+Patient: [PATIENT] (22-year-old male)
+Indication: Acute hypoxemia with suspected airway cast.
+
+Dx: Acute respiratory failure (J96.00), airway obstruction (J98.09)
+
+Procedure: Flexible bronchoscopy with cast extraction
+Anesthesia: GA
+
+TAB (tabs):
+Location	Material	Removal method
+R main bronchus	cast	cryoprobe en bloc
+RLL	cast fragments	suction/forceps
+
+Detail:
+Large tenacious cast removed using cryoprobe with intact extraction. Airways cleared with suction. Oxygenation improved intra-procedure.
+
+EBL minimal; complications none. Plan: ICU; evaluate underlying lymphatic/cardiac contributors.
+<<<END NOTE 041>>>
+
+<<<NOTE 042>>>
+EDGE_CASE_TAGS: reordered_sections, malformed_codes
+PLAN:
+
+* Continue antifungal therapy per ID.
+* Repeat bronchoscopy for surveillance if symptoms recur.
+
+PRE/POST DX: Endobronchial fungal ball (B44.9?), airway obstruction (J98.09)
+
+PROCEDURE:
+
+* Bronchoscopy with debulking and removal of obstructing material (31641??)
+* BAL
+
+ANESTHESIA: GA
+DETAIL:
+[PATIENT] 60-year-old female with obstructing lesion in RUL bronchus. Bronchoscopy revealed necrotic/fungal-appearing material partially occluding segmental airway. Material removed with forceps and suction; BAL performed. Minimal mucosal bleeding controlled. Airway patent at conclusion.
+
+Specimens: endobronchial debris + BAL to micro/path.
+EBL minimal; complications none.
+<<<END NOTE 042>>>
+
+<<<NOTE 043>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY — ENDOBRONCHIAL BRACHYTHERAPY CATHETER PLACEMENT (adjunct)
+
+Patient: [PATIENT] (71-year-old male)
+Indication: Symptomatic malignant airway obstruction; planned brachytherapy by radiation oncology.
+
+Pre/Post Dx: Malignant airway obstruction (C34.9), dyspnea (R06.02)
+
+Procedure:
+
+* Bronchoscopy with catheter placement to target endobronchial lesion (no standard code listed)
+  Anesthesia: GA
+
+Detail:
+Bronchoscopy performed. Endobronchial tumor visualized in left main bronchus. Under direct visualization, brachytherapy catheter positioned at lesion and secured. No bleeding. Handoff to radiation oncology.
+
+EBL minimal; complications none. Plan: per rad onc schedule.
+<<<END NOTE 043>>>
+
+<<<NOTE 044>>>
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+TRACHEOSTOMY CHANGE WITH BRONCHOSCOPY (mature tract)
+
+Indication: 48-year-old male with cuff leak and increased secretions.
+
+Pre Dx: Tracheostomy dependence (Z93.0)
+Post Dx: Same
+
+Procedure:
+
+* Bronchoscopy through trach
+* Tracheostomy tube exchange
+
+Anesthesia: Local + minimal sedation
+Detail:
+Bronchoscopy via trach showed trachea clear; mild granulation at stoma. Tube exchanged over obturator without difficulty. Position confirmed bronchoscopically. patientpatient tolerated well.
+
+EBL minimal; complications none. Plan: routine trach care.
+<<<END NOTE 044>>>
+
+<<<NOTE 045>>>
+EDGE_CASE_TAGS: malformed_codes, missing_section
+PRE/POST DX: Vocal cord dysfunction vs subglottic stenosis (R49.9/J38.6)
+
+PROCEDURE:
+
+* Bronchoscopy with laryngoscopy view (limited)
+* Vocal cord motion assessment during respiration/phonation
+
+ANESTHESIA: Moderate sedation
+
+DETAIL:
+[PATIENT] 35-year-old female. Scope positioned to visualize vocal cords. Paradoxical adduction noted during inspiration, improving with coached breathing. No significant subglottic stenosis seen. No specimens.
+
+Complications none. Plan: speech therapy referral.
+<<<END NOTE 045>>>
+
+<<<NOTE 046>>>
+EDGE_CASE_TAGS: inconsistent_formatting, noisy_units
+TRANSTRACHEAL OXYGEN CATHETER EXCHANGE (rare)
+
+Patient: [PATIENT] (77-year-old male)
+Indication: Chronic transtracheal oxygen with catheter malfunction.
+
+Dx: Chronic hypoxemia (R09.02)
+
+Procedure:
+
+* Bronchoscopy-assisted transtracheal oxygen catheter exchange
+  Anesthesia: Local with minimal sedation (lidocaine topical; one line typo “20m mg”)
+
+Detail:
+Bronchoscope used to confirm catheter position and exclude mucous plugging. Old catheter removed; new catheter placed via established tract and position confirmed. Mild bleeding at stoma controlled with pressure.
+
+EBL minimal; complications none. Plan: home O2 instructions; stoma care.
+<<<END NOTE 046>>>
+
+<<<NOTE 047>>>
+EDGE_CASE_TAGS: table_with_tabs, malformed_codes
+AIRWAY STENT REMOVAL — GRANULATION
+
+Patient: [PATIENT] (66-year-old female)
+Indication: Silicone stent with granulation and mucus plugging.
+
+Dx: Tracheal stenosis (J39.8)
+
+Procedure:
+
+* Rigid bronchoscopy
+* Silicone stent removal
+* Granulation debulking
+
+Anesthesia: GA with jet ventilation
+TAB (tabs):
+Action	Tool	Result
+Stent removal	Rigid forceps	removed intact
+Granulation	debridement	patent airway
+
+EBL ~15 mL; complications none. Plan: airway clearance; consider replacement vs observation.
+<<<END NOTE 047>>>
+
+<<<NOTE 048>>>
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+Plan: CXR, observe, discharge if stable.
+Rigid bronchoscopy: [PATIENT] 58-year-old male with tracheal stenosis. GA jet ventilation. Balloon dilation + topical mitomycin C applied (rare adjunct). Airway improved. EBL minimal; no complications.
+<<<END NOTE 048>>>
+
+<<<NOTE 049>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PLEUROSCOPY (MEDICAL THORACOSCOPY) — PLEURAL BIOPSY
+
+Patient: [PATIENT] (72-year-old female)
+Indication: Exudative pleural effusion with pleural thickening.
+
+Pre Dx: Pleural effusion (J90)
+Post Dx: Same
+
+Procedure(s):
+
+* Chest ultrasound localization
+* Medical thoracoscopy with pleural biopsies
+* Pleural drain placement
+
+Anesthesia: Moderate sedation
+Findings:
+Diffuse pleural nodularity and thickening. Biopsies obtained x6. Hemostasis achieved.
+
+Specimens:
+A: Pleural biopsies
+
+EBL minimal; complications none. Plan: chest tube to suction; follow pathology.
+<<<END NOTE 049>>>
+
+<<<NOTE 050>>>
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+INTRAPLEURAL FIBRINOLYTIC INSTILLATION (tPA/DNase) — EDGE CHECKLIST
+
+Patient: [PATIENT] (55-year-old male)
+Dx: Complicated parapneumonic effusion (J86.9 / J90)
+
+Procedure:
+0‌/1‌ Verify chest tube position
+0‌/1‌ Instill tPA ___ mg + DNase ___ mg (documented variably)
+0‌/1‌ Clamp x 1 hour, then unclamp
+
+Detail:
+Sterile technique at stopcock. Medications instilled and flushed with saline. Tube clamped then returned to suction. Patient tolerated.
+
+Complications none. Plan: repeat dosing per protocol; monitor output.
+<<<END NOTE 050>>>
+

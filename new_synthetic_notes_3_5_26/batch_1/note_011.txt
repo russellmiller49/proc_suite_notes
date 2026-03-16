@@ -1,0 +1,16 @@
+THERAPEUTIC BRONCHOSCOPY
+PRE: Mucus plugging with lobar atelectasis (J98.11)
+POST: Same, improved
+Procedure: Flexible bronchoscopy with therapeutic aspiration; bronchial toileting (codes sometimes: 31645)
+Sedation: Moderate sedation with topical lidocaine
+Complications: None
+
+Findings/Technique:
+Bronchoscopy via oral approach. Copious tenacious secretions obstructing right lower lobe basilar segments; suctioning and saline aliquots used to clear plugs. Airways re-expanded visually with improved ventilation to segmental level. No endobronchial lesion.
+
+Specimens:
+
+Bronchial washings from RLL for culture.
+
+Plan:
+Continue pulmonary hygiene; consider repeat imaging in 24–48 hours; follow cultures.

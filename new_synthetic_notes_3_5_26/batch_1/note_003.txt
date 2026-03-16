@@ -1,0 +1,25 @@
+PRE: Abnormal chest imaging; mediastinal staging needed
+POST: Same
+Procedure(s): Bronchoscopy; EBUS-TBNA
+Anesthesia: General anesthesia
+Codes: 31652
+
+[NAME:REDACTED] / [MRN:REDACTED]
+
+Findings: Normal airways. EBUS identified station 7 and station 4R with enlarged nodes.
+
+Details:
+
+Airway exam to subsegmental levels without endobronchial lesion.
+
+EBUS-TBNA:
+
+4R: 4 passes, 21G
+
+7: 5 passes, 21G
+
+11R: 3 passes, 21G
+
+Specimens: “4R”, “7”, “11R” TBNA.
+EBL: trace.
+Complications: none.

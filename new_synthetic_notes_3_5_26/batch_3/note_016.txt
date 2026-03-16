@@ -1,0 +1,33 @@
+EDGE_CASE_TAGS: missing_section, unicode_checkboxes
+
+SMALL-BORE CHEST TUBE / PLEURAL DRAINAGE NOTE
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 65M
+
+INDICATION: Right-sided parapneumonic effusion, complicated (pH 7.18, LDH 2,400, glucose 42); empyema suspected (J86.9)
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained
+  ☑ Coags reviewed: INR 1.2, Plt 210k
+  ☑ Ultrasound: moderate loculated R effusion confirmed 0‌ posterior location 1‌
+  ☐ CT chest: available but not repeated (reviewed previous from 2 days prior)
+  ☑ Time-out completed
+
+PROCEDURE:
+Patient positioned right side up, left lateral decubitus. US survey: loculated right effusion, septated, estimated 400 mL; best window 7th ICS posterior axillary line. Site marked, prepped, draped. Local anesthetic: lidocaine 1% 10 mL. Seldinger technique used; 0.035-inch guidewire placed into pleural space under real-time US guidance; serial dilation; 14 Fr Seldinger-type chest tube (Rocket Medical) placed and secured with 2-0 nylon suture + adhesive dressing. Connected to Pleur-evac water-seal drainage at -20 cm H2O.
+
+Initial output: 80 mL thick turbid yellow-green fluid (consistent with empyema). Tube flushed with 20 mL NS. Position confirmed on portable CXR: tube coursing posterolaterally, tip at right apex.
+
+INTRAPLEURAL FIBRINOLYTIC THERAPY PLAN (to begin tomorrow morning):
+  t-PA 10 mg in 30 mL NS + DNase 5 mg in 30 mL NS, instilled sequentially, dwell time 1 hour, BID x3 days per MIST2-based protocol.
+
+SPECIMENS: Initial pleural aspirate 80 mL — Gram stain, culture, AFB, pH 7.18 (confirmed), LDH, protein, cytology
+
+COMPLICATIONS: None. Mild pleuritic pain during insertion (expected); analgesic (ketorolac 15 mg IV) administered.
+
+PLAN:
+1. Monitor tube output; goal drainage >250 mL/day.
+2. Begin fibrinolytic protocol AM.
+3. CT chest in 48–72 h to assess loculation resolution.
+4. ID consult for antibiotic guidance.
+5. Surgery consult if fails to drain adequately at 72h.

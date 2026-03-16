@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: missing_section, malformed_codes
+PRE/POST DIAGNOSIS
+
+Mediastinal adenopathy (R59.0)
+
+Suspected lung cancer
+
+PROCEDURE
+
+Bronchoscopy with EBUS-TBNA (31620-59, 31652-)
+
+ANESTHESIA: Moderate Sedation
+MONITORING: Standard ASA
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for evaluation of mediastinal lymphadenopathy. After informed consent, patient was brought to the bronchoscopy suite. A time out was performed. Under moderate sedation, a flexible bronchoscope was introduced via the mouth. Airway inspection revealed normal vocal cords, trachea, and bilateral bronchial trees. No endobronchial lesions.
+
+The linear EBUS scope was then introduced. We surveyed stations 4R, 7, and 10R.
+Station 7 measured 1.8 cm. Station 4R measured 1.4 cm.
+TBNA was performed at Station 7 x3 passes, and Station 4R x3 passes using a 22G needle. Rapid on-site evaluation (ROSE) was present and showed lymphocytes.
+
+COMPLICATIONS: None
+IMPRESSION/PLAN
+
+Successful EBUS-TBNA of 4R and 7 (two stations sampled).
+
+Await final pathology.

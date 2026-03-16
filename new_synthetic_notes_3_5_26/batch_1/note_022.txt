@@ -1,0 +1,18 @@
+Bronchoscopy + EBUS-TBNA (ICD/CPT lines present)
+PRE: Mediastinal lymphadenopathy; lung mass (R59.0, R91.8)
+POST: Same
+Procedures: Bronchoscopy; EBUS-TBNA (CPT 31652)
+Anesthesia: General anesthesia
+Complications: None
+
+Procedure in brief:
+Airway inspection normal, no endobronchial tumor. EBUS performed with Doppler guidance. TBNA:
+
+4R: 4 passes (22G)
+
+7: 4 passes (22G)
+
+11L: 3 passes (22G)
+
+Specimens: Station-labeled TBNA.
+Plan: Routine recovery, follow pathology.

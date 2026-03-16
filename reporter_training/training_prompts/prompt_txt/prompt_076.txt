@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:151
+# id: ip_procedure_prompts_batch3:76
+
+Emergent rigid bronchoscopy for near complete tracheal obstruction from blood clot. Large clot extracted with rigid suction and forceps, underlying oozing tumor treated with APC. Airway patency restored.

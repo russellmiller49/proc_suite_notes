@@ -1,0 +1,24 @@
+EDGE_<<<NOTE _TAGS: noisy_units, missing_section
+
+Procedure:
+Intrapleural fibrinolytic instillation via existing right pleural catheter.
+
+Indication:
+Loculated empyema with poor drainage.
+
+Technique:
+Existing 14 Fr catheter inspected and flushed. Alteplase 10 mg in 30 mL saline followed by DNase 5 mg in 30 cc saline instilled through the pleural tube; tube clamped for 60 mins. Dressing clean and intact.
+
+Findings:
+Catheter patent. Prior drainage thick yellow fluid. No resistance to instillation.
+
+Specimens:
+None newly obtained.
+
+Complications:
+Mild pleuritic discomfort during instillation.
+
+Plan:
+Unclamp after dwell time, return to suction, monitor output and pain.
+
+<<<END NOTE>>>

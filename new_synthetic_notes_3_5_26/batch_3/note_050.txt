@@ -1,0 +1,77 @@
+EDGE_CASE_TAGS: extreme_length, conflicting_details, unicode_checkboxes
+
+ICU BRONCHOSCOPY — COMPLEX VENTILATED PATIENT
+POST-LUNG TRANSPLANT AIRWAY COMPLICATIONS EVALUATION
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+TRANSPLANT PULMONOLOGY CO-ATTENDING: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 56F
+
+PRE-PROCEDURE DIAGNOSES:
+  1. Bilateral lung transplantation, day 21; acute cellular rejection suspected (T86.819)
+  2. New left anastomotic dehiscence, suspected on CT (J98.09)
+  3. Ventilator-dependent, post-transplant (J96.00)
+  4. New rise in BAL galactomannan — invasive aspergillosis vs colonization
+
+POST-PROCEDURE DIAGNOSES:
+  1. Left anastomotic dehiscence confirmed (1.0 cm defect at LMB anastomosis — grade II per ISHLT classification)
+  2. Bilateral airway mucosal changes consistent with ischemia/ischemia-reperfusion injury
+  3. BAL samples obtained; galactomannan result pending
+  4. No endobronchial lesion
+
+PROCEDURE: Flexible bronchoscopy with BAL and endobronchial biopsies (CPT 31622; 31623; 31628)
+
+ANESTHESIA: No additional sedation; patient deeply sedated on baseline propofol + fentanyl infusion; paralytic (cisatracurium) held for 30 minutes pre-procedure. [Nursing MAR documents: "cisatracurium infusion ongoing during procedure" — conflict with attending plan; MAR reviewed in real time; infusion was running at 0.1 mcg/kg/min (minimal) vs full-dose; attending confirmed acceptable level of neuromuscular recovery; MAR annotation error: infusion not stopped, titrated to minimum.]
+
+PRE-PROCEDURE CHECKLIST (transplant bronchoscopy protocol):
+  ☑ Consent: surrogate (spouse) — patient unable to consent; documented
+  ☑ Time-out completed
+  ☑ CMV viral load reviewed (ordered; result pending at time of procedure)
+  ☑ Immunosuppression levels reviewed: tacrolimus trough 8.2 ng/mL (therapeutic)
+  ☑ Coags: INR 1.5 (elevated — acceptable per transplant attending decision) 0‌
+  ☑ Bronchoscopy kit: 4.9 mm scope compatible with 8.0 ETT
+  ☐ Bronchial brush: not used — replaced by BAL + forceps biopsy per protocol 1‌
+
+INSTRUMENTS: Olympus BF-P290 (4.9 mm OD); 2.0 mm cup forceps biopsy; BAL catheter.
+
+PROCEDURE NARRATIVE:
+
+PHASE 1 — SURVEY:
+Bronchoscope introduced via 8.0 ETT. Scope passed to carina. Survey findings:
+
+RIGHT ANASTOMOSIS (at RMB — 3 cm distal to carina):
+  Anastomosis appearance: circumferential mild edema; suture line intact; no dehiscence; mucosa mildly pale/ischemic at suture margins. No granulation tissue (day 21 — early). ISHLT grade: 0 (intact anastomosis, mild ischemia).
+  Right donor airways (RMB, RUL, RML, RLL): diffuse mucosal pallor and mild friability — consistent with ischemia-reperfusion; no hemorrhage; no fungal plaques.
+
+LEFT ANASTOMOSIS (LMB — 3.5 cm distal to carina):
+  Critical finding: 1.0 cm defect at posterior wall of LMB anastomosis; edges with necrotic appearance; suture line disrupted along 270-degree arc posteriorly; extraluminal tissue visible through defect. Consistent with grade II anastomotic dehiscence (ISHLT classification: partial dehiscence with necrosis but without full circumferential disruption).
+  No air leak audible at this phase (cuff inflated).
+  Left donor airways: mucosal pallor; LUL B1+2, LLL patent; no fungal plaques visible; mucosal friability moderate.
+
+PHASE 2 — SAMPLING:
+Transbronchial biopsies:
+  Right lower lobe (B9) — 4 cup-forceps biopsies (rejection protocol; adequate cores on inspection; mild ooze, self-limited).
+  Left lower lobe (B9) — 4 cup-forceps biopsies (cautious given anastomotic dehiscence; forceps did not approach anastomosis).
+
+BAL: Right lower lobe (B9) — 60 mL instilled, 38 mL returned. Left lower lobe (B8) — 60 mL instilled, 41 mL returned.
+
+PHASE 3 — ANASTOMOTIC ASSESSMENT AND INTERVENTION:
+Left anastomotic dehiscence discussed emergently with transplant surgery. Decision: conservative management initially. Covered stent evaluated — deferred (anastomosis only day 21; stent at LMB risks occlusion of LUL orifice; surgical revision discussed). Air leak confirmed by brief cuff deflation: audible air leak on left; cuff reinflated to seal. Plan: maintain positive-pressure ventilation with cuff inflated; aggressive immunosuppression adjustment; CT surveillance.
+
+SPECIMENS:
+  A1: RLL B9 TBBx x4 — formalin; H&E (acute cellular rejection grading per Lung Rejection Study Group classification); GMS/PAS stain
+  A2: LLL B9 TBBx x4 — formalin; same protocol
+  B1: RLL BAL (60 mL) — galactomannan, Aspergillus PCR, CMV PCR, HSV PCR, bacterial/AFB/fungal culture, cytology, lymphocyte subsets
+  B2: LLL BAL (60 mL) — same protocol
+
+COMPLICATIONS: Mild hemorrhage at TBBX sites (both sides); controlled with cold saline. INR 1.5 — no significant coagulopathic bleeding. SpO2 maintained >92% throughout (FiO2 0.60 baseline). EBL: <10 mL.
+
+POST-PROCEDURE PLAN:
+1. Left anastomotic dehiscence grade II: emergent transplant surgery notification complete; plan for CT chest in AM; surgical revision vs covered stent to be determined at multidisciplinary conference tomorrow.
+2. Maintain cuffed ventilation; do not deflate cuff until surgical plan determined.
+3. Galactomannan result (BAL) expected within 24h; if >1.0, add voriconazole; current prophylaxis: micafungin.
+4. Rejection protocol biopsies to pathology — result expected 48h; if A2 or greater rejection: pulse steroids.
+5. CMV PCR result pending; if positive: ganciclovir.
+6. Tacrolimus level rechecked in AM.
+7. Transplant surgery, transplant pulmonology, and IP co-management ongoing.
+8. Family updated; goals of care reviewed — aggressive treatment plan confirmed by surrogate.

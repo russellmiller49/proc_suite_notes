@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:159
+# id: ip_procedure_prompts_batch3:80
+
+Computer assisted bronchoscopy with biopsy of LUL apical lesion and mediastinal staging. Peripheral lesion sampled with needle, forceps, and brushings; EBUS then performed at 4L, 7, and 11L with 4 passes each. ROSE adequate at all stations, malignant from lesion brushing.

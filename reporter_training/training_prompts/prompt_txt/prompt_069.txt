@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:137
+# id: ip_procedure_prompts_batch3:69
+
+Bronchoscopy for suspected airway fistula after esophagectomy. Small defect seen in posterior membranous distal trachea near carina. Airway stent placed to cover defect under rigid bronchoscopy. Final inspection showed improved seal.

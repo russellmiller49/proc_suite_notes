@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:113
+# id: ip_procedure_prompts_batch3:57
+
+Whole lung lavage of right lung for alveolar proteinosis. Bronchoscopy confirmed DLT placement and isolation. Warmed saline used in serial aliquots with chest percussion. Effluent initially opaque milky then improved. ICU observation post procedure.

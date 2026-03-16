@@ -1,0 +1,23 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+ENDOBRONCHIAL VALVES FOR PERSISTENT AIR LEAK (Checklist + mini table)
+
+Patient: [PATIENT] (60-year-old female)
+Indication: PAL x 7 days post pneumothorax with chest tube.
+
+Dx: J93.9; persistent air leak
+
+Procedure: Flexible bronchoscopy + balloon occlusion + valve placement
+Anesthesia: GA
+
+TAB (tabs):
+Occlusion site	Effect on bubbling	Action
+RLL	partial	—
+RUL	near stop	valves placed
+RUL anterior seg	stop	confirm
+
+Valves:
+
+* RUL anterior segment: 1
+* RUL apical segment: 1
+
+EBL minimal; complications none. Plan: CXR, water seal, reassess in AM.

@@ -1,0 +1,26 @@
+EDGE_CASE_TAGS: reordered_sections, ambiguous_laterality
+
+INTERVENTIONAL PULMONOLOGY
+PERCUTANEOUS TRACHEOSTOMY WITH REAL-TIME ULTRASOUND + BRONCHOSCOPIC CO-GUIDANCE
+DATE: [REDACTED]   PHYSICIAN: [NAME:REDACTED], MD, FCCP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 83M
+
+PLAN:
+1. Portex 6.0 cuffed trach placed; position confirmed.
+2. Initiated trach care bundle; RN education in progress.
+3. ENT notified of trach placement as requested by family.
+4. Goals-of-care discussion to follow placement; palliative medicine consultation requested.
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure; ischemic stroke with aspiration pneumonia (I63.9; J69.0); prolonged course anticipated.
+POST-PROCEDURE DIAGNOSIS: Same; percutaneous trach placed.
+
+PROCEDURE: PDT (CPT 31600; 31622)
+
+ANESTHESIA: Propofol 60 mg + fentanyl 50 mcg IV; midazolam 1 mg IV. Bedside ICU.
+
+PROCEDURE NOTE:
+Landmarks identified; pre-procedure US confirmed trachea midline and needle entry point between rings 2 and 3 [initial marking inadvertently placed between rings 1 and 2 (suboptimal) — corrected to 2–3 after US review before incision; no entry attempted at incorrect site]. Introducer needle entered under bronchoscopic guidance; midline position in trachea confirmed. Guidewire placed. Blue Rhino dilation. Portex 6.0 cuffed trach seated at ring 2–3; tip 4 cm above carina on bronchoscopy.
+
+Site hemostasis: minimal ooze controlled with direct pressure. Dressing applied. SpO2 nadir 95%.
+
+COMPLICATIONS: None. EBL: <3 mL.

@@ -1,0 +1,1079 @@
+<<<NOTE 001>>>
+PRE-PROCEDURE DIAGNOSIS: Mediastinal adenopathy; pulmonary nodule (R91.1, R59.0)
+POST-PROCEDURE DIAGNOSIS: Same
+PROCEDURES: Bronchoscopy with BAL; Linear EBUS-TBNA of mediastinal/hilar lymph nodes (include codes: CPT 31624, 31652)
+ANESTHESIA: General anesthesia with LMA
+ESTIMATED BLOOD LOSS: Minimal
+COMPLICATIONS: None
+
+INDICATION: [PATIENT] is a 64-year-old male with right upper lobe pulmonary nodule and PET-avid mediastinal nodes for diagnosis and staging.
+
+FINDINGS:
+
+Trachea and main carina normal.
+
+Mild bronchitic secretions in right lower lobe; no endobronchial mass.
+
+EBUS: Enlarged station 4R and station 7 with heterogeneous echotexture; station 11L small but visualized.
+
+PROCEDURE IN DETAIL:
+After informed consent and time-out, flexible bronchoscopy was performed through the LMA. Airway inspection was completed to segmental level bilaterally. BAL was performed in the right upper lobe posterior segment with 120 mL instilled, 48 mL returned, mildly turbid. The EBUS bronchoscope was then introduced. Doppler was used prior to each pass.
+
+EBUS-TBNA sampling:
+
+Station 4R: 5 passes with 22G needle
+
+Station 7: 6 passes with 22G needle
+
+Station 11L: 3 passes with 22G needle
+
+SPECIMENS:
+
+“4R TBNA” (passes 1–5)
+
+“7 TBNA” (passes 1–6)
+
+“11L TBNA” (passes 1–3)
+
+“RUL BAL”
+
+IMPRESSION/PLAN:
+
+No endobronchial lesion.
+
+Await cytology/pathology and flow as ordered.
+
+CXR in PACU if clinically indicated; routine recovery and follow-up with referring team.
+<<<END NOTE 001>>>
+
+<<<NOTE 002>>>
+Indication: Hemoptysis and left upper lobe mass on CT in a 58-year-old female.
+Procedure: Bronchoscopy, endobronchial biopsy, brushings, BAL, linear EBUS-TBNA.
+Sedation: Moderate sedation (midazolam and fentanyl) with topical lidocaine.
+
+Narrative:
+Consent obtained and time-out performed. Flexible bronchoscopy was advanced via oral bite block. Vocal cords normal. There was an exophytic lesion at the left upper lobe apicoposterior segment entrance with contact bleeding. Suction and cold saline were used for hemostasis.
+
+Interventions:
+
+Endobronchial biopsies x6 from LUL lesion.
+
+Cytology brush x2 from LUL lesion.
+
+BAL in lingula with 100 mL instilled, 35 mL return, blood-tinged initially then clearing.
+
+EBUS portion:
+EBUS scope introduced. Doppler confirmed no intervening vessels. Sampling performed in the following order:
+
+Station 11L: 4 passes (22G)
+
+Station 7: 4 passes (22G)
+
+Station 4L: 3 passes (22G)
+
+Specimens labeled:
+
+“LUL endobronchial bx”
+
+“LUL brush”
+
+“Lingula BAL”
+
+“11L TBNA”
+
+“7 TBNA”
+
+“4L TBNA”
+
+Complications: None. EBL minimal.
+Plan: Follow-up pathology; continue hemoptysis precautions; resume diet when awake and safe swallow confirmed.
+<<<END NOTE 002>>>
+
+<<<NOTE 003>>>
+PRE: Abnormal chest imaging; mediastinal staging needed
+POST: Same
+Procedure(s): Bronchoscopy; EBUS-TBNA
+Anesthesia: General anesthesia
+Codes: 31652
+
+[NAME:REDACTED] / [MRN:REDACTED]
+
+Findings: Normal airways. EBUS identified station 7 and station 4R with enlarged nodes.
+
+Details:
+
+Airway exam to subsegmental levels without endobronchial lesion.
+
+EBUS-TBNA:
+
+4R: 4 passes, 21G
+
+7: 5 passes, 21G
+
+11R: 3 passes, 21G
+
+Specimens: “4R”, “7”, “11R” TBNA.
+EBL: trace.
+Complications: none.
+<<<END NOTE 003>>>
+
+<<<NOTE 004>>>
+PROCEDURE NOTE (COMPLEX)
+Patient: [PATIENT], 71-year-old male
+Indication: Right lower lobe peripheral nodule 1.9 cm with intermediate PET uptake; staging requested.
+Post-procedure diagnosis: Same.
+
+Procedures performed:
+
+Robotic navigational bronchoscopy to right lower lobe target
+
+Radial EBUS confirmation
+
+Transbronchial needle aspiration, transbronchial biopsy, cryobiopsy (peripheral)
+
+BAL (right lower lobe)
+
+Linear EBUS-TBNA of station 7 and station 11R
+
+Anesthesia: General anesthesia with ETT.
+Fluoroscopy: Used.
+Complications: None.
+EBL: Minimal.
+
+Technique:
+After consent and time-out, robotic platform was docked. Registration completed to pre-procedure CT. Navigation was performed to the RLL superior segment target. Radial EBUS demonstrated an eccentric signal with adjacent vessel excluded by Doppler. Tool position was confirmed with fluoroscopy.
+
+Sampling at RLL target:
+
+TBNA: 3 passes (19G)
+
+Transbronchial biopsy: 6 forceps biopsies
+
+Cryobiopsy: 2 samples (1.1 mm probe), thaw and retrieval without significant bleeding
+Hemostasis achieved with wedge positioning and cold saline. BAL performed in RLL with 120 mL instilled, 52 mL return.
+
+Staging:
+Linear EBUS performed next.
+
+Station 7: 4 passes (22G)
+
+Station 11R: 3 passes (22G)
+
+Specimens:
+A) “RLL target TBNA”
+B) “RLL forceps bx”
+C) “RLL cryobiopsy”
+D) “RLL BAL”
+E) “7 TBNA”
+F) “11R TBNA”
+
+Plan:
+Routine recovery; post-procedure CXR in PACU; follow-up pathology and cytology; resume anticoagulation per referring team when appropriate.
+<<<END NOTE 004>>>
+
+<<<NOTE 005>>>
+Flexible bronchoscopy with therapeutic aspiration and BAL
+
+[NAME:REDACTED] is a 46-year-old female with fever and new diffuse infiltrates, concern for infection in an immunocompromised host.
+
+Sedation: Moderate sedation.
+Findings: Thick purulent secretions in bilateral lower lobes, no focal endobronchial lesion.
+
+Procedure: Bronchoscopy via oral approach. Airway cleared with suctioning and saline lavage. BAL performed in right middle lobe with 100 mL instilled, 40 mL return, cloudy. Additional washings obtained from left lower lobe basilar segments.
+
+Specimens: “RML BAL”, “LLL washings”.
+Complications: none. EBL none.
+<<<END NOTE 005>>>
+
+<<<NOTE 006>>>
+CPT/ICD + HEADINGS TEMPLATE
+PRE-DX: Central airway obstruction due to endobronchial tumor (J98.09)
+POST-DX: Same
+PROCEDURES: Rigid bronchoscopy; mechanical tumor debulking; APC; balloon dilation (codes sometimes: CPT 31641, 31645)
+ANESTHESIA: General anesthesia with jet ventilation
+EBL: 10 mL
+COMPLICATIONS: None
+
+HISTORY/INDICATION:
+[PATIENT] is a 69-year-old male with progressive dyspnea and stridor; CT shows distal tracheal narrowing.
+
+PROCEDURE IN DETAIL:
+Rigid bronchoscopy performed. Distal trachea demonstrated friable endoluminal tumor causing ~70% obstruction, extending to proximal right mainstem. Mechanical debulking performed using rigid forceps with suction. APC applied to tumor base for hemostasis and devitalization. Balloon dilation performed at distal trachea to 12 mm, then 14 mm with improved lumen caliber. Flexible bronchoscopy through rigid barrel confirmed patency of right and left mainstem bronchi. Residual secretions cleared.
+
+IMPRESSION/PLAN:
+
+Successful debulking with marked improvement in airway diameter.
+
+Admit for observation; humidification and airway clearance.
+
+Follow-up with oncology and pathology from prior biopsy if available; no specimens taken today.
+<<<END NOTE 006>>>
+
+<<<NOTE 007>>>
+OP NOTE — Airway stent
+Patient: [PATIENT], 62-year-old female
+Indication: Post-intubation tracheal stenosis with recurrent dyspnea.
+
+Procedure: Bronchoscopy with balloon dilation and silicone tracheal stent placement.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+
+Circumferential stenosis 2.5 cm below vocal cords, lumen ~6–7 mm.
+
+Distal trachea and bronchi otherwise patent.
+
+Technique:
+After consent/time-out, flexible bronchoscopy identified the stenotic segment. Balloon dilation performed sequentially to 10 mm then 12 mm. A silicone tracheal stent was deployed across the stenosis (straight silicone stent, 14 mm x 40 mm). Position confirmed bronchoscopically with proximal edge below cords and distal edge above carina. Minimal mucosal oozing treated with suction and cold saline.
+
+Plan:
+
+Nebulized saline and airway clearance regimen.
+
+Follow-up bronchoscopy in 4–6 weeks for stent surveillance or sooner for symptoms.
+<<<END NOTE 007>>>
+
+<<<NOTE 008>>>
+Indication: Pleural effusion, diagnostic and therapeutic drainage.
+Patient: [PATIENT], 55-year-old male with dyspnea and large right pleural effusion on ultrasound.
+
+Procedure: Ultrasound-guided right thoracentesis.
+Anesthesia: Local lidocaine.
+Estimated volume removed: 1100 mL.
+Complications: None.
+
+Details:
+Bedside ultrasound confirmed a large anechoic effusion with atelectatic lung, safe window in posterior axillary line. After sterile prep/drape and local anesthesia, a catheter-over-needle system was advanced into pleural space with free-flowing straw-colored fluid. 1100 mL removed with symptom improvement. Procedure terminated due to patient cough and near-complete drainage.
+
+Specimens:
+
+“Pleural fluid” sent for cell count/diff, protein, LDH, pH, glucose, Gram stain/culture, cytology.
+
+Plan:
+Post-procedure CXR per protocol; monitor for chest pain and dyspnea; follow-up results with primary team.
+<<<END NOTE 008>>>
+
+<<<NOTE 009>>>
+Bronchoscopy + EBUS staging (minimal headings)
+
+A 73-year-old male with newly diagnosed right upper lobe carcinoma was brought for mediastinal staging. Under general anesthesia, bronchoscopy demonstrated normal tracheobronchial anatomy without endobronchial tumor. Linear EBUS identified station 4R (12 mm) and station 7 (15 mm). Doppler negative. TBNA performed:
+
+4R: 5 passes (22G)
+
+7: 5 passes (22G)
+
+10R: 3 passes (22G)
+
+Specimens labeled by station. EBL minimal. No complications. Plan for routine recovery and follow-up pathology.
+<<<END NOTE 009>>>
+
+<<<NOTE 010>>>
+NAVIGATIONAL BRONCHOSCOPY — SHORT DICTATION
+
+[PATIENT] 60-year-old female. RUL peripheral nodule. General anesthesia. Computer-assisted navigation to RUL anterior segment. Radial EBUS showed concentric signal. Fluoro used. TBNA x3, forceps biopsies x6, brushing x1. BAL in RUL. No significant bleeding. Specimens: “RUL TBNA”, “RUL bx”, “RUL brush”, “RUL BAL”. Dispo PACU.
+<<<END NOTE 010>>>
+
+<<<NOTE 011>>>
+THERAPEUTIC BRONCHOSCOPY
+PRE: Mucus plugging with lobar atelectasis (J98.11)
+POST: Same, improved
+Procedure: Flexible bronchoscopy with therapeutic aspiration; bronchial toileting (codes sometimes: 31645)
+Sedation: Moderate sedation with topical lidocaine
+Complications: None
+
+Findings/Technique:
+Bronchoscopy via oral approach. Copious tenacious secretions obstructing right lower lobe basilar segments; suctioning and saline aliquots used to clear plugs. Airways re-expanded visually with improved ventilation to segmental level. No endobronchial lesion.
+
+Specimens:
+
+Bronchial washings from RLL for culture.
+
+Plan:
+Continue pulmonary hygiene; consider repeat imaging in 24–48 hours; follow cultures.
+<<<END NOTE 011>>>
+
+<<<NOTE 012>>>
+Airway stent surveillance and clearance
+Patient: [PATIENT], 67-year-old male with prior right mainstem stent for malignant compression.
+
+Procedure: Bronchoscopy with stent toileting and stent repositioning.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Metallic stent in right mainstem bronchus with moderate granulation tissue at proximal edge and inspissated secretions within stent lumen.
+
+Interventions:
+
+Mechanical debridement of granulation tissue using forceps with minimal bleeding.
+
+Cryotherapy applied to focal granulation tissue at proximal stent edge (2 applications).
+
+Stent gently repositioned 5–8 mm distally to optimize proximal edge away from carina.
+
+Airway suctioned clear; distal bronchus patent.
+
+Specimens: None.
+Plan: Nebulized saline; airway clearance; follow-up in 3–4 weeks for repeat surveillance bronchoscopy.
+<<<END NOTE 012>>>
+
+<<<NOTE 013>>>
+Procedure note: Bronchoscopy, BAL, transbronchial biopsy
+Patient: [PATIENT], 52-year-old female with new bilateral ground-glass opacities and hypoxemia.
+
+Anesthesia: General anesthesia with ETT.
+Pre/Post dx: Diffuse parenchymal lung disease.
+
+Description:
+Flexible bronchoscopy performed. Airway exam normal. BAL performed in right middle lobe with 150 mL instilled, 60 mL return. Transbronchial biopsies obtained from right lower lobe lateral basal segment (6 biopsies) with fluoroscopic guidance. Mild bleeding controlled with wedging and cold saline.
+
+Specimens:
+
+“RML BAL”
+
+“RLL TBBx”
+
+Complications: None. EBL minimal.
+Plan: CXR in PACU; monitor for delayed bleeding; follow pathology and cultures.
+<<<END NOTE 013>>>
+
+<<<NOTE 014>>>
+Robotic navigational bronchoscopy + fiducial placement
+
+Patient: [PATIENT], 74-year-old male
+Indication: Left lower lobe posterior basal nodule planned for SBRT; need tissue diagnosis and fiducial placement.
+
+Procedures:
+
+Robotic navigation to LLL target
+
+Radial EBUS confirmation
+
+Transbronchial biopsy and TBNA
+
+Fiducial marker placement x3
+Sedation: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation completed to target in LLL posterior basal segment. Radial EBUS demonstrated eccentric signal; fluoroscopy used to confirm tool position. TBNA x3 and forceps biopsies x7 obtained. Three fiducials deployed around lesion margins under fluoroscopy with stable position at completion. Minimal bleeding.
+
+Specimens: “LLL TBNA”, “LLL bx”.
+Plan: Post-procedure CXR; coordinate with radiation oncology; follow pathology.
+<<<END NOTE 014>>>
+
+<<<NOTE 015>>>
+THERAPEUTIC BRONCHOSCOPY — COMBINED
+PRE: Subglottic/tracheal stenosis
+POST: Improved airway caliber
+
+Procedure(s): Flexible bronchoscopy; balloon dilation; electrocautery radial incisions.
+Anesthesia: General anesthesia.
+EBL: Minimal.
+Complications: None.
+
+Findings:
+Short-segment tracheal stenosis ~1.5 cm length, lumen ~8 mm.
+
+Interventions:
+Electrocautery knife used for 3 radial incisions at 12/4/8 o’clock. Balloon dilation performed to 12 mm then 14 mm with improved patency and reduced work of breathing post-extubation.
+
+Specimens: None.
+Plan: Steroid taper per protocol; PPI; follow-up bronchoscopy in 6–8 weeks.
+<<<END NOTE 015>>>
+
+<<<NOTE 016>>>
+EBUS procedure (checklist style)
+
+Patient: [PATIENT] 59-year-old male
+Indication: PET-avid mediastinal nodes
+Anesthesia: GA
+
+Airway survey:
+
+Trachea: normal
+
+R bronchial tree: normal
+
+L bronchial tree: normal
+
+EBUS nodes sampled:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+10L: 3 passes (22G)
+
+Specimens sent: station-labeled TBNA.
+Complications: none.
+<<<END NOTE 016>>>
+
+<<<NOTE 017>>>
+Pleural procedure: Small-bore chest tube placement
+Patient: [PATIENT], 63-year-old female with complicated left pleural effusion and fever.
+
+Procedure: Ultrasound-guided left 14 Fr pigtail catheter placement.
+Anesthesia: Local lidocaine.
+Complications: None.
+
+Details:
+Ultrasound identified a complex septated effusion with safest pocket in posterior axillary line. After sterile prep, local anesthesia, and Seldinger technique, a 14 Fr pigtail catheter was placed with immediate return of cloudy fluid. Tube secured and connected to suction at -20 cm H2O.
+
+Specimens:
+
+“Pleural fluid” for culture and chemistries.
+
+Plan:
+CXR to confirm position; flush protocol per service; consider intrapleural fibrinolytic therapy if drainage remains poor.
+<<<END NOTE 017>>>
+
+<<<NOTE 018>>>
+Peripheral bronchoscopy (cone-beam CT assisted)
+
+Patient: [PATIENT], 66-year-old male
+Indication: RML 1.4 cm nodule, high suspicion; need diagnosis.
+
+Procedure: Computer-assisted navigation bronchoscopy; radial EBUS; transbronchial biopsy; bronchial brushing.
+Anesthesia: General anesthesia.
+Imaging: Cone-beam CT used for confirmation.
+Complications: None.
+
+Narrative:
+Navigation performed to RML medial segment. Radial EBUS showed concentric signal. Cone-beam CT confirmed tool within lesion. Sampling included TBNA x2, forceps biopsies x8, and brush x1. Hemostasis achieved with wedging. No pneumothorax noted on end-procedure imaging.
+
+Specimens: “RML bx”, “RML brush”, “RML TBNA”.
+Plan: CXR in PACU; follow pathology.
+<<<END NOTE 018>>>
+
+<<<NOTE 019>>>
+Bronchoscopy + EBUS with elastography mention
+
+[PATIENT] is a 70-year-old female with suspected sarcoidosis versus malignancy, with bilateral hilar and mediastinal adenopathy.
+
+Anesthesia: Moderate sedation.
+Findings: No endobronchial lesion. EBUS showed enlarged station 7 and 11R; elastography demonstrated relatively stiff pattern in station 7.
+
+Sampling:
+
+7: 6 passes (22G)
+
+11R: 4 passes (22G)
+
+Additional:
+Endobronchial biopsies from right mainstem spur x4 for granulomatous evaluation. BAL in right upper lobe.
+
+Specimens: “7 TBNA”, “11R TBNA”, “RMSB endobronchial bx”, “RUL BAL”.
+Complications: none.
+<<<END NOTE 019>>>
+
+<<<NOTE 020>>>
+THERAPEUTIC BRONCHOSCOPY — ULTRA CONCISE (still non-edge-case)
+Patient: [PATIENT] 57-year-old male.
+Dx: Right mainstem obstruction from secretions and clot.
+GA. Flexible bronchoscopy performed with clot extraction using forceps and suction. Airway patent at end. No specimens. No complications.
+<<<END NOTE 020>>>
+
+<<<NOTE 021>>>
+Airway stent removal
+Patient: [PATIENT], 61-year-old female with benign left mainstem stenosis previously treated with stent, now improved.
+
+Procedure: Bronchoscopy with silicone stent removal.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Details:
+Flexible bronchoscopy demonstrated silicone stent in left mainstem bronchus with minimal granulation tissue. Rigid forceps used to grasp stent retrieval loop and stent removed en bloc without mucosal injury. Post-removal inspection showed mild residual stenosis with lumen ~11–12 mm and good distal airway patency. Minor oozing resolved with suction.
+
+Specimens: None.
+Plan: Observe for bronchospasm; airway clearance; follow-up in clinic with repeat imaging as indicated.
+<<<END NOTE 021>>>
+
+<<<NOTE 022>>>
+Bronchoscopy + EBUS-TBNA (ICD/CPT lines present)
+PRE: Mediastinal lymphadenopathy; lung mass (R59.0, R91.8)
+POST: Same
+Procedures: Bronchoscopy; EBUS-TBNA (CPT 31652)
+Anesthesia: General anesthesia
+Complications: None
+
+Procedure in brief:
+Airway inspection normal, no endobronchial tumor. EBUS performed with Doppler guidance. TBNA:
+
+4R: 4 passes (22G)
+
+7: 4 passes (22G)
+
+11L: 3 passes (22G)
+
+Specimens: Station-labeled TBNA.
+Plan: Routine recovery, follow pathology.
+<<<END NOTE 022>>>
+
+<<<NOTE 023>>>
+Navigational bronchoscopy — mixed sampling strategy
+
+Patient: [PATIENT], 68-year-old male
+Indication: Left upper lobe peripheral lesion with bronchus sign.
+
+Procedures:
+
+Computer-assisted navigation to LUL target
+
+Radial EBUS
+
+TBNA, transbronchial biopsy, BAL
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation reached target in LUL anterior segment. Radial EBUS showed eccentric signal; fluoroscopy used. TBNA x4 and forceps biopsies x6 obtained. BAL performed in LUL with 100 mL instilled, 38 mL returned. Mild bleeding after biopsy controlled with wedge and cold saline.
+
+Specimens: “LUL TBNA”, “LUL bx”, “LUL BAL”.
+Plan: CXR in PACU; follow pathology/cultures.
+<<<END NOTE 023>>>
+
+<<<NOTE 024>>>
+THERAPEUTIC BRONCHOSCOPY — OBSTRUCTION
+Indication: Malignant left mainstem bronchus narrowing with post-obstructive pneumonia in a 72-year-old male.
+
+Procedure: Rigid bronchoscopy with mechanical debulking and balloon dilation.
+Anesthesia: General anesthesia with jet ventilation.
+Findings: Near-occlusive tumor at proximal left mainstem, thick purulent secretions distal.
+
+Interventions:
+Mechanical debulking performed until lumen ~70% restored. Balloon dilation to 10 mm then 12 mm. Distal secretions suctioned and cleared. Airway patency confirmed to lobar bronchi.
+
+Specimens: None today.
+EBL: 15 mL.
+Complications: None.
+Plan: Admit/observe; antibiotics per primary team; consider stent if recurrent obstruction.
+<<<END NOTE 024>>>
+
+<<<NOTE 025>>>
+Navigational bronchoscopy + EBUS staging combined (Template E style, no explicit codes)
+
+Patient: [PATIENT], 63-year-old female
+Indication: RUL 2.3 cm spiculated nodule; staging requested.
+
+Anesthesia: General anesthesia with ETT.
+Procedures:
+
+Navigation bronchoscopy to RUL target with radial EBUS confirmation
+
+Sampling of RUL target with TBNA and biopsies
+
+Linear EBUS-TBNA of mediastinal/hilar nodes
+
+Procedure:
+Flexible bronchoscopy showed no endobronchial lesion. Navigation performed to RUL posterior segment lesion. Radial EBUS showed concentric signal. TBNA x3 and forceps biopsies x8 obtained; minimal bleeding controlled with wedging.
+
+Linear EBUS staging followed:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+11R: 3 passes (22G)
+
+Specimens:
+
+“RUL TBNA”
+
+“RUL bx”
+
+“4R TBNA”
+
+“7 TBNA”
+
+“11R TBNA”
+
+Complications: None. EBL minimal.
+Plan: Post-procedure CXR; follow pathology and cytology; outpatient follow-up with pulmonary and oncology.
+<<<END NOTE 025>>>
+
+<<<NOTE 026>>>
+PRE-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy; lung mass (R59.0, R91.8)
+POST-PROCEDURE DIAGNOSIS: Same
+PROCEDURES: Bronchoscopy; Linear EBUS-TBNA (include codes: CPT 31652)
+ANESTHESIA: General anesthesia
+EBL: Minimal
+COMPLICATIONS: None
+
+INDICATION: [PATIENT] is a 59-year-old male with left upper lobe mass and PET-avid mediastinal nodes for staging.
+
+FINDINGS:
+
+No endobronchial lesion.
+
+EBUS: Station 7 enlarged; station 4L borderline; station 11L visualized.
+
+DETAILS:
+Bronchoscopy performed to segmental level bilaterally. EBUS performed with Doppler guidance.
+TBNA:
+
+7: 6 passes (22G)
+
+4L: 4 passes (22G)
+
+11L: 3 passes (22G)
+
+SPECIMENS:
+“7 TBNA”, “4L TBNA”, “11L TBNA”
+
+PLAN:
+Routine recovery; follow cytology and pathology.
+<<<END NOTE 026>>>
+
+<<<NOTE 027>>>
+Narrative op note — minimal headings
+
+Indication: Persistent right lower lobe consolidation in a 47-year-old female, rule out infection.
+Procedure: Flexible bronchoscopy with BAL and bronchial washings.
+Sedation: Moderate sedation with topical lidocaine.
+
+Technique/Findings:
+Time-out completed. Scope advanced orally. Airways notable for erythematous mucosa and copious purulent secretions from right lower lobe basilar segments. No mass or active bleeding seen.
+
+Interventions:
+
+Therapeutic aspiration with saline aliquots.
+
+BAL in right lower lobe lateral basal segment (120 mL instilled, 44 mL return).
+
+Additional bronchial washings from right lower lobe.
+
+Specimens:
+“RLL BAL”, “RLL washings”
+
+Complications: None.
+Plan: Follow cultures; continue pulmonary hygiene.
+<<<END NOTE 027>>>
+
+<<<NOTE 028>>>
+PROCEDURE NOTE — Peripheral bronchoscopy (robotic)
+
+Patient: [PATIENT], 72-year-old male
+Indication: Left lower lobe 1.6 cm peripheral nodule with bronchus sign.
+
+Procedures:
+
+Robotic navigation bronchoscopy
+
+Radial EBUS confirmation
+
+Transbronchial biopsy and TBNA
+Anesthesia: General anesthesia.
+Complications: None.
+
+Description:
+Robotic platform docked and registration completed. Navigation to LLL posterior basal target performed. Radial EBUS showed eccentric signal; fluoroscopy used to confirm tool position. TBNA x3 and forceps biopsies x7 obtained. Mild bleeding controlled with wedge positioning and cold saline.
+
+Specimens: “LLL TBNA”, “LLL bx”.
+Plan: CXR in PACU; follow pathology.
+<<<END NOTE 028>>>
+
+<<<NOTE 029>>>
+THERAPEUTIC BRONCHOSCOPY — AIRWAY OBSTRUCTION
+
+PRE: Central airway obstruction due to tumor (J98.09)
+POST: Improved airway patency
+Procedure: Rigid bronchoscopy; mechanical debulking; APC
+Anesthesia: General anesthesia with jet ventilation
+EBL: 20 mL
+Complications: None
+
+Indication:
+[PATIENT] is a 66-year-old male with severe dyspnea and right mainstem obstruction on imaging.
+
+Findings/Interventions:
+Rigid bronchoscopy demonstrated friable endoluminal tumor in right mainstem with ~80% obstruction. Mechanical debulking performed, followed by APC for hemostasis. Flexible bronchoscopy confirmed right upper lobe bronchus patent and right lower lobe segments patent. Residual secretions cleared.
+
+Specimens: None today.
+Plan: Admit for airway observation; humidification and airway clearance; coordinate oncology.
+<<<END NOTE 029>>>
+
+<<<NOTE 030>>>
+Airway stent placement — silicone Y stent
+
+Patient: [PATIENT], 70-year-old female
+Indication: Malignant distal tracheal and main carina narrowing.
+
+Procedure: Rigid bronchoscopy with silicone Y stent placement.
+Anesthesia: General anesthesia with jet ventilation.
+Complications: None.
+
+Findings:
+Extrinsic compression at distal trachea and carina with dynamic collapse.
+
+Technique:
+Rigid bronchoscopy performed. Airway calibrated and secretions cleared. Silicone Y stent deployed with tracheal limb positioned above carina and bronchial limbs into right and left mainstem bronchi. Final position confirmed with flexible bronchoscopy through the rigid barrel. Airway patency markedly improved.
+
+Stent: Silicone Y stent, 15 x 12 x 12 mm (tracheal x RMB x LMB), length per standard sizing.
+Specimens: None.
+Plan: Nebulized saline, airway clearance regimen, follow-up bronchoscopy for surveillance.
+<<<END NOTE 030>>>
+
+<<<NOTE 031>>>
+Pleural ultrasound + thoracentesis (brief)
+
+Patient: [PATIENT], 61-year-old male with dyspnea and moderate left pleural effusion.
+
+Procedure: Ultrasound-guided left thoracentesis.
+Anesthesia: Local lidocaine.
+Volume removed: 850 mL, yellow fluid.
+Complications: None.
+
+Details:
+Ultrasound confirmed a dependent anechoic pocket with safe window. Sterile technique used. Catheter advanced with free flow; drainage stopped with patient cough and near-complete drainage.
+
+Specimens: “Pleural fluid” for chemistries, cell count/diff, culture, cytology.
+Plan: Post-procedure imaging per protocol; follow results.
+<<<END NOTE 031>>>
+
+<<<NOTE 032>>>
+Bronchoscopy + EBUS (dictated paragraph)
+
+[PATIENT] is a 65-year-old female with right upper lobe spiculated nodule and mediastinal nodes. Under GA, bronchoscopy revealed no endobronchial lesion. EBUS performed with Doppler. TBNA obtained from 4R (5 passes, 22G), 7 (5 passes, 22G), and 11R (3 passes, 22G). Specimens labeled by station. No complications. EBL minimal. Dispo PACU.
+<<<END NOTE 032>>>
+
+<<<NOTE 033>>>
+Bronchoscopy with endobronchial biopsy + BAL
+
+Indication: Hemoptysis, right middle lobe endobronchial abnormality on CT.
+Patient: [PATIENT], 54-year-old male
+Sedation: Moderate sedation.
+
+Findings:
+Polypoid lesion at right middle lobe bronchus orifice with mild oozing. Remaining airways without mass.
+
+Interventions:
+
+Endobronchial biopsies x5 from RML lesion.
+
+Brushings x1 from RML lesion.
+
+BAL in RML (100 mL instilled, 36 mL return).
+
+Specimens:
+“RML endobronchial bx”, “RML brush”, “RML BAL”
+
+Complications: None.
+Plan: Hemoptysis precautions; follow pathology.
+<<<END NOTE 033>>>
+
+<<<NOTE 034>>>
+Peripheral bronchoscopy (cone-beam confirmation) + BAL
+
+Patient: [PATIENT], 69-year-old female
+Indication: Right lower lobe 1.3 cm nodule, growing.
+
+Procedures:
+Navigation bronchoscopy; radial EBUS; transbronchial biopsy; brushing; BAL
+Anesthesia: General anesthesia
+Complications: None
+
+Technique:
+Navigation achieved to RLL posterior basal lesion. Radial EBUS showed concentric signal. Cone-beam CT confirmed tool-in-lesion. Forceps biopsies x8, brushing x1, TBNA x2 performed. BAL completed in RLL (120 mL in, 50 mL out).
+
+Specimens: “RLL bx”, “RLL brush”, “RLL TBNA”, “RLL BAL”.
+Plan: CXR in PACU; follow pathology/cultures.
+<<<END NOTE 034>>>
+
+<<<NOTE 035>>>
+THERAPEUTIC BRONCHOSCOPY — mucus plugging
+
+PRE: Lobar atelectasis due to mucus plug (J98.11)
+POST: Improved after airway clearance
+Procedure: Bronchoscopy with therapeutic aspiration (codes sometimes: 31645)
+Sedation: Moderate sedation
+Complications: None
+
+Findings/Description:
+Copious thick secretions obstructing left lower lobe basilar segments. Therapeutic aspiration and saline lavage performed until segmental bronchi patent. No endobronchial lesion.
+
+Specimen:
+“LLL washings” for culture.
+
+Plan:
+Continue airway clearance; follow cultures; repeat imaging as needed.
+<<<END NOTE 035>>>
+
+<<<NOTE 036>>>
+Airway stent surveillance + granulation management
+
+Patient: [PATIENT], 58-year-old male with prior tracheal stent for benign stenosis.
+
+Procedure: Bronchoscopy with stent toileting and granulation tissue treatment.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Silicone tracheal stent in place with moderate granulation tissue at distal edge and adherent secretions.
+
+Interventions:
+
+Mechanical debridement of granulation tissue with forceps.
+
+APC applied to focal granulation areas for hemostasis.
+
+Stent lumen suctioned clear.
+
+Specimens: None.
+Plan: Nebulized saline; consider inhaled steroid per protocol; follow-up bronchoscopy in 4–6 weeks.
+<<<END NOTE 036>>>
+
+<<<NOTE 037>>>
+Pleural procedure: 14 Fr pigtail + intrapleural fibrinolytic instillation
+
+Patient: [PATIENT], 64-year-old female with loculated right pleural effusion and fever.
+
+Procedure(s): Ultrasound-guided right pigtail catheter; intrapleural tPA/DNase instillation.
+Anesthesia: Local lidocaine.
+Complications: None.
+
+Details:
+Ultrasound demonstrated complex septated effusion with safe pocket. 14 Fr pigtail placed via Seldinger technique with immediate cloudy output. Instilled tPA 10 mg in 30 mL NS followed by DNase 5 mg in 30 mL NS via chest tube per service protocol. Tube clamped for 1 hour, then returned to suction.
+
+Specimens: Pleural fluid sent for culture and chemistries.
+Plan: Continue lytic protocol per service; monitor drainage and symptoms; follow imaging.
+<<<END NOTE 037>>>
+
+<<<NOTE 038>>>
+Bronchoscopy + EBUS with station list (headings format, no codes)
+
+PRE/POST DIAGNOSIS: Mediastinal adenopathy and lung nodule
+ANESTHESIA: General anesthesia
+PROCEDURES: Bronchoscopy; EBUS-TBNA
+
+Indication:
+[PATIENT] is a 60-year-old male with PET-avid nodes.
+
+Findings:
+No endobronchial lesion. EBUS identified stations 4R and 7 as enlarged.
+
+Sampling:
+
+4R: 4 passes (22G)
+
+7: 6 passes (22G)
+
+10R: 3 passes (22G)
+
+Specimens labeled by station.
+Complications none; EBL minimal.
+Plan: Routine recovery; follow pathology.
+<<<END NOTE 038>>>
+
+<<<NOTE 039>>>
+Peripheral bronchoscopy — cryobiopsy included
+
+Patient: [PATIENT], 56-year-old female
+Indication: Diffuse peripheral nodularity and suspected organizing pneumonia; need tissue.
+
+Procedure: Navigation bronchoscopy to right lower lobe target; transbronchial cryobiopsy x3; BAL.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation to RLL lateral basal region. Radial EBUS showed eccentric signal. Cryobiopsy performed with 1.1 mm probe x3 with brief freeze cycles, retrieved without significant bleeding. Hemostasis with wedging and cold saline. BAL performed in RLL (150 mL in, 62 mL out).
+
+Specimens: “RLL cryobiopsy”, “RLL BAL”.
+Plan: CXR in PACU; monitor for delayed bleeding; follow pathology/cultures.
+<<<END NOTE 039>>>
+
+<<<NOTE 040>>>
+Very short dictated note (codes omitted)
+
+[PATIENT] 68-year-old male. GA. Flexible bronchoscopy showed thick secretions in RUL and RML; suctioned clear. BAL in RUL. EBUS performed; station 7 sampled x4 and station 4R sampled x4 (22G). No complications. Specimens labeled.
+<<<END NOTE 040>>>
+
+<<<NOTE 041>>>
+Therapeutic bronchoscopy — balloon dilation
+
+Patient: [PATIENT], 49-year-old female with post-tracheostomy tracheal stenosis and dyspnea.
+
+Procedure: Bronchoscopy with balloon dilation of tracheal stenosis.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Short segment stenosis at prior tracheostomy site, lumen ~7–8 mm.
+
+Technique:
+Flexible bronchoscopy identified stenosis. Balloon dilation performed to 10 mm then 12 mm with improved lumen diameter. Minimal mucosal oozing resolved with suction/cold saline.
+
+Specimens: None.
+Plan: PPI and airway humidification; follow-up bronchoscopy in 6–8 weeks.
+<<<END NOTE 041>>>
+
+<<<NOTE 042>>>
+Airway stent removal + BAL
+
+Patient: [PATIENT], 65-year-old male with prior right mainstem stent for malignant compression, now improved after therapy.
+
+Procedure: Bronchoscopy with stent removal and BAL.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Silicone stent in right mainstem with mild secretions. Airway distal to stent patent.
+
+Interventions:
+Stent grasped and removed en bloc. Mild mucosal irritation without bleeding. BAL performed in right lower lobe (100 mL in, 40 mL out).
+
+Specimens: “RLL BAL”.
+Plan: Airway clearance; follow cultures; follow-up as outpatient.
+<<<END NOTE 042>>>
+
+<<<NOTE 043>>>
+Pleuroscopy with biopsy ± talc pleurodesis (narrative)
+
+Patient: [PATIENT], 72-year-old female with recurrent right pleural effusion and pleural nodularity on CT.
+
+Procedure: Medical pleuroscopy with pleural biopsies and talc pleurodesis.
+Anesthesia: Monitored anesthesia care.
+Complications: None.
+
+Technique/Findings:
+After ultrasound localization, single port entry into right pleural space. Approximately 900 mL serosanguinous fluid aspirated. Pleuroscopic inspection revealed diffuse pleural studding over parietal pleura. Biopsies obtained from multiple sites. Talc poudrage performed evenly over pleural surfaces. A chest tube was placed and connected to suction.
+
+Specimens:
+“Right pleural biopsy” (multiple)
+
+Plan:
+Chest tube management per protocol; pain control; follow pathology and cytology.
+<<<END NOTE 043>>>
+
+<<<NOTE 044>>>
+Bronchoscopy with transbronchial biopsy (ICD/CPT style lines)
+
+PRE: Interstitial lung disease (J84.9)
+POST: Same
+ProcedURES: Bronchoscopy; BAL; transbronchial biopsy (include codes: CPT 31624, 31628)
+ANESTHESIA: General anesthesia
+COMPLICATIONS: None
+EBL: Minimal
+
+Description:
+Airway inspection normal. BAL performed in right middle lobe (150 mL instilled, 65 mL return). Transbronchial biopsies obtained from right lower lobe (6) with fluoroscopy. Mild bleeding controlled with wedging and cold saline.
+
+Specimens: “RML BAL”, “RLL TBBx”.
+Plan: Post-procedure CXR; monitor; follow pathology and cultures.
+<<<END NOTE 044>>>
+
+<<<NOTE 045>>>
+Peripheral bronchoscopy — fiducial placement only (short)
+
+Patient: [PATIENT], 77-year-old male
+Indication: Left lower lobe lesion planned for SBRT; fiducial placement requested.
+
+Procedure: Navigation bronchoscopy with fiducial placement x4.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation to LLL lesion performed. Fluoroscopy used to guide placement. Four fiducials deployed around lesion margins with stable final positioning.
+
+Specimens: None.
+Plan: Post-procedure CXR; follow with radiation oncology.
+<<<END NOTE 045>>>
+
+<<<NOTE 046>>>
+EBUS-TBNA + endobronchial biopsies (sarcoid evaluation)
+
+Patient: [PATIENT], 44-year-old male
+Indication: Bilateral hilar and mediastinal adenopathy, suspected sarcoidosis.
+
+Sedation: Moderate sedation.
+Findings: No endobronchial mass.
+
+Procedures:
+
+EBUS-TBNA:
+
+11R: 4 passes (22G)
+
+7: 5 passes (22G)
+
+11L: 3 passes (22G)
+
+Endobronchial biopsies from right middle lobe carina x4
+
+BAL in right upper lobe
+
+Specimens: “11R TBNA”, “7 TBNA”, “11L TBNA”, “Endobronchial bx”, “RUL BAL”.
+Complications: None.
+Plan: Follow pathology; consider PFTs and outpatient follow-up.
+<<<END NOTE 046>>>
+
+<<<NOTE 047>>>
+Therapeutic bronchoscopy — clot extraction
+
+Patient: [PATIENT], 57-year-old female with recent hemoptysis and airway clot on CT.
+
+Procedure: Bronchoscopy with clot extraction and airway clearance.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Organized clot partially obstructing left lower lobe bronchus.
+
+Intervention:
+Clot removed using forceps and suction. Cold saline applied for minor oozing; no further bleeding. Airways patent to segmental level.
+
+Specimens: None.
+Plan: Hemoptysis precautions; follow imaging and underlying cause workup.
+<<<END NOTE 047>>>
+
+<<<NOTE 048>>>
+Airway stent repositioning + balloon dilation
+
+Patient: [PATIENT], 63-year-old male with metallic stent in left mainstem for malignant compression.
+
+Procedure: Bronchoscopy with balloon dilation and stent repositioning.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Findings:
+Proximal stent edge abutting carina with granulation tissue and partial obstruction.
+
+Interventions:
+Balloon dilation performed within stent to 10 mm then 12 mm. Stent gently repositioned distally ~1 cm to optimize carinal clearance. Granulation tissue suctioned and lightly debrided.
+
+Specimens: None.
+Plan: Nebulized saline; airway clearance; follow-up surveillance bronchoscopy in 3–4 weeks.
+<<<END NOTE 048>>>
+
+<<<NOTE 049>>>
+Pleural: Diagnostic thoracentesis (ultra short)
+
+[PATIENT] 50-year-old male. Left pleural effusion. Local lidocaine. Ultrasound-guided thoracentesis removed 500 mL clear yellow fluid. Sent for studies and cytology. No complications.
+<<<END NOTE 049>>>
+
+<<<NOTE 050>>>
+Navigational bronchoscopy + staging in one session (Template A-ish)
+
+PRE-DX: Lung nodule; mediastinal adenopathy
+POST-DX: Same
+PROCEDURES: Bronchoscopy; navigation bronchoscopy to RUL lesion; radial EBUS; biopsies; linear EBUS-TBNA
+ANESTHESIA: General anesthesia
+COMPLICATIONS: None
+EBL: Minimal
+
+Procedure detail:
+Flexible bronchoscopy showed no endobronchial lesion. Navigation to RUL posterior segment lesion completed with radial EBUS concentric signal. TBNA x3 and forceps biopsies x8 obtained; minor bleeding controlled with wedge and cold saline. EBUS staging performed:
+
+4R: 3 passes (22G)
+
+7: 4 passes (22G)
+
+11R: 3 passes (22G)
+
+Specimens:
+“RUL TBNA”, “RUL bx”, “4R TBNA”, “7 TBNA”, “11R TBNA”
+
+Plan:
+CXR in PACU; follow pathology and cytology; outpatient follow-up.
+<<<END NOTE 050>>>

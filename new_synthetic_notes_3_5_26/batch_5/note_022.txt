@@ -1,0 +1,5 @@
+EDGE_CASE_TAGS: ultra_short, inconsistent_formatting
+PRE/POST DX: R91.1 RUL anterior nodule
+Procedure: CT-guided cryoablation
+EBL <5; Complications: none.
+Freeze-thaw-freeze completed; post CT no PTX.  Follow-up CT 1 month.

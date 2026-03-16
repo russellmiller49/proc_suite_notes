@@ -1,0 +1,27 @@
+EDGE_<<<NOTE _TAGS: checklist_style, unicode_checkboxes
+
+PLEURAL PROCEDURE CHECKLIST
+□ Indication: complicated parapneumonic effusion, right side
+□ Ultrasound: loculated pleural fluid with internal echoes, safe posterolateral pocket marked
+□ Consent: yes
+□ Prep/drape: sterile
+□ Local anesthetic: 1% lidocaine
+□ Procedure: small-bore chest tube placement, 14 Fr pigtail
+□ Return: cloudy yellow fluid immediately obtained
+□ Drain position: posterior/inferior pleural space
+□ Specimens: pleural fluid to culture, pH, glucose, LDH
+□ Suction: -20 cm H2O
+
+Procedure details:
+Using ultrasound guidance, a wire was advanced into the right pleural space and tract dilated. A 14 Fr pigtail catheter was placed over the wire and secured. Tube connected to atrium with tidaling present.
+
+Findings:
+Complex right pleural effusion. Initial drainage 320 mL turbid fluid.
+
+Complications:
+None immediate.
+
+Plan:
+Intrapleural fibrinolytic therapy to be considered. Daily chest x-ray and monitor output.
+
+<<<END NOTE>>>

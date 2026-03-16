@@ -1,0 +1,6 @@
+EDGE_CASE_TAGS: ultra_short, conflicting_details
+PRE/POST: R91.1 RML nodule
+Procedure: CT-guided cryoablation
+Sedation: “Local only” / moderate sedation per nursing
+EBL minimal | Complications none
+Freeze-thaw cycles completed; post CT no PTX.

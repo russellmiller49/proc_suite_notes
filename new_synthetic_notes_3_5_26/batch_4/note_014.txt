@@ -1,0 +1,51 @@
+EDGE_CASE_TAGS: extreme_length, table_with_tabs
+COMBINED COMPLEX CASE (Template E)
+
+Patient: [PATIENT], 70-year-old male
+Indication: Two peripheral nodules (RUL + RLL) and mediastinal staging prior to definitive therapy.
+
+Pre-op Dx:
+
+* Multiple pulmonary nodules (R91.8)
+* Mediastinal adenopathy (R59.0)
+
+Post-op Dx: Same
+
+Procedures:
+
+* Robotic bronchoscopy to RUL target + sampling
+* Robotic bronchoscopy to RLL target + sampling
+* Linear EBUS-TBNA stations 4R, 7, 11R
+* BAL (RLL)
+
+Anesthesia: General anesthesia with ETT
+Monitoring: Standard ASA
+EBL: ~15 mL
+Complications: none
+
+Workflow:
+
+1. Registration and navigation to RUL target. Radial ultrasound initially eccentric; repositioned one generation distally with improved signal. Fluoroscopy used. TBNA x3, forceps biopsies x5, brush x1.
+2. Navigation to RLL target. Concentric radial signal achieved. Cryobiopsy performed x3 with balloon occlusion in segment for hemostasis; no significant bleeding.
+3. Linear EBUS performed. Stations sampled in order: 11R (2 passes), 4R (3 passes), 7 (3 passes). Doppler negative at needle paths.
+
+TAB SUMMARY (tabs):
+Site	Modality	Samples	Comment
+RUL	Forceps+TBNA	9	adequate
+RLL	Cryo+BAL	4+1	balloon used
+4R	EBUS-TBNA	3	—
+7	EBUS-TBNA	3	—
+11R	EBUS-TBNA	2	—
+
+Specimens:
+A: RUL TBNA
+B: RUL TBBx
+C: RUL brush
+D: RLL cryobiopsy
+E: RLL BAL
+F: 11R TBNA
+G: 4R TBNA
+H: 7 TBNA
+
+Plan:
+CXR in PACU; routine post-bronchoscopy monitoring; follow cytology/pathology; consider CT chest in 2–4 weeks if non-diagnostic.

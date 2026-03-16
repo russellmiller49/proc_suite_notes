@@ -1,0 +1,15 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+IMPRESSION:
+Uncomplicated EBUS-TBNA of stations 4R, 4L, and 7. (3 stations sampled). Await path.
+
+PRE DIAGNOSIS: Sarcoidosis vs Lymphoma.
+PROCEDURE: EBUS-TBNA of mediastinal lymph nodes (31653).
+
+Findings: Airway normal. 4R measured 1.5 cm. 4L measured 1.2 cm. 7 measured 2.0 cm.
+
+3 passes with 22g needle at each station.
+
+Anesthesia: Mod sedation.
+SPECIMENS: Station 4R FNA, 4L FNA, 7 FNA.
+
+[PATIENT] is a [REDACTED] male. Informed consent was obtained in the pre-op holding area. Procedure was performed without issue.

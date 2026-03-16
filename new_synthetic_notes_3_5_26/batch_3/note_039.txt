@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+
+MONTGOMERY T-TUBE MANAGEMENT — TUBE EXCHANGE (ROUTINE)
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE: 67M
+
+INDICATION: Routine T-tube exchange; T-tube in situ 14 months; encrustation and partial inner surface obstruction on prior bronchoscopy.
+
+PRE-PROCEDURE CHECKLIST:
+  ☑ Consent obtained
+  ☑ ENT co-present for upper limb manipulation
+  ☑ New T-tube (same size: 14 mm × 80 mm × 35 mm) confirmed at bedside
+  ☑ Rigid bronchoscope and laser on standby 0‌
+  ☑ GA/anesthesia team present 1‌
+  ☐ Tracheoplasty not planned — ENT evaluation completed, no structural change
+
+PROCEDURE:
+GA induced. Rigid bronchoscope introduced through existing stoma. T-tube identified; tracheal limb patent but inner surface with thick mucoid encrustation. Sidearm sutures released. Flexible bronchoscope passed via sidearm — granulation tissue at proximal stoma margin (3 × 4 mm); trimmed with forceps/cold instrument; sent to pathology (r/o malignant transformation). Old T-tube removed via rigid barrel after folding with T-tube forceps — sidearm withdrawn through stoma simultaneously with assistant coordination.
+
+Stoma and tracheal lumen inspected: mucosa pink, no significant injury at old tube site. New T-tube (14 × 80 × 35 mm) folded and inserted via rigid barrel; repositioned identically; sidearm exteriorized. Position confirmed.
+
+POST-PROCEDURE CHECKLIST:
+  ☑ Flexible bronchoscopy via sidearm: lumen patent; upper limb 1.5 cm above cords; distal end 3 cm above carina
+  ☑ Phonation confirmed (sidearm plugged)
+  ☑ New sutures placed; dressing applied
+
+SPECIMENS: Stoma granulation tissue — formalin; H&E (r/o recurrent ACC or squamous metaplasia).
+COMPLICATIONS: None. EBL: <5 mL.

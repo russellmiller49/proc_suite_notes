@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: inconsistent_formatting, unicode_checkboxes
+TEMPLATE D (checkbox-ish) — IP PROCEDURE NOTE
+
+Patient: [PATIENT] (66-year-old female)
+Indication: Severe emphysema, upper lobe predominant → BLVR evaluation/therapy
+
+Dx:
+0‌/1‌ J43.9 emphysema
+0‌/1‌ R06.02 dyspnea
+
+Procedure:
+0‌/1‌ Flexible bronchoscopy
+0‌/1‌ Chartis assessment (LUL)
+0‌/1‌ Endobronchial valves placed (LUL)
+
+Anesthesia: General anesthesia
+Findings:
+
+* Airway: mild erythema, no lesion
+* Secretions: minimal, suctioned
+* Chartis: consistent with no collateral ventilation
+
+Valves:
+
+* LUL apicoposterior: 1
+* LUL anterior: 1
+* Lingula: 2
+
+EBL: <5 mL
+Complications: none
+Plan: PACU CXR; admit overnight; COPD meds resume.

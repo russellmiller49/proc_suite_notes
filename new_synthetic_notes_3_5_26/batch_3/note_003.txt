@@ -1,0 +1,56 @@
+EDGE_CASE_TAGS: table_with_tabs, ambiguous_laterality
+
+INTERVENTIONAL PULMONOLOGY PROCEDURE NOTE
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE OF PROCEDURE: [REDACTED]
+PERFORMING PHYSICIAN: [NAME:REDACTED], MD
+FELLOW PRESENT: [NAME:REDACTED], MD (2nd year PCCM)
+PATIENT: [PATIENT]     MRN: [MRN:REDACTED]
+AGE/SEX: 71-year-old male
+
+PRE-PROCEDURE DIAGNOSIS: Left upper lobe pulmonary nodule, 2.8 cm (R91.1); mediastinal staging required
+
+POST-PROCEDURE DIAGNOSIS: Pending pathology and cytology results
+
+PROCEDURE(S):
+  31627  — Navigational bronchoscopy (electromagnetic/robotic guidance)
+  31623  — Brushings
+  31624  — BAL
+  36000  — IV access (performed separately)
+
+ANESTHESIA: General anesthesia; endotracheal intubation by anesthesia team. TIVA protocol.
+
+INSTRUMENTS: Ion Robotic Bronchoscopy System (Intuitive Surgical); radial EBUS probe (1.4 mm, 20 MHz) via working channel; fluoroscopy C-arm available.
+
+PROCEDURE IN DETAIL:
+After induction of general anesthesia and placement of 8.5 Fr ETT, the Ion robotic bronchoscope was introduced transorally. White-light inspection confirmed normal bilateral vocal cord motion [note: left cord initially reported as reduced motion — confirmed normal on repeat pass; documentation corrected]. Trachea midline; carina sharp.
+
+Robotic navigation plan loaded from preoperative CT chest (performed [REDACTED], nodule coordinates registered). Catheter navigated to right [sic] upper lobe target — operator note: target confirmed LEFT upper lobe, apical-posterior segment (LB1+2). Shape-sensing confirmation of catheter position achieved. Radial EBUS probe deployed through extended working channel (EWC): concentric ring pattern identified around target lesion, confirming probe within/adjacent to nodule. Fluoroscopic spot image confirmed position.
+
+Samples obtained:
+  Four transbronchial biopsies (cryoprobe, 1.1 mm, 3-second freeze cycles x4)
+  Bronchial brushings x2 passes
+  BAL: 60 mL instilled, 38 mL returned, from LUL (B1+2)
+
+CT-on-rails not available at this facility; C-arm fluoroscopy used for orthogonal confirmation.
+
+Nodule characteristics on radial EBUS:
+
+	Target	Size (CT)	rEBUS signal	Passes
+	LUL apical-posterior	2.8 cm	Concentric	4 cryobx + 2 brush
+	LUL anterior (incidental small GGO, 6mm)	6 mm	Not targeted	—
+
+Post-procedure chest X-ray ordered (portable, post-anesthesia recovery).
+
+SPECIMENS:
+  A1 — LUL cryobiopsies x4: formalin-fixed, routine H&E + IHC panel per pathology protocol
+  A2 — LUL brushings: ThinPrep cytology
+  A3 — LUL BAL: cell differential, AFB/fungal cultures, cytology
+
+COMPLICATIONS: None observed intraoperatively. Monitoring for pneumothorax post-procedure.
+
+IMPRESSION/PLAN:
+1. Technically successful robotic navigational bronchoscopy with rEBUS confirmation of LUL 2.8 cm target.
+2. Cryobiopsy x4 obtained; diagnostic yield anticipated high given concentric rEBUS sign.
+3. Post-procedure CXR in recovery; if pneumothorax excluded, discharge per protocol.
+4. Results to multidisciplinary lung nodule conference.

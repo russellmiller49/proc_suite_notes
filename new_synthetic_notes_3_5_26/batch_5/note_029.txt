@@ -1,0 +1,27 @@
+EDGE_CASE_TAGS: unicode_checkboxes, inconsistent_formatting
+PRE/POST DIAGNOSIS: R91.1 RML medial segment nodule
+
+0‌/1‌ Consent: obtained
+0‌/1‌ Anesthesia: General
+0‌/1‌ Antibiotics: per record
+0‌/1‌ Specimens: yes
+
+PROCEDURES:
+0‌/1‌ Robotic navigation
+0‌/1‌ Radial EBUS confirmation
+0‌/1‌ Bronchoscopic microwave ablation
+0‌/1‌ Post-ablation CBCT
+
+FINDINGS:
+
+* No endobronchial lesion
+* Radial EBUS: concentric lesion view in RML medial segment
+
+DETAILS:
+[PATIENT] 63-year-old male. Navigation successful; CBCT confirmed tool-in-lesion. Biopsies obtained prior to ablation. Microwave ablation delivered in staged applications with minor catheter retraction for margin coverage. Minimal bleeding.
+
+SPECIMENS:
+
+* RML nodule: TBBx x5
+* RML nodule: brushing x1
+  PLAN: CXR; CT chest 6 weeks.

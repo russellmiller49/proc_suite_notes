@@ -1,0 +1,3 @@
+EDGE_CASE_TAGS: ultra_short, reordered_sections
+Plan: CXR, observe, discharge if stable.
+Rigid bronchoscopy: [PATIENT] 58-year-old male with tracheal stenosis. GA jet ventilation. Balloon dilation + topical mitomycin C applied (rare adjunct). Airway improved. EBL minimal; no complications.

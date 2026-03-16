@@ -1,0 +1,13 @@
+EDGE_CASE_TAGS: missing_section
+PRE/POST DIAGNOSIS
+Lung Nodule (R91.1)
+PROCEDURE
+Navigational Bronchoscopy with biopsy (31627, 31628)
+ANESTHESIA: General Anesthesia
+
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old who presents for biopsy of a LUL nodule. Using electromagnetic navigation, the sensor probe was driven into the apicoposterior segment of the LUL. Radial EBUS confirmed concentric signal. Transbronchial biopsy was performed x5 passes.
+IMPRESSION/PLAN
+
+1. Successful nav bronch of LUL nodule.
+2. Obtain post-procedure CXR.

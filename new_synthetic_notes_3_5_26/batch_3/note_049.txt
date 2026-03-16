@@ -1,0 +1,47 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting, table_with_tabs
+
+ICU BRONCHOSCOPY — HEMOPTYSIS EVALUATION IN VENTILATED PATIENT
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD, FCCP
+FELLOW: [NAME:REDACTED], MD (PCCM Year 1, supervised)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 71M
+
+PRELIMINARY FINDINGS AND CLINICAL IMPRESSION (per MICU rounding handoff, documented first):
+Active endobronchial hemorrhage localized to right upper lobe B2 (posterior segment); no endobronchial mass identified; clot extracted; hemorrhage controlled with topical epinephrine; etiology unclear (consider ulcerated pulmonary artery catheter injury vs aspergillus angioinvasion given profound neutropenia); bronchoscopy tolerated; additional workup as below.
+
+PRE-PROCEDURE DIAGNOSIS: Hemoptysis in ventilated patient; MICU day 5; AML induction chemotherapy (profound neutropenia, ANC 0.0) (D70.1); suspected invasive pulmonary aspergillosis (IPA) vs pulmonary artery catheter-related injury (R04.2)
+POST-PROCEDURE DIAGNOSIS: RUL B2 active hemorrhage; clot; etiology pending (PA catheter wedge position in B2 confirmed on CXR retrospectively)
+
+PROCEDURE: Flexible bronchoscopy, diagnostic and therapeutic (CPT 31622; 31623)
+
+ANESTHESIA: Propofol 40 mg bolus + fentanyl 50 mcg bolus (addition to baseline ICU infusions). No paralytic.
+
+BRONCHOSCOPIC FINDINGS:
+
+	Location	Appearance	Action Taken
+	Trachea	Blood-streaked secretions throughout	Suctioned
+	Carina	Sharp; blood emanating from RMB	—
+	RUL B2 (posterior)	Active ooze; 1.2 cm adherent clot	Clot extracted with suction; epinephrine instilled
+	RUL B1, B3	Patent; mild blood staining	Suctioned
+	RLL, RML	Patent; blood-stained secretions	BAL obtained RML
+	Left-sided airways	Clear; no blood	—
+
+Epinephrine 1:10,000 solution, 3 mL, instilled at RUL B2 site; hemorrhage reduced to minimal ooze. Cold saline lavage 10 mL x2.
+
+BAL (RML B4) — sent for:
+  Galactomannan (BAL galactomannan threshold >1.0 for IPA)
+  Beta-D-glucan, Aspergillus PCR
+  Bacterial/AFB/fungal culture
+  Cytology
+
+PA catheter position reviewed on CXR post-bronchoscopy: tip confirmed in RUL B2 position — balloon likely over-wedged. PA catheter withdrawn 3 cm by ICU team; tip repositioned to main PA.
+
+SPECIMENS: RML BAL — galactomannan, culture, cytology; RUL B2 clot — sent in saline to pathology (fungal hyphae/GMS stain).
+
+COMPLICATIONS: None new. Transient SpO2 drop 91% during clot extraction; recovered with FiO2 increase. EBL: 10–15 mL total suctioned.
+
+PLAN:
+1. PA catheter repositioned — monitor for recurrent hemoptysis.
+2. Serum galactomannan + BAL galactomannan; if positive: escalate to voriconazole (currently on prophylactic micafungin).
+3. CT chest (high-res) if patient stable enough — halo sign, angioinvasion pattern.
+4. Interventional radiology bronchial artery embolization on standby if hemorrhage recurs and patient survives to transportation.
+5. Infectious disease co-management.

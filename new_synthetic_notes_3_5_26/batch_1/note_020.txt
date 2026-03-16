@@ -1,0 +1,4 @@
+THERAPEUTIC BRONCHOSCOPY — ULTRA CONCISE (still non-edge-case)
+Patient: [PATIENT] 57-year-old male.
+Dx: Right mainstem obstruction from secretions and clot.
+GA. Flexible bronchoscopy performed with clot extraction using forceps and suction. Airway patent at end. No specimens. No complications.

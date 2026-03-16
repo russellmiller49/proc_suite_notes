@@ -1,0 +1,8 @@
+EDGE_CASE_TAGS: unicode_checkboxes, malformed_codes
+PRE DX: R91.1 lingular nodule
+POST DX: Same
+0‌/1‌ Procedure: CT-guided microwave ablation (32998:LT)
+0‌/1‌ Sedation: MAC
+0‌/1‌ Complications: none
+Technique: antenna placed; ablation performed; final CT no PTX.
+Plan: observe; discharge if stable; CT in 4–6 wks.

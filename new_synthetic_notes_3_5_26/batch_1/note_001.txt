@@ -1,0 +1,45 @@
+PRE-PROCEDURE DIAGNOSIS: Mediastinal adenopathy; pulmonary nodule (R91.1, R59.0)
+POST-PROCEDURE DIAGNOSIS: Same
+PROCEDURES: Bronchoscopy with BAL; Linear EBUS-TBNA of mediastinal/hilar lymph nodes (include codes: CPT 31624, 31652)
+ANESTHESIA: General anesthesia with LMA
+ESTIMATED BLOOD LOSS: Minimal
+COMPLICATIONS: None
+
+INDICATION: [PATIENT] is a 64-year-old male with right upper lobe pulmonary nodule and PET-avid mediastinal nodes for diagnosis and staging.
+
+FINDINGS:
+
+Trachea and main carina normal.
+
+Mild bronchitic secretions in right lower lobe; no endobronchial mass.
+
+EBUS: Enlarged station 4R and station 7 with heterogeneous echotexture; station 11L small but visualized.
+
+PROCEDURE IN DETAIL:
+After informed consent and time-out, flexible bronchoscopy was performed through the LMA. Airway inspection was completed to segmental level bilaterally. BAL was performed in the right upper lobe posterior segment with 120 mL instilled, 48 mL returned, mildly turbid. The EBUS bronchoscope was then introduced. Doppler was used prior to each pass.
+
+EBUS-TBNA sampling:
+
+Station 4R: 5 passes with 22G needle
+
+Station 7: 6 passes with 22G needle
+
+Station 11L: 3 passes with 22G needle
+
+SPECIMENS:
+
+“4R TBNA” (passes 1–5)
+
+“7 TBNA” (passes 1–6)
+
+“11L TBNA” (passes 1–3)
+
+“RUL BAL”
+
+IMPRESSION/PLAN:
+
+No endobronchial lesion.
+
+Await cytology/pathology and flow as ordered.
+
+CXR in PACU if clinically indicated; routine recovery and follow-up with referring team.

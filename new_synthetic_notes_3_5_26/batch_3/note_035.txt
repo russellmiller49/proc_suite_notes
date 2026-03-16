@@ -1,0 +1,71 @@
+EDGE_CASE_TAGS: reordered_sections, extreme_length
+
+OPERATIVE REPORT — MONTGOMERY T-TUBE INSERTION
+INSTITUTION: [NAME:REDACTED] Medical Center
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+CO-ATTENDING: [NAME:REDACTED], MD (ENT/Head & Neck Surgery)
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 44F
+
+PLAN AND CLINICAL DECISION SUMMARY (predocumented per case conference note):
+Multidisciplinary airway conference (IP + ENT + anesthesia) concluded: patient is not a surgical candidate for tracheal resection-reconstruction at this time (BMI 47, FEV1 38% predicted, significant medical comorbidities). Montgomery T-tube insertion selected as definitive long-term airway stent for post-intubation complex subglottic-tracheal stenosis. Patient counseled extensively. Consent obtained. Plan: T-tube insertion via rigid bronchoscopy + direct laryngoscopy under GA. Long-term management with IP and ENT co-follow-up. Decannulation goal deferred until weight loss and lung function optimized.
+
+PRE-PROCEDURE DIAGNOSIS:
+  1. Post-intubation subglottic tracheal stenosis, complex, grade III (Cotton-Myer) (J95.5)
+  2. Tracheomalacia, coexisting, distal to stenotic segment
+  3. Morbid obesity (BMI 47) with obesity hypoventilation syndrome
+
+POST-PROCEDURE DIAGNOSIS: Same; Montgomery T-tube (13 mm × 70 mm × 30 mm sidearm) in satisfactory position; airway patent.
+
+PROCEDURES:
+  31631     — Rigid bronchoscopy
+  31630     — Balloon dilation (pre-T-tube)
+  31641     — Therapeutic bronchoscopy (Nd:YAG laser, web incision)
+  [T-tube insertion — unlisted airway procedure with CPT to be confirmed with coding team; T-tube-specific stenting CPT per coder recommendation]
+
+ANESTHESIA: GA; TIVA (propofol/remifentanil infusion). Spontaneous ventilation maintained via rigid bronchoscope — no paralytic (required for voice assessment post-procedure). Anesthesiologist: [NAME:REDACTED], MD.
+
+CLINICAL BACKGROUND:
+44-year-old female intubated for 22 days (4 months prior) for ARDS complicating influenza pneumonia. Extubated; noted dyspnea and biphasic stridor 6 weeks post-extubation. CT trachea: circumferential subglottic stenosis beginning 1.5 cm below cords; length 3.2 cm; estimated lumen 4–5 mm. Cotton-Myer grade III (>70% narrowing). Flexible bronchoscopy confirmed mature fibrous web with distal tracheomalacia segment (3 cm, >50% dynamic expiratory collapse at RMB takeoff). Pulmonary function: severe mixed obstructive/restrictive pattern; FEV1 38%. Multiple balloon dilations in the past 3 months (x3 sessions); restenosis each time within 4–6 weeks. Decision for T-tube as bridge.
+
+INSTRUMENTS:
+  - Karl Storz rigid bronchoscopes (8.5, 10.5, 12.5 mm, sequential)
+  - Olympus BF-P180 flexible bronchoscope (for distal survey and post-placement check)
+  - Montgomery T-tube (Boston Medical Products): selected size 13 mm inner diameter (tracheal limb), 70 mm tracheal limb length, 30 mm sidearm — sizing based on pre-procedure CT tracheal measurements
+  - Nd:YAG laser (1064 nm)
+  - CRE balloon (10–12–14 mm)
+  - T-tube introducer (dedicated Montgomery T-tube forceps)
+
+PROCEDURE IN DETAIL:
+
+PHASE 1 — RIGID BRONCHOSCOPY, ASSESSMENT, AND DILATION:
+Rigid bronchoscope (8.5 mm) introduced transorally under direct laryngoscopy. Stenotic segment engaged at 1.5 cm below cords; lumen 4–5 mm (just accommodated 8.5 mm scope passage with tactile resistance). Web appeared mature, fibrous, white. Distal trachea post-stenosis: mild tracheomalacia confirmed. Carina and bilateral mainstem bronchi patent; no distal disease.
+
+Nd:YAG laser (20 W, 0.3 sec pulses) applied at 12, 3, 6, and 9 o'clock radially within the stenotic web (total ~50 pulses). Radial incisions made through fibrous tissue; lumen progressively opened. Scope exchanged to 10.5 mm; passed through dilated lumen. Balloon (10 mm, then 12 mm, then 14 mm) serially inflated: each inflation 45–60 seconds at 6–8 atm. Grade I mucosal lacerations at all four radial incision sites (expected). Post-dilation lumen estimated 13 mm — adequate for T-tube placement.
+
+PHASE 2 — T-TUBE SIZING AND SELECTION:
+T-tube selected (13 mm × 70 mm × 30 mm sidearm, per pre-procedure planning). Upper limb (proximal) length confirmed to extend to level of vocal cords without contact. Sidearm length: accommodates anterior tracheal stoma (marked at ring 3–4 interspace for sidearm exit). Stoma creation: small stab incision (1.5 cm) at ring 3–4 interspace made with 15-blade, guided by rigid bronchoscope transillumination.
+
+PHASE 3 — T-TUBE INSERTION:
+T-tube folded using dedicated forceps (Montgomery T-tube insertion forceps). Tube folded in a U-configuration; loaded into barrel of 12.5 mm rigid scope. T-tube advanced distally through rigid barrel into trachea; positioned below stenotic segment. Upper limb unfolded and maneuvered proximally past the vocal cord level using grasping forceps under direct laryngoscopic visualization. Sidearm delivered through anterior stoma incision under bronchoscopic transillumination guidance. Tube alignment confirmed:
+  - Upper limb (proximal): extends 1.0 cm above cords, no contact with arytenoids
+  - Tracheal limb (distal): 3.5 cm above carina; spans entire stenotic and malacic segment
+  - Sidearm: exits anteriorly at ring 3–4; plugged with provided stopper
+
+Flexible bronchoscopy through T-tube lumen (sidearm plugged): lumen patent throughout; no kinking; posterior wall intact; bilateral mainstem bronchi confirmed patent distally.
+
+Phonation test: sidearm uncapped; patient asked to vocalize — intelligible phonation confirmed (patient conscious, GA lightened briefly for vocal test; anesthesiologist confirmed adequate depth otherwise). Sidearm re-plugged.
+
+T-tube secured to skin: 2-0 silk suture around sidearm and sutured to anterior skin margin x2; adhesive dressing.
+
+SPECIMENS: None.
+
+COMPLICATIONS: Grade I mucosal lacerations at laser/dilation sites (expected); hemostasis achieved. Transient SpO2 83% during forceps maneuver of proximal limb past cords — FiO2 increased; recovered to 96% within 90 seconds. EBL: ~12 mL. No arrhythmia. No airway fire.
+
+POST-PROCEDURE PLAN:
+1. T-tube care: sidearm cleaning BID; saline nebulization QID.
+2. ENT/IP co-follow-up in 2 weeks; flexible bronchoscopy through sidearm to confirm position.
+3. Speech therapy and swallowing assessment — T-tube allows voicing when sidearm plugged.
+4. Sidearm left plugged unless acute respiratory distress; emergency protocol reviewed with patient and family.
+5. Target duration: 12–18 months (or until surgical candidacy improves).
+6. Weight loss program referral; bariatric surgery consultation.

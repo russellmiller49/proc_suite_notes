@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:173
+# id: ip_procedure_prompts_batch3:87
+
+Pleuroscopy with pleural biopsy for unexplained lymphocytic exudative effusion and pleural nodularity on imaging. Multiple biopsies taken from diaphragmatic and costal pleura. Chest tube left in place to water seal.

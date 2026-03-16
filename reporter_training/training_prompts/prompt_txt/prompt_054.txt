@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:107
+# id: ip_procedure_prompts_batch3:54
+
+Tunneled pleural catheter removal after spontaneous pleurodesis and minimal drainage for several weeks. Catheter removed intact with local anesthesia. No complications.

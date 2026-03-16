@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, ambiguous_laterality
+Bronchoscopy for stent check. LLL silicone stent (wait, RLL silicone stent) in good position. Mucus plug suctioned.

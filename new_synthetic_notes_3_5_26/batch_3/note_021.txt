@@ -1,0 +1,44 @@
+EDGE_CASE_TAGS: table_with_tabs, missing_section
+
+PROCEDURE NOTE: EBUS-TBNA — SARCOIDOSIS STAGING
+DATE: [REDACTED]   PROVIDER: [NAME:REDACTED], MD
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 38F
+
+INDICATION: Bilateral hilar and mediastinal adenopathy on CT, stage uncertain; ACE elevated; non-caseating granulomas suspected (R59.9; D86.0 provisional)
+
+PRE-PROCEDURE DIAGNOSIS: Bilateral hilar and mediastinal adenopathy, etiology indeterminate
+POST-PROCEDURE DIAGNOSIS: Pending (granulomatous disease vs lymphoma vs malignancy)
+
+PROCEDURE: Linear EBUS-TBNA (CPT 31652); BAL (CPT 31624)
+
+ANESTHESIA: Moderate sedation per IP protocol.
+
+EBUS NODAL MAP:
+
+	Station	Short axis	Echogenicity	Internal echo	Passes	ROSE result
+	4R	2.0 cm	Hypoechoic	Heterogeneous	3	Granulomatous inflammation (non-necrotizing)
+	7	2.6 cm	Hypoechoic	Homogeneous	4	Granulomatous inflammation
+	10R	1.4 cm	Hypoechoic	—	3	Granulomatous inflammation
+	10L	1.1 cm	Hypoechoic	—	2	Lymphocytes + granuloma fragments
+	4L	1.0 cm	Hypoechoic	—	2	Insufficient on ROSE
+
+Additional passes station 4L: 2 more passes after initial insufficiency → total 4 passes; repeat ROSE: granulomatous tissue.
+
+BAL performed from right middle lobe (B4): 100 mL instilled, 62 mL return. Sent for CD4:CD8 ratio, AFB culture, fungal culture, cytology.
+
+SPECIMENS:
+  A — Station 4R x3 passes: cytology + cell block + AFB/fungal stains + flow cytometry hold
+  B — Station 7 x4 passes: cytology + cell block
+  C — Station 10R x3 passes: cytology
+  D — Station 10L x2+2 passes: cytology
+  E — Station 4L x4 passes: cytology + cell block
+  F — RML BAL: CD4:CD8 ratio, AFB, fungal Cx, cytology
+
+COMPLICATIONS: None. EBL: <1 mL.
+
+PLAN:
+1. ROSE consistent with non-caseating granulomatous inflammation at 4 of 5 sampled stations — highly suggestive of sarcoidosis.
+2. Formal pathology, AFB cultures, and BAL CD4:CD8 ratio to follow.
+3. Rheumatology and pulmonology co-management; ophthalmology evaluation for uveitis.
+4. 24h urine calcium; serum calcium and ACE if not recently obtained.
+5. Await tissue confirmation before initiating systemic corticosteroid therapy.

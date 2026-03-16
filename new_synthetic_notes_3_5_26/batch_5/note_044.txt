@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, unicode_checkboxes
+PRE/POST DIAGNOSIS: R91.1 RML nodule
+
+0‌/1‌ Consent obtained
+0‌/1‌ Anesthesia GA
+DETAILS:
+Robotic navigation to RML target; radial EBUS eccentric, then corrected. CBCT confirmed position. PEF delivered in multiple applications. Missing space artifact: “[PATIENT]tolerated procedure well.”
+EBL minimal | Complications none
+SPECIMENS: None
+PLAN: CXR; CT 4–8 weeks.

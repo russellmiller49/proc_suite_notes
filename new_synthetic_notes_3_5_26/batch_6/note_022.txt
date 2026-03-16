@@ -1,0 +1,25 @@
+Procedure note:
+Linear EBUS with EUS-B added for inaccessible station.
+
+Indication:
+Need for mediastinal staging of left hilar mass.
+
+Findings:
+Stations 11L, 7, and 4L were sampled bronchoscopically. EUS-B was then used to sample station 8 because of favorable esophageal window. Limited airway exam showed extrinsic compression of the left upper lobe bronchus without endobronchial lesion.
+
+Sampling order:
+11L x4 passes
+7 x4 passes
+4L x5 passes
+8 via EUS-B x3 passes
+
+ROSE:
+Adequate lymphoid tissue from all stations; atypical cells noted from 4L.
+
+Complications:
+None immediate.
+
+Plan:
+Await final cytology. Resume diet after recovery.
+
+<<<END NOTE>>>

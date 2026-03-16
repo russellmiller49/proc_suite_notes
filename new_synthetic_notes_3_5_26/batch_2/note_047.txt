@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: malformed_codes
+PRE/POST DIAGNOSIS
+Airway obstruction due to granulation tissue. (J98-09)
+PROCEDURE
+Airway stent removal, flexible bronchoscopy (31631- )
+PROCEDURE IN DETAIL
+[PATIENT] is a [REDACTED] year old. Brought to suite. Flexible bronchoscopy performed through LMA. A previously placed metallic stent in the LLL was heavily burdened with granulation tissue. Forceps used to grasp the stent removal string. Stent collapsed and removed through the vocal cords. Airway inspected, moderate bleeding, controlled with cold saline.
+IMPRESSION/PLAN
+Metallic stent removed successfully.

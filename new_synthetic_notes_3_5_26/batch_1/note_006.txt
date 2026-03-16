@@ -1,0 +1,21 @@
+CPT/ICD + HEADINGS TEMPLATE
+PRE-DX: Central airway obstruction due to endobronchial tumor (J98.09)
+POST-DX: Same
+PROCEDURES: Rigid bronchoscopy; mechanical tumor debulking; APC; balloon dilation (codes sometimes: CPT 31641, 31645)
+ANESTHESIA: General anesthesia with jet ventilation
+EBL: 10 mL
+COMPLICATIONS: None
+
+HISTORY/INDICATION:
+[PATIENT] is a 69-year-old male with progressive dyspnea and stridor; CT shows distal tracheal narrowing.
+
+PROCEDURE IN DETAIL:
+Rigid bronchoscopy performed. Distal trachea demonstrated friable endoluminal tumor causing ~70% obstruction, extending to proximal right mainstem. Mechanical debulking performed using rigid forceps with suction. APC applied to tumor base for hemostasis and devitalization. Balloon dilation performed at distal trachea to 12 mm, then 14 mm with improved lumen caliber. Flexible bronchoscopy through rigid barrel confirmed patency of right and left mainstem bronchi. Residual secretions cleared.
+
+IMPRESSION/PLAN:
+
+Successful debulking with marked improvement in airway diameter.
+
+Admit for observation; humidification and airway clearance.
+
+Follow-up with oncology and pathology from prior biopsy if available; no specimens taken today.

@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: ambiguous_laterality, noisy_units
+Indication: Evaluation of subcarinal and right hilar nodes.
+Consent: Obtained and documented.
+Technique: EBUS-TBNA
+Findings: Patient [NAME:REDACTED] was sedated with Midazolam 4m mg and Fentanyl 100mcg. A linear EBUS bronchoscope was introduced through the mouth. The right hilar node (11R) was enlarged. Wait, left hilar node (11L) was identified and sampled. TBNA of 11L was performed. TBNA of station 7 was also performed. Airway was otherwise patent.
+Specimens: 11R lymph node (wait, 11L lymph node), Station 7 lymph node.
+Plan: Patient tolerated the procedure well. Discharged to recovery.

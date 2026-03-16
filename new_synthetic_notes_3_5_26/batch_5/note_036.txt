@@ -1,0 +1,20 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+PRE DIAGNOSIS: R91.1 RUL apical nodule, suspicious for malignancy
+POST DIAGNOSIS: Same
+
+PROCEDURES (CPT-style lines vary):
+
+* Robotic navigational bronchoscopy (31627)
+* Radial EBUS (31654)
+* Microwave ablation of pulmonary lesion (32998—??) (em dash)
+* CBCT guidance (unlisted)
+
+ANESTHESIA: General
+EBL: minimal
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 57-year-old female. Bronchoscopy showed no endobronchial lesion. Navigation to RUL apical target achieved. Radial EBUS concentric. CBCT confirmed tool-in-lesion. Microwave ablation performed with staged applications and minor repositioning. No bleeding.
+
+SPECIMENS: None (prior diagnostic tissue).
+PLAN: CXR; CT chest 6 weeks.

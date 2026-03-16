@@ -1,0 +1,7 @@
+EDGE_CASE_TAGS: unicode_checkboxes, missing_section
+PRE/POST: R91.1 RUL posterior segment nodule
+0‌/1‌ Procedure: Percutaneous microwave ablation (CT-guided)
+0‌/1‌ EBL: minimal
+0‌/1‌ Complications: small tract hemorrhage only
+TECHNIQUE: Antenna placed; 2 ablations performed with pullback. Post CT without PTX.
+PLAN: Observe; CXR; outpatient CT in 4–8 wks.

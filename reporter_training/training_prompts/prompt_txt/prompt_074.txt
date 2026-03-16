@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:147
+# id: ip_procedure_prompts_batch3:74
+
+Flexible bronchoscopy for severe mucus plugging in mechanically ventilated patient with right lung collapse. Therapeutic aspiration performed through ET tube, copious casts removed from RMSB and lower lobe bronchi. Oxygenation improved after procedure.

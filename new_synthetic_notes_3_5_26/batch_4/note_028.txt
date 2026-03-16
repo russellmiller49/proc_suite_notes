@@ -1,0 +1,26 @@
+EDGE_CASE_TAGS: inconsistent_formatting, malformed_codes
+BRONCHOSCOPY — FOREIGN BODY REMOVAL
+
+Indication: 29-year-old male with suspected aspirated dental fragment; persistent cough and focal wheeze.
+
+Pre Dx: Foreign body in bronchus (T17.5xxA), cough (R05)
+Post Dx: Same, foreign body removed
+
+Procedure(s):
+
+* Flexible bronchoscopy
+* Foreign body retrieval (CPT 31635??)
+* BAL (optional)
+
+Anesthesia: GA
+Findings:
+
+* Metallic fragment visualized in RLL basal segment.
+  Technique:
+  Scope advanced; retrieval basket used. Fragment captured and removed en bloc. Minimal mucosal abrasion; hemostasis confirmed.
+
+Specimens:
+A: Foreign body (sent to pathology per protocol)
+
+Complications: none; EBL <5 mL
+Plan: CXR in PACU; discharge if stable; antibiotics not routinely indicated.

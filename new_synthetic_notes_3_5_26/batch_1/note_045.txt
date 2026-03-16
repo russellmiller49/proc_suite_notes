@@ -1,0 +1,14 @@
+Peripheral bronchoscopy — fiducial placement only (short)
+
+Patient: [PATIENT], 77-year-old male
+Indication: Left lower lobe lesion planned for SBRT; fiducial placement requested.
+
+Procedure: Navigation bronchoscopy with fiducial placement x4.
+Anesthesia: General anesthesia.
+Complications: None.
+
+Technique:
+Navigation to LLL lesion performed. Fluoroscopy used to guide placement. Four fiducials deployed around lesion margins with stable final positioning.
+
+Specimens: None.
+Plan: Post-procedure CXR; follow with radiation oncology.

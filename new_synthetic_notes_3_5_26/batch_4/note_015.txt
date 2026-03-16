@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: ultra_short, noisy_units
+Robotic bronchoscopy note: [PATIENT] 59-year-old female, LLL nodule (R91.1). GA. Radial ultrasound concentric at target; fluoro used. TBNA x4; forceps x5; BAL 50 mL in / 18 mL out. One med line typo in nursing note “4m mg midazolam” (not administered under GA). EBL minimal, no complications. CXR ordered.

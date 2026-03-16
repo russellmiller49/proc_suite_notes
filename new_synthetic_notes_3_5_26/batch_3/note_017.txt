@@ -1,0 +1,30 @@
+EDGE_CASE_TAGS: conflicting_details, copy_paste_artifacts
+
+BRONCHOSCOPY NOTE — THERAPEUTIC
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 44F
+DATE: [REDACTED]   ATTENDING: [NAME:REDACTED], MD
+
+PRE-PROCEDURE DIAGNOSIS: Bronchopleural fistula post-lobectomy (J86.0); persistent air leak, right chest tube day 14
+
+POST-PROCEDURE DIAGNOSIS: Same; endobronchial valve placement performed
+
+PROCEDURES: Flexible bronchoscopy with endobronchial valve placement, Spiration IBV (CPT 31647)
+
+ANESTHESIA: Moderate sedation. Midazolam 2 mg + fentanyl 75 mcg IV [Note: anesthesia intake form lists "general anesthesia" — review of record confirms moderate sedation used in IP suite; intake form error as with prior cases].
+
+CLINICAL SUMMARY:
+44-year-old female s/p right upper lobectomy for T1bN0 NSCLC 14 days prior; persistent air leak via right apical chest tube (continuous bubbling at rest). CT chest fistulogram: air leak localized to right upper lobe bronchial stump region (B2 stump). Balloon occlusion test: occlusion of RUL bronchus (anterior and posterior segments) confirmed cessation of bubbling.
+
+PROCEDURE: Flexible bronchoscope introduced orally. RUL bronchus assessed: stump intact at surgical anastomosis; B1 and B3 patent; B2 posterior orifice with small communication — air egress confirmed by saline-bubble test. Three Spiration IBV valves (6 mm, 7 mm, 5.5 mm) placed under fluoroscopic guidance into RUL B1 (6mm), RUL B3 (7mm), RUL B2 (5.5mm). Post-placement inspection: valves well-seated, Heimlich-flutter mechanism patent. Bubble test post-placement: cessation of air leak confirmed.
+
+Note: patientpatient [sic] was repositioned during procedure — corrected documentation: patient repositioned to right lateral decubitus briefly for fluoroscopic valve placement in B3.
+
+SPECIMENS: None.
+
+COMPLICATIONS: None. EBL: None. Air leak cessation confirmed intraoperatively.
+
+PLAN:
+1. Chest tube to water seal; if output <200 mL/24h and no air leak, clamp trial and remove within 24h.
+2. Repeat CXR in 12h.
+3. If valve not tolerated (cough, infection): removal planned at 6 weeks if fistula sealed, or earlier if symptomatic.
+4. Thoracic surgery follow-up.

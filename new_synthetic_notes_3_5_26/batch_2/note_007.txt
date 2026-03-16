@@ -1,0 +1,2 @@
+EDGE_CASE_TAGS: missing_section, noisy_units
+Patient [MRN:REDACTED] was brought to the endoscopy suite. Propofol 1500mg (wait, 150mg) administered. Linear EBUS scope inserted. Station 4R and 10R were sampled. 3 passes each. No acute issues. Plan to follow up with oncology.

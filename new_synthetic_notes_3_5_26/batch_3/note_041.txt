@@ -1,0 +1,54 @@
+EDGE_CASE_TAGS: extreme_length, inconsistent_formatting, conflicting_details
+
+OPERATIVE REPORT — PROCEDURE WITH SIGNIFICANT COMPLICATION
+EBUS-TBNA COMPLICATED BY MASSIVE HEMOPTYSIS AND EMERGENT AIRWAY INTERVENTION
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 67M
+
+PRE-PROCEDURE DIAGNOSIS: Right hilar mass (3.8 cm), highly PET-avid; mediastinal adenopathy; suspected NSCLC (R91.1; R59.9)
+POST-PROCEDURE DIAGNOSIS: EBUS-TBNA performed; massive hemoptysis post-biopsy requiring emergent rigid bronchoscopy and airway tamponade; NSCLC suspected (cytology pending)
+
+PROCEDURES:
+  31652 — EBUS-TBNA, 2 stations
+  31641 — Emergent rigid bronchoscopy, therapeutic (hemorrhage control)
+  31620 — Endobronchial ultrasound (guidance)
+
+ANESTHESIA: Moderate sedation → converted to GA (emergent). Moderate sedation initiated: midazolam 4 mg + fentanyl 125 mcg IV. Emergent GA: propofol 150 mg IV bolus + succinylcholine 120 mg IV for intubation.
+
+CLINICAL BACKGROUND:
+67-year-old male, anticoagulated on apixaban (held 48h pre-procedure — patient self-reported; pharmacy verification: last dose confirmed 36 hours prior, not 48h [CONFLICT: intake form documents "48h hold" confirmed; medication reconciliation shows 36h — subtherapeutic wash-out; noted retrospectively]). Known NSCLC suspicion. INR 1.0, platelets 198k (labs drawn morning of procedure).
+
+PROCEDURE (Antecedent to Complication):
+EBUS bronchoscope introduced. Station 4R: 1.9 cm node; 3 passes; ROSE: malignant (adenocarcinoma). Station 10R: 2.2 cm hilar node; 4 passes (needle advanced into friable vascular-appearing node). On fourth pass at station 10R, brisk red blood appeared in suction tubing followed by patient cough spike. Assessment: vigorous suction — blood visible pooling in right mainstem bronchus via EBUS scope.
+
+COMPLICATION — MASSIVE HEMOPTYSIS:
+Volume assessment: approximately 150–200 mL bright red blood suctioned within 3 minutes; continued active hemorrhage from RMB. SpO2 fell from 97% to 78% over 90 seconds. Decision: emergent conversion to general anesthesia.
+
+EMERGENT MANAGEMENT SEQUENCE:
+  T+0:00 — Hemorrhage recognized; suction maximized; patient repositioned right lateral decubitus (bleeding side down) to protect left lung
+  T+0:45 — Code airway called; anesthesia to bedside
+  T+1:30 — Propofol 150 mg IV + succinylcholine 120 mg IV; direct laryngoscopy; 8.0 ETT placed; intubated. SpO2 82%.
+  T+2:00 — Rigid bronchoscope (Karl Storz 12.5 mm) brought to room emergently. ETT removed; rigid scope introduced.
+  T+3:00 — Rigid scope in RMB: blood clot and active hemorrhage from RMB/station 10R region visualized. Clot partially extracted with suction and rigid forceps. Active vessel not visualized (submucosal).
+  T+4:00 — Fogarty balloon catheter (14 Fr) introduced through rigid scope into RMB; balloon inflated 3 mL to tamponade RMB. Contralateral (left) lung ventilated via rigid barrel/jet ventilation. SpO2 improved to 89%.
+  T+6:00 — Epinephrine 1:10,000 solution 4 mL instilled through working channel alongside Fogarty.
+  T+8:00 — Fogarty balloon deflated under direct vision: active hemorrhage diminished to slow ooze. Cold saline irrigation 20 mL x3. APC applied (2 L/min flow, 35 W) to hemorrhagic submucosal area at RMB medial wall (site of station 10R TBNA).
+  T+12:00 — Hemostasis achieved; minimal ooze only. Fogarty removed. Flexible bronchoscope through rigid barrel: bilateral airways inspected; left lung clear; RML, RLL bronchi patent; residual blood-tinged secretions only.
+  T+15:00 — 8.0 ETT placed through rigid barrel under bronchoscopic guidance; rigid scope removed; patient ventilated via ETT. Transferred to ICU intubated.
+
+TOTAL BLOOD LOSS: Estimated 250–300 mL (suction collection measured 270 mL).
+
+POST-PROCEDURE COURSE (documented in this note for continuity):
+Patient transferred to ICU intubated. CT angiography chest performed post-stabilization: no active contrast extravasation; no pseudoaneurysm; RMB mucosal irregularity consistent with biopsy site. Interventional radiology placed on standby (not required). Apixaban not restarted. Patient extubated at ICU hour 14 after stabilization. CXR: mild RML/RLL haziness (aspiration of blood); improved at 24h.
+
+FORMAL COMPLICATION CLASSIFICATION: Severe procedural complication (massive hemoptysis requiring emergent airway intervention and ICU admission). Adverse event report filed.
+
+SPECIMENS: Station 4R (3 passes) — cytology + cell block. Station 10R specimens contaminated with blood — cytospin sent; pathology notified of hemorrhagic specimen.
+
+PLAN:
+1. Repeat EBUS-TBNA deferred minimum 4 weeks; if station 4R ROSE is diagnostic (adenocarcinoma), may not be needed.
+2. Apixaban discussion with cardiology re: restart timing.
+3. CT-guided biopsy of station 10R hilar node as alternative if tissue required.
+4. Oncology referral with available cytology results.
+5. Formal M&M case review scheduled.

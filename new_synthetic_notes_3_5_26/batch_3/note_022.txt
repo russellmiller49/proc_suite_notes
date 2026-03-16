@@ -1,0 +1,9 @@
+EDGE_CASE_TAGS: ultra_short
+
+PROCEDURE: Flexible bronchoscopy, evaluation and BAL (CPT 31624)
+DATE: [REDACTED]   PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   AGE/SEX: 52M
+INDICATION: Immunocompromised host (s/p allogeneic SCT, Day +85); new bilateral ground-glass opacities; PJP/CMV/fungal pneumonia on differential.
+FINDINGS: No endobronchial abnormality. Bilateral lower lobe secretions, mild. BAL performed bilaterally: RLL and LLL.
+SPECIMENS: BAL RLL and LLL — PJP PCR, CMV PCR, galactomannan, beta-D-glucan, bacterial/AFB/fungal culture, cytology.
+COMPLICATIONS: None. Patient tolerated well. Supplemental O2 maintained throughout.
+PLAN: Results within 24–48h; infectious disease co-management; empiric treatment decisions pending.

@@ -1,0 +1,27 @@
+EDGE_<<<NOTE _TAGS: missing_truth
+
+Procedure:
+Bronchoscopic ablation of peripheral pulmonary lesion.
+
+Indication:
+Growing peripheral pulmonary nodule in a poor surgical candidate.
+
+Findings:
+Lesion located in the right lower lobe by pre-procedure imaging. Navigation and imaging confirmation were used. Immediate post-treatment inspection showed no active airway bleeding. One key truth state, specifically exact lesion size, is not documented anywhere in this note.
+
+Technique:
+After guided bronchoscopy to the target, ablation catheter was positioned and treatment delivered. Cone-beam CT confirmed target engagement before ablation and post-ablation changes afterward. Track ablation was performed during device withdrawal.
+
+Ablation modality:
+Microwave ablation.
+
+Specimens:
+None obtained in this session.
+
+Complications:
+No immediate pneumothorax or major bleeding.
+
+Plan:
+Post-procedure chest radiograph and observation.
+
+<<<END NOTE>>>

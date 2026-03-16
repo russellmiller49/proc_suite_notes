@@ -1,0 +1,50 @@
+EDGE_CASE_TAGS: reordered_sections, inconsistent_formatting
+
+IMPRESSION / PLAN
+1. Hilar adenopathy with 2.1 cm hypoechoic station 11R node, EBUS-TBNA performed; results pending.
+2. Mediastinal node station 4R sampled x3 passes; station 7 sampled x2 passes.
+3. Await rapid on-site cytology correlation and formal pathology; if malignant, proceed to oncology referral.
+4. Continue supplemental O2 as needed; follow up in 2 weeks or upon path return.
+
+OPERATIVE NOTE — ENDOBRONCHIAL ULTRASOUND WITH TBNA
+Date: [REDACTED]
+Physician: [NAME:REDACTED]
+Patient: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]
+Age/Sex: 67-year-old male
+
+PRE-PROCEDURE DIAGNOSIS: Mediastinal lymphadenopathy, unspecified (R59.9); Right hilar mass, indeterminate (R91.8)
+
+POST-PROCEDURE DIAGNOSIS: Same, pending pathology
+
+PROCEDURES PERFORMED:
+• Flexible bronchoscopy with endobronchial ultrasound-guided TBNA (CPT 31652)
+• Rapid on-site cytologic evaluation
+
+ANESTHESIA: Moderate sedation
+  Midazolam 2 mg IV @ 09:14
+  Fentanyl 75 mcg IV @ 09:16
+  Additional fentanyl 25 mcg IV @ 09:34
+  Total procedure time under sedation: 38 minutes
+
+MONITORING: Continuous pulse oximetry, ETCO2, cardiac telemetry, noninvasive BP q5 minutes
+
+INSTRUMENT: Olympus BF-UC180F linear EBUS bronchoscope; Vizishot 2 21-gauge TBNA needles
+
+PROCEDURE IN DETAIL:
+Informed consent obtained and documented. Patient positioned supine, supplemental O2 via nasal cannula maintained SpO2 >94% throughout. Topical 4% lidocaine applied to oropharynx; additional 2 mL 1% lidocaine instilled transorally at cords. EBUS bronchoscope passed transorally without resistance. Vocal cords normal. Tracheal mucosa without lesion. Carina sharp and midline.
+
+Systematic survey performed in sequence:
+  Station 4R: 1.4 cm short axis, hypoechoic with heterogeneous internal echo; 3 passes performed, each yielding visible white core material. ROSE reviewed by cytotechnologist — atypical cells noted.
+  Station 7: 0.9 cm, homogeneous; 2 passes, adequate material.
+  Station 11R: 2.1 cm, hypoechoic, smooth border, absence of central hilar vessel sign; 4 passes. ROSE: suspicious for malignant cells. Doppler confirmed avoidance of intervening vasculature at all stations.
+
+Right and left mainstem bronchi inspected; mucosa unremarkable. B3 subsegmental airways patent. No endobronchial lesion identified.
+
+Scope withdrawn atraumatically. Patient tolerated well.
+
+SPECIMENS:
+  Label A — Station 4R TBNA (x3 passes): cytology + cell block
+  Label B — Station 7 TBNA (x2 passes): cytology
+  Label C — Station 11R TBNA (x4 passes): cytology + cell block + molecular send-out pending path
+
+COMPLICATIONS: None. Estimated blood loss: minimal (<1 mL).

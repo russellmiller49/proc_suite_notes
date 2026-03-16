@@ -1,0 +1,5 @@
+EDGE_CASE_TAGS: conflicting_details, missing_section
+Indication: Malignant tracheoesophageal fistula.
+Technique: Airway stent placement.
+Findings: Patient sedated with midazolam. Wait, patient under general anesthesia with rigid bronchoscopy. A fully covered self-expanding metallic stent (Y-stent, wait, straight stent 16mm x 40mm) was deployed in the right mainstem bronchus. Stent expanded well. Fistula covered.
+Plan: Observe overnight. Start prophylactic antibiotics.

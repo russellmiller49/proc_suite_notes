@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:125
+# id: ip_procedure_prompts_batch3:63
+
+Flexible bronchoscopy with BAL and EBUS for diffuse adenopathy and tree in bud nodules. BAL from RML, endobronchial biopsies from inflamed carina, EBUS-TBNA of 11R, 7, and 11L with 4 passes each. ROSE showed lymphoid tissue only. No complications.

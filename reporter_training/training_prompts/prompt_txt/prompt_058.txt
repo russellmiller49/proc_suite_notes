@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:115
+# id: ip_procedure_prompts_batch3:58
+
+Bronchoscopic ablation of peripheral RUL nodule using microwave platform. Navigation successful with radial probe and cone-beam CT confirmation of tool-in-lesion. Ablation delivered per protocol with post ablation CT showing expected ground glass margin. Track ablation performed on withdrawal.

@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: extreme_length, conflicting_details
+PRE-PROCEDURE DIAGNOSIS:
+
+* R91.1 solitary pulmonary nodule, RLL medial basilar (1.9 cm)
+* Prior SBRT to adjacent area; concern for recurrence
+
+POST-PROCEDURE DIAGNOSIS: Same
+
+PROCEDURES:
+
+* Robotic navigational bronchoscopy
+* Radial EBUS localization
+* CBCT confirmation x2
+* Transbronchial biopsy
+* Pulsed electric field ablation (PEF) of pulmonary nodule (bronchoscopic)
+
+ANESTHESIA:
+General anesthesia. Header from pre-op clinic note lists “moderate sedation planned.”
+
+EBL: 5–10 mL
+COMPLICATIONS: None
+
+DETAILS:
+[PATIENT] is a 73-year-old male with prior radiation and a growing RLL nodule. Airway survey unremarkable. Navigation performed with robotic assistance; radial EBUS demonstrated eccentric lesion with adjacent atelectasis. CBCT spin confirmed partial tool-in-lesion; repositioned. Repeat CBCT confirmed improved lesion engagement. TBBx obtained x5 with mild bleeding controlled by suction and topical epinephrine (small dose per anesthesia approval). PEF catheter advanced; applications delivered with attention to avoiding airway cartilage contact. Final bronchoscopy showed no active bleeding. Exit CBCT without pneumothorax.
+
+SPECIMENS:
+
+* RLL medial basilar nodule: TBBx x5
+  PLAN:
+* CXR in PACU
+* CT chest at 4–8 weeks; compare ablation zone evolution given prior SBRT

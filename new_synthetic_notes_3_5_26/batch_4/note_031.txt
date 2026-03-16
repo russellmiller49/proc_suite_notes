@@ -1,0 +1,25 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+ENDOBRONCHIAL WATANABE SPIGOT (EWS) PLACEMENT — PAL
+
+Patient: [PATIENT] (62-year-old male)
+Indication: Persistent air leak after lung resection; chest tube with continuous bubbling.
+
+Dx: Persistent air leak (J95.811), postoperative state (Z98.89)
+
+Procedure:
+
+* Flexible bronchoscopy
+* Balloon occlusion localization
+* Endobronchial Watanabe spigot placement (sizes varied)
+
+Anesthesia: GA
+TAB (tabs):
+Occlusion	Leak change	Action
+RUL	stop	EWS placed
+RUL ant seg	stop	confirm size
+
+Technique:
+Airway survey normal. Balloon occlusion localized to RUL anterior segment. An EWS was placed into segmental bronchus with secure fit. Post placement: bubbling decreased from continuous to rare. No bleeding.
+
+Complications: none; EBL minimal
+Plan: water seal trial; daily CXR; consider removal once leak resolved.

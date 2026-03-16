@@ -1,0 +1,41 @@
+EDGE_CASE_TAGS: conflicting_details, table_with_tabs, noisy_units
+
+OPERATIVE REPORT
+PERCUTANEOUS DILATIONAL TRACHEOSTOMY WITH BRONCHOSCOPIC GUIDANCE
+DATE: [REDACTED]
+ATTENDING: [NAME:REDACTED], MD, FCCP, DAABIP
+PATIENT: [PATIENT]   MRN: [MRN:REDACTED]   DOB: [DOB:REDACTED]   AGE/SEX: 64M
+
+PRE-PROCEDURE DIAGNOSIS: Ventilator-dependent respiratory failure, prolonged (J96.00); guillain-barré syndrome ascending paralysis (G61.0); failed extubation x2
+POST-PROCEDURE DIAGNOSIS: Same; Shiley 8.0 cuffed tracheostomy tube in place, confirmed
+
+PROCEDURES: CPT 31600; 31622 (bronchoscopic guidance)
+
+ANESTHESIA: Moderate sedation [CONFLICT: anesthesia record documents "bedside general anesthesia with propofol infusion"; OR intake form lists "moderate sedation" — confirmed via medication MAR: propofol 150 mcg/kg/min infusion + fentanyl 10 0 mcg [noisy—intended 100 mcg] IV bolus; paralytic: cisatracurium 15 mg IV; bedside ICU procedure, no anesthesiologist present; attending performed own sedation per ICU credentialing].
+
+PRE-PROCEDURE ASSESSMENT:
+
+	Parameter	Value	Acceptable?
+	INR	1.3	Yes
+	Platelets	89k	Marginal — discussed, proceeded with caution
+	Neck circumference	38 cm	Moderate habitus
+	ETT depth	22 cm at lip (7.5 ETT)	Confirmed
+	PEEP	10 cm H2O	Pre-procedure
+	FiO2	0.55	Pre-procedure SpO2 95%
+
+PROCEDURE:
+Patient supine, neck extended. Landmarks: thyroid notch, cricoid, tracheal rings. ETT withdrawn to 17 cm under bronchoscopic guidance; carina identified 8 cm distal to planned entry (ring 2–3 interspace). 14-gauge introducer needle entered skin vertically at ring 2–3; bronchoscope confirmed midline entry and needle tip position in tracheal lumen. J-tip guidewire advanced. Fascial dilator, then Blue Rhino single-step dilator deployed under continuous bronchoscopic surveillance — tracheal back wall never endangered. Peel-away sheath placed; Shiley 8.0 loaded on obturator and advanced. Tube seated, cuff inflated to 21 mmHg.
+
+Post-insertion bronchoscopy: tube tip 4.5 cm above carina; posterior tracheal wall intact; mild ooze at entry site, controlled with direct pressure.
+
+Platelets: 1 unit random-donor platelets transfused intraoperatively (due to Plt 89k and ooze at site).
+
+SPECIMENS: None.
+
+COMPLICATIONS: Minor procedural hemorrhage at trach entry site (platelet-related); controlled with compression and platelet transfusion. EBL: approximately 15–20 mL. No pneumothorax. No posterior tracheal wall perforation.
+
+PLAN:
+1. Trach site: dry dressing; daily site care per protocol.
+2. Hematology notified re: thrombocytopenia (suspected GBS-related; also on IVIG).
+3. PMV (Passy-Muir valve) candidacy reassess as GBS improves.
+4. Repeat bedside bronchoscopy in 48h if any concerns.

@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:121
+# id: ip_procedure_prompts_batch3:61
+
+Bronchoscopic RFA for small RML lesion in medically inoperable patient. Computer assisted navigation and fluoroscopy used, lesion localized with radial EBUS concentric view. Ablation performed with satisfactory post treatment imaging appearance. Observed post procedure for pneumothorax.

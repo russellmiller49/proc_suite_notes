@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:179
+# id: ip_procedure_prompts_batch3:90
+
+Tunneled pleural catheter placement with same session talc instillation deferred because of incomplete lung expansion. Catheter drained 900 mL bloody fluid. Post procedure ultrasound showed persistent nonexpandable lung pattern.

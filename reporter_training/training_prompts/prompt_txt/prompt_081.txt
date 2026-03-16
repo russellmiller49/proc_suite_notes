@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:161
+# id: ip_procedure_prompts_batch3:81
+
+Flexible bronchoscopy with BAL, brushings, and endobronchial biopsies for suspected endobronchial tuberculosis. Irregular mucosa in RUL bronchus biopsied carefully. BAL and brushings sent for AFB smear and culture as well as cytology. No complications.

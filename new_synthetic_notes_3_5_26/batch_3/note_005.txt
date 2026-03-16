@@ -1,0 +1,30 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+
+BRONCHOSCOPY PROCEDURE NOTE
+DATE: [REDACTED]    PROVIDER: [NAME:REDACTED]
+PATIENT: [PATIENT]   AGE/SEX: 48-year-old 48-year-old female [sic]   MRN: [MRN:REDACTED]
+
+Indication: Evaluation of recurrent right pleural effusion; pre-thoracoscopy airway assessment; known metastatic breast carcinoma.
+
+Consent: Written informed consent obtained and documented in the electronic health record.
+
+Technique: Flexible bronchoscopy performed with the patient in the semi-recumbent position under moderate sedation (midazolam 1 mg + fentanyl 50 mcg IV). Supplemental O2 via nasal cannula; SpO2 maintained >93%. Topical lidocaine 4% spray to oropharynx; 2 mL 2% lidocaine instilled at vocal cords via working channel.
+
+Findings:
+- Vocal cords: symmetric, normal abduction/adduction
+- Trachea: patent, midline; no extrinsic compression
+- Carina: sharp, midline; no widening suggesting subcarinal adenopathy
+- Right mainstem bronchus: mild erythema of mucosa; no endobronchial lesion; patientpatient [sic] airways down to subsegmental level
+- Left mainstem: unremarkable
+- RLL posterior basal segment (B10): small whitish mucosal irregularity, <3 mm; endobronchial biopsy x2 performed
+- No active bleeding post-biopsy
+
+Specimens:
+  Specimen 1: RLL B10 endobronchial biopsy (x2 forceps passes) — formalin, permanent H&E + ER/PR/HER2 IHC
+  Specimen 2: BAL RLL (60 mL saline, 32 mL return) — cytology, culture
+
+Plan:
+1. Pathology result of RLL biopsy; if positive for endobronchial met, will change therapeutic approach.
+2. Proceed with medical thoracoscopy for pleural effusion evaluation as planned (next available OR date).
+3. Follow-up per IP clinic protocol.
+Complications: None. Estimated blood loss: <1 mL.

@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: unicode_checkboxes, table_with_tabs
+Pleural Procedure Note
+Indication: Right pleural effusion.
+Procedure: Thoracentesis with Ultrasound guidance.
+☑‌ Timeout completed.
+☑‌ US performed.
+☐‌ Loculations seen.
+Volume	Fluid Color	Comps
+1.2L	Yellow	None
+Plan: Post-op CXR.

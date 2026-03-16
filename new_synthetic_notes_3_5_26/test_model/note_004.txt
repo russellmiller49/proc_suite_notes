@@ -1,0 +1,38 @@
+EDGE_CASE_TAGS: extreme_length, table_with_tabs, inconsistent_formatting
+PRE-PROCEDURE DIAGNOSIS: Bilateral hilar adenopathy, suspected sarcoidosis. (ICD: D86.0)
+POST-PROCEDURE DIAGNOSIS: Same.
+
+PROCEDURE:
+
+1. Flexible bronchoscopy
+2. Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA)
+3. Radial EBUS (rEBUS)
+4. Transbronchial lung biopsy (TBLB)
+
+* INDICATION: [PATIENT] is a [DOB:REDACTED] male with progressive shortness of breath and bilateral hilar fullness on recent CT chest.
+
+** ANESTHESIA: General
+** INSTRUMENTS: Olympus BF-H190, Olympus BF-UC190F, UM-S20-17S radial probe.
+
+PROCEDURE IN DETAIL:
+The patient was placed supine. Time out completed. Following induction of GA, an i-gel was placed. The standard therapeutic bronchoscope was passed. Airway exam showed mildly edematous mucosa but no mass. The scope was exchanged for the linear EBUS.
+Ultrasound survey:
+Station	Size	Appearance
+4R	12mm	Homogeneous
+7	18mm	Hypoechoic
+11L	15mm	Round
+11R	14mm	Oval
+
+We sampled Station 7 (4 passes, 21G needle). Then Station 11L (3 passes). Then Station 11R (3 passes).
+We then switched back to the standard scope and advanced a radial EBUS probe into the RB3 segment where a small subsolid density was noted. Concentric signal achieved. Transbronchial forceps biopsies were obtained x5.
+
+SPECIMENS:
+
+* EBUS TBNA Station 7
+* EBUS TBNA Station 11L
+* EBUS TBNA Station 11R
+* TBLB RB3
+
+COMPLICATIONS: None. Minimal EBL. Fluoro time 0.5 mins.
+
+PLAN: Follow up in clinic in 1 week.

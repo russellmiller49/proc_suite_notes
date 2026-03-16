@@ -1,0 +1,18 @@
+EDGE_CASE_TAGS: copy_paste_artifacts, inconsistent_formatting
+TRACHEOSTOMY CHANGE WITH BRONCHOSCOPY (mature tract)
+
+Indication: 48-year-old male with cuff leak and increased secretions.
+
+Pre Dx: Tracheostomy dependence (Z93.0)
+Post Dx: Same
+
+Procedure:
+
+* Bronchoscopy through trach
+* Tracheostomy tube exchange
+
+Anesthesia: Local + minimal sedation
+Detail:
+Bronchoscopy via trach showed trachea clear; mild granulation at stoma. Tube exchanged over obturator without difficulty. Position confirmed bronchoscopically. patientpatient tolerated well.
+
+EBL minimal; complications none. Plan: routine trach care.

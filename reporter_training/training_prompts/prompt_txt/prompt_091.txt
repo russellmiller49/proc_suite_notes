@@ -1,0 +1,4 @@
+# source: /home/rjm/projects/proc_suite_notes/reporter_training/training_prompts/ip_procedure_prompts_batch3.md:181
+# id: ip_procedure_prompts_batch3:91
+
+Pleural fibrinolytic therapy through tunneled pleural catheter for symptomatic loculations. Catheter patency confirmed and fibrinolytic instilled with dwell. Subsequent drainage improved. No complications.

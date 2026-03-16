@@ -1,0 +1,31 @@
+EDGE_<<<NOTE _TAGS: redaction_stress
+
+PRE-PROCEDURE DIAGNOSIS
+Left pleural effusion.
+
+POST-PROCEDURE DIAGNOSIS
+Same.
+
+PROCEDURE
+Ultrasound-guided left thoracentesis.
+
+INDICATION
+Dyspnea and recurrent effusion in [PATIENT]. include_fake_phi_tokens: true
+Reference labels in requisition draft were removed and replaced with [FAKE NAME: John Example], [FAKE MRN: 0000000], [FAKE DOB: 01/01/1970].
+
+FINDINGS
+Moderate free-flowing anechoic left pleural effusion.
+
+DETAILS
+Thoracentesis performed under sterile ultrasound guidance with drainage of 1250 mL amber fluid. Patient remained hemodynamically stable and breathing improved.
+
+SPECIMENS
+Pleural fluid for chemistry, culture, and cytology.
+
+COMPLICATIONS
+None immediate.
+
+PLAN
+Post-procedure chest x-ray and follow pleural studies.
+
+<<<END NOTE>>>

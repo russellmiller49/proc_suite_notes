@@ -1,0 +1,31 @@
+EDGE_CASE_TAGS: inconsistent_formatting, table_with_tabs
+PRE DIAGNOSIS: Suspected oligometastatic disease; enlarging LUL apical nodule (R91.8)
+POST DIAGNOSIS: Same
+
+PROCEDURE(S):
+• Robotic bronchoscopy + radial EBUS + CBCT confirmation
+• Pulsed electric field ablation (PEF) of pulmonary nodule
+• BAL LUL (diagnostic)
+
+ANESTHESIA: GA
+COMPLICATIONS: None  |  EBL: minimal
+
+MODALITY/RESULTS (tab-delimited):
+Navigation	successful to within 6 mm of target
+Radial EBUS	concentric view obtained
+CBCT	tool-in-lesion confirmed; no PTX on exit spin
+PEF	6 applications delivered; impedance stable
+
+HISTORY/INDICATION:
+[PATIENT] is a 58-year-old female with prior treated breast cancer and a growing LUL apical nodule concerning for metastasis vs new primary. Multidisciplinary discussion favored biopsy with same-session non-thermal ablation if confirmed.
+
+DETAILS:
+Airway exam unremarkable. Navigated to LUL apical target; radial EBUS confirmed concentric lesion. One CBCT spin performed for confirmation. BAL performed. PEF catheter positioned and applications delivered per protocol with intermittent fluoroscopic checks. No significant bleeding. Final bronchoscopy clear.
+
+SPECIMENS:
+
+* LUL apical nodule: TBNA x3, TBBx x5
+* BAL: LUL 60 mL instilled, 22 mL return
+  PLAN:
+* Post-procedure CXR
+* CT chest at 4–8 weeks for ablation zone assessment

@@ -1,0 +1,40 @@
+Indication: Hemoptysis and left upper lobe mass on CT in a 58-year-old female.
+Procedure: Bronchoscopy, endobronchial biopsy, brushings, BAL, linear EBUS-TBNA.
+Sedation: Moderate sedation (midazolam and fentanyl) with topical lidocaine.
+
+Narrative:
+Consent obtained and time-out performed. Flexible bronchoscopy was advanced via oral bite block. Vocal cords normal. There was an exophytic lesion at the left upper lobe apicoposterior segment entrance with contact bleeding. Suction and cold saline were used for hemostasis.
+
+Interventions:
+
+Endobronchial biopsies x6 from LUL lesion.
+
+Cytology brush x2 from LUL lesion.
+
+BAL in lingula with 100 mL instilled, 35 mL return, blood-tinged initially then clearing.
+
+EBUS portion:
+EBUS scope introduced. Doppler confirmed no intervening vessels. Sampling performed in the following order:
+
+Station 11L: 4 passes (22G)
+
+Station 7: 4 passes (22G)
+
+Station 4L: 3 passes (22G)
+
+Specimens labeled:
+
+“LUL endobronchial bx”
+
+“LUL brush”
+
+“Lingula BAL”
+
+“11L TBNA”
+
+“7 TBNA”
+
+“4L TBNA”
+
+Complications: None. EBL minimal.
+Plan: Follow-up pathology; continue hemoptysis precautions; resume diet when awake and safe swallow confirmed.

@@ -1,0 +1,10 @@
+EDGE_CASE_TAGS: unicode_checkboxes, conflicting_details
+Indication: Left lower lobe lung mass and enlarged 7 node.
+Anesthesia: General Anesthesia
+Technique: The patient received moderate sedation (fentanyl/versed). EBUS scope inserted.
+Findings:
+☑‌ Vocal cords normal.
+☐‌ Trachea normal (mild erythema noted).
+☑‌ Station 7 sampled x4 passes.
+Specimens: Station 7.
+Plan: Recover in PACU.
